@@ -66,5 +66,5 @@ python core_analysis/run_cluster_trajectories.py
 
 ## 📖 4. Reference Documentation
 
-- 📘 [FLOOD_PARAMETRIC_METHODOLOGY_GUIDE.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/docs/FLOOD_PARAMETRIC_METHODOLOGY_GUIDE.md)
-- 📋 [METHODOLOGY_AND_PRESENTATION_NOTES.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/docs/METHODOLOGY_AND_PRESENTATION_NOTES.md)
+- 📘 [FLOOD_PARAMETRIC_METHODOLOGY_GUIDE.md](docs/FLOOD_PARAMETRIC_METHODOLOGY_GUIDE.md)
+- 📋 [METHODOLOGY_AND_PRESENTATION_NOTES.md](docs/METHODOLOGY_AND_PRESENTATION_NOTES.md)

@@ -69,8 +69,8 @@ All content has been fully anonymized (removing all individual personal names an
 
 ## 📁 Related Output Artifacts
 
-* 🗺️ **[Average_Flood_Days_Map_5Day.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/meeting_30th_july_output/Average_Flood_Days_Map_5Day.html)**
-* 📈 **[Africa_Flood_InterDistrict_Correlation_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/meeting_30th_july_output/Africa_Flood_InterDistrict_Correlation_Dashboard.html)**
-* 🇲🇼 **[Malawi_5Day_Spaghetti_Validation_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/meeting_30th_july_output/Malawi_5Day_Spaghetti_Validation_Dashboard.html)**
-* 🇰🇪 **[Kenya_5Day_Spaghetti_Validation_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/meeting_30th_july_output/Kenya_5Day_Spaghetti_Validation_Dashboard.html)**
-* 🇳🇬 **[Nigeria_5Day_Spaghetti_Validation_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/meeting_30th_july_output/Nigeria_5Day_Spaghetti_Validation_Dashboard.html)**
+* 🗺️ **[Average_Flood_Days_Map_5Day.html](output/agricultural/meeting_30th_july_output/Average_Flood_Days_Map_5Day.html)**
+* 📈 **[Africa_Flood_InterDistrict_Correlation_Dashboard.html](output/agricultural/meeting_30th_july_output/Africa_Flood_InterDistrict_Correlation_Dashboard.html)**
+* 🇲🇼 **[Malawi_5Day_Spaghetti_Validation_Dashboard.html](output/agricultural/meeting_30th_july_output/Malawi_5Day_Spaghetti_Validation_Dashboard.html)**
+* 🇰🇪 **[Kenya_5Day_Spaghetti_Validation_Dashboard.html](output/agricultural/meeting_30th_july_output/Kenya_5Day_Spaghetti_Validation_Dashboard.html)**
+* 🇳🇬 **[Nigeria_5Day_Spaghetti_Validation_Dashboard.html](output/agricultural/meeting_30th_july_output/Nigeria_5Day_Spaghetti_Validation_Dashboard.html)**

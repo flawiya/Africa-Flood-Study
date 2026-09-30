@@ -5,7 +5,7 @@ This walkthrough summarizes the implementation and features of the compiled 70-d
 ## Dashboard Summary
 The generated dashboard provides a self-contained, interactive web interface to explore daily Gringorten Soil Moisture SSI, SCS Curve Number surface runoff depth ($Q$), and dual-severity parametric flood triggers across **all 70 agricultural districts in Zambia** for **all 25 years (2000–2025)** of crop seasons.
 
-👉 **[Zambia_70_Agri_Trigger_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)**
+👉 **[Zambia_70_Agri_Trigger_Dashboard.html](output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)**
 
 ---
 
@@ -31,8 +31,8 @@ The generated dashboard provides a self-contained, interactive web interface to 
 
 ## File Deliverables
 
-### [NEW] [plot_agri_70_districts_dashboard.py](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/visualisations/plot_agri_70_districts_dashboard.py)
+### [NEW] [plot_agri_70_districts_dashboard.py](visualisations/plot_agri_70_districts_dashboard.py)
 * Python script that reads shapefiles, simplifies boundaries, processes daily datasets, and compiles the standalone HTML dashboard.
 
-### [NEW] [Zambia_70_Agri_Trigger_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)
+### [NEW] [Zambia_70_Agri_Trigger_Dashboard.html](output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)
 * Standalone dashboard containing the methodology header card, control selectors, year slider, choropleth map, and 3-panel dynamic timeline subplots.

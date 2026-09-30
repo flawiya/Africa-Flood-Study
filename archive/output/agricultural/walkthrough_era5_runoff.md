@@ -9,13 +9,13 @@ This walkthrough documents the newly compiled standalone dashboards and EM-DAT v
 We created three new, separate HTML dashboards to verify trigger performance using the physical GEE runoff dataset without overwriting the original SCS CN dashboards:
 
 1. **Zambia 70-District Spatial Dashboard (GEE ERA5 Runoff):**
-   👉 **[ERA5_Zambia_70_Agri_Trigger_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_Zambia_70_Agri_Trigger_Dashboard.html)**
+   👉 **[ERA5_Zambia_70_Agri_Trigger_Dashboard.html](output/agricultural/visualizations/ERA5_Zambia_70_Agri_Trigger_Dashboard.html)**
    * *Features:* Interactive map styled exclusively by the number of active severe trigger days. Clicking any district displays a 4-panel timeline using GEE ERA5 7-day cumulative total runoff.
 2. **Daily Trigger Baseline Comparison Dashboard (GEE ERA5 Runoff):**
-   👉 **[ERA5_Daily_Agri_Trigger_Baseline_Comparison.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_Daily_Agri_Trigger_Baseline_Comparison.html)**
+   👉 **[ERA5_Daily_Agri_Trigger_Baseline_Comparison.html](output/agricultural/visualizations/ERA5_Daily_Agri_Trigger_Baseline_Comparison.html)**
    * *Features:* Shows detailed daily curves comparing precipitation, soil moisture SSI, and ERA5 runoff against their 25-year climatological means for target districts and crop years.
 3. **EM-DAT Validation Dashboard (GEE ERA5 Runoff):**
-   👉 **[ERA5_EMDAT_Validation_Comparison.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_EMDAT_Validation_Comparison.html)**
+   👉 **[ERA5_EMDAT_Validation_Comparison.html](output/agricultural/visualizations/ERA5_EMDAT_Validation_Comparison.html)**
    * *Features:* Shows the country-wide timeline of active trigger districts overlaid with semi-transparent vertical red bands representing documented historical EM-DAT flood disasters.
 
 ---

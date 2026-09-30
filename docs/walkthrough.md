@@ -7,7 +7,7 @@ This walkthrough summarizes the implementation of the 70-district saturation tri
 ## 1. Standalone 70-District Interactive Dashboard
 The dashboard provides a self-contained, offline-capable interface to visualize spatial flood anomalies and daily district-level timeseries across **all 70 agricultural districts in Zambia** for **all 25 crop years (2000–2025)**.
 
-👉 **[Zambia_70_Agri_Trigger_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)**
+👉 **[Zambia_70_Agri_Trigger_Dashboard.html](output/visualizations/Zambia_70_Agri_Trigger_Dashboard.html)**
 
 ### Key Features:
 * **Horizontal Year Slider:** Slide to cycle crop calendar years and instantly update spatial mapping and charts.
@@ -19,8 +19,8 @@ The dashboard provides a self-contained, offline-capable interface to visualize 
 ## 2. EM-DAT Historical Flood Validation & Visualization
 We built an evaluation pipeline and visualization timeline to correlate our daily trigger catalog against historical EM-DAT flood disaster records for Zambia.
 
-👉 **[EMDAT_Validation_Comparison.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/visualizations/EMDAT_Validation_Comparison.html)**  
-📄 **[emdat_validation_report.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/emdat_validation_report.md)**
+👉 **[EMDAT_Validation_Comparison.html](output/visualizations/EMDAT_Validation_Comparison.html)**  
+📄 **[emdat_validation_report.md](output/emdat_validation_report.md)**
 
 ### Validation Results Summary:
 * **Event-Level Capture (Recall):**
@@ -41,7 +41,7 @@ We built an evaluation pipeline and visualization timeline to correlate our dail
 ## 3. Alternative Validation: Relaxed Runoff Trigger Analysis (Q > 0)
 As a parametric sensitivity study, we compiled a separate validation comparing a relaxed runoff threshold ($Q > 0\text{ mm}$) with the standard trigger thresholds ($Q \ge 10\text{ / }20\text{ mm}$).
 
-📄 **[emdat_relaxed_validation_report.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/emdat_relaxed_validation_report.md)**
+📄 **[emdat_relaxed_validation_report.md](output/emdat_relaxed_validation_report.md)**
 
 ### Sensitivity Findings:
 * **Capture Rates Unchanged:** Relaxing runoff to $Q > 0$ resulted in **exactly the same capture rates** (Moderate remains **82.6%**; Severe remains **65.2%**). Real disasters already feature heavy runoff that exceeds $10\text{ mm}$ or $20\text{ mm}$.
@@ -51,17 +51,17 @@ As a parametric sensitivity study, we compiled a separate validation comparing a
 
 ## 4. Added Files
 
-### [NEW] [validate_emdat_correlation.py](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/script/visualisations/validate_emdat_correlation.py)
+### [NEW] [validate_emdat_correlation.py](script/visualisations/validate_emdat_correlation.py)
 * Python script that reads the EM-DAT custom request sheet, maps GADM level-2 and level-1 admin locations, filters timeseries dates, and computes classification statistics.
 
-### [NEW] [test_relaxed_trigger_validation.py](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/script/visualisations/test_relaxed_trigger_validation.py)
+### [NEW] [test_relaxed_trigger_validation.py](script/visualisations/test_relaxed_trigger_validation.py)
 * Python script that calculates trigger validation under relaxed runoff conditions ($Q > 0$) and writes the comparison report.
 
-### [NEW] [plot_emdat_validation.py](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/script/visualisations/plot_emdat_validation.py)
+### [NEW] [plot_emdat_validation.py](script/visualisations/plot_emdat_validation.py)
 * Python script that builds the interactive validation timeline HTML chart comparing trigger spikes and EM-DAT windows.
 
-### [NEW] [emdat_validation_report.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/emdat_validation_report.md)
+### [NEW] [emdat_validation_report.md](output/emdat_validation_report.md)
 * Markdown report displaying the event-level match table, daily classification counts, sensitivity/precision metrics, and correlation coefficients.
 
-### [NEW] [emdat_relaxed_validation_report.md](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/emdat_relaxed_validation_report.md)
+### [NEW] [emdat_relaxed_validation_report.md](output/emdat_relaxed_validation_report.md)
 * Markdown report comparing standard triggers vs. relaxed triggers.

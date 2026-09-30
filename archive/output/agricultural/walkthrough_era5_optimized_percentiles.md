@@ -9,13 +9,13 @@ This walkthrough summarizes the implementation and results of the optimized GEE 
 We compiled a third, completely separate set of HTML dashboards incorporating the optimized percentile trigger thresholds and timeline shapes:
 
 1. **Optimized Zambia 70-District Spatial Dashboard:**
-   👉 **[ERA5_Optimized_Zambia_70_Agri_Trigger_Dashboard.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_Optimized_Zambia_70_Agri_Trigger_Dashboard.html)**
+   👉 **[ERA5_Optimized_Zambia_70_Agri_Trigger_Dashboard.html](output/agricultural/visualizations/ERA5_Optimized_Zambia_70_Agri_Trigger_Dashboard.html)**
    * *Features:* The spatial map shows the seasonal trigger outcomes. The subplots dynamically update the Moderate and Severe runoff threshold lines as you select different districts (e.g. Monze vs. wet northern districts).
 2. **Optimized Daily Baseline Comparison Dashboard:**
-   👉 **[ERA5_Optimized_Daily_Agri_Trigger_Baseline_Comparison.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_Optimized_Daily_Agri_Trigger_Baseline_Comparison.html)**
+   👉 **[ERA5_Optimized_Daily_Agri_Trigger_Baseline_Comparison.html](output/agricultural/visualizations/ERA5_Optimized_Daily_Agri_Trigger_Baseline_Comparison.html)**
    * *Features:* Displays target comparison timelines (Kapiri Mposhi, Chibombo, Monze) with the specific district percentile limits plotted as horizontal dotted trigger lines.
 3. **Optimized EM-DAT Validation Dashboard:**
-   👉 **[ERA5_Optimized_EMDAT_Validation_Comparison.html](file:///c:/Users/FlawiyaShirishMore/OneDrive%20-%20Africa%20Specialty%20Risks%20Ltd/ASR-Parametric_Research_Study/Africa-Flood-Study/output/agricultural/visualizations/ERA5_Optimized_EMDAT_Validation_Comparison.html)**
+   👉 **[ERA5_Optimized_EMDAT_Validation_Comparison.html](output/agricultural/visualizations/ERA5_Optimized_EMDAT_Validation_Comparison.html)**
    * *Features:* Displays the national validation timeline overlaying daily active triggers against historical EM-DAT flood disaster bands.
 
 ---
