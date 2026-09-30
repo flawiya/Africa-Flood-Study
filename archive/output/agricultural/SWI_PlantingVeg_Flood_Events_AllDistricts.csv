@@ -1,0 +1,1502 @@
+ISO3,COUNTRY,ADM_NAME,crop_year,stage_window,streak_start,streak_end,streak_days,damage_class,p95_threshold
+AGO,Angola,Amboim,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,34.32
+AGO,Angola,Bailundo,2007,Plantingâ†’Vegetative,2007-12-16,2007-12-20,5,Moderate damage risk,34.878
+AGO,Angola,Bailundo,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-29,5,Moderate damage risk,34.878
+AGO,Angola,Bibala,2008,Plantingâ†’Vegetative,2008-12-21,2008-12-30,10,Severe damage risk,20.343999999999998
+AGO,Angola,Bocoio,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,30.971999999999998
+AGO,Angola,Caconda,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,27.269999999999985
+AGO,Angola,Cacuzo,2007,Plantingâ†’Vegetative,2007-12-08,2007-12-16,9,Severe damage risk,34.217999999999996
+AGO,Angola,Cahama,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-30,7,Severe damage risk,20.514
+AGO,Angola,Caiambambo,2007,Plantingâ†’Vegetative,2007-12-04,2007-12-12,9,Severe damage risk,21.6
+AGO,Angola,Calandula,2007,Plantingâ†’Vegetative,2007-12-08,2007-12-12,5,Moderate damage risk,35.166000000000004
+AGO,Angola,Calandula,2007,Plantingâ†’Vegetative,2007-12-16,2007-12-20,5,Moderate damage risk,35.166000000000004
+AGO,Angola,Caluquembe,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,27.10399999999999
+AGO,Angola,Camacuio,2008,Plantingâ†’Vegetative,2008-12-11,2008-12-20,10,Severe damage risk,18.075999999999997
+AGO,Angola,Camacupa,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,31.519999999999996
+AGO,Angola,Cangandala,2007,Plantingâ†’Vegetative,2007-12-14,2007-12-22,9,Severe damage risk,36.6
+AGO,Angola,Cassongue,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,36.098
+AGO,Angola,Catabola,2007,Plantingâ†’Vegetative,2007-12-24,2007-12-31,8,Severe damage risk,31.898
+AGO,Angola,Catchiungo,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,32.227999999999994
+AGO,Angola,Caála,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,28.579999999999984
+AGO,Angola,Chibia,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,18.743999999999986
+AGO,Angola,Chicomba,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,26.957999999999988
+AGO,Angola,Chinguar,2008,Plantingâ†’Vegetative,2008-12-20,2008-12-24,5,Moderate damage risk,30.914
+AGO,Angola,Chinguar,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,30.914
+AGO,Angola,Chipindo,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,28.211999999999982
+AGO,Angola,Chitembo,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,30.721999999999987
+AGO,Angola,Chongoroi,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,21.86
+AGO,Angola,Cuangar,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-28,5,Moderate damage risk,20.197
+AGO,Angola,Cuango,2007,Plantingâ†’Vegetative,2007-12-17,2007-12-25,9,Severe damage risk,36.6
+AGO,Angola,Cuanhama,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,20.174
+AGO,Angola,Cubal,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-12,7,Severe damage risk,26.55
+AGO,Angola,Cuchi,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,28.168
+AGO,Angola,Cuito Cuanavale,2008,Plantingâ†’Vegetative,2008-12-23,2008-12-29,7,Severe damage risk,26.485
+AGO,Angola,Cuvelai,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,24.352999999999998
+AGO,Angola,Ebo,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,35.449999999999996
+AGO,Angola,Ekunha,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-10,5,Moderate damage risk,32.026
+AGO,Angola,Gambos,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,21.293999999999983
+AGO,Angola,Ganda,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-10,5,Moderate damage risk,29.88
+AGO,Angola,Huambo,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,29.598
+AGO,Angola,Humpata,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,17.985999999999983
+AGO,Angola,Jamba,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,26.529999999999976
+AGO,Angola,Kuito,2008,Plantingâ†’Vegetative,2008-12-20,2008-12-24,5,Moderate damage risk,30.035999999999998
+AGO,Angola,Kuito,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,30.035999999999998
+AGO,Angola,Kuvango,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,28.17399999999998
+AGO,Angola,Londuimbale,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-10,5,Moderate damage risk,33.32
+AGO,Angola,Londuimbale,2007,Plantingâ†’Vegetative,2007-12-14,2007-12-17,4,Moderate damage risk,33.32
+AGO,Angola,Longonjo,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,29.884
+AGO,Angola,Lubango,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,21.157999999999987
+AGO,Angola,Lumbala-Nguimbo,2008,Plantingâ†’Vegetative,2008-12-23,2008-12-31,9,Severe damage risk,24.4
+AGO,Angola,Malanje,2007,Plantingâ†’Vegetative,2007-12-08,2007-12-16,9,Severe damage risk,34.3
+AGO,Angola,Matala,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,24.26799999999999
+AGO,Angola,Menongue,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-29,6,Moderate damage risk,25.46
+AGO,Angola,Mungo,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,34.27
+AGO,Angola,Namakunde,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,20.066
+AGO,Angola,Ombadja,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,16.325999999999997
+AGO,Angola,Quibala,2007,Plantingâ†’Vegetative,2007-12-08,2007-12-16,9,Severe damage risk,37.02
+AGO,Angola,Quilenda,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,30.169999999999998
+AGO,Angola,Quilengues,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,22.74999999999999
+AGO,Angola,Seles,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-15,10,Severe damage risk,33.215999999999994
+AGO,Angola,Tchicala-Tcholoanga,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,30.82399999999999
+AGO,Angola,Tchipungo,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-31,10,Severe damage risk,22.97399999999999
+AGO,Angola,Ukuma,2007,Plantingâ†’Vegetative,2007-12-06,2007-12-10,5,Moderate damage risk,32.43
+AGO,Angola,Ukuma,2007,Plantingâ†’Vegetative,2007-12-14,2007-12-17,4,Moderate damage risk,32.43
+AGO,Angola,Waku Kungo,2007,Plantingâ†’Vegetative,2007-12-08,2007-12-15,8,Severe damage risk,37.53
+BDI,Burundi,Bisoro,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.5
+BDI,Burundi,Bubanza,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.108
+BDI,Burundi,Buganda,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,36.46
+BDI,Burundi,Bugendana,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.62
+BDI,Burundi,Bugenyuzi,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,40.42
+BDI,Burundi,Buhiga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,40.131
+BDI,Burundi,Bukeye,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.64
+BDI,Burundi,Bukinanyana,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,44.29
+BDI,Burundi,Bukirasazi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,43.12
+BDI,Burundi,Burambi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-13,4,Moderate damage risk,42.5
+BDI,Burundi,Buraza,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,43.12
+BDI,Burundi,Bururi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.551
+BDI,Burundi,Busiga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,39.85
+BDI,Burundi,Busoni,2007,Plantingâ†’Vegetative,2007-02-15,2007-02-18,4,Moderate damage risk,30.820999999999998
+BDI,Burundi,Butaganzwa1,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,41.6
+BDI,Burundi,Butaganzwa2,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-16,5,Moderate damage risk,40.34
+BDI,Burundi,Butihinda,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,35.82
+BDI,Burundi,Buyengero,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.66
+BDI,Burundi,Cankuzo,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,36.66
+BDI,Burundi,Gashoho,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,36.92
+BDI,Burundi,Gasorwe,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,37.5
+BDI,Burundi,Gihanga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,35.301
+BDI,Burundi,Giharo,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.73
+BDI,Burundi,Giheta,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.55
+BDI,Burundi,Gisagara,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,37.68
+BDI,Burundi,Gishubi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.05
+BDI,Burundi,Gisuru,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,37.78
+BDI,Burundi,Gitanga,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.47
+BDI,Burundi,Gitaramuka,2008,Plantingâ†’Vegetative,2008-03-27,2008-03-30,4,Moderate damage risk,38.89
+BDI,Burundi,Gitega,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.33
+BDI,Burundi,Giteranyi,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,31.79
+BDI,Burundi,Gitobe,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,33.75
+BDI,Burundi,Isale,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,38.75
+BDI,Burundi,Kayogoro,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.75
+BDI,Burundi,Kayokwe,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-11,5,Moderate damage risk,41.5
+BDI,Burundi,Kibago,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,39.53
+BDI,Burundi,Kiganda,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.75
+BDI,Burundi,Kinyinya,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,39.25
+BDI,Burundi,Kiremba,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,39.3
+BDI,Burundi,Mabayi,2007,Plantingâ†’Vegetative,2007-02-01,2007-02-06,6,Moderate damage risk,43.46
+BDI,Burundi,Makamba,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,39.75
+BDI,Burundi,Makebuko,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.46
+BDI,Burundi,Matana,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.39
+BDI,Burundi,Matongo,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,42.6
+BDI,Burundi,Mbuye,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.7
+BDI,Burundi,Mishiha,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-11,4,Moderate damage risk,36.21
+BDI,Burundi,Mpanda,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,38.88
+BDI,Burundi,Mpinga-Kayove,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.92
+BDI,Burundi,Mugamba,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.43
+BDI,Burundi,Mugina,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,43.25
+BDI,Burundi,Mugongomanga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.45
+BDI,Burundi,Muramvya,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.55
+BDI,Burundi,Muruta,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,42.88
+BDI,Burundi,Murwi,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,40.18
+BDI,Burundi,Musongati,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.47
+BDI,Burundi,Mutimbuzi,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,34.17
+BDI,Burundi,Muyinga,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,36.12
+BDI,Burundi,Mwumba,2007,Plantingâ†’Vegetative,2007-02-03,2007-02-09,7,Severe damage risk,39.62
+BDI,Burundi,Ndava,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.5
+BDI,Burundi,Ntega,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,36.64
+BDI,Burundi,Nyabihanga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.65
+BDI,Burundi,Nyabiraba,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,39.69
+BDI,Burundi,Rango,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,41.3
+BDI,Burundi,Rugombo,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,40.79
+BDI,Burundi,Ruhororo,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,40.69
+BDI,Burundi,Rusaka,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.6
+BDI,Burundi,Rutana,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.96
+BDI,Burundi,Rutegama,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,41.56
+BDI,Burundi,Rutovu,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,42.33
+BDI,Burundi,Ruyigi,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,38.83
+BDI,Burundi,Ryansoro,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,41.79
+BDI,Burundi,Songa,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,43.6
+BDI,Burundi,Tangara,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,39.79
+BDI,Burundi,Vumbi,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,36.75
+BEN,Benin,Agbangnizoun,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,19.7
+BEN,Benin,Aplahoué,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,21.87
+BEN,Benin,Banikoara,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,24.094499999999996
+BEN,Benin,Bantè,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,12.504999999999995
+BEN,Benin,Bassila,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,10.49
+BEN,Benin,Bembèrèkè,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,4.962999999999997
+BEN,Benin,Boukoumbé,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,26.4245
+BEN,Benin,Cobly,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,25.676
+BEN,Benin,Dassa-Zoumè,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,23.75
+BEN,Benin,Djakotomey,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,17.86
+BEN,Benin,Djidja,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,24.25
+BEN,Benin,Djougou Rural,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,8.352999999999998
+BEN,Benin,Glazoué,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,8.71
+BEN,Benin,Gogounou,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,29.383499999999994
+BEN,Benin,Kalalé,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,5.841999999999999
+BEN,Benin,Kandi,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,26.466499999999996
+BEN,Benin,Karimama,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,17.06
+BEN,Benin,Klouékanmè,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,19.72
+BEN,Benin,Kouandé,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,29.5475
+BEN,Benin,Kérou,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,27.171499999999998
+BEN,Benin,Kétou,2007,Plantingâ†’Vegetative,2007-05-24,2007-05-31,8,Severe damage risk,18.715
+BEN,Benin,Malanville,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,24.105999999999998
+BEN,Benin,Matéri,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,22.740999999999996
+BEN,Benin,N'Dali,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,6.544
+BEN,Benin,Natitingou,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,27.767999999999997
+BEN,Benin,Nikki,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,5.188999999999999
+BEN,Benin,Ouaké,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,6.605999999999997
+BEN,Benin,Ouèssè,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,8.557999999999996
+BEN,Benin,Pobè,2008,Plantingâ†’Vegetative,2008-05-25,2008-05-30,6,Moderate damage risk,19.2105
+BEN,Benin,Pèrèrè,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,6.605999999999997
+BEN,Benin,Péhunco,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,31.93
+BEN,Benin,Savalou,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,10.784999999999998
+BEN,Benin,Savè,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,10.14
+BEN,Benin,Sinendé,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,5.7499999999999964
+BEN,Benin,Ségbana,2008,Plantingâ†’Vegetative,2008-07-25,2008-07-30,6,Moderate damage risk,31.024
+BEN,Benin,Tanguiéta,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,22.603999999999996
+BEN,Benin,Tchaourou,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,7.2849999999999975
+BEN,Benin,Za-Kpota,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,19.16
+BEN,Benin,Zogbodomey,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,19.314
+BFA,Burkina Faso,Balé,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,5.6049999999999995
+BFA,Burkina Faso,Bam,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-05,6,Moderate damage risk,4.99
+BFA,Burkina Faso,Banwa,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,4.498499999999997
+BFA,Burkina Faso,Bazèga,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,5.9
+BFA,Burkina Faso,Boulgou,2007,Plantingâ†’Vegetative,2007-06-25,2007-06-30,6,Moderate damage risk,10.317499999999997
+BFA,Burkina Faso,Boulkiemdé,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,3.615499999999999
+BFA,Burkina Faso,Comoé,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,13.542499999999999
+BFA,Burkina Faso,Ganzourgou,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,6.64
+BFA,Burkina Faso,Gourma,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,4.896999999999999
+BFA,Burkina Faso,Houet,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,8.6565
+BFA,Burkina Faso,Kadiogo,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,4.78
+BFA,Burkina Faso,Kompienga,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,10.0895
+BFA,Burkina Faso,Kossi,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,2.4684999999999997
+BFA,Burkina Faso,Koulpélogo,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,10.71
+BFA,Burkina Faso,Kouritenga,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,5.76
+BFA,Burkina Faso,Kourwéogo,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,3.09
+BFA,Burkina Faso,Kénédougou,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,11.812999999999997
+BFA,Burkina Faso,Léraba,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,15.310499999999998
+BFA,Burkina Faso,Mouhoun,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,3.1729999999999987
+BFA,Burkina Faso,Nahouri,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,10.679
+BFA,Burkina Faso,Nayala,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,1.6894999999999998
+BFA,Burkina Faso,Passoré,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,2.64
+BFA,Burkina Faso,Poni,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,11.92
+BFA,Burkina Faso,Sanguié,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,2.4389999999999996
+BFA,Burkina Faso,Sanmatenga,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,4.757999999999999
+BFA,Burkina Faso,Sissili,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,10.598999999999997
+BFA,Burkina Faso,Sourou,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,2.679
+BFA,Burkina Faso,Tuy,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,6.24
+BFA,Burkina Faso,Yatenga,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-05,6,Moderate damage risk,4.2
+BFA,Burkina Faso,Ziro,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,8.407499999999999
+BWA,Botswana,Barolong,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,16.83
+BWA,Botswana,Bobonong,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,14.38
+BWA,Botswana,Chobe,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,27.54
+BWA,Botswana,Kweneng North,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,23.02
+BWA,Botswana,Kweneng South,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,19.71
+BWA,Botswana,Machaneng,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,19.64
+BWA,Botswana,Mahalapye,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,24.03
+BWA,Botswana,Masungu,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,21.53
+BWA,Botswana,Ngwaketse North,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,18.75
+BWA,Botswana,Ngwaketse South,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,19.96
+BWA,Botswana,Palapye,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,16.48
+BWA,Botswana,Serowe,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,24.14
+BWA,Botswana,Tutume,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,21.62
+CAF,Central African Republic,Bangassou,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,24.727999999999994
+CAF,Central African Republic,Batangafo,2008,Plantingâ†’Vegetative,2008-06-19,2008-06-29,11,Severe damage risk,28.726
+CAF,Central African Republic,Berbérati,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,24.477999999999998
+CAF,Central African Republic,Berbérati,2008,Plantingâ†’Vegetative,2008-06-22,2008-06-29,8,Severe damage risk,24.477999999999998
+CAF,Central African Republic,Bimbo,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,23.328
+CAF,Central African Republic,Bocaranga,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,30.137999999999998
+CAF,Central African Republic,Bocaranga,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,30.137999999999998
+CAF,Central African Republic,Bouar,2007,Plantingâ†’Vegetative,2007-06-25,2007-06-30,6,Moderate damage risk,30.561999999999994
+CAF,Central African Republic,Bouar,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,30.561999999999994
+CAF,Central African Republic,Bozoum,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,30.21
+CAF,Central African Republic,Bozoum,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,30.21
+CAF,Central African Republic,Carnot,2007,Plantingâ†’Vegetative,2007-06-25,2007-06-30,6,Moderate damage risk,27.919999999999998
+CAF,Central African Republic,Carnot,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,27.919999999999998
+CAF,Central African Republic,Gambo-Ouango,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,23.841999999999995
+CAF,Central African Republic,Gamboula,2007,Plantingâ†’Vegetative,2007-06-25,2007-06-30,6,Moderate damage risk,23.471999999999998
+CAF,Central African Republic,Gamboula,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,23.471999999999998
+CAF,Central African Republic,Kabo,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,26.37
+CAF,Central African Republic,Kabo,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,26.37
+CAF,Central African Republic,Kaga-Bandoro,2008,Plantingâ†’Vegetative,2008-06-19,2008-06-29,11,Severe damage risk,29.472
+CAF,Central African Republic,Kembé,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,24.656
+CAF,Central African Republic,Kouango,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,26.563999999999997
+CAF,Central African Republic,M'Baïki,2008,Plantingâ†’Vegetative,2008-06-19,2008-06-29,11,Severe damage risk,21.13
+CAF,Central African Republic,Markounda,2007,Plantingâ†’Vegetative,2007-06-22,2007-06-30,9,Severe damage risk,26.447999999999993
+CAF,Central African Republic,Markounda,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,26.447999999999993
+CAF,Central African Republic,Mobaye,2008,Plantingâ†’Vegetative,2008-06-17,2008-06-29,13,Severe damage risk,24.991999999999994
+CAF,Central African Republic,Ndélé,2008,Plantingâ†’Vegetative,2008-06-20,2008-06-29,10,Severe damage risk,21.048
+CAF,Central African Republic,Nola,2007,Plantingâ†’Vegetative,2007-06-20,2007-06-30,11,Severe damage risk,15.142
+CAF,Central African Republic,Paoua,2007,Plantingâ†’Vegetative,2007-06-22,2007-06-30,9,Severe damage risk,25.396
+CAF,Central African Republic,Paoua,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,25.396
+CIV,Côte d'Ivoire,Agnéby-Tiassa,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,15.939
+CIV,Côte d'Ivoire,Bagoué,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,15.491499999999998
+CIV,Côte d'Ivoire,Bounkani,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,12.214999999999996
+CIV,Côte d'Ivoire,Bélier,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,17.500999999999998
+CIV,Côte d'Ivoire,Béré,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,31.902
+CIV,Côte d'Ivoire,Béré,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,31.902
+CIV,Côte d'Ivoire,Gbeke,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,15.703999999999999
+CIV,Côte d'Ivoire,Gôh,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,19.757
+CIV,Côte d'Ivoire,Hambol,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,13.942999999999998
+CIV,Côte d'Ivoire,Haut-Sassandra,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,18.537
+CIV,Côte d'Ivoire,Iffou,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,16.698
+CIV,Côte d'Ivoire,Indénié-Djuablin,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,16.728
+CIV,Côte d'Ivoire,Kabadougou,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,18.8665
+CIV,Côte d'Ivoire,Lôh-Djiboua,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,16.705000000000002
+CIV,Côte d'Ivoire,Marahoué,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,19.142999999999997
+CIV,Côte d'Ivoire,Moronou,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,15.73
+CIV,Côte d'Ivoire,Poro,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,17.9895
+CIV,Côte d'Ivoire,Tchologo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,15.827
+CIV,Côte d'Ivoire,Worodougou,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,23.753
+CIV,Côte d'Ivoire,Yamoussoukro,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,17.711999999999996
+CMR,Cameroon,Bamboutos,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,22.960500000000003
+CMR,Cameroon,Bénoué,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,18.586499999999997
+CMR,Cameroon,Faro,2007,Plantingâ†’Vegetative,2007-06-25,2007-06-30,6,Moderate damage risk,25.1
+CMR,Cameroon,Haute Sanaga,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,13.77
+CMR,Cameroon,Mayo Danay,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,8.650999999999998
+CMR,Cameroon,Mayo Kani,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,8.981499999999995
+CMR,Cameroon,Mayo Louti,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,11.695999999999998
+CMR,Cameroon,Mayo Rey,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,23.565499999999993
+CMR,Cameroon,Mayo Sava,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,5.1049999999999995
+CMR,Cameroon,Mayo Tsanaga,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,9.115999999999998
+CMR,Cameroon,Noun,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,19.0505
+CMR,Cameroon,Vina,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,12.354000000000001
+COD,Democratic Republic of the Congo,Aketi,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,28.301499999999994
+COD,Democratic Republic of the Congo,Aru,2007,Plantingâ†’Vegetative,2007-07-26,2007-07-31,6,Moderate damage risk,33.47
+COD,Democratic Republic of the Congo,Bagata,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-06,7,Severe damage risk,29.705999999999996
+COD,Democratic Republic of the Congo,Banalia,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,31.81849999999999
+COD,Democratic Republic of the Congo,Basoko,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,30.245499999999993
+COD,Democratic Republic of the Congo,Bondo,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,25.573499999999996
+COD,Democratic Republic of the Congo,Bongandanga,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,29.624499999999998
+COD,Democratic Republic of the Congo,Budjala,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,30.455499999999997
+COD,Democratic Republic of the Congo,Bulungu,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-06,7,Severe damage risk,28.7705
+COD,Democratic Republic of the Congo,Bumba,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,27.423
+COD,Democratic Republic of the Congo,Businga,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,28.816499999999998
+COD,Democratic Republic of the Congo,Buta,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,30.029999999999998
+COD,Democratic Republic of the Congo,Demba,2007,Plantingâ†’Vegetative,2007-09-23,2007-09-27,5,Moderate damage risk,15.27
+COD,Democratic Republic of the Congo,Dibaya,2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,21.476999999999997
+COD,Democratic Republic of the Congo,Dimbelenge,2007,Plantingâ†’Vegetative,2007-08-23,2007-08-27,5,Moderate damage risk,21.89
+COD,Democratic Republic of the Congo,Feshi,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-04,5,Moderate damage risk,27.3
+COD,Democratic Republic of the Congo,Gemena,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,25.100499999999997
+COD,Democratic Republic of the Congo,Gungu,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-15,5,Moderate damage risk,25.293499999999998
+COD,Democratic Republic of the Congo,Ilebo,2007,Plantingâ†’Vegetative,2007-09-23,2007-09-30,8,Severe damage risk,15.914499999999999
+COD,Democratic Republic of the Congo,Isangi,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,27.77699999999999
+COD,Democratic Republic of the Congo,Kabalo,2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,27.745999999999995
+COD,Democratic Republic of the Congo,Kabeya-Kamwanga,2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,20.241999999999997
+COD,Democratic Republic of the Congo,Kabinda,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-10,10,Severe damage risk,21.152499999999996
+COD,Democratic Republic of the Congo,Kailo,2007,Plantingâ†’Vegetative,2007-08-14,2007-08-17,4,Moderate damage risk,29.75
+COD,Democratic Republic of the Congo,Kambove,2007,Plantingâ†’Vegetative,2007-11-11,2007-11-15,5,Moderate damage risk,15.924499999999993
+COD,Democratic Republic of the Congo,Kamonia,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-07,7,Severe damage risk,20.6865
+COD,Democratic Republic of the Congo,Kasongo,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-10,10,Severe damage risk,26.129999999999995
+COD,Democratic Republic of the Congo,Katanda,2007,Plantingâ†’Vegetative,2007-09-26,2007-09-30,5,Moderate damage risk,21.86
+COD,Democratic Republic of the Congo,Kenge,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-06,7,Severe damage risk,28.152499999999993
+COD,Democratic Republic of the Congo,Kimvula,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-06,7,Severe damage risk,30.881999999999994
+COD,Democratic Republic of the Congo,Kinshasa,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-03,4,Moderate damage risk,29.53
+COD,Democratic Republic of the Congo,Kipushi,2007,Plantingâ†’Vegetative,2007-11-11,2007-11-15,5,Moderate damage risk,12.458499999999995
+COD,Democratic Republic of the Congo,Kisangani,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,26.44849999999999
+COD,Democratic Republic of the Congo,Kongolo,2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,28.775499999999997
+COD,Democratic Republic of the Congo,Kongolo (ville),2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,24.994
+COD,Democratic Republic of the Congo,Kungu,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,27.023499999999995
+COD,Democratic Republic of the Congo,Kutu,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-04,5,Moderate damage risk,25.22
+COD,Democratic Republic of the Congo,Libenge,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,22.284999999999997
+COD,Democratic Republic of the Congo,Likasi,2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,13.362499999999992
+COD,Democratic Republic of the Congo,Lisala,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,29.802999999999997
+COD,Democratic Republic of the Congo,Lubao,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-10,10,Severe damage risk,20.591499999999996
+COD,Democratic Republic of the Congo,Lubudi,2007,Plantingâ†’Vegetative,2007-11-11,2007-11-15,5,Moderate damage risk,18.343
+COD,Democratic Republic of the Congo,Lubumbashi,2007,Plantingâ†’Vegetative,2007-11-11,2007-11-15,5,Moderate damage risk,11.754499999999991
+COD,Democratic Republic of the Congo,Luilu,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-10,10,Severe damage risk,21.098499999999994
+COD,Democratic Republic of the Congo,Lupatapata,2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,21.661999999999995
+COD,Democratic Republic of the Congo,Madimba,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-03,4,Moderate damage risk,33.33
+COD,Democratic Republic of the Congo,Manono,2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,23.220999999999993
+COD,Democratic Republic of the Congo,Masi-Manimba,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-06,7,Severe damage risk,28.384999999999994
+COD,Democratic Republic of the Congo,Masisi,2007,Plantingâ†’Vegetative,2007-10-21,2007-10-25,5,Moderate damage risk,36.4605
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2007,Plantingâ†’Vegetative,2007-06-01,2007-06-07,7,Severe damage risk,32.331999999999994
+COD,Democratic Republic of the Congo,Miabi,2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,21.602499999999996
+COD,Democratic Republic of the Congo,Mutshatsha,2007,Plantingâ†’Vegetative,2007-11-09,2007-11-15,7,Severe damage risk,21.843999999999987
+COD,Democratic Republic of the Congo,Mweka,2007,Plantingâ†’Vegetative,2007-09-04,2007-09-13,10,Severe damage risk,18.0285
+COD,Democratic Republic of the Congo,Ngandajika,2007,Plantingâ†’Vegetative,2007-07-01,2007-07-10,10,Severe damage risk,22.473499999999994
+COD,Democratic Republic of the Congo,Oicha,2007,Plantingâ†’Vegetative,2007-10-14,2007-10-18,5,Moderate damage risk,32.2435
+COD,Democratic Republic of the Congo,Oshwe,2007,Plantingâ†’Vegetative,2007-07-22,2007-07-28,7,Severe damage risk,27.399499999999996
+COD,Democratic Republic of the Congo,Popokabaka,2008,Plantingâ†’Vegetative,2008-05-31,2008-06-04,5,Moderate damage risk,29.436999999999998
+COD,Democratic Republic of the Congo,Sakania,2007,Plantingâ†’Vegetative,2007-11-12,2007-11-15,4,Moderate damage risk,9.74
+COD,Democratic Republic of the Congo,Songololo,2007,Plantingâ†’Vegetative,2007-06-01,2007-06-07,7,Severe damage risk,30.386499999999998
+COD,Democratic Republic of the Congo,Tshilenge,2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,19.1575
+COD,Democratic Republic of the Congo,Tshilenge (ville),2007,Plantingâ†’Vegetative,2007-09-21,2007-09-30,10,Severe damage risk,20.141999999999992
+COD,Democratic Republic of the Congo,Uvira,2007,Plantingâ†’Vegetative,2007-10-26,2007-10-30,5,Moderate damage risk,19.249
+COD,Democratic Republic of the Congo,Walungu,2007,Plantingâ†’Vegetative,2007-10-28,2007-10-31,4,Moderate damage risk,28.88
+COD,Democratic Republic of the Congo,Watsa,2007,Plantingâ†’Vegetative,2007-07-26,2007-07-31,6,Moderate damage risk,25.81
+COD,Democratic Republic of the Congo,Yakoma,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,26.74
+EGY,Egypt,Abnub,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,10.7475
+EGY,Egypt,Abu Qurqas,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.135
+EGY,Egypt,Abu Tij,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.594999999999999
+EGY,Egypt,Al-'Idwah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,5.3885
+EGY,Egypt,Al-Badari,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,11.1975
+EGY,Egypt,Al-Bajur,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.487499999999999
+EGY,Egypt,Al-Fath,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.116999999999999
+EGY,Egypt,Al-Ghanayim,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,10.741499999999998
+EGY,Egypt,Al-Minya,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.742999999999999
+EGY,Egypt,Al-Qanatir al-Khayriyah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.297499999999999
+EGY,Egypt,Al-Qanayat,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.3735
+EGY,Egypt,Ash-Shuhada,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.428
+EGY,Egypt,Ashmun,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.802999999999999
+EGY,Egypt,Badr,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,3.9579999999999997
+EGY,Egypt,Banha,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.6935
+EGY,Egypt,Birkat as-Sab',2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.5475
+EGY,Egypt,Disuq,2007,Plantingâ†’Vegetative,2007-05-12,2007-05-15,4,Moderate damage risk,8.069
+EGY,Egypt,Idfu,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,2.4795
+EGY,Egypt,Imbabah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,5.079
+EGY,Egypt,Ismailia,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,1.7985
+EGY,Egypt,Kafr ash-Shaykh,2007,Plantingâ†’Vegetative,2007-05-11,2007-05-14,4,Moderate damage risk,7.3180000000000005
+EGY,Egypt,Kawm Hamadah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.8885
+EGY,Egypt,Mallawi,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.579499999999999
+EGY,Egypt,Mallawi City,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.657499999999999
+EGY,Egypt,Mashtul as-Suq,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.563499999999999
+EGY,Egypt,Minuf,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.661499999999999
+EGY,Egypt,Minuf City,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.737499999999999
+EGY,Egypt,Minya al-Qamh,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.873999999999999
+EGY,Egypt,Mit Ghamr,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.774
+EGY,Egypt,Nabaruh,2007,Plantingâ†’Vegetative,2007-05-11,2007-05-14,4,Moderate damage risk,5.6385
+EGY,Egypt,Qalyub,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,5.998
+EGY,Egypt,Quwaysina,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.865
+EGY,Egypt,Sahil Salim,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.183499999999999
+EGY,Egypt,Samalut,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.2215
+EGY,Egypt,Shibin al-Kawm,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.2015
+EGY,Egypt,Shibin al-Qanatir,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.487499999999999
+EGY,Egypt,Sidfa,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,10.7435
+EGY,Egypt,Sirs al-Layyanah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.237499999999999
+EGY,Egypt,Tahta City,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,10.987499999999999
+EGY,Egypt,Tima,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,11.286
+EGY,Egypt,Tukh,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.869499999999999
+EGY,Egypt,Unorganized in Al Buhayrah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,2.379
+EGY,Egypt,Unorganized in Al Fayoum,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,4.999
+EGY,Egypt,Unorganized in Al Jizah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.7285
+EGY,Egypt,Unorganized in Al Minya,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.4475
+EGY,Egypt,Unorganized in Asyut,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,10.388
+EGY,Egypt,Unorganized in Bani Suwayf,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,8.947999999999999
+EGY,Egypt,Unorganized in Suhaj,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,9.0375
+EGY,Egypt,West Nubariyah,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,2.0585
+ETH,Ethiopia,Agew Awi,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,33.8555
+ETH,Ethiopia,Alaba,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,37.693999999999996
+ETH,Ethiopia,Bale,2007,Plantingâ†’Vegetative,2007-06-08,2007-06-12,5,Moderate damage risk,18.6
+ETH,Ethiopia,Bench Maji,2007,Plantingâ†’Vegetative,2007-07-05,2007-07-11,7,Severe damage risk,31.136499999999998
+ETH,Ethiopia,Debub Mirab Shewa,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,32.861
+ETH,Ethiopia,Debub Wollo,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,20.86
+ETH,Ethiopia,Debubawi,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,15.8
+ETH,Ethiopia,Fafan,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-17,7,Severe damage risk,10.073999999999998
+ETH,Ethiopia,Guji,2007,Plantingâ†’Vegetative,2007-06-17,2007-06-21,5,Moderate damage risk,31.41
+ETH,Ethiopia,Gurage,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,34.0485
+ETH,Ethiopia,Hadiya,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,38.202999999999996
+ETH,Ethiopia,Horo Guduru,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,34.1215
+ETH,Ethiopia,Ilubabor,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,36.623999999999995
+ETH,Ethiopia,Jimma,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,38.007
+ETH,Ethiopia,Keffa,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,35.616
+ETH,Ethiopia,Kelem Wellega,2007,Plantingâ†’Vegetative,2007-07-12,2007-07-15,4,Moderate damage risk,36.4885
+ETH,Ethiopia,Mehakelegnaw,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,10.53
+ETH,Ethiopia,Mirab Hararghe,2007,Plantingâ†’Vegetative,2007-07-11,2007-07-15,5,Moderate damage risk,9.61
+ETH,Ethiopia,Mirab Shewa,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,34.1935
+ETH,Ethiopia,Mirab Welega,2007,Plantingâ†’Vegetative,2007-07-12,2007-07-15,4,Moderate damage risk,37.788
+ETH,Ethiopia,Misraq Gojjam,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,31.692999999999998
+ETH,Ethiopia,Misraq Harerge,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-18,7,Severe damage risk,8.859
+ETH,Ethiopia,Misraq Wellega,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,37.0735
+ETH,Ethiopia,Misraqawi,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,7.3
+ETH,Ethiopia,North Shewa,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,22.578999999999997
+ETH,Ethiopia,Semen Wello,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,21.61
+ETH,Ethiopia,Sidama,2007,Plantingâ†’Vegetative,2007-07-08,2007-07-14,7,Severe damage risk,39.3395
+ETH,Ethiopia,Silti,2007,Plantingâ†’Vegetative,2007-07-09,2007-07-15,7,Severe damage risk,36.108999999999995
+ETH,Ethiopia,Wag Himra,2007,Plantingâ†’Vegetative,2007-07-10,2007-07-15,6,Moderate damage risk,26.1
+GHA,Ghana,Ada West,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,10.011999999999997
+GHA,Ghana,Adaklu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,22.569999999999997
+GHA,Ghana,Agotime Ziope,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,21.565999999999995
+GHA,Ghana,Akatsi North,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,19.569999999999997
+GHA,Ghana,Akatsi South,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,15.161999999999995
+GHA,Ghana,Asante-Akim North,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,16.154
+GHA,Ghana,Atebubu-Amantin,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.927999999999992
+GHA,Ghana,Awutu Senya West,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,13.563999999999998
+GHA,Ghana,Central Tongu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.271999999999995
+GHA,Ghana,Ejura-Sekyedumase,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.239999999999995
+GHA,Ghana,Fanteakwa North,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,14.078999999999995
+GHA,Ghana,Ga South,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,13.524999999999999
+GHA,Ghana,Ga West,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,14.29
+GHA,Ghana,Ho West,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,19.644
+GHA,Ghana,Ketu South,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,12.03
+GHA,Ghana,Kintampo North,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,9.922999999999998
+GHA,Ghana,Kpone-Katamanso,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,13.354
+GHA,Ghana,Krachi Nchumuru,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.815999999999994
+GHA,Ghana,Krachi West,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,10.537999999999993
+GHA,Ghana,Kwahu Afram Plains South,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,15.573999999999996
+GHA,Ghana,Kwahu South,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,14.430999999999997
+GHA,Ghana,Mampong,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.558999999999994
+GHA,Ghana,Nkoranza North,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,16.482999999999993
+GHA,Ghana,Nkoranza South,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,16.43199999999999
+GHA,Ghana,Nkwanta North,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.594999999999995
+GHA,Ghana,Nkwanta South,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,16.298
+GHA,Ghana,North Tongu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.378999999999994
+GHA,Ghana,Offinso North,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.516
+GHA,Ghana,Pru East,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,8.261999999999999
+GHA,Ghana,Pru West,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,14.465999999999996
+GHA,Ghana,Sekyere Afram Plains North,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,17.559999999999995
+GHA,Ghana,Sekyere Central,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,17.356999999999996
+GHA,Ghana,Sene East,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,12.65
+GHA,Ghana,Sene West,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.317
+GHA,Ghana,Shai Osudoku,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,14.967999999999995
+GHA,Ghana,South Tongu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,10.722
+GHA,Ghana,Wenchi,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,15.723999999999995
+GIN,Guinea,Beyla,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,30.393499999999996
+GIN,Guinea,Dabola,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,22.194999999999997
+GIN,Guinea,Dinguiraye,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,14.050499999999996
+GIN,Guinea,Gaoual,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,12.91
+GIN,Guinea,Kankan,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,24.010999999999996
+GIN,Guinea,Kindia,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,19.577499999999997
+GIN,Guinea,Kouroussa,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,21.413999999999994
+GIN,Guinea,Mandiana,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,15.610499999999996
+GIN,Guinea,Siguiri,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,10.932999999999998
+KEN,Kenya,Ainabkoi,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,31.93
+KEN,Kenya,Ainamoi,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,33.16
+KEN,Kenya,Aldai,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,33.0785
+KEN,Kenya,Awendo,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,31.487499999999997
+KEN,Kenya,Bahati,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,36.2755
+KEN,Kenya,Baringo North,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,30.1555
+KEN,Kenya,Baringo South,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,27.192999999999998
+KEN,Kenya,Belgut,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.12
+KEN,Kenya,Bobasi,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,35.3075
+KEN,Kenya,Bomachoge Borabu,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,34.608
+KEN,Kenya,Bomachoge Chache,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,34.637499999999996
+KEN,Kenya,Bomet Central,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-20,9,Severe damage risk,33.93
+KEN,Kenya,Bomet East,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-23,10,Severe damage risk,33.9585
+KEN,Kenya,Bonchari,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,34.307
+KEN,Kenya,Borabu,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-22,9,Severe damage risk,36.65
+KEN,Kenya,Bumula,2008,Plantingâ†’Vegetative,2008-06-10,2008-06-19,10,Severe damage risk,35.742999999999995
+KEN,Kenya,Bureti,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-20,9,Severe damage risk,35.96
+KEN,Kenya,Butere,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.05
+KEN,Kenya,Butula,2008,Plantingâ†’Vegetative,2008-06-10,2008-06-16,7,Severe damage risk,36.418
+KEN,Kenya,Buuri,2007,Plantingâ†’Vegetative,2007-05-09,2007-05-16,8,Severe damage risk,21.729999999999997
+KEN,Kenya,Central Imenti,2007,Plantingâ†’Vegetative,2007-05-09,2007-05-13,5,Moderate damage risk,24.596
+KEN,Kenya,Chepalungu,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-22,9,Severe damage risk,30.4955
+KEN,Kenya,Cherangany,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,35.019000000000005
+KEN,Kenya,Chesumei,2007,Plantingâ†’Vegetative,2007-06-18,2007-06-22,5,Moderate damage risk,34.4955
+KEN,Kenya,Chesumei,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,34.4955
+KEN,Kenya,Eldama Ravine,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,33.8985
+KEN,Kenya,Emgwen,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,33.6925
+KEN,Kenya,Emgwen,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,33.6925
+KEN,Kenya,Emurua Dikirr,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-23,10,Severe damage risk,31.7445
+KEN,Kenya,Endebess,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,32.247
+KEN,Kenya,Funyula,2007,Plantingâ†’Vegetative,2007-06-04,2007-06-08,5,Moderate damage risk,32.0685
+KEN,Kenya,Funyula,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,32.0685
+KEN,Kenya,Ganze,2007,Plantingâ†’Vegetative,2007-05-22,2007-05-31,10,Severe damage risk,27.209999999999997
+KEN,Kenya,Gatanga,2007,Plantingâ†’Vegetative,2007-05-21,2007-05-25,5,Moderate damage risk,29.32
+KEN,Kenya,Gatanga,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,29.32
+KEN,Kenya,Gem,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.4
+KEN,Kenya,Gilgil,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,34.987500000000004
+KEN,Kenya,Hamisi,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,34.748
+KEN,Kenya,Igembe Central,2007,Plantingâ†’Vegetative,2007-05-06,2007-05-15,10,Severe damage risk,24.703999999999997
+KEN,Kenya,Igembe North,2007,Plantingâ†’Vegetative,2007-05-04,2007-05-13,10,Severe damage risk,19.38
+KEN,Kenya,Ikolomani,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.495
+KEN,Kenya,Ikolomani,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-12,5,Moderate damage risk,35.495
+KEN,Kenya,Kabondo Kasipul,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-23,8,Severe damage risk,32.75
+KEN,Kenya,Kabuchai,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-22,7,Severe damage risk,36.178
+KEN,Kenya,Kacheliba,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,19.334999999999997
+KEN,Kenya,Kajiado Central,2007,Plantingâ†’Vegetative,2007-04-27,2007-05-03,7,Severe damage risk,26.46
+KEN,Kenya,Kajiado East,2007,Plantingâ†’Vegetative,2007-04-29,2007-05-03,5,Moderate damage risk,26.029500000000002
+KEN,Kenya,Kajiado East,2007,Plantingâ†’Vegetative,2007-05-21,2007-05-25,5,Moderate damage risk,26.029500000000002
+KEN,Kenya,Kajiado South,2007,Plantingâ†’Vegetative,2007-04-01,2007-04-09,9,Severe damage risk,24.67
+KEN,Kenya,Kajiado West,2007,Plantingâ†’Vegetative,2007-06-09,2007-06-15,7,Severe damage risk,19.788999999999998
+KEN,Kenya,Kaloleni,2007,Plantingâ†’Vegetative,2007-05-22,2007-05-31,10,Severe damage risk,27.371999999999996
+KEN,Kenya,Kandara,2007,Plantingâ†’Vegetative,2007-05-24,2007-05-31,8,Severe damage risk,32.378
+KEN,Kenya,Kanduyi,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.5325
+KEN,Kenya,Kanduyi,2008,Plantingâ†’Vegetative,2008-06-11,2008-06-15,5,Moderate damage risk,35.5325
+KEN,Kenya,Kapenguria,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,27.0255
+KEN,Kenya,Kapseret,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.5585
+KEN,Kenya,Kasipul,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-23,10,Severe damage risk,33.2035
+KEN,Kenya,Keiyo North,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.608
+KEN,Kenya,Keiyo South,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,32.699000000000005
+KEN,Kenya,Kesses,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,32.64
+KEN,Kenya,Khwisero,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.25
+KEN,Kenya,Kibwezi East,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,33.66
+KEN,Kenya,Kibwezi West,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,33.98
+KEN,Kenya,Kieni,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,25.961
+KEN,Kenya,Kigumo,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-23,5,Moderate damage risk,31.19
+KEN,Kenya,Kigumo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,31.19
+KEN,Kenya,Kiharu,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-23,5,Moderate damage risk,32.5
+KEN,Kenya,Kiharu,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,32.5
+KEN,Kenya,Kilgoris,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-22,9,Severe damage risk,29.05
+KEN,Kenya,Kilome,2008,Plantingâ†’Vegetative,2008-04-26,2008-05-05,10,Severe damage risk,28.65
+KEN,Kenya,Kimilili,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,36.248
+KEN,Kenya,Kimilili,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,36.248
+KEN,Kenya,Kiminini,2007,Plantingâ†’Vegetative,2007-06-19,2007-06-22,4,Moderate damage risk,34.75
+KEN,Kenya,Kiminini,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,34.75
+KEN,Kenya,Kinango,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-04,4,Moderate damage risk,28.977999999999998
+KEN,Kenya,Kinango,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,28.977999999999998
+KEN,Kenya,Kinangop,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-04,4,Moderate damage risk,24.5
+KEN,Kenya,Kinangop,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,24.5
+KEN,Kenya,Kipipiri,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-22,4,Moderate damage risk,22.846
+KEN,Kenya,Kipipiri,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,22.846
+KEN,Kenya,Kipkelion East,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,34.544
+KEN,Kenya,Kipkelion West,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,34.4565
+KEN,Kenya,Kirinyaga Central,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,28.83
+KEN,Kenya,Kitui Central,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-04,4,Moderate damage risk,28.3
+KEN,Kenya,Kitui Central,2007,Plantingâ†’Vegetative,2007-05-02,2007-05-06,5,Moderate damage risk,28.3
+KEN,Kenya,Kitui East,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,24.92
+KEN,Kenya,Kitui Rural,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-04,4,Moderate damage risk,29.61
+KEN,Kenya,Kitui Rural,2007,Plantingâ†’Vegetative,2007-05-02,2007-05-06,5,Moderate damage risk,29.61
+KEN,Kenya,Kitui South,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,29.9
+KEN,Kenya,Kitui West,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-06,6,Moderate damage risk,27.75
+KEN,Kenya,Kitutu Chache North,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-22,9,Severe damage risk,36.25
+KEN,Kenya,Kitutu Masaba,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-20,9,Severe damage risk,37.21
+KEN,Kenya,Konoin,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,36.62
+KEN,Kenya,Kuresoi North,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,33.957
+KEN,Kenya,Kuresoi South,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,35.046
+KEN,Kenya,Kuria East,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,31.029499999999995
+KEN,Kenya,Kuria West,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,32.326
+KEN,Kenya,Kwanza,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,32.1885
+KEN,Kenya,Laikipia East,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,27.350999999999996
+KEN,Kenya,Laikipia North,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,24.487
+KEN,Kenya,Laikipia West,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,29.575499999999998
+KEN,Kenya,Lari,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,26.674
+KEN,Kenya,Likuyani,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.22
+KEN,Kenya,Limuru,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-06,6,Moderate damage risk,23.919999999999998
+KEN,Kenya,Limuru,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,23.919999999999998
+KEN,Kenya,Lugari,2007,Plantingâ†’Vegetative,2007-06-18,2007-06-22,5,Moderate damage risk,35.7055
+KEN,Kenya,Lugari,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.7055
+KEN,Kenya,Lungalunga,2007,Plantingâ†’Vegetative,2007-05-22,2007-05-31,10,Severe damage risk,31.488
+KEN,Kenya,Lurambi,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,35.3165
+KEN,Kenya,Machakos Town,2008,Plantingâ†’Vegetative,2008-04-28,2008-05-07,10,Severe damage risk,28.575999999999997
+KEN,Kenya,Makueni,2007,Plantingâ†’Vegetative,2007-04-27,2007-05-03,7,Severe damage risk,30.89
+KEN,Kenya,Malava,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-23,8,Severe damage risk,35.47
+KEN,Kenya,Malindi,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-04,4,Moderate damage risk,27.168
+KEN,Kenya,Malindi,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,27.168
+KEN,Kenya,Maragwa,2007,Plantingâ†’Vegetative,2007-05-21,2007-05-27,7,Severe damage risk,30.39
+KEN,Kenya,Marakwet East,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.195
+KEN,Kenya,Marakwet West,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,33.933499999999995
+KEN,Kenya,Masinga,2008,Plantingâ†’Vegetative,2008-04-29,2008-05-07,9,Severe damage risk,27.25
+KEN,Kenya,Matayos,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-16,9,Severe damage risk,35.67
+KEN,Kenya,Mathira,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-23,5,Moderate damage risk,26.452
+KEN,Kenya,Mathira,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-29,4,Moderate damage risk,26.452
+KEN,Kenya,Matuga,2007,Plantingâ†’Vegetative,2007-05-22,2007-05-31,10,Severe damage risk,28.123999999999995
+KEN,Kenya,Matungu,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-17,10,Severe damage risk,35.312999999999995
+KEN,Kenya,Matungulu,2008,Plantingâ†’Vegetative,2008-04-28,2008-05-07,10,Severe damage risk,24.996
+KEN,Kenya,Mavoko,2007,Plantingâ†’Vegetative,2007-05-21,2007-05-30,10,Severe damage risk,21.518
+KEN,Kenya,Mbeere North,2008,Plantingâ†’Vegetative,2008-04-29,2008-05-07,9,Severe damage risk,30.38
+KEN,Kenya,Mbeere South,2008,Plantingâ†’Vegetative,2008-04-29,2008-05-07,9,Severe damage risk,28.41
+KEN,Kenya,Mbooni,2008,Plantingâ†’Vegetative,2008-04-26,2008-05-05,10,Severe damage risk,31.176
+KEN,Kenya,Mogotio,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.2995
+KEN,Kenya,Moiben,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.469
+KEN,Kenya,Molo,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,32.991499999999995
+KEN,Kenya,Mosop,2007,Plantingâ†’Vegetative,2007-06-19,2007-06-22,4,Moderate damage risk,35.0
+KEN,Kenya,Mosop,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.0
+KEN,Kenya,Mt. Elgon,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.796
+KEN,Kenya,Mt. Elgon,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.796
+KEN,Kenya,Muhoroni,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-22,7,Severe damage risk,30.61
+KEN,Kenya,Mumias East,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.195
+KEN,Kenya,Mumias East,2008,Plantingâ†’Vegetative,2008-06-10,2008-06-14,5,Moderate damage risk,35.195
+KEN,Kenya,Mumias West,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.197500000000005
+KEN,Kenya,Mumias West,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-12,5,Moderate damage risk,35.197500000000005
+KEN,Kenya,Mwala,2008,Plantingâ†’Vegetative,2008-04-28,2008-05-07,10,Severe damage risk,30.924
+KEN,Kenya,Mwea,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-27,9,Severe damage risk,29.746
+KEN,Kenya,Mwingi Central,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,27.2
+KEN,Kenya,Mwingi North,2008,Plantingâ†’Vegetative,2008-04-28,2008-05-07,10,Severe damage risk,28.785999999999998
+KEN,Kenya,Mwingi West,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-09,9,Severe damage risk,29.45
+KEN,Kenya,Naivasha,2007,Plantingâ†’Vegetative,2007-06-19,2007-06-27,9,Severe damage risk,31.21
+KEN,Kenya,Nambale,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-17,10,Severe damage risk,35.8075
+KEN,Kenya,Nandi Hills,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,33.97
+KEN,Kenya,Narok East,2007,Plantingâ†’Vegetative,2007-06-10,2007-06-18,9,Severe damage risk,32.16
+KEN,Kenya,Narok North,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,35.476
+KEN,Kenya,Narok South,2007,Plantingâ†’Vegetative,2007-04-26,2007-05-01,6,Moderate damage risk,29.87
+KEN,Kenya,Narok West,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-23,8,Severe damage risk,27.627
+KEN,Kenya,Navakholo,2007,Plantingâ†’Vegetative,2007-06-13,2007-06-22,10,Severe damage risk,35.0285
+KEN,Kenya,Ndaragwa,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-08,8,Severe damage risk,24.154
+KEN,Kenya,Ndhiwa,2007,Plantingâ†’Vegetative,2007-05-18,2007-05-22,5,Moderate damage risk,29.0125
+KEN,Kenya,Ndhiwa,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,29.0125
+KEN,Kenya,Ndia,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-23,5,Moderate damage risk,28.14
+KEN,Kenya,Njoro,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,34.155499999999996
+KEN,Kenya,North Mugirango,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-22,7,Severe damage risk,36.75
+KEN,Kenya,Nyaribari Chache,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,36.037499999999994
+KEN,Kenya,Nyaribari Masaba,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-20,9,Severe damage risk,35.94
+KEN,Kenya,Ol Jorok,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-22,4,Moderate damage risk,27.384
+KEN,Kenya,Ol Jorok,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,27.384
+KEN,Kenya,Ol Kalou,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-22,4,Moderate damage risk,28.884
+KEN,Kenya,Ol Kalou,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,28.884
+KEN,Kenya,Pokot South,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,30.118499999999997
+KEN,Kenya,Rongai,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,33.821
+KEN,Kenya,Rongo,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,32.027499999999996
+KEN,Kenya,Sabatia,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.4115
+KEN,Kenya,Sabatia,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-12,5,Moderate damage risk,35.4115
+KEN,Kenya,Saboti,2007,Plantingâ†’Vegetative,2007-06-18,2007-06-22,5,Moderate damage risk,34.3765
+KEN,Kenya,Saboti,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,34.3765
+KEN,Kenya,Samburu West,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,22.266
+KEN,Kenya,Shinyalu,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,36.246
+KEN,Kenya,Sigor,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,24.08
+KEN,Kenya,Sigowet/Soin,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-23,8,Severe damage risk,31.947
+KEN,Kenya,Sirisia,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-20,7,Severe damage risk,37.42
+KEN,Kenya,Sotik,2007,Plantingâ†’Vegetative,2007-06-12,2007-06-20,9,Severe damage risk,33.77
+KEN,Kenya,South Imenti,2007,Plantingâ†’Vegetative,2007-05-19,2007-05-25,7,Severe damage risk,24.134
+KEN,Kenya,South Mugirango,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,33.3475
+KEN,Kenya,Soy,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,33.8975
+KEN,Kenya,Subukia,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,34.794999999999995
+KEN,Kenya,Suna East,2007,Plantingâ†’Vegetative,2007-06-11,2007-06-20,10,Severe damage risk,31.1635
+KEN,Kenya,Suna West,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,30.658
+KEN,Kenya,Taveta,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-06,6,Moderate damage risk,30.99
+KEN,Kenya,Teso North,2008,Plantingâ†’Vegetative,2008-06-11,2008-06-19,9,Severe damage risk,35.31
+KEN,Kenya,Teso South,2008,Plantingâ†’Vegetative,2008-06-08,2008-06-17,10,Severe damage risk,35.037499999999994
+KEN,Kenya,Tharaka,2008,Plantingâ†’Vegetative,2008-05-01,2008-05-09,9,Severe damage risk,29.18
+KEN,Kenya,Tigania East,2007,Plantingâ†’Vegetative,2007-05-06,2007-05-15,10,Severe damage risk,24.845999999999997
+KEN,Kenya,Tigania West,2007,Plantingâ†’Vegetative,2007-05-07,2007-05-16,10,Severe damage risk,25.999999999999996
+KEN,Kenya,Tinderet,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,32.9565
+KEN,Kenya,Tinderet,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,32.9565
+KEN,Kenya,Tongaren,2007,Plantingâ†’Vegetative,2007-06-19,2007-06-22,4,Moderate damage risk,35.36
+KEN,Kenya,Tongaren,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,35.36
+KEN,Kenya,Turbo,2007,Plantingâ†’Vegetative,2007-06-21,2007-06-30,10,Severe damage risk,34.8185
+KEN,Kenya,Ugenya,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,33.69
+KEN,Kenya,Ugunja,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-20,5,Moderate damage risk,35.41
+KEN,Kenya,Uriri,2007,Plantingâ†’Vegetative,2007-06-13,2007-06-20,8,Severe damage risk,30.6
+KEN,Kenya,Voi,2007,Plantingâ†’Vegetative,2007-03-01,2007-03-07,7,Severe damage risk,30.9
+KEN,Kenya,Webute West,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-23,10,Severe damage risk,35.617999999999995
+KEN,Kenya,Webuye East,2007,Plantingâ†’Vegetative,2007-06-16,2007-06-22,7,Severe damage risk,36.1475
+KEN,Kenya,West Mugirango,2007,Plantingâ†’Vegetative,2007-06-14,2007-06-22,9,Severe damage risk,37.85
+KEN,Kenya,Yatta,2008,Plantingâ†’Vegetative,2008-04-28,2008-05-07,10,Severe damage risk,29.429999999999996
+KEN,Kenya,unknown 4,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,32.1
+LBR,Liberia,Gbarzon,2008,Plantingâ†’Vegetative,2008-02-29,2008-03-07,8,Severe damage risk,9.94
+LBR,Liberia,Gbeapo,2008,Plantingâ†’Vegetative,2008-03-03,2008-03-09,7,Severe damage risk,12.878
+LBR,Liberia,Gbehlageh,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,15.84
+LBR,Liberia,Jorquelleh,2008,Plantingâ†’Vegetative,2008-05-26,2008-05-30,5,Moderate damage risk,16.54
+LBR,Liberia,Konobo,2008,Plantingâ†’Vegetative,2008-02-29,2008-03-08,9,Severe damage risk,11.461999999999998
+LBR,Liberia,Panta-Kpa,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,18.086
+LBR,Liberia,Saclepea,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,17.5
+LBR,Liberia,Salayea,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,14.296
+LBR,Liberia,Sanniquelleh-Mahn,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,18.122
+LBR,Liberia,Suakoko,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,14.84
+LBR,Liberia,Tappita,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,12.91
+LBR,Liberia,Tchien,2008,Plantingâ†’Vegetative,2008-03-02,2008-03-07,6,Moderate damage risk,11.25
+LBR,Liberia,Voinjama,2008,Plantingâ†’Vegetative,2008-05-21,2008-05-30,10,Severe damage risk,17.54
+LBR,Liberia,Zoegeh,2007,Plantingâ†’Vegetative,2007-05-23,2007-05-31,9,Severe damage risk,16.77
+LBR,Liberia,Zorzor,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,13.2
+MDG,Madagascar,Alaotra-Mangoro,2008,Plantingâ†’Vegetative,2008-12-23,2008-12-29,7,Severe damage risk,20.792
+MDG,Madagascar,Amoron'i mania,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-28,7,Severe damage risk,21.843
+MDG,Madagascar,Analamanga,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-30,7,Severe damage risk,25.714
+MDG,Madagascar,Betsiboka,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,24.196999999999996
+MDG,Madagascar,Bongolava,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,29.442999999999998
+MDG,Madagascar,Haute matsiatra,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-28,7,Severe damage risk,18.412999999999997
+MDG,Madagascar,Itasy,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-30,7,Severe damage risk,28.698999999999998
+MDG,Madagascar,Vakinankaratra,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,25.8
+MLI,Mali,Bafoulabé,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,10.363999999999997
+MLI,Mali,Banamba,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,10.25
+MLI,Mali,Bankass,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,10.93
+MLI,Mali,Barouéli,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,9.927
+MLI,Mali,Bla,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,12.911499999999998
+MLI,Mali,Bougouni,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,25.669999999999998
+MLI,Mali,Dioïla,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,15.74
+MLI,Mali,Diéma,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,11.253999999999996
+MLI,Mali,Kadiolo,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,26.63
+MLI,Mali,Kati,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,17.107999999999997
+MLI,Mali,Kayes,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,8.231999999999994
+MLI,Mali,Kita,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,14.948999999999996
+MLI,Mali,Kolokani,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,9.727499999999997
+MLI,Mali,Kolondiéba,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,27.024
+MLI,Mali,Koro,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,7.6674999999999995
+MLI,Mali,Koulikoro,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,9.517
+MLI,Mali,Koutiala,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,14.937
+MLI,Mali,Macina,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,8.800999999999998
+MLI,Mali,Macina,2008,Plantingâ†’Vegetative,2008-07-25,2008-07-30,6,Moderate damage risk,8.800999999999998
+MLI,Mali,Nara,2008,Plantingâ†’Vegetative,2008-07-21,2008-07-30,10,Severe damage risk,10.670499999999999
+MLI,Mali,Niono,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,6.27
+MLI,Mali,San,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,14.773499999999999
+MLI,Mali,Sikasso,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,22.21
+MLI,Mali,Ségou,2008,Plantingâ†’Vegetative,2008-07-23,2008-07-30,8,Severe damage risk,8.9725
+MLI,Mali,Tominian,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,12.59
+MLI,Mali,Yorosso,2008,Plantingâ†’Vegetative,2008-07-22,2008-07-30,9,Severe damage risk,14.475999999999997
+MOZ,Mozambique,Alto Molocue,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,23.347999999999995
+MOZ,Mozambique,Angónia,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,28.380999999999997
+MOZ,Mozambique,Balama,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,16.4
+MOZ,Mozambique,Barue,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,23.79
+MOZ,Mozambique,Bilene,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,16.729
+MOZ,Mozambique,Boane,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,18.325999999999997
+MOZ,Mozambique,Cahora Bassa,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,15.79
+MOZ,Mozambique,Caia,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,22.878999999999994
+MOZ,Mozambique,Changara,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,17.05
+MOZ,Mozambique,Chemba,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,18.634999999999998
+MOZ,Mozambique,Chibuto,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,19.416999999999998
+MOZ,Mozambique,Chicualacuala,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,15.148
+MOZ,Mozambique,Chifunde,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,23.34
+MOZ,Mozambique,Chiuta,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,20.49
+MOZ,Mozambique,Chiúre,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,15.185999999999998
+MOZ,Mozambique,Chókwè,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,18.245999999999995
+MOZ,Mozambique,Cuamba,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,22.250999999999994
+MOZ,Mozambique,Erati,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,14.538999999999998
+MOZ,Mozambique,Funhalouro,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,23.009
+MOZ,Mozambique,Gile,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,20.671999999999993
+MOZ,Mozambique,Gondola,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,25.759
+MOZ,Mozambique,Gorongosa,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,26.107999999999997
+MOZ,Mozambique,Guijá,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,20.851999999999997
+MOZ,Mozambique,Guro,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,17.96
+MOZ,Mozambique,Gurue,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,25.099999999999994
+MOZ,Mozambique,Ile,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,24.794999999999998
+MOZ,Mozambique,Lalaua,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,17.682
+MOZ,Mozambique,Mabote,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,21.272
+MOZ,Mozambique,Macanga,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,28.041999999999998
+MOZ,Mozambique,Magoe,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,16.455999999999996
+MOZ,Mozambique,Magude,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,20.402
+MOZ,Mozambique,Malema,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,19.524999999999995
+MOZ,Mozambique,Mandimba,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,23.13
+MOZ,Mozambique,Manhiça,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,19.855999999999998
+MOZ,Mozambique,Manica,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,26.63
+MOZ,Mozambique,Maravia,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,21.233999999999998
+MOZ,Mozambique,Maringue,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,22.560999999999996
+MOZ,Mozambique,Marrupa,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,17.07
+MOZ,Mozambique,Maúa,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,19.914
+MOZ,Mozambique,Meconta,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,13.86
+MOZ,Mozambique,Mecuburi,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,16.48
+MOZ,Mozambique,Meluco,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,15.05
+MOZ,Mozambique,Metarica,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,20.563999999999997
+MOZ,Mozambique,Milange,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,26.635999999999996
+MOZ,Mozambique,Moatize,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,20.73
+MOZ,Mozambique,Mogovolas,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,14.318999999999992
+MOZ,Mozambique,Monapo,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,12.676999999999998
+MOZ,Mozambique,Mopeia,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,20.561999999999998
+MOZ,Mozambique,Morrumbala,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,25.711999999999996
+MOZ,Mozambique,Morrumbene,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,20.378999999999998
+MOZ,Mozambique,Mossurize,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,23.566
+MOZ,Mozambique,Muecate,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,17.49
+MOZ,Mozambique,Mueda,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,16.099
+MOZ,Mozambique,Muembe,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,23.711
+MOZ,Mozambique,Muidumbe,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,16.66
+MOZ,Mozambique,Murrupula,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,19.69099999999999
+MOZ,Mozambique,Mutarara,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,21.350999999999996
+MOZ,Mozambique,N'gauma,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,24.239999999999995
+MOZ,Mozambique,Namapa,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,14.068999999999997
+MOZ,Mozambique,Namarroi,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,26.895999999999994
+MOZ,Mozambique,Nampula,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,16.019999999999992
+MOZ,Mozambique,Namuno,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,16.674999999999997
+MOZ,Mozambique,Nhamatanda,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,24.786999999999995
+MOZ,Mozambique,Nicoadala,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,19.503999999999998
+MOZ,Mozambique,Nipepe,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,17.15
+MOZ,Mozambique,Ribaue,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,17.52
+MOZ,Mozambique,Sanga,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,22.159
+MOZ,Mozambique,Sussundenga,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,25.839
+MOZ,Mozambique,Tsangano,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,26.199999999999996
+MOZ,Mozambique,Zumbu,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,23.617999999999995
+MWI,Malawi,Blantyre City,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.71
+MWI,Malawi,Mwanza Boma,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.75
+MWI,Malawi,Ntchisi Boma,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,25.5
+MWI,Malawi,Rumphi Boma,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.62
+MWI,Malawi,SC Chakhaza,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.1
+MWI,Malawi,SC Chamba,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.94
+MWI,Malawi,SC Chikweo,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.44
+MWI,Malawi,SC Chilikumwendo,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,30.61
+MWI,Malawi,SC Chilooko,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,24.34
+MWI,Malawi,SC Chilowamatambe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,23.5
+MWI,Malawi,SC Chitekwele,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,27.14
+MWI,Malawi,SC Chiwalo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.38
+MWI,Malawi,SC Goodson Ganya,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.82
+MWI,Malawi,SC Juma,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.81
+MWI,Malawi,SC Kamenya Gwaza,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,31.21
+MWI,Malawi,SC Kampingo Sibande,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.51
+MWI,Malawi,SC Kawamba,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,27.31
+MWI,Malawi,SC Kayembe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.11
+MWI,Malawi,SC Khosolo Gwaza Jere,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.63
+MWI,Malawi,SC Lukwa,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.89
+MWI,Malawi,SC M'nyanja,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.56
+MWI,Malawi,SC Makwangwala,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.0
+MWI,Malawi,SC Mavwere,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,32.3
+MWI,Malawi,SC Mbenje,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.34
+MWI,Malawi,SC Mbiza,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.58
+MWI,Malawi,SC Mbwana Nyambi,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.0
+MWI,Malawi,SC Mduwa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,31.33
+MWI,Malawi,SC Mlomba,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.14
+MWI,Malawi,SC Mponela,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,26.42
+MWI,Malawi,SC Mposa,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.79
+MWI,Malawi,SC Mtema,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.04
+MWI,Malawi,SC Mwahenga,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,28.8
+MWI,Malawi,SC Mwankhunikira,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,27.0
+MWI,Malawi,SC Mwirang'ombe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,20.0
+MWI,Malawi,SC Ngokwe,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,30.12
+MWI,Malawi,SC Njewa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.38
+MWI,Malawi,SC Njombwa,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.88
+MWI,Malawi,SC Simlemba,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.58
+MWI,Malawi,SC Sitola,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.0
+MWI,Malawi,TA Bvumbwe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,33.12
+MWI,Malawi,TA Chadza,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,29.32
+MWI,Malawi,TA Chapananga,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.97
+MWI,Malawi,TA Chigaru,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,27.62
+MWI,Malawi,TA Chikowi,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,32.28
+MWI,Malawi,TA Chikulamayembe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.45
+MWI,Malawi,TA Chikumbu,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.81
+MWI,Malawi,TA Chimaliro,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,32.8
+MWI,Malawi,TA Chimutu,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,27.36
+MWI,Malawi,TA Chimwala,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.96
+MWI,Malawi,TA Chitera,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.35
+MWI,Malawi,TA Chulu,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,25.58
+MWI,Malawi,TA Dzoole,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,26.5
+MWI,Malawi,TA Kabudula,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.55
+MWI,Malawi,TA Kadewere,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.58
+MWI,Malawi,TA Kalembo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.52
+MWI,Malawi,TA Kalolo,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,31.46
+MWI,Malawi,TA Kaluluma,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,26.0
+MWI,Malawi,TA Kalumba,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,28.75
+MWI,Malawi,TA Kalumbu,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,28.5
+MWI,Malawi,TA Kalumo,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,24.58
+MWI,Malawi,TA Kameme,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,27.9
+MWI,Malawi,TA Kanduku,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.03
+MWI,Malawi,TA Kaomba,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,24.65
+MWI,Malawi,TA Kapelula,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.25
+MWI,Malawi,TA Kapeni,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.71
+MWI,Malawi,TA Kaphuka,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,29.65
+MWI,Malawi,TA Kasumbu,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,28.8
+MWI,Malawi,TA Katunga,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,27.75
+MWI,Malawi,TA Kawinga,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.94
+MWI,Malawi,TA Khongoni,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.08
+MWI,Malawi,TA Kilupula,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.33
+MWI,Malawi,TA Kuntaja,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.75
+MWI,Malawi,TA Kunthembwe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,27.55
+MWI,Malawi,TA Kuntumanji,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,32.81
+MWI,Malawi,TA Likoswe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,32.35
+MWI,Malawi,TA Liwonde,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.27
+MWI,Malawi,TA Lundu,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.05
+MWI,Malawi,TA M'Mbelwa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,26.17
+MWI,Malawi,TA Mabuka,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,32.82
+MWI,Malawi,TA Mabulabo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.72
+MWI,Malawi,TA Machinjili,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.12
+MWI,Malawi,TA Makata,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.85
+MWI,Malawi,TA Makhwira,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.25
+MWI,Malawi,TA Malemia,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.04
+MWI,Malawi,TA Malili,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,30.0
+MWI,Malawi,TA Masasa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,30.11
+MWI,Malawi,TA Maseya,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.08
+MWI,Malawi,TA Mazengera,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,27.46
+MWI,Malawi,TA Mkanda,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,29.16
+MWI,Malawi,TA Mkhumba,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.17
+MWI,Malawi,TA Mlauli,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.58
+MWI,Malawi,TA Mlolo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.46
+MWI,Malawi,TA Mlonyeni,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,32.2
+MWI,Malawi,TA Mlumbe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.55
+MWI,Malawi,TA Mpama,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.7
+MWI,Malawi,TA Mpando,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,31.08
+MWI,Malawi,TA Mpherembe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,23.46
+MWI,Malawi,TA Msakambewa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,27.3
+MWI,Malawi,TA Mtwalo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.08
+MWI,Malawi,TA Mwabulambya,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.86
+MWI,Malawi,TA Mwase,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.35
+MWI,Malawi,TA Mzikubola,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.23
+MWI,Malawi,TA Mzukuzuku,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.58
+MWI,Malawi,TA Nazombe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.2
+MWI,Malawi,TA Nchema,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.81
+MWI,Malawi,TA Ngabu,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.66
+MWI,Malawi,TA Nkalo,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,31.65
+MWI,Malawi,TA Nkanda,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,29.45
+MWI,Malawi,TA Nsamala,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.85
+MWI,Malawi,TA Nthache,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.08
+MWI,Malawi,TA Nthalire,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,25.97
+MWI,Malawi,TA Nthiramanja,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.55
+MWI,Malawi,TA Nyambi,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.57
+MWI,Malawi,TA Phambala,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,30.52
+MWI,Malawi,TA Santhe,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.35
+MWI,Malawi,TA Symon,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.71
+MWI,Malawi,TA Tambala,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,27.67
+MWI,Malawi,TA Tengani,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.12
+MWI,Malawi,TA Wimbe,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,23.52
+MWI,Malawi,TA Zulu,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,32.06
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,24.71
+NAM,Namibia,Anamulenge,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-12,6,Moderate damage risk,15.14
+NAM,Namibia,Eenhana,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-28,4,Moderate damage risk,17.25
+NAM,Namibia,Engela,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-12,6,Moderate damage risk,12.55
+NAM,Namibia,Engodi,2008,Plantingâ†’Vegetative,2009-01-10,2009-01-14,5,Moderate damage risk,20.42
+NAM,Namibia,Epembe,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-29,6,Moderate damage risk,20.32
+NAM,Namibia,Etayi,2008,Plantingâ†’Vegetative,2009-01-05,2009-01-10,6,Moderate damage risk,14.29
+NAM,Namibia,Guinas,2008,Plantingâ†’Vegetative,2008-12-21,2008-12-24,4,Moderate damage risk,20.86
+NAM,Namibia,Kahenge,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,20.22
+NAM,Namibia,Kapako,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,20.4
+NAM,Namibia,Mashare,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,19.17
+NAM,Namibia,Mpungu,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,20.53
+NAM,Namibia,Mukwe,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,19.38
+NAM,Namibia,Ndiyona,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,20.22
+NAM,Namibia,Ogongo,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-10,4,Moderate damage risk,13.68
+NAM,Namibia,Ohangwena,2008,Plantingâ†’Vegetative,2009-01-10,2009-01-14,5,Moderate damage risk,11.65
+NAM,Namibia,Okahao,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-10,4,Moderate damage risk,15.35
+NAM,Namibia,Okaku,2008,Plantingâ†’Vegetative,2009-01-08,2009-01-11,4,Moderate damage risk,14.14
+NAM,Namibia,Okalongo,2008,Plantingâ†’Vegetative,2009-01-05,2009-01-10,6,Moderate damage risk,15.33
+NAM,Namibia,Okankolo,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-28,5,Moderate damage risk,19.88
+NAM,Namibia,Okongo,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-28,5,Moderate damage risk,22.88
+NAM,Namibia,Omatako,2008,Plantingâ†’Vegetative,2008-12-19,2008-12-24,6,Moderate damage risk,12.93
+NAM,Namibia,Omulonga,2008,Plantingâ†’Vegetative,2009-01-10,2009-01-14,5,Moderate damage risk,13.17
+NAM,Namibia,Omundaungilo,2008,Plantingâ†’Vegetative,2008-12-24,2008-12-29,6,Moderate damage risk,20.75
+NAM,Namibia,Omuntele,2008,Plantingâ†’Vegetative,2008-12-31,2009-01-03,4,Moderate damage risk,15.78
+NAM,Namibia,Omuthiyagwipundi,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-27,6,Moderate damage risk,18.71
+NAM,Namibia,Ondobe,2008,Plantingâ†’Vegetative,2009-01-10,2009-01-14,5,Moderate damage risk,13.44
+NAM,Namibia,Ongenga,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-11,5,Moderate damage risk,13.39
+NAM,Namibia,Ongwediva,2008,Plantingâ†’Vegetative,2009-01-08,2009-01-11,4,Moderate damage risk,14.5
+NAM,Namibia,Oniipa,2008,Plantingâ†’Vegetative,2009-01-08,2009-01-11,4,Moderate damage risk,15.11
+NAM,Namibia,Onyaanya,2008,Plantingâ†’Vegetative,2009-01-05,2009-01-08,4,Moderate damage risk,17.82
+NAM,Namibia,Oshikango,2008,Plantingâ†’Vegetative,2009-01-10,2009-01-14,5,Moderate damage risk,12.04
+NAM,Namibia,Otamanzi,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-30,6,Moderate damage risk,15.65
+NAM,Namibia,Otavi,2008,Plantingâ†’Vegetative,2008-12-16,2008-12-19,4,Moderate damage risk,17.67
+NAM,Namibia,Ruacana,2008,Plantingâ†’Vegetative,2008-12-22,2008-12-27,6,Moderate damage risk,13.48
+NAM,Namibia,Rundu Rural East,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,18.07
+NAM,Namibia,Rundu Rural West,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,17.63
+NAM,Namibia,Steinhausen,2008,Plantingâ†’Vegetative,2008-12-16,2008-12-20,5,Moderate damage risk,12.03
+NAM,Namibia,Tsandi,2008,Plantingâ†’Vegetative,2009-01-07,2009-01-10,4,Moderate damage risk,13.38
+NAM,Namibia,Tsumkwe,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,18.62
+NGA,Nigeria,Abakaliki,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.030999999999997
+NGA,Nigeria,Ado,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,11.702999999999994
+NGA,Nigeria,Afijio,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,11.308
+NGA,Nigeria,Agatu,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,7.454999999999999
+NGA,Nigeria,Ajaokuta,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,5.992999999999995
+NGA,Nigeria,Anka,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,7.9224999999999985
+NGA,Nigeria,Apa,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,9.086999999999994
+NGA,Nigeria,Asa,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,7.835999999999999
+NGA,Nigeria,Atiba,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,12.040999999999997
+NGA,Nigeria,Auyo,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.6365
+NGA,Nigeria,Bade,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.3945
+NGA,Nigeria,Bagudo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,9.965
+NGA,Nigeria,Bagwai,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.250499999999997
+NGA,Nigeria,Bakori,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,13.878999999999996
+NGA,Nigeria,Bakura,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.6659999999999995
+NGA,Nigeria,Balanga,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.238
+NGA,Nigeria,Baruten,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,7.9
+NGA,Nigeria,Batagarawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.734499999999999
+NGA,Nigeria,Batsari,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.6739999999999995
+NGA,Nigeria,Bebeji,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.0675
+NGA,Nigeria,Bichi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.546499999999998
+NGA,Nigeria,Bindawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,2.8609999999999975
+NGA,Nigeria,Birnin Kebbi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.515499999999999
+NGA,Nigeria,Birnin-Magaji/Kiyaw,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.723499999999998
+NGA,Nigeria,Borsari,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.764499999999999
+NGA,Nigeria,Bukkuyum,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.420499999999999
+NGA,Nigeria,Bukuru,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,5.664
+NGA,Nigeria,Bungudu,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,7.4739999999999975
+NGA,Nigeria,Bunza,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.262499999999999
+NGA,Nigeria,Charanchi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.017999999999997
+NGA,Nigeria,Damaturu,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.439
+NGA,Nigeria,Dambatta,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.1754999999999995
+NGA,Nigeria,Damboa,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.936999999999998
+NGA,Nigeria,Dandume,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,16.668499999999995
+NGA,Nigeria,Danja,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,13.946499999999997
+NGA,Nigeria,Danko Wasagu,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.443999999999999
+NGA,Nigeria,Danmusa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.966499999999996
+NGA,Nigeria,Dawakin Kudu,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.895
+NGA,Nigeria,Dawakin Tofa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.203999999999999
+NGA,Nigeria,Doguwa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,12.438499999999998
+NGA,Nigeria,Dutsinma,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.737999999999997
+NGA,Nigeria,Ebonyi,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.095999999999995
+NGA,Nigeria,Edu,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.239999999999998
+NGA,Nigeria,Ezza North,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.445999999999996
+NGA,Nigeria,Ezza South,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.028999999999998
+NGA,Nigeria,Fakai,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.968499999999999
+NGA,Nigeria,Faskari,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,15.656999999999996
+NGA,Nigeria,Fufore,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.963
+NGA,Nigeria,Fune,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.6255
+NGA,Nigeria,Funtua,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,16.412999999999997
+NGA,Nigeria,Gamawa,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.754499999999999
+NGA,Nigeria,Ganye,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,16.785
+NGA,Nigeria,Gboko,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.883999999999998
+NGA,Nigeria,Gezawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.467
+NGA,Nigeria,Gombi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,9.5465
+NGA,Nigeria,Goronyo,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,7.411999999999999
+NGA,Nigeria,Gubio,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.1175
+NGA,Nigeria,Guma,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,6.0619999999999985
+NGA,Nigeria,Gummi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.3975
+NGA,Nigeria,Gusau,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.173999999999998
+NGA,Nigeria,Guyuk,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,5.4719999999999995
+NGA,Nigeria,Gwarzo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.806499999999998
+NGA,Nigeria,Gwer East,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,8.178999999999998
+NGA,Nigeria,Gwer West,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.82
+NGA,Nigeria,Gwoza,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,4.7124999999999995
+NGA,Nigeria,Ibarapa Central,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,9.94
+NGA,Nigeria,Ibarapa East,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,10.399999999999999
+NGA,Nigeria,Ibarapa North,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,10.555999999999997
+NGA,Nigeria,Ifelodun,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,8.182999999999998
+NGA,Nigeria,Ikwo,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,14.201999999999998
+NGA,Nigeria,Illela,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,7.8839999999999995
+NGA,Nigeria,Ingawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,2.6844999999999977
+NGA,Nigeria,Irepo,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,6.04
+NGA,Nigeria,Isa,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,7.758
+NGA,Nigeria,Iseyin,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,11.034999999999997
+NGA,Nigeria,Ishielu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.402999999999995
+NGA,Nigeria,Itas/Gadau,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.1575
+NGA,Nigeria,Izzi,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.627999999999997
+NGA,Nigeria,Jada,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,12.446
+NGA,Nigeria,Jahun,2007,Plantingâ†’Vegetative,2007-05-08,2007-05-11,4,Moderate damage risk,3.4885
+NGA,Nigeria,Jakusko,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.5855
+NGA,Nigeria,Jama'are,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,3.7759999999999994
+NGA,Nigeria,Kabo,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,15.974999999999994
+NGA,Nigeria,Kafin Hausa,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.5065
+NGA,Nigeria,Kafur,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,9.073999999999996
+NGA,Nigeria,Kaiama,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,5.927
+NGA,Nigeria,Kalgo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.226
+NGA,Nigeria,Kankara,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.698999999999998
+NGA,Nigeria,Kankia,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.253499999999997
+NGA,Nigeria,Karaye,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.455499999999999
+NGA,Nigeria,Katagum,2008,Plantingâ†’Vegetative,2008-05-25,2008-05-28,4,Moderate damage risk,4.138
+NGA,Nigeria,Katsina-Ala,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,6.8
+NGA,Nigeria,Kaugama,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,7.8885
+NGA,Nigeria,Kaura Namoda,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.610499999999999
+NGA,Nigeria,Kebbe,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.387
+NGA,Nigeria,Kiri Kasama,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,7.286
+NGA,Nigeria,Kiru,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.243499999999999
+NGA,Nigeria,Koko/Besse,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.966999999999999
+NGA,Nigeria,Konshisha,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,8.84
+NGA,Nigeria,Kumbotso,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.489999999999998
+NGA,Nigeria,Kunchi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.5129999999999977
+NGA,Nigeria,Kura,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.1655
+NGA,Nigeria,Kurfi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.5004999999999984
+NGA,Nigeria,Kusada,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.315999999999997
+NGA,Nigeria,Kwande,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,8.66
+NGA,Nigeria,Lamurde,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,6.8854999999999995
+NGA,Nigeria,Logo,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,5.62
+NGA,Nigeria,Machina,2007,Plantingâ†’Vegetative,2007-05-05,2007-05-08,4,Moderate damage risk,10.516499999999999
+NGA,Nigeria,Madagali,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,4.060499999999998
+NGA,Nigeria,Madobi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.882999999999999
+NGA,Nigeria,Magumeri,2008,Plantingâ†’Vegetative,2008-05-02,2008-05-05,4,Moderate damage risk,6.1885
+NGA,Nigeria,Mai'Adua,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,5.499
+NGA,Nigeria,Maiyama,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.225
+NGA,Nigeria,Makoda,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.108999999999999
+NGA,Nigeria,Makurdi,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.8
+NGA,Nigeria,Malam Maduri,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,8.399999999999999
+NGA,Nigeria,Malumfashi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.409499999999998
+NGA,Nigeria,Mani,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.1134999999999984
+NGA,Nigeria,Maru,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,13.041499999999997
+NGA,Nigeria,Matazu,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.781999999999997
+NGA,Nigeria,Mayo-Belwa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.474499999999999
+NGA,Nigeria,Michika,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,4.301999999999999
+NGA,Nigeria,Minjibir,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.384499999999999
+NGA,Nigeria,Misau,2008,Plantingâ†’Vegetative,2008-05-25,2008-05-28,4,Moderate damage risk,4.239
+NGA,Nigeria,Mobbar,2008,Plantingâ†’Vegetative,2008-05-02,2008-05-05,4,Moderate damage risk,5.9485
+NGA,Nigeria,Moro,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,6.577
+NGA,Nigeria,Mubi North,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,4.1225
+NGA,Nigeria,Musawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.978499999999999
+NGA,Nigeria,Nangere,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.132499999999999
+NGA,Nigeria,Ngaski,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.783499999999998
+NGA,Nigeria,Ningi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.2595
+NGA,Nigeria,Nkanu East,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.604999999999995
+NGA,Nigeria,Obi,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,6.911
+NGA,Nigeria,Ohaukwu,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.093999999999994
+NGA,Nigeria,Ori-Ire,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,9.878
+NGA,Nigeria,Otukpo,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,10.496999999999995
+NGA,Nigeria,Oyo East,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,10.694999999999999
+NGA,Nigeria,Oyo West,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,10.544999999999996
+NGA,Nigeria,Pategi,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,7.4799999999999995
+NGA,Nigeria,Potiskum,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,4.5569999999999995
+NGA,Nigeria,Rabah,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,5.518999999999999
+NGA,Nigeria,Rimi,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,3.8989999999999982
+NGA,Nigeria,Rimin Gado,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.120499999999998
+NGA,Nigeria,Rogo,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.536999999999999
+NGA,Nigeria,Roni,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,2.4519999999999986
+NGA,Nigeria,Sabon Birni,2007,Plantingâ†’Vegetative,2007-05-01,2007-05-04,4,Moderate damage risk,8.8675
+NGA,Nigeria,Sabuwa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,17.115499999999997
+NGA,Nigeria,Safana,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.650999999999997
+NGA,Nigeria,Sakaba,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.153999999999998
+NGA,Nigeria,Saki East,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,7.736
+NGA,Nigeria,Saki West,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,9.440999999999999
+NGA,Nigeria,Shanga,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.757499999999999
+NGA,Nigeria,Shanono,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.071999999999997
+NGA,Nigeria,Shelleng,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,7.911
+NGA,Nigeria,Song,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,9.3755
+NGA,Nigeria,Sumaila,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.3355
+NGA,Nigeria,Tarka,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.5529999999999955
+NGA,Nigeria,Tarmuwa,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,5.874499999999999
+NGA,Nigeria,Tofa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.731999999999998
+NGA,Nigeria,Toro,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.4695
+NGA,Nigeria,Tsafe,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,12.215499999999997
+NGA,Nigeria,Tsanyawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,5.100999999999996
+NGA,Nigeria,Tudun Wada,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.969499999999999
+NGA,Nigeria,Ukum,2008,Plantingâ†’Vegetative,2008-04-25,2008-04-29,5,Moderate damage risk,6.047
+NGA,Nigeria,Ushongo,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,6.37
+NGA,Nigeria,Vande Ikya,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,6.56
+NGA,Nigeria,Warawa,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,6.656499999999999
+NGA,Nigeria,Yala,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,12.161999999999999
+NGA,Nigeria,Yauri,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,12.085999999999999
+NGA,Nigeria,Yewa North,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,14.5
+NGA,Nigeria,Yola South,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.8145
+NGA,Nigeria,Yunusari,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.601999999999999
+NGA,Nigeria,Zaki,2008,Plantingâ†’Vegetative,2008-04-30,2008-05-03,4,Moderate damage risk,6.175999999999999
+RWA,Rwanda,Bugesera,2007,Plantingâ†’Vegetative,2007-02-15,2007-02-21,7,Severe damage risk,30.91
+RWA,Rwanda,Burera,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-13,4,Moderate damage risk,31.973
+RWA,Rwanda,Burera,2008,Plantingâ†’Vegetative,2008-03-27,2008-03-30,4,Moderate damage risk,31.973
+RWA,Rwanda,Gakenke,2007,Plantingâ†’Vegetative,2007-02-17,2007-02-20,4,Moderate damage risk,37.31
+RWA,Rwanda,Gasabo,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,33.61
+RWA,Rwanda,Gatsibo,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,28.66
+RWA,Rwanda,Gicumbi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,32.41
+RWA,Rwanda,Gisagara,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,36.96
+RWA,Rwanda,Huye,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,37.68
+RWA,Rwanda,Kamonyi,2007,Plantingâ†’Vegetative,2007-02-15,2007-02-21,7,Severe damage risk,34.23
+RWA,Rwanda,Kayonza,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,26.65
+RWA,Rwanda,Kirehe,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,31.86
+RWA,Rwanda,Muhanga,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,39.65
+RWA,Rwanda,Musanze,2008,Plantingâ†’Vegetative,2008-03-26,2008-03-30,5,Moderate damage risk,35.25
+RWA,Rwanda,Nyagatare,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,29.84
+RWA,Rwanda,Nyamagabe,2007,Plantingâ†’Vegetative,2007-02-03,2007-02-09,7,Severe damage risk,40.72
+RWA,Rwanda,Nyaruguru,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,40.44
+RWA,Rwanda,Ruhango,2007,Plantingâ†’Vegetative,2007-02-15,2007-02-20,6,Moderate damage risk,36.508
+RWA,Rwanda,Rulindo,2007,Plantingâ†’Vegetative,2007-02-12,2007-02-18,7,Severe damage risk,34.23
+RWA,Rwanda,Rwamagana,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,30.9
+SSD,South Sudan,Al Renk,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,10.363999999999999
+SSD,South Sudan,Aliab,2007,Plantingâ†’Vegetative,2007-06-23,2007-06-30,8,Severe damage risk,19.08
+SSD,South Sudan,Aryat,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,9.05
+SSD,South Sudan,Aweil,2008,Plantingâ†’Vegetative,2008-06-22,2008-06-29,8,Severe damage risk,16.339499999999997
+SSD,South Sudan,Fashooda,2008,Plantingâ†’Vegetative,2008-06-24,2008-06-29,6,Moderate damage risk,8.309999999999999
+SSD,South Sudan,Gogrial,2007,Plantingâ†’Vegetative,2007-06-26,2007-06-30,5,Moderate damage risk,15.506499999999997
+SSD,South Sudan,Raja,2008,Plantingâ†’Vegetative,2008-06-22,2008-06-29,8,Severe damage risk,21.231999999999996
+SSD,South Sudan,Rumbek,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,24.8175
+SSD,South Sudan,Shobet,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,21.9575
+SSD,South Sudan,Tonj,2007,Plantingâ†’Vegetative,2007-06-27,2007-06-30,4,Moderate damage risk,22.6585
+SSD,South Sudan,Tonj,2008,Plantingâ†’Vegetative,2008-06-26,2008-06-29,4,Moderate damage risk,22.6585
+SSD,South Sudan,Wanjuk,2008,Plantingâ†’Vegetative,2008-06-23,2008-06-29,7,Severe damage risk,11.834999999999996
+SSD,South Sudan,Warab,2007,Plantingâ†’Vegetative,2007-06-24,2007-06-30,7,Severe damage risk,17.7375
+SSD,South Sudan,Yerol,2008,Plantingâ†’Vegetative,2008-06-25,2008-06-29,5,Moderate damage risk,18.788999999999998
+SWZ,Swaziland,Gege,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,26.319499999999994
+SWZ,Swaziland,Hosea,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,19.500499999999995
+SWZ,Swaziland,Lobamba Lomdzala,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,24.088999999999995
+SWZ,Swaziland,Lomahasha,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,17.628999999999998
+SWZ,Swaziland,Lubuli,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,15.122499999999993
+SWZ,Swaziland,Lugongolweni,2008,Plantingâ†’Vegetative,2008-11-23,2008-11-29,7,Severe damage risk,17.067499999999995
+SWZ,Swaziland,Madlangempisi,2007,Plantingâ†’Vegetative,2007-11-25,2007-11-30,6,Moderate damage risk,20.356499999999997
+SWZ,Swaziland,Mahlangatja,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,24.55099999999999
+SWZ,Swaziland,Maseyisini,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,24.673499999999997
+SWZ,Swaziland,Mayiwane,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,19.61249999999999
+SWZ,Swaziland,Mbangweni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,24.254999999999995
+SWZ,Swaziland,Mhlangatane,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,18.35999999999999
+SWZ,Swaziland,Mhlume,2007,Plantingâ†’Vegetative,2007-11-26,2007-11-30,5,Moderate damage risk,18.4575
+SWZ,Swaziland,Mkhiweni,2007,Plantingâ†’Vegetative,2007-11-26,2007-11-30,5,Moderate damage risk,19.69
+SWZ,Swaziland,Motjane,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,23.17449999999999
+SWZ,Swaziland,Mphalaleni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,22.82249999999999
+SWZ,Swaziland,Mpholonjeni,2007,Plantingâ†’Vegetative,2007-11-26,2007-11-30,5,Moderate damage risk,15.34
+SWZ,Swaziland,Mtsambama,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,23.090999999999994
+SWZ,Swaziland,Ndzingeni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,22.426
+SWZ,Swaziland,Ngwenpisi,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,25.194499999999998
+SWZ,Swaziland,Nhlambeni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,22.063499999999994
+SWZ,Swaziland,Nkilongo,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,15.238999999999992
+SWZ,Swaziland,Ntfonjeni,2007,Plantingâ†’Vegetative,2007-11-25,2007-11-30,6,Moderate damage risk,22.0255
+SWZ,Swaziland,Ntondozi,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,22.71249999999999
+SWZ,Swaziland,Sandleni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,21.588999999999995
+SWZ,Swaziland,Shiselweni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,20.176499999999994
+SWZ,Swaziland,Sigwe,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,16.514999999999993
+SWZ,Swaziland,Siphofaneni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,17.787
+SWZ,Swaziland,Sithobela,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,17.517999999999994
+SWZ,Swaziland,Timpisini,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,20.96249999999999
+SWZ,Swaziland,Zombodze,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,22.352499999999992
+TCD,Chad,Baguirmi,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,11.593499999999995
+TCD,Chad,Barh Köh,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,23.6355
+TCD,Chad,Barh Sara,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,31.35
+TCD,Chad,Batha Est,2008,Plantingâ†’Vegetative,2008-07-27,2008-07-30,4,Moderate damage risk,8.23
+TCD,Chad,Batha Oues,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,8.156499999999994
+TCD,Chad,Béré,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,21.397499999999997
+TCD,Chad,Dababa,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,8.715499999999995
+TCD,Chad,Djourf Al Ahmar,2008,Plantingâ†’Vegetative,2008-07-27,2008-07-30,4,Moderate damage risk,8.33
+TCD,Chad,Dodjé,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,29.6495
+TCD,Chad,Grande Sido,2008,Plantingâ†’Vegetative,2008-07-26,2008-07-30,5,Moderate damage risk,33.33
+TCD,Chad,Kabbia,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,26.6675
+TCD,Chad,Lac Iro,2007,Plantingâ†’Vegetative,2007-07-26,2007-07-31,6,Moderate damage risk,19.186
+TCD,Chad,Lac Wey,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,29.012499999999996
+TCD,Chad,Lanya,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,29.351999999999997
+TCD,Chad,Loug Chari,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,18.343499999999995
+TCD,Chad,Mandoul Occidental,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,26.396499999999996
+TCD,Chad,Mandoul Oriental,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,27.760499999999997
+TCD,Chad,Mayo-Boneye,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,15.061999999999996
+TCD,Chad,Mayo-Dallah,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,28.086
+TCD,Chad,Mont Illi,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,21.893999999999995
+TCD,Chad,Monts de Lam,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,32.03249999999999
+TCD,Chad,Ngourkosso,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,25.220499999999994
+TCD,Chad,Nya Pendé,2008,Plantingâ†’Vegetative,2008-07-24,2008-07-30,7,Severe damage risk,33.184999999999995
+TCD,Chad,Ouara,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,6.49
+TCD,Chad,Pendé,2007,Plantingâ†’Vegetative,2007-07-28,2007-07-31,4,Moderate damage risk,28.9795
+TCD,Chad,Sila,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,10.667499999999997
+TCD,Chad,Tandjilé Est,2007,Plantingâ†’Vegetative,2007-07-27,2007-07-31,5,Moderate damage risk,20.137999999999995
+TCD,Chad,Tandjilé Ouest,2007,Plantingâ†’Vegetative,2007-07-25,2007-07-31,7,Severe damage risk,25.419500000000003
+TGO,Togo,Amou,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,13.660999999999996
+TGO,Togo,Anié,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,8.477999999999996
+TGO,Togo,Bas-Mono,2008,Plantingâ†’Vegetative,2008-02-29,2008-03-04,5,Moderate damage risk,14.298
+TGO,Togo,Bassar,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,19.059999999999995
+TGO,Togo,Blitta,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,12.607
+TGO,Togo,Dankpen,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,14.720999999999998
+TGO,Togo,Doufelgou,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,16.189999999999998
+TGO,Togo,Est-Mono,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,10.232999999999995
+TGO,Togo,Haho,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.119999999999997
+TGO,Togo,Kozah,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,16.8605
+TGO,Togo,Kpendjal,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,8.6995
+TGO,Togo,Kéran,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,13.473499999999996
+TGO,Togo,Mô,2008,Plantingâ†’Vegetative,2008-04-23,2008-04-29,7,Severe damage risk,13.884999999999994
+TGO,Togo,Naki-Ouest,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.4485
+TGO,Togo,Ogou,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,10.373
+TGO,Togo,Oti,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.032499999999999
+TGO,Togo,Oti-Sud,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,10.366499999999997
+TGO,Togo,Sotouboua,2008,Plantingâ†’Vegetative,2008-04-26,2008-04-29,4,Moderate damage risk,13.826999999999998
+TGO,Togo,Tandjouaré,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,13.105999999999998
+TGO,Togo,Tchamba,2007,Plantingâ†’Vegetative,2007-04-26,2007-04-30,5,Moderate damage risk,11.990999999999996
+TGO,Togo,Tchaudjo,2007,Plantingâ†’Vegetative,2007-04-27,2007-04-30,4,Moderate damage risk,12.738999999999999
+TGO,Togo,Tône,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,11.325999999999999
+TGO,Togo,Zio,2008,Plantingâ†’Vegetative,2008-04-24,2008-04-29,6,Moderate damage risk,16.08
+TZA,Tanzania,Bahi,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,11.269999999999998
+TZA,Tanzania,Bariadi,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,36.38249999999999
+TZA,Tanzania,Biharamulo,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,34.982499999999995
+TZA,Tanzania,Bukombe,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,40.678999999999995
+TZA,Tanzania,Chamwino,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,13.026
+TZA,Tanzania,Chemba,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,13.604999999999999
+TZA,Tanzania,Chunya,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,20.55
+TZA,Tanzania,Dodoma Urban,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,10.240999999999998
+TZA,Tanzania,Gairo,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,16.125999999999998
+TZA,Tanzania,Hanang,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,14.573999999999996
+TZA,Tanzania,Handeni,2007,Plantingâ†’Vegetative,2007-03-27,2007-03-31,5,Moderate damage risk,30.05
+TZA,Tanzania,Igunga,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,18.02199999999999
+TZA,Tanzania,Ikungi,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,19.624999999999996
+TZA,Tanzania,Iramba,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,17.288999999999994
+TZA,Tanzania,Iringa Rural,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,14.399000000000001
+TZA,Tanzania,Itilima,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,37.544
+TZA,Tanzania,Kahama,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,40.257
+TZA,Tanzania,Kahama Town,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,38.4435
+TZA,Tanzania,Kaliua,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,24.449999999999996
+TZA,Tanzania,Karagwe,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,29.217999999999993
+TZA,Tanzania,Kasulu,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,30.92
+TZA,Tanzania,Kilolo,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,17.82
+TZA,Tanzania,Kilombero,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,19.04
+TZA,Tanzania,Kilosa,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,18.639
+TZA,Tanzania,Kishapu,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,42.3
+TZA,Tanzania,Kiteto,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,17.552999999999997
+TZA,Tanzania,Kondoa,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,15.03
+TZA,Tanzania,Kongwa,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,12.582999999999998
+TZA,Tanzania,Kwimba,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,41.096999999999994
+TZA,Tanzania,Manyoni,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,17.292999999999996
+TZA,Tanzania,Masasi,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,14.6
+TZA,Tanzania,Masasi Town,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,12.66
+TZA,Tanzania,Maswa,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,42.68
+TZA,Tanzania,Mbarali,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,16.077999999999992
+TZA,Tanzania,Mbeya Rural,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,23.930999999999994
+TZA,Tanzania,Mbogwe,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,38.574999999999996
+TZA,Tanzania,Mbozi,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,24.143
+TZA,Tanzania,Meatu,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,37.442
+TZA,Tanzania,Misungwi,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,37.7465
+TZA,Tanzania,Mkalama,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,13.663999999999998
+TZA,Tanzania,Mlele,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,26.404999999999994
+TZA,Tanzania,Momba,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,20.55
+TZA,Tanzania,Monduli,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-20,5,Moderate damage risk,30.7
+TZA,Tanzania,Morogoro Rural,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,17.639
+TZA,Tanzania,Moshi Rural,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-20,5,Moderate damage risk,27.99
+TZA,Tanzania,Mpanda Urban,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,30.44
+TZA,Tanzania,Mpwapwa,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,14.187999999999999
+TZA,Tanzania,Mvomero,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,17.477999999999998
+TZA,Tanzania,Nachingwea,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,15.92
+TZA,Tanzania,Namtumbo,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,19.927999999999994
+TZA,Tanzania,Nanyumbu,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,14.62
+TZA,Tanzania,Newala,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,14.45
+TZA,Tanzania,Nyang'hwale,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,40.193
+TZA,Tanzania,Nzega,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,20.21899999999999
+TZA,Tanzania,Serengeti,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,32.12649999999999
+TZA,Tanzania,Shinyanga Rural,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,41.196999999999996
+TZA,Tanzania,Shinyanga Urban,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,41.02499999999999
+TZA,Tanzania,Sikonge,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,19.375
+TZA,Tanzania,Singida Rural,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,14.168999999999995
+TZA,Tanzania,Singida Urban,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,13.670999999999994
+TZA,Tanzania,Sumbawanga Urban,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,28.228999999999992
+TZA,Tanzania,Tabora,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,21.21199999999999
+TZA,Tanzania,Tarime,2007,Plantingâ†’Vegetative,2007-02-16,2007-02-21,6,Moderate damage risk,31.45249999999999
+TZA,Tanzania,Tunduru,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,17.932
+TZA,Tanzania,Ulanga,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,18.44
+TZA,Tanzania,Urambo,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,25.190999999999995
+TZA,Tanzania,Uyui,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,21.004999999999995
+TZA,Tanzania,Wanging'ombe,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,19.322999999999997
+UGA,Uganda,Agago,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,25.048000000000002
+UGA,Uganda,Amuria,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,21.39
+UGA,Uganda,Aringa,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,21.295499999999997
+UGA,Uganda,Aruu,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,27.865999999999996
+UGA,Uganda,Aswa,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,25.851999999999997
+UGA,Uganda,Ayivu,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,21.4585
+UGA,Uganda,Bamunanika,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-14,8,Severe damage risk,29.612999999999996
+UGA,Uganda,Bokora,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,18.6
+UGA,Uganda,Bubulo,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-17,8,Severe damage risk,31.291999999999998
+UGA,Uganda,Budaka,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-17,8,Severe damage risk,28.991
+UGA,Uganda,Bugabula,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-12,6,Moderate damage risk,30.493999999999996
+UGA,Uganda,Bugangaizi,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-07,7,Severe damage risk,33.054
+UGA,Uganda,Bugweri,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,32.19
+UGA,Uganda,Buhweju,2008,Plantingâ†’Vegetative,2008-03-25,2008-03-30,6,Moderate damage risk,28.704
+UGA,Uganda,Bujenje,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-04,4,Moderate damage risk,20.89
+UGA,Uganda,Bukanga,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,29.2
+UGA,Uganda,Bukedea,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,25.61
+UGA,Uganda,Bulamogi,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,29.320999999999998
+UGA,Uganda,Bungokho,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-17,8,Severe damage risk,28.772999999999996
+UGA,Uganda,Bunyole,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,29.25
+UGA,Uganda,Busiki,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,31.12
+UGA,Uganda,Butebo,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-10,5,Moderate damage risk,29.035
+UGA,Uganda,Buwekula,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-07,7,Severe damage risk,32.8
+UGA,Uganda,Buyanja,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-07,7,Severe damage risk,34.65
+UGA,Uganda,Buzaaya,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-12,6,Moderate damage risk,30.657
+UGA,Uganda,Chekwii,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,19.464999999999996
+UGA,Uganda,Chua,2007,Plantingâ†’Vegetative,2007-05-28,2007-05-31,4,Moderate damage risk,22.45
+UGA,Uganda,Dodoth,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,17.2575
+UGA,Uganda,Dokolo,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,30.04
+UGA,Uganda,East Moyo,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,20.417
+UGA,Uganda,Erute,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,29.3785
+UGA,Uganda,Gomba,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,33.019
+UGA,Uganda,Gulu,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,28.243499999999997
+UGA,Uganda,Isingiro,2008,Plantingâ†’Vegetative,2008-03-27,2008-03-30,4,Moderate damage risk,27.32
+UGA,Uganda,Jie,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,16.97
+UGA,Uganda,Jinja,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-14,8,Severe damage risk,26.9
+UGA,Uganda,Jonam,2008,Plantingâ†’Vegetative,2008-05-14,2008-05-18,5,Moderate damage risk,19.918000000000003
+UGA,Uganda,Kabale,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,28.75
+UGA,Uganda,Kabula,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-04,4,Moderate damage risk,34.91
+UGA,Uganda,Kagoma,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,30.47
+UGA,Uganda,Kalaki,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-14,8,Severe damage risk,22.936
+UGA,Uganda,Kapelebyong,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,16.33
+UGA,Uganda,Kassanda,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-07,7,Severe damage risk,31.313
+UGA,Uganda,Katikamu,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,30.18
+UGA,Uganda,Kibale,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-08,8,Severe damage risk,24.173999999999996
+UGA,Uganda,Kibanda,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,21.88
+UGA,Uganda,Kiboga,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-06,6,Moderate damage risk,29.644
+UGA,Uganda,Kibuku,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-10,5,Moderate damage risk,30.614
+UGA,Uganda,Kigulu,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,33.33
+UGA,Uganda,Kilak,2008,Plantingâ†’Vegetative,2008-05-27,2008-05-30,4,Moderate damage risk,22.0395
+UGA,Uganda,Kisoko (West Budama),2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,28.69
+UGA,Uganda,Kisoro,2008,Plantingâ†’Vegetative,2008-03-26,2008-03-30,5,Moderate damage risk,29.18
+UGA,Uganda,Koboko,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,24.560499999999998
+UGA,Uganda,Kole,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,29.774
+UGA,Uganda,Kongasis,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,22.86
+UGA,Uganda,Kooki,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-09,5,Moderate damage risk,31.71
+UGA,Uganda,Kumi,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,26.63
+UGA,Uganda,Kwania,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,29.169
+UGA,Uganda,Kween,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,23.16
+UGA,Uganda,Kyaka,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-07,7,Severe damage risk,33.32
+UGA,Uganda,Labwor,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,20.38
+UGA,Uganda,Lamwo,2008,Plantingâ†’Vegetative,2008-05-24,2008-05-30,7,Severe damage risk,22.527499999999996
+UGA,Uganda,Lira,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,29.88
+UGA,Uganda,Luuka,2007,Plantingâ†’Vegetative,2007-02-06,2007-02-12,7,Severe damage risk,33.0
+UGA,Uganda,Madi-Okollo,2008,Plantingâ†’Vegetative,2008-05-14,2008-05-18,5,Moderate damage risk,19.7565
+UGA,Uganda,Maracha,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,23.257499999999997
+UGA,Uganda,Maruzi,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,28.8125
+UGA,Uganda,Mawogola,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-04,4,Moderate damage risk,32.987
+UGA,Uganda,Mawokota,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-11,7,Severe damage risk,29.52
+UGA,Uganda,Moroto,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,26.81
+UGA,Uganda,Mwenge,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-08,8,Severe damage risk,26.825999999999997
+UGA,Uganda,Nakaseke,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,26.111
+UGA,Uganda,Nakifuma,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-14,8,Severe damage risk,29.102999999999998
+UGA,Uganda,Ndorwa,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,30.1
+UGA,Uganda,Ngora,2007,Plantingâ†’Vegetative,2007-02-04,2007-02-11,8,Severe damage risk,27.485
+UGA,Uganda,Ntenjeru,2007,Plantingâ†’Vegetative,2007-02-07,2007-02-12,6,Moderate damage risk,29.537999999999997
+UGA,Uganda,Nwoya,2007,Plantingâ†’Vegetative,2007-05-16,2007-05-22,7,Severe damage risk,24.198
+UGA,Uganda,Nyabushozi,2008,Plantingâ†’Vegetative,2008-02-01,2008-02-04,4,Moderate damage risk,30.37
+UGA,Uganda,Okoro,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,23.77
+UGA,Uganda,Omoro,2007,Plantingâ†’Vegetative,2007-05-26,2007-05-31,6,Moderate damage risk,29.2485
+UGA,Uganda,Oyam,2007,Plantingâ†’Vegetative,2007-05-25,2007-05-31,7,Severe damage risk,29.3985
+UGA,Uganda,Padyere,2008,Plantingâ†’Vegetative,2008-05-14,2008-05-20,7,Severe damage risk,20.237
+UGA,Uganda,Pallisa,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,28.24
+UGA,Uganda,Rubabo,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,30.62
+UGA,Uganda,Rubanda,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,28.79
+UGA,Uganda,Ruhaama,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,30.25
+UGA,Uganda,Rukiga,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,30.17
+UGA,Uganda,Rushenyi,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-16,7,Severe damage risk,30.77
+UGA,Uganda,Rwampara,2008,Plantingâ†’Vegetative,2008-03-24,2008-03-30,7,Severe damage risk,27.59
+UGA,Uganda,Samia-Bugwe,2007,Plantingâ†’Vegetative,2007-02-04,2007-02-10,7,Severe damage risk,30.71
+UGA,Uganda,Serere,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,25.157
+UGA,Uganda,Soroti,2007,Plantingâ†’Vegetative,2007-02-05,2007-02-12,8,Severe damage risk,23.802
+UGA,Uganda,Tororo,2007,Plantingâ†’Vegetative,2007-02-08,2007-02-14,7,Severe damage risk,28.57
+UGA,Uganda,Usuk,2007,Plantingâ†’Vegetative,2007-02-10,2007-02-14,5,Moderate damage risk,21.79
+UGA,Uganda,Vurra,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,22.375999999999998
+UGA,Uganda,West Moyo,2007,Plantingâ†’Vegetative,2007-05-27,2007-05-31,5,Moderate damage risk,20.287499999999998
+ZAF,South Africa,Ehlanzeni,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,18.094499999999996
+ZAF,South Africa,Gert Sibande,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,23.378
+ZAF,South Africa,Nkangala,2007,Plantingâ†’Vegetative,2007-11-26,2007-11-30,5,Moderate damage risk,20.4295
+ZAF,South Africa,Sisonke,2007,Plantingâ†’Vegetative,2007-11-25,2007-11-30,6,Moderate damage risk,28.95
+ZAF,South Africa,Umgungundlovu,2007,Plantingâ†’Vegetative,2007-11-25,2007-11-30,6,Moderate damage risk,28.66
+ZAF,South Africa,Uthukela,2007,Plantingâ†’Vegetative,2007-11-25,2007-11-30,6,Moderate damage risk,24.36
+ZAF,South Africa,Zululand,2007,Plantingâ†’Vegetative,2007-11-24,2007-11-30,7,Severe damage risk,24.775999999999996
+ZMB,Zambia,Chadiza,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,28.69
+ZMB,Zambia,Chibombo,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,25.089999999999996
+ZMB,Zambia,Chikankanta,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,24.448
+ZMB,Zambia,Chilanga,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,29.36
+ZMB,Zambia,Chinsali,2008,Plantingâ†’Vegetative,2008-12-10,2008-12-14,5,Moderate damage risk,13.323499999999994
+ZMB,Zambia,Chipangali,2008,Plantingâ†’Vegetative,2009-01-09,2009-01-14,6,Moderate damage risk,28.78
+ZMB,Zambia,Chipata,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.06
+ZMB,Zambia,Chirundu,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,22.954
+ZMB,Zambia,Chisamba,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,24.464999999999996
+ZMB,Zambia,Chitambo,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,25.61
+ZMB,Zambia,Choma,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,25.801999999999996
+ZMB,Zambia,Chongwe,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,28.92
+ZMB,Zambia,Gwembe,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,23.808999999999997
+ZMB,Zambia,Isoka,2008,Plantingâ†’Vegetative,2008-12-11,2008-12-14,4,Moderate damage risk,11.0
+ZMB,Zambia,Itezhi-tezhi,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,23.74
+ZMB,Zambia,Kabompo,2007,Plantingâ†’Vegetative,2007-12-12,2007-12-15,4,Moderate damage risk,22.037
+ZMB,Zambia,Kabwe,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,25.475999999999996
+ZMB,Zambia,Kafue,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,30.36
+ZMB,Zambia,Kalomo,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,26.485
+ZMB,Zambia,Kalulushi,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,29.255000000000003
+ZMB,Zambia,Kanchibiya,2008,Plantingâ†’Vegetative,2008-12-10,2008-12-14,5,Moderate damage risk,17.231499999999997
+ZMB,Zambia,Kaoma,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,25.902
+ZMB,Zambia,Kapiri Mposhi,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,26.775
+ZMB,Zambia,Kasama,2008,Plantingâ†’Vegetative,2008-12-10,2008-12-14,5,Moderate damage risk,20.16999999999999
+ZMB,Zambia,Kasempa,2008,Plantingâ†’Vegetative,2008-12-09,2008-12-14,6,Moderate damage risk,23.272499999999994
+ZMB,Zambia,Kasenengwa,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,29.55
+ZMB,Zambia,Katete,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,28.66
+ZMB,Zambia,Kazungula,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,26.267999999999997
+ZMB,Zambia,Kitwe,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,27.871999999999996
+ZMB,Zambia,Luano,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,24.249
+ZMB,Zambia,Luanshya,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,28.197
+ZMB,Zambia,Lufwanyama,2008,Plantingâ†’Vegetative,2008-12-26,2008-12-31,6,Moderate damage risk,29.81
+ZMB,Zambia,Lumezi,2008,Plantingâ†’Vegetative,2009-01-11,2009-01-14,4,Moderate damage risk,25.83
+ZMB,Zambia,Lundazi,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,26.03
+ZMB,Zambia,Mafinga,2008,Plantingâ†’Vegetative,2008-12-08,2008-12-14,7,Severe damage risk,12.078499999999996
+ZMB,Zambia,Mansa,2008,Plantingâ†’Vegetative,2008-12-08,2008-12-14,7,Severe damage risk,22.367499999999996
+ZMB,Zambia,Manyinga,2007,Plantingâ†’Vegetative,2007-12-10,2007-12-15,6,Moderate damage risk,25.272999999999996
+ZMB,Zambia,Masaiti,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,29.250999999999994
+ZMB,Zambia,Mazabuka,2007,Plantingâ†’Vegetative,2007-12-26,2007-12-31,6,Moderate damage risk,21.852999999999998
+ZMB,Zambia,Mkushi,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,26.725
+ZMB,Zambia,Monze,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,22.189
+ZMB,Zambia,Mpika,2008,Plantingâ†’Vegetative,2008-12-08,2008-12-14,7,Severe damage risk,13.541499999999992
+ZMB,Zambia,Mpongwe,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,28.772000000000002
+ZMB,Zambia,Mufumbwe,2008,Plantingâ†’Vegetative,2008-12-11,2008-12-14,4,Moderate damage risk,23.438499999999998
+ZMB,Zambia,Mumbwa,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,26.855999999999995
+ZMB,Zambia,Mungwi,2007,Plantingâ†’Vegetative,2007-12-12,2007-12-15,4,Moderate damage risk,18.31
+ZMB,Zambia,Nakonde,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,14.918
+ZMB,Zambia,Namwala,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,19.058999999999997
+ZMB,Zambia,Ndola,2008,Plantingâ†’Vegetative,2008-12-27,2008-12-31,5,Moderate damage risk,27.855999999999995
+ZMB,Zambia,Nkeyema,2008,Plantingâ†’Vegetative,2008-12-28,2008-12-31,4,Moderate damage risk,27.661999999999995
+ZMB,Zambia,Nyimba,2007,Plantingâ†’Vegetative,2008-01-10,2008-01-14,5,Moderate damage risk,28.16
+ZMB,Zambia,Pemba,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,26.203999999999994
+ZMB,Zambia,Rufunsa,2007,Plantingâ†’Vegetative,2008-01-09,2008-01-14,6,Moderate damage risk,27.34
+ZMB,Zambia,Senga Hill,2008,Plantingâ†’Vegetative,2008-12-10,2008-12-14,5,Moderate damage risk,20.672499999999992
+ZMB,Zambia,Serenje,2008,Plantingâ†’Vegetative,2008-12-25,2008-12-31,7,Severe damage risk,26.371
+ZMB,Zambia,Shibuyunji,2007,Plantingâ†’Vegetative,2007-12-25,2007-12-31,7,Severe damage risk,24.688
+ZMB,Zambia,Siavonga,2007,Plantingâ†’Vegetative,2007-12-27,2007-12-31,5,Moderate damage risk,22.273999999999997
+ZMB,Zambia,Sinazongwe,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,23.107
+ZMB,Zambia,Sinda,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,27.1
+ZMB,Zambia,Solwezi,2008,Plantingâ†’Vegetative,2008-12-09,2008-12-14,6,Moderate damage risk,25.46
+ZMB,Zambia,Vubwi,2007,Plantingâ†’Vegetative,2008-01-11,2008-01-14,4,Moderate damage risk,32.14
+ZMB,Zambia,Zambezi,2008,Plantingâ†’Vegetative,2008-12-09,2008-12-14,6,Moderate damage risk,18.145999999999997
+ZMB,Zambia,Zimba,2007,Plantingâ†’Vegetative,2007-12-28,2007-12-31,4,Moderate damage risk,26.148
+ZWE,Zimbabwe,Bindura,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,16.205999999999996
+ZWE,Zimbabwe,Buhera,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,14.935999999999996
+ZWE,Zimbabwe,Centenary/ Muzarabani,2007,Plantingâ†’Vegetative,2007-12-12,2007-12-15,4,Moderate damage risk,12.18
+ZWE,Zimbabwe,Chegutu,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.427
+ZWE,Zimbabwe,Chikomba,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.422499999999996
+ZWE,Zimbabwe,Chipinge,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,14.522499999999997
+ZWE,Zimbabwe,Goromonzi,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.526499999999995
+ZWE,Zimbabwe,Guruve,2007,Plantingâ†’Vegetative,2007-12-12,2007-12-15,4,Moderate damage risk,14.54
+ZWE,Zimbabwe,Hurungwe,2007,Plantingâ†’Vegetative,2007-12-12,2007-12-15,4,Moderate damage risk,14.183
+ZWE,Zimbabwe,Makonde,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.2395
+ZWE,Zimbabwe,Makoni,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,16.389499999999998
+ZWE,Zimbabwe,Marondera,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,18.468999999999998
+ZWE,Zimbabwe,Mazowe,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,15.100999999999999
+ZWE,Zimbabwe,Mhondoro-Ngezi,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,18.9075
+ZWE,Zimbabwe,Mount Darwin,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,10.350499999999998
+ZWE,Zimbabwe,Mudzi,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,10.739499999999998
+ZWE,Zimbabwe,Murehwa,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,16.565499999999997
+ZWE,Zimbabwe,Mutare,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,15.664499999999999
+ZWE,Zimbabwe,Mutoko,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,11.942499999999997
+ZWE,Zimbabwe,Nyanga,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,15.003499999999997
+ZWE,Zimbabwe,Rushinga,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,10.424499999999998
+ZWE,Zimbabwe,Sanyati,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.5665
+ZWE,Zimbabwe,Seke,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,17.313
+ZWE,Zimbabwe,Shamva,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,14.957499999999998
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,12.793999999999997
+ZWE,Zimbabwe,Zvimba,2007,Plantingâ†’Vegetative,2007-12-11,2007-12-15,5,Moderate damage risk,16.909999999999997

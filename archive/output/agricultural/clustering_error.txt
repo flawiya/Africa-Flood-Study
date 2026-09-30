@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\FlawiyaShirishMore\anaconda3\Lib\site-packages\geopandas\explore.py", line 294, in _explore
+    from mapclassify import classify
+ModuleNotFoundError: No module named 'mapclassify'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\script\agricultural\spatial_clustering.py", line 176, in <module>
+    main()
+  File "C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\script\agricultural\spatial_clustering.py", line 127, in main
+    m = gdf_map.explore(column="cluster", legend=True, cmap=cmap_colors[:K], tiles="CartoDB positron")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FlawiyaShirishMore\anaconda3\Lib\site-packages\geopandas\geodataframe.py", line 2479, in explore
+    return _explore(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\FlawiyaShirishMore\anaconda3\Lib\site-packages\geopandas\explore.py", line 299, in _explore
+    raise ImportError(
+ImportError: The 'folium>=0.12', 'matplotlib' and 'mapclassify' packages are required for 'explore()'. You can install them using 'conda install -c conda-forge "folium>=0.12" matplotlib mapclassify' or 'pip install "folium>=0.12" matplotlib mapclassify'.

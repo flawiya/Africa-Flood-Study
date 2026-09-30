@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task 2: Ground-Truth Flood Verification Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    body { font-family: 'Inter', sans-serif; background: #f8fafc; color: #0f172a; margin: 0; padding: 0; }
+    .header { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); color: white; padding: 24px 36px; }
+    .header h1 { font-size: 1.5rem; margin-bottom: 6px; }
+    .header p { font-size: 0.88rem; opacity: 0.8; }
+    .container { max-width: 1550px; margin: 24px auto; padding: 0 24px; }
+    .card { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); margin-bottom: 24px; }
+    
+    .link-btn { background: #0284c7; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.8rem; display: inline-block; margin: 3px 2px; }
+    .link-btn:hover { background: #0369a1; }
+    
+    /* Layout for Map + Side Inspector Panel */
+    .map-wrapper { display: flex; gap: 20px; height: 720px; margin-top: 12px; }
+    #map { flex: 1; height: 100%; border-radius: 12px; border: 1px solid #cbd5e1; z-index: 1; }
+    .side-panel { width: 440px; background: #ffffff; border-radius: 12px; border: 1px solid #cbd5e1; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); overflow-y: auto; }
+    
+    .panel-header { border-bottom: 2px solid #e2e8f0; padding-bottom: 12px; margin-bottom: 16px; }
+    .panel-header h3 { margin: 0; font-size: 1.25rem; color: #0f172a; }
+    .panel-header p { margin: 4px 0 0 0; font-size: 0.82rem; color: #64748b; }
+    
+    .info-group { margin-bottom: 14px; }
+    .info-label { font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: #64748b; letter-spacing: 0.5px; margin-bottom: 4px; }
+    .info-val { font-size: 0.92rem; font-weight: 600; color: #1e293b; }
+    .quote-box { background: #f8fafc; border-left: 4px solid #0284c7; padding: 12px; border-radius: 6px; font-style: italic; font-size: 0.85rem; color: #334155; margin-top: 6px; line-height: 1.4; }
+    .stat-badge { display: inline-block; padding: 6px 12px; border-radius: 8px; font-weight: 700; font-size: 0.9rem; margin-right: 8px; margin-top: 4px; }
+    .badge-red { background: #fee2e2; color: #991b1b; }
+    .badge-green { background: #dcfce7; color: #166534; }
+    .select-dropdown { width: 100%; padding: 10px; font-size: 0.88rem; font-weight: 600; border-radius: 8px; border: 1px solid #cbd5e1; background: #f8fafc; color: #0f172a; margin-bottom: 16px; outline: none; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Task 2: Ground-Truth Flood Verification Dashboard (2008–2024)</h1>
+    <p>Interactive Spatial Map + Right-Side Event Inspector (Exclusively ≥ 7 Consecutive Flood Days under Option 2)</p>
+  </div>
+  <div class="container">
+    
+    <!-- Flood Verification Card: Map + Right-Side Inspector Panel -->
+    <div class="card">
+      <h2>Flood Verification</h2>
+      <p style="font-size: 0.84rem; color: #475569; margin-bottom: 12px;">
+        Click any highlighted benchmark district marker on the spatial map below (or select a district from the dropdown menu) to inspect verified event evidence, local maize crop calendar window, and direct user-provided reference links. Unhighlighted districts have zero fill.
+      </p>
+      
+      <div class="map-wrapper">
+        <!-- Interactive Leaflet Map Canvas -->
+        <div id="map"></div>
+        
+        <!-- Right-Side Event Details Inspector Panel -->
+        <div class="side-panel">
+          <div class="panel-header">
+            <h3>Benchmark Event Inspector</h3>
+            <p>Select a highlighted district to inspect verified event details</p>
+          </div>
+          
+          <select id="districtSelect" class="select-dropdown" onchange="selectDistrict(this.value)">
+            <option value="">-- Select Benchmark District (2008–2024) --</option>
+          </select>
+          
+          <div id="panelContent">
+            <div style="text-align:center; padding: 50px 10px; color:#94a3b8;">
+              <span style="font-size:3.5rem;">📍</span>
+              <p style="font-size:0.92rem; margin-top:14px;">Click any colored district marker on the map or select from the dropdown above to view event evidence & crop calendar.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    const benchmarks = {
+  "Nigeria_Edu_2008": {
+    "id": "Nigeria_Edu_2008",
+    "adm": "Edu",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "year": 2008,
+    "color": "#ef4444",
+    "opt2_days": 42,
+    "longest_streak": 42,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 15 (DOY 197) \u2192 Oct 31 (DOY 305)",
+    "citation": "SCIRP Journal / AllAfrica News / IFRC Emergency Appeal",
+    "url_ref": [
+      "https://www.scirp.org/journal/paperinformation?paperid=137385",
+      "https://allafrica.com/stories/200810200666.html",
+      "https://adore.ifrc.org/Download.aspx?FileId=352740"
+    ],
+    "quote": "Severe agricultural inundation across Edu Local Government Area resulting from River Niger riverine flooding and heavy seasonal precipitation during the 2008 crop season.",
+    "lat": 8.874132417804558,
+    "lon": 5.208712624344112
+  },
+  "Zambia_Kabwe_2008": {
+    "id": "Zambia_Kabwe_2008",
+    "adm": "Kabwe",
+    "country": "Zambia",
+    "region": "Southern Africa",
+    "year": 2008,
+    "color": "#f97316",
+    "opt2_days": 41,
+    "longest_streak": 41,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Feb 29 (DOY 60)",
+    "citation": "BBC News / ZVAC Assessment / ZEMA Outlook Report / SemanticScholar / PM World Library",
+    "url_ref": [
+      "http://news.bbc.co.uk/2/hi/africa/7196068.stm",
+      "https://www.preventionweb.net/files/11730_11730ZVACIndepthReport2008July18200.pdf",
+      "https://www.zema.org.zm/wp-content/uploads/2023/03/Kabwe-District-State-of-Environment-Outlook-report.pdf",
+      "https://pdfs.semanticscholar.org/0748/698b44c1f0aa5e17152fe7b97c4d36381793.pdf",
+      "https://pmworldlibrary.net/wp-content/uploads/2025/03/pmwj151-Apr2025-Silumbwe-Challenges-of-Urban-Drainage-Systems-in-Southern-African-cities.pdf"
+    ],
+    "quote": "Torrential rains and river overflows in Southern and Central provinces caused severe localized waterlogging, destroying standing maize crops.",
+    "lat": -14.470168852105227,
+    "lon": 28.38674608656886
+  },
+  "Central_African_Republic_Birao_2009": {
+    "id": "Central_African_Republic_Birao_2009",
+    "adm": "Birao",
+    "country": "Central African Republic",
+    "region": "Central Africa",
+    "year": 2009,
+    "color": "#8b5cf6",
+    "opt2_days": 24,
+    "longest_streak": 24,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Dec 31 (DOY 0) \u2192 Dec 15 (DOY 350)",
+    "citation": "IFRC Emergency Appeal / World Bank Climate Knowledge Portal",
+    "url_ref": [
+      "https://www.ifrc.org/docs?file=appeals/09/MDRCF006du01.pdf",
+      "https://climateknowledgeportal.worldbank.org/sites/default/files/country-profiles/15875-WB_Central%20Africa%20Republic%20Country%20Profile-WEB.pdf"
+    ],
+    "quote": "Heavy seasonal rains caused river overflows and widespread flooding, submerging farmlands and destroying crops across the northern Vakaga region.",
+    "lat": 9.964311597472076,
+    "lon": 22.508197934597785
+  },
+  "Uganda_Bugabula_2010": {
+    "id": "Uganda_Bugabula_2010",
+    "adm": "Bugabula",
+    "country": "Uganda",
+    "region": "East Africa",
+    "year": 2010,
+    "color": "#3b82f6",
+    "opt2_days": 29,
+    "longest_streak": 29,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Feb 01 (DOY 32) \u2192 May 31 (DOY 152)",
+    "citation": "World Bank Climate Knowledge Portal (Uganda Historical Disasters)",
+    "url_ref": "https://climateknowledgeportal.worldbank.org/country/uganda/natural-disasters-historical",
+    "quote": "Rising water levels in Lake Kyoga and the River Nile submerged entire villages and crop fields across eastern and central Uganda.",
+    "lat": 1.0052747057608753,
+    "lon": 33.09462546790221
+  },
+  "Nigeria_Agatu_2011": {
+    "id": "Nigeria_Agatu_2011",
+    "adm": "Agatu",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "year": 2011,
+    "color": "#ef4444",
+    "opt2_days": 21,
+    "longest_streak": 21,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 15 (DOY 197) \u2192 Oct 31 (DOY 305)",
+    "citation": "World Bank Climate Portal / IFRC GO / NCBI PubMed / FAO Open Knowledge",
+    "url_ref": [
+      "https://climateknowledgeportal.worldbank.org/country/nigeria/natural-disasters-historical",
+      "https://go.ifrc.org/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10243266/",
+      "https://openknowledge.fao.org/server/api/core/bitstreams/94c33ef0-ea20-4e0b-8846-da2ef9199ff5/content"
+    ],
+    "quote": "Torrential downpours caused the River Benue to burst its banks, submerging vast stretches of agricultural land and displacement of local farming communities.",
+    "lat": 7.856269010471242,
+    "lon": 7.904906736460381
+  },
+  "Nigeria_Lokoja_2012": {
+    "id": "Nigeria_Lokoja_2012",
+    "adm": "Lokoja",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "year": 2012,
+    "color": "#ef4444",
+    "opt2_days": 28,
+    "longest_streak": 28,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 15 (DOY 197) \u2192 Oct 31 (DOY 305)",
+    "citation": "NASA Earth Observatory / UN-SPIDER / Disasters Charter / Punch Press / ScienceDirect / FAO Open Knowledge",
+    "url_ref": [
+      "https://science.nasa.gov/earth/earth-observatory/flooding-in-southern-nigeria-79398/",
+      "https://un-spider.org/news-and-events/news/nasa-satellite-captures-nigeria-floods",
+      "https://disasterscharter.org/activations/flood-in-west-africa-nigeria-lokoja-",
+      "https://punchng.com/lokoja-flood-2012-and-lessons-not-learnt/",
+      "https://www.sciencedirect.com/science/article/abs/pii/S2212420921000777",
+      "https://openknowledge.fao.org/server/api/core/bitstreams/94c33ef0-ea20-4e0b-8846-da2ef9199ff5/content"
+    ],
+    "quote": "Satellite imagery captured massive inundation at the confluence of the Niger and Benue rivers near Lokoja, marking the worst flooding in decades.",
+    "lat": 8.171488884635052,
+    "lon": 6.459920161935459
+  },
+  "Uganda_Kongasis_2012": {
+    "id": "Uganda_Kongasis_2012",
+    "adm": "Kongasis",
+    "country": "Uganda",
+    "region": "East Africa",
+    "year": 2012,
+    "color": "#3b82f6",
+    "opt2_days": 24,
+    "longest_streak": 24,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Feb 01 (DOY 32) \u2192 May 31 (DOY 152)",
+    "citation": "International Flood Network / FEWS NET Portal",
+    "url_ref": [
+      "http://www.internationalfloodnetwork.org/files/2012/disastermap12.pdf",
+      "https://fews.net/"
+    ],
+    "quote": "Heavy torrential rains triggered massive landslides and flooding around the Mount Elgon region, destroying crops and farmland.",
+    "lat": 1.2759595820038339,
+    "lon": 34.68488380981396
+  },
+  "Angola_Waku_Kungo_2013": {
+    "id": "Angola_Waku_Kungo_2013",
+    "adm": "Waku Kungo",
+    "country": "Angola",
+    "region": "West/Southern Coast",
+    "year": 2013,
+    "color": "#f43f5e",
+    "opt2_days": 29,
+    "longest_streak": 29,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Sep 30 (DOY 274) \u2192 Feb 29 (DOY 60)",
+    "citation": "FEWS NET Angola Livelihood Profile / ReliefWeb Fact Sheet / Wikipedia Waku-Kungo Archive",
+    "url_ref": [
+      "https://fews.net/sites/default/files/documents/reports/Angola_LHZ_Report_Final_Nov13_EN_0.pdf",
+      "https://reliefweb.int/report/angola/fact-sheet-southern-africa-flooding",
+      "https://de.wikipedia.org/wiki/Waku-Kungo"
+    ],
+    "quote": "Heavy precipitation caused rivers to overflow in Cuanza Sul, submerging agricultural fields and damaging local food crop production.",
+    "lat": -11.286013541910792,
+    "lon": 15.3263100592862
+  },
+  "Mozambique_Cuamba_2014": {
+    "id": "Mozambique_Cuamba_2014",
+    "adm": "Cuamba",
+    "country": "Mozambique",
+    "region": "Southern Africa",
+    "year": 2014,
+    "color": "#ec4899",
+    "opt2_days": 31,
+    "longest_streak": 31,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Mar 15 (DOY 75)",
+    "citation": "FEWS NET Portal / ReliefWeb Uganda Portal / FAO GIEWS Briefs",
+    "url_ref": [
+      "https://fews.net/",
+      "https://reliefweb.int/country/uga",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Continuous heavy downpours flooded river basins across northern provinces, sweeping away farmland and destroying crops.",
+    "lat": -14.747091126272084,
+    "lon": 36.544338197589326
+  },
+  "Malawi_TA_Msakambewa_2014": {
+    "id": "Malawi_TA_Msakambewa_2014",
+    "adm": "TA Msakambewa",
+    "country": "Malawi",
+    "region": "Southern Africa",
+    "year": 2014,
+    "color": "#eab308",
+    "opt2_days": 29,
+    "longest_streak": 21,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Nov 14 (DOY 319) \u2192 May 14 (DOY 135)",
+    "citation": "Scotland-Malawi Partnership MVAC Report / FEWS NET / FAO GIEWS",
+    "url_ref": [
+      "https://www.scotland-malawipartnership.org/assets/resources/National_Market_Situation__Analysis_Report__for_2015_MVAC_____Response.pdf",
+      "https://fews.net/",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Excessive rainfall during the growing season resulted in waterlogged agricultural fields, dampening localized maize harvest expectations.",
+    "lat": -13.56852610429855,
+    "lon": 33.93255057134137
+  },
+  "Madagascar_Bongolava_2015": {
+    "id": "Madagascar_Bongolava_2015",
+    "adm": "Bongolava",
+    "country": "Madagascar",
+    "region": "Southern Africa",
+    "year": 2015,
+    "color": "#10b981",
+    "opt2_days": 44,
+    "longest_streak": 36,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Feb 29 (DOY 60)",
+    "citation": "ReliefWeb Disaster Brief / FAO GIEWS / FEWS NET Outlook / Wikipedia Tropical Storm Chedza",
+    "url_ref": [
+      "https://reliefweb.int/disaster/tc-2015-000004-mdg",
+      "https://reliefweb.int/report/madagascar/southern-africa-floods-and-cyclones-rainfall-season-oct-2014-may-2015",
+      "https://www.fao.org/giews/countrybrief/country.jsp?code=MDG",
+      "https://fews.net/southern-africa/madagascar/food-security-outlook/february-2016/print",
+      "https://en.wikipedia.org/wiki/Bongolava",
+      "https://en.wikipedia.org/wiki/Tropical_Storm_Chedza"
+    ],
+    "quote": "Tropical Cyclone Chedza brought torrential rainfall and widespread flooding across central agricultural lowlands.",
+    "lat": -18.58573714842031,
+    "lon": 46.14947791042514
+  },
+  "Malawi_TA_Bvumbwe_2015": {
+    "id": "Malawi_TA_Bvumbwe_2015",
+    "adm": "TA Bvumbwe",
+    "country": "Malawi",
+    "region": "Southern Africa",
+    "year": 2015,
+    "color": "#eab308",
+    "opt2_days": 10,
+    "longest_streak": 10,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Nov 14 (DOY 319) \u2192 May 14 (DOY 135)",
+    "citation": "ReliefWeb Malawi 2015 Floods Situation Report / FAO GIEWS Country Brief",
+    "url_ref": [
+      "https://reliefweb.int/report/malawi/malawi-2015-floods-humanitarian-situation-28-january-2015",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Record rainfall flooded the Shire River basin, submerging tens of thousands of hectares of standing maize crops.",
+    "lat": -15.944877078474157,
+    "lon": 35.077791198723524
+  },
+  "Ghana_Krachi_East_2016": {
+    "id": "Ghana_Krachi_East_2016",
+    "adm": "Krachi East",
+    "country": "Ghana",
+    "region": "West Africa",
+    "year": 2016,
+    "color": "#ec4899",
+    "opt2_days": 39,
+    "longest_streak": 39,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 31 (DOY 213) \u2192 Nov 30 (DOY 335)",
+    "citation": "Global Center on Adaptation Ghana Roadmap / ScienceDirect Journal / GNA Press NADMO Report",
+    "url_ref": [
+      "https://gca.org/wp-content/uploads/2022/03/Ghana_Roadmap-for-Resilient-Infrastructure-in-a-Changing-Climate.pdf",
+      "https://www.facebook.com/coverghcom/posts/or-energy-ministry-delegation-visits-krachi-east-to-advance-compensation-for-ako/1491773542531143/",
+      "https://www.sciencedirect.com/science/article/abs/pii/S1464343X26001573",
+      "https://gna.org.gh/2023/10/flood-victims-in-krachi-east-receive-relief-items-from-nadmo/"
+    ],
+    "quote": "Heavy rainfall expanded Lake Volta and connected river systems, inundating adjacent agricultural farmlands.",
+    "lat": 7.7890806845540475,
+    "lon": 0.22691088939203363
+  },
+  "Malawi_SC_Kawamba_2017": {
+    "id": "Malawi_SC_Kawamba_2017",
+    "adm": "SC Kawamba",
+    "country": "Malawi",
+    "region": "Southern Africa",
+    "year": 2017,
+    "color": "#eab308",
+    "opt2_days": 33,
+    "longest_streak": 20,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Nov 14 (DOY 319) \u2192 May 14 (DOY 135)",
+    "citation": "FEWS NET Global Alert / World Bank Climate Portal / FAO GIEWS Brief",
+    "url_ref": [
+      "https://fews.net/global/alert/january-25-2017",
+      "https://fews.net/sites/default/files/documents/reports/Global%20Weather%20Hazard-150129.pdf",
+      "https://climateknowledgeportal.worldbank.org/",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Continuous seasonal downpours led to localized river overflows and crop inundation across central agricultural districts.",
+    "lat": -13.26609235769033,
+    "lon": 33.24038402834819
+  },
+  "Democratic_Republic_of_the_Congo_Kambove_2018": {
+    "id": "Democratic_Republic_of_the_Congo_Kambove_2018",
+    "adm": "Kambove",
+    "country": "Democratic Republic of the Congo",
+    "region": "Central Africa",
+    "year": 2018,
+    "color": "#a855f7",
+    "opt2_days": 45,
+    "longest_streak": 45,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Sep 15 (DOY 259) \u2192 Feb 16 (DOY 47)",
+    "citation": "ReliefWeb DRC Key Message Update / Taylor & Francis Research / NCBI PubMed / FAO GIEWS",
+    "url_ref": [
+      "https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-key-message-update-november-2018",
+      "https://reliefweb.int/report/nigeria/west-and-central-africa-weekly-regional-humanitarian-snapshot-19-25-june-2018",
+      "https://www.tandfonline.com/doi/abs/10.1080/17449057.2019.1676523",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10102406/",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Torrential rains flooded the Lualaba River basin, drowning crops and submerging agricultural communities in southern DRC.",
+    "lat": -11.296930684744215,
+    "lon": 26.58935675634836
+  },
+  "Kenya_Bumula_2018": {
+    "id": "Kenya_Bumula_2018",
+    "adm": "Bumula",
+    "country": "Kenya",
+    "region": "East Africa",
+    "year": 2018,
+    "color": "#06b6d4",
+    "opt2_days": 11,
+    "longest_streak": 11,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Mar 31 (DOY 91) \u2192 Sep 30 (DOY 274)",
+    "citation": "Bumula NG-CDF Official Portal / NCBI PubMed Research / FAO GIEWS Brief",
+    "url_ref": [
+      "https://bumula.ngcdf.go.ke/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9288279/",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Persistent heavy long rains triggered severe flooding across river basins in western Kenya, submerging agricultural fields.",
+    "lat": 0.5693556534389084,
+    "lon": 34.4546722759277
+  },
+  "South_Sudan_Amatonge_2019": {
+    "id": "South_Sudan_Amatonge_2019",
+    "adm": "Amatonge",
+    "country": "South Sudan",
+    "region": "Central Africa",
+    "year": 2019,
+    "color": "#8b5cf6",
+    "opt2_days": 44,
+    "longest_streak": 44,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 31 (DOY 213) \u2192 Nov 30 (DOY 335)",
+    "citation": "NASA Earth Observatory / ReliefWeb South Sudan Portal",
+    "url_ref": [
+      "https://earthobservatory.nasa.gov/",
+      "https://reliefweb.int/"
+    ],
+    "quote": "Widespread floodwaters covered large swathes of agricultural land across the White Nile basin following months of heavy rain.",
+    "lat": 4.777975935399316,
+    "lon": 32.67080413475559
+  },
+  "Malawi_Lilongwe_City_2019": {
+    "id": "Malawi_Lilongwe_City_2019",
+    "adm": "Lilongwe City",
+    "country": "Malawi",
+    "region": "Southern Africa",
+    "year": 2019,
+    "color": "#eab308",
+    "opt2_days": 17,
+    "longest_streak": 17,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Nov 14 (DOY 319) \u2192 May 14 (DOY 135)",
+    "citation": "ReliefWeb Disaster Brief / FAO GIEWS Brief",
+    "url_ref": [
+      "https://reliefweb.int/disaster/tc-2015-000004-mdg",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Torrential rains from Cyclone Idai created an inland sea, submerging entire agricultural fields across Southern and Central Malawi.",
+    "lat": -13.921953512440082,
+    "lon": 33.7705037550342
+  },
+  "Tanzania_Mlele_2020": {
+    "id": "Tanzania_Mlele_2020",
+    "adm": "Mlele",
+    "country": "Tanzania",
+    "region": "East Africa",
+    "year": 2020,
+    "color": "#10b981",
+    "opt2_days": 66,
+    "longest_streak": 41,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Apr 30 (DOY 121)",
+    "citation": "ReliefWeb Tanzania Floods Final Report / Global Environment Facility / Biodiversity & Ecology Study",
+    "url_ref": [
+      "https://reliefweb.int/report/united-republic-tanzania/tanzania-floods-final-report-operation-n-mdrtz02",
+      "https://reliefweb.int/disaster/fl-2020-000125-tza",
+      "https://www.thegef.org/sites/default/files/documents/10250_Project_Document.pdf",
+      "https://www.biodiversity-plants.de/biodivers_ecol/publishing/b-e.00239.pdf"
+    ],
+    "quote": "Unprecedented heavy seasonal rains across East Africa flooded agricultural basins, lakes, and river systems.",
+    "lat": -6.639340681599888,
+    "lon": 31.77539213899581
+  },
+  "Zambia_Shibuyunji_2021": {
+    "id": "Zambia_Shibuyunji_2021",
+    "adm": "Shibuyunji",
+    "country": "Zambia",
+    "region": "Southern Africa",
+    "year": 2021,
+    "color": "#f97316",
+    "opt2_days": 52,
+    "longest_streak": 52,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Feb 29 (DOY 60)",
+    "citation": "FAO GIEWS Zambia Country Brief",
+    "url_ref": "https://www.fao.org/giews/countrybrief/",
+    "quote": "Heavy downpours led to extensive waterlogging across the Kafue basin, damaging standing food crops.",
+    "lat": -15.399082780074428,
+    "lon": 27.717002080447177
+  },
+  "South_Sudan_Raja_2022": {
+    "id": "South_Sudan_Raja_2022",
+    "adm": "Raja",
+    "country": "South Sudan",
+    "region": "Central Africa",
+    "year": 2022,
+    "color": "#8b5cf6",
+    "opt2_days": 52,
+    "longest_streak": 52,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Apr 15 (DOY 106) \u2192 Sep 30 (DOY 274)",
+    "citation": "FEWS NET South Sudan Outlook / FAO GIEWS Country Brief",
+    "url_ref": [
+      "https://fews.net/east-africa/south-sudan/food-security-outlook/october-2022",
+      "https://www.fao.org/giews/countrybrief/"
+    ],
+    "quote": "Four consecutive years of extreme flooding left vast areas of South Sudan submerged, drowning farmlands.",
+    "lat": 8.733165959354272,
+    "lon": 25.511199850901654
+  },
+  "Central_African_Republic_Birao_2022": {
+    "id": "Central_African_Republic_Birao_2022",
+    "adm": "Birao",
+    "country": "Central African Republic",
+    "region": "Central Africa",
+    "year": 2022,
+    "color": "#a855f7",
+    "opt2_days": 63,
+    "longest_streak": 63,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Dec 31 (DOY 0) \u2192 Dec 15 (DOY 350)",
+    "citation": "FAO GIEWS Country Brief / Wikipedia Birao",
+    "url_ref": [
+      "https://www.fao.org/giews/countrybrief/",
+      "https://en.wikipedia.org/wiki/Birao"
+    ],
+    "quote": "Exceptional heavy rains flooded agricultural zones across northern prefectures, destroying maize and cassava fields.",
+    "lat": 9.964311597472076,
+    "lon": 22.508197934597785
+  },
+  "Ghana_Ga_South_2023": {
+    "id": "Ghana_Ga_South_2023",
+    "adm": "Ga South",
+    "country": "Ghana",
+    "region": "West Africa",
+    "year": 2023,
+    "color": "#ec4899",
+    "opt2_days": 62,
+    "longest_streak": 24,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Jul 31 (DOY 213) \u2192 Nov 30 (DOY 335)",
+    "citation": "FEWS NET / Taylor & Francis Research / FAO GIEWS / De Farmercist Ghana Guide",
+    "url_ref": [
+      "https://fews.net/",
+      "https://www.tandfonline.com/doi/full/10.1080/19376812.2022.2140299",
+      "https://www.fao.org/giews/countrybrief/",
+      "https://defarmercistlimited.com/blog/seasonal-planting-guide--best-times-to-grow-in-ghana-s-climate"
+    ],
+    "quote": "Controlled spillage of the Akosombo Dam inundated vast agricultural farmlands and displaced thousands along the Volta region.",
+    "lat": 5.673262639789419,
+    "lon": -0.4383819821000928
+  },
+  "Malawi_Lilongwe_City_2023": {
+    "id": "Malawi_Lilongwe_City_2023",
+    "adm": "Lilongwe City",
+    "country": "Malawi",
+    "region": "Southern Africa",
+    "year": 2023,
+    "color": "#eab308",
+    "opt2_days": 44,
+    "longest_streak": 44,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Nov 14 (DOY 319) \u2192 May 14 (DOY 135)",
+    "citation": "FAO GIEWS Country Brief / ReliefWeb WASH Platform Portal",
+    "url_ref": [
+      "https://www.fao.org/giews/countrybrief/country.jsp?code=MDG",
+      "https://response.reliefweb.int/fr/southern-and-eastern-africa/wash-regional-platform-east-africa/reports"
+    ],
+    "quote": "Tropical Cyclone Freddy dumped exceptional rainfall, inundating agricultural districts and washing away crops.",
+    "lat": -13.921953512440082,
+    "lon": 33.7705037550342
+  },
+  "Tanzania_Kasulu_2024": {
+    "id": "Tanzania_Kasulu_2024",
+    "adm": "Kasulu",
+    "country": "Tanzania",
+    "region": "East Africa",
+    "year": 2024,
+    "color": "#10b981",
+    "opt2_days": 103,
+    "longest_streak": 58,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Oct 31 (DOY 305) \u2192 Apr 30 (DOY 121)",
+    "citation": "ReliefWeb Final Report MDRTZ035 / NASA Earth Observatory / TANROADS Disclosure / Key Biodiversity Areas",
+    "url_ref": [
+      "https://reliefweb.int/report/united-republic-tanzania/final-report-tanzania-flood-and-landslide-emergency-appeal-mdrtz035",
+      "https://science.nasa.gov/earth/earth-observatory/destructive-floods-afflict-tanzania-152754/",
+      "https://www.fao.org/giews/countrybrief/country.jsp?code=TZA",
+      "https://www.tanroads.go.tz/common/attachments/disclosure/a0cab24c19268e127102299371abb29e.pdf",
+      "https://www.keybiodiversityareas.org/site/factsheet/7040"
+    ],
+    "quote": "Torrential El Ni\u00f1o rains and tropical storm weather inundated agricultural valleys, causing severe flooding across Tanzania.",
+    "lat": -4.506356423238797,
+    "lon": 30.424182617223586
+  },
+  "Democratic_Republic_of_the_Congo_Kabalo_2024": {
+    "id": "Democratic_Republic_of_the_Congo_Kabalo_2024",
+    "adm": "Kabalo",
+    "country": "Democratic Republic of the Congo",
+    "region": "Central Africa",
+    "year": 2024,
+    "color": "#a855f7",
+    "opt2_days": 84,
+    "longest_streak": 84,
+    "streak_status": "VERIFIED \u2705 (\u2265 7 Consec Days)",
+    "crop_calendar": "Sep 15 (DOY 259) \u2192 Feb 16 (DOY 47)",
+    "citation": "ReliefWeb DRC Tanganyika DREF Report / IFRC GO / Copernicus Global Flood / ResearchGate Congo River Study",
+    "url_ref": [
+      "https://reliefweb.int/report/democratic-republic-congo/drc-floods-tanganyika-2024-dref-final-report-mdrcd044",
+      "https://go-stage.ifrc.org/field-reports/17031",
+      "https://openknowledge.fao.org/bitstreams/7c15dba6-9d2d-41ad-8e4b-af71ce9ae918/download",
+      "https://global-flood.emergency.copernicus.eu/react/news/159-flooding-in-the-democratic-republic-of-the-congo-and-congo-brazzaville-january-2024/",
+      "https://www.researchgate.net/publication/229797949_The_Congo_River_Central_Africa"
+    ],
+    "quote": "Rising lake levels and heavy rainfall caused rivers to overflow in eastern DRC, submerging vast crop fields.",
+    "lat": -6.254188238279368,
+    "lon": 26.891906962893632
+  }
+};
+    
+    // Initialize Leaflet Map centered over Africa
+    const map = L.map('map').setView([2.0, 18.0], 4);
+    
+    // Add CartoDB Positron clean map tile layer
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 14
+    }).addTo(map);
+
+    const markers = {};
+    const dropdown = document.getElementById("districtSelect");
+
+    // Populate Dropdown & Map Markers
+    Object.keys(benchmarks).forEach(id => {
+      const item = benchmarks[id];
+      
+      // Add Dropdown Option
+      const opt = document.createElement("option");
+      opt.value = id;
+      opt.textContent = `${item.year} | ${item.adm}, ${item.country} (${item.opt2_days} Days)`;
+      dropdown.appendChild(opt);
+      
+      // Add Map Circle Marker if lat/lon available
+      if (item.lat !== 0.0 && item.lon !== 0.0) {
+        const circle = L.circleMarker([item.lat, item.lon], {
+          radius: 9,
+          fillColor: item.color,
+          color: "#ffffff",
+          weight: 2,
+          opacity: 1,
+          fillOpacity: 0.85
+        }).addTo(map);
+        
+        circle.bindTooltip(`<b>${item.adm}</b> (${item.country})<br>Harvest Year: <b>${item.year}</b><br>Option 2 Flood Days: <b>${item.opt2_days} Days</b>`);
+        circle.on("click", () => selectDistrict(id));
+        markers[id] = circle;
+      }
+    });
+
+    function selectDistrict(id) {
+      if (!id || !benchmarks[id]) return;
+      const item = benchmarks[id];
+      
+      // Update Dropdown selection
+      dropdown.value = id;
+      
+      // Zoom map to marker
+      if (markers[id]) {
+        map.flyTo([item.lat, item.lon], 6, { animate: true, duration: 1.2 });
+        markers[id].openTooltip();
+      }
+      
+      // Build Action Buttons HTML
+      let linksHTML = "";
+      if (Array.isArray(item.url_ref)) {
+        linksHTML = item.url_ref.map((u, idx) => `<a href="${u}" target="_blank" class="link-btn">🔗 Reference Link ${idx + 1}</a>`).join(" ");
+      } else {
+        linksHTML = `<a href="${item.url_ref}" target="_blank" class="link-btn">🔗 Direct Reference Link</a>`;
+      }
+
+      // Render Side Panel Content
+      const panelContent = document.getElementById("panelContent");
+      panelContent.innerHTML = `
+        <div class="info-group">
+          <div style="display:flex; justify-content:space-between; align-items:center;">
+            <span style="background:${item.color}; color:white; padding:4px 10px; border-radius:12px; font-weight:700; font-size:0.8rem;">${item.region}</span>
+            <span style="font-size:0.85rem; font-weight:700; color:#64748b;">Harvest Year: ${item.year}</span>
+          </div>
+          <h2 style="margin: 10px 0 2px 0; font-size:1.4rem; color:#0f172a;">${item.adm}</h2>
+          <div style="font-size:0.9rem; font-weight:600; color:#475569;">${item.country}</div>
+        </div>
+
+        <div style="margin-bottom: 16px;">
+          <span class="stat-badge badge-red">🌊 Triggered Flood Days: ${item.opt2_days} Days</span>
+          <span class="stat-badge badge-green">⏱️ Longest Streak: ${item.longest_streak} Days</span>
+        </div>
+
+        <div class="info-group">
+          <div class="info-label">Local Maize Crop Calendar Window</div>
+          <div class="info-val">🌾 ${item.crop_calendar}</div>
+        </div>
+
+        <div class="info-group" style="margin-top:24px;">
+          <div class="info-label">Direct Reference Links</div>
+          <div style="margin-top:8px;">${linksHTML}</div>
+        </div>
+      `;
+    }
+  </script>
+</body>
+</html>

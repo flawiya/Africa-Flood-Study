@@ -1,0 +1,16 @@
+Country,District / Region,Target Year,Approx. DOY Range,Flood Date Range,Flood Days Counted (SWI >= P95 & >= 85%),Peak SWI (%),In-Season Crop Calendar Alignment,Context for Maize
+Nigeria,Makurdi,2022,Sept – Oct (260–295),2022-09-12 to 2022-09-20 (Streak < 7d),4,95.0%,DOY 197.0–305.0 (In-Season),Peak harvest/late growth; total wash-away.
+Nigeria,Agatu,2012,Sept – Oct (255–290),2012-09-11 to 2012-09-12 (Streak < 7d),2,93.3%,DOY 197.0–305.0 (In-Season),Worst flood in 40 years; Niger-Benue confluence overflow.
+Nigeria,Agatu,2022,Sept – Oct (260–295),No SWI >= P95 Trigger,0,83.7%,DOY 197.0–305.0 (In-Season),Niger-Benue confluence extreme submergence.
+Malawi,TA Tengani,2023,March (070–085),No SWI >= P95 Trigger,0,78.9%,DOY 319.0–135.0 (In-Season),Cyclone Freddy; extreme saturation during cob-filling.
+Malawi,TA Chapananga,2019,March (065–080),No SWI >= P95 Trigger,0,72.0%,DOY 319.0–135.0 (In-Season),Cyclone Idai; early-year floods.
+Mozambique,Nhamatanda,2019,March (073–088),No SWI >= P95 Trigger,0,72.4%,DOY 305.0–75.0 (Off-Season),Cyclone Idai; 10+ days of standing water.
+Kenya,Budalangi,2024,April – May (110–145),No SWI >= P95 Trigger,0,70.8%,DOY 91.0–274.0 (In-Season),Long Rains extreme peak; massive saturation.
+Kenya,Nyando,2020,April – June (115–160),2020-04-29 to 2020-05-21 (Streak < 7d),14,90.8%,DOY 91.0–274.0 (In-Season),Backflow from Lake Victoria kept SWI high for weeks.
+Zambia,Namwala,2023,Jan – Feb (015–055),No SWI >= P95 Trigger,0,83.4%,DOY 305.0–60.0 (In-Season),La Niña rains; flooded during early vegetative stage.
+Zambia,Monze,2022,Jan – Feb (010–050),No SWI >= P95 Trigger,0,83.3%,DOY 305.0–60.0 (In-Season),Heavy rainfall; drowning of young maize plants.
+Egypt,Kafr ash-Shaykh,2025,January (001–025),No SWI >= P95 Trigger,0,28.1%,DOY 121.0–274.0 (Off-Season),Winter Dragon Storm style event; poor drainage.
+Egypt,Abu Hummus,2015,January (001–025),No SWI >= P95 Trigger,0,36.8%,DOY 121.0–274.0 (Off-Season),Winter storm coastal Nile Delta root drowning.
+Ethiopia,Borena,2023,Oct – Nov (290–325),No SWI >= P95 Trigger,0,48.6%,DOY 47.0–152.0 (Off-Season),Deyr season floods; river burst.
+South Sudan,Bahr al Jabal,2020,Aug – Oct (220–300),2020-09-29 to 2020-10-27 (Streak < 7d),20,92.1%,DOY 213.0–335.0 (In-Season),Historical peak; water did not recede for months.
+Ghana,Bawku West,2020,September (245–270),No Data / Out of Season,0,N/A,Out of Season,Bagre Dam spillage combined with peak rains.

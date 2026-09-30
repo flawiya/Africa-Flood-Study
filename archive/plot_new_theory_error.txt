@@ -1,0 +1,7 @@
+Exception Type: FileNotFoundError
+Exception String: SSI dataset not found at: C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\output\agricultural\agricultural\agricultural\Zambia_Agricultural_Districts_Final_Study_SSI_Gringorten_Full_Season.csv
+
+Traceback (most recent call last):
+  File "C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\script\agricultural\plot_agri_trigger_new_theory.py", line 52, in <module>
+    raise FileNotFoundError(f"SSI dataset not found at: {ssi_csv}")
+FileNotFoundError: SSI dataset not found at: C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\output\agricultural\agricultural\agricultural\Zambia_Agricultural_Districts_Final_Study_SSI_Gringorten_Full_Season.csv

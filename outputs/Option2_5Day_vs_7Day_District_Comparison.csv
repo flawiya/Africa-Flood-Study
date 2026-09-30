@@ -1,0 +1,1644 @@
+ISO3,COUNTRY,ADM_NAME,gadm_id,Flood_Days_5Day,Flood_Days_7Day,Days_Increase,Days_Increase_Pct,Flood_Events_5Day,Flood_Events_7Day,Events_Increase,Events_Increase_Pct
+AGO,Angola,Amboim,AGO.7.1_1,50,50,0,0.0,2,2,0,0.0
+AGO,Angola,Bailundo,AGO.9.1_1,107,92,15,16.3,10,7,3,42.86
+AGO,Angola,Bibala,AGO.16.1_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Bocoio,AGO.2.4_1,27,27,0,0.0,1,1,0,0.0
+AGO,Angola,Caconda,AGO.10.1_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Caiambambo,AGO.2.5_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Caluquembe,AGO.10.2_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Camacuio,AGO.16.2_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Camacupa,AGO.3.2_1,122,110,12,10.91,8,6,2,33.33
+AGO,Angola,Cassongue,AGO.7.2_1,122,117,5,4.27,8,7,1,14.29
+AGO,Angola,Catabola,AGO.3.3_1,115,94,21,22.34,11,7,4,57.14
+AGO,Angola,Catchiungo,AGO.9.3_1,61,50,11,22.0,6,4,2,50.0
+AGO,Angola,Caála,AGO.9.2_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Chibia,AGO.10.3_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Chicomba,AGO.10.4_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Chinguar,AGO.3.4_1,96,96,0,0.0,7,7,0,0.0
+AGO,Angola,Chipindo,AGO.10.5_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Chitembo,AGO.3.5_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Chongoroi,AGO.2.6_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Cubal,AGO.2.7_1,15,15,0,0.0,1,1,0,0.0
+AGO,Angola,Ebo,AGO.7.4_1,121,116,5,4.31,7,6,1,16.67
+AGO,Angola,Ekunha,AGO.9.4_1,113,103,10,9.71,9,7,2,28.57
+AGO,Angola,Gambos,AGO.10.6_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Ganda,AGO.2.8_1,44,38,6,15.79,3,2,1,50.0
+AGO,Angola,Huambo,AGO.9.5_1,68,52,16,30.77,7,4,3,75.0
+AGO,Angola,Humpata,AGO.10.7_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Jamba,AGO.10.8_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Kuito,AGO.3.8_1,97,91,6,6.59,8,7,1,14.29
+AGO,Angola,Kuvango,AGO.10.9_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Lobito,AGO.2.9_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Londuimbale,AGO.9.6_1,113,108,5,4.63,9,8,1,12.5
+AGO,Angola,Longonjo,AGO.9.7_1,44,44,0,0.0,3,3,0,0.0
+AGO,Angola,Lubango,AGO.10.10_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Matala,AGO.10.11_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Mungo,AGO.9.8_1,108,97,11,11.34,10,8,2,25.0
+AGO,Angola,Quibala,AGO.7.8_1,123,113,10,8.85,8,6,2,33.33
+AGO,Angola,Quilenda,AGO.7.9_1,21,21,0,0.0,1,1,0,0.0
+AGO,Angola,Quilengues,AGO.10.12_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Seles,AGO.7.10_1,34,34,0,0.0,3,3,0,0.0
+AGO,Angola,Tchicala-Tcholoanga,AGO.9.9_1,33,22,11,50.0,3,1,2,200.0
+AGO,Angola,Tchipungo,AGO.10.13_1,0,0,0,0.0,0,0,0,0.0
+AGO,Angola,Ukuma,AGO.9.11_1,98,81,17,20.99,8,5,3,60.0
+AGO,Angola,Waku Kungo,AGO.7.12_1,124,119,5,4.2,9,8,1,12.5
+BDI,Burundi,Bisoro,BDI.14.1_1,79,79,0,0.0,6,6,0,0.0
+BDI,Burundi,Bubanza,BDI.1.1_1,66,66,0,0.0,3,3,0,0.0
+BDI,Burundi,Bugabira,BDI.10.1_1,50,50,0,0.0,3,3,0,0.0
+BDI,Burundi,Buganda,BDI.6.1_1,83,78,5,6.41,6,5,1,20.0
+BDI,Burundi,Bugarama,BDI.3.1_1,75,65,10,15.38,6,4,2,50.0
+BDI,Burundi,Bugendana,BDI.7.1_1,84,73,11,15.07,7,5,2,40.0
+BDI,Burundi,Bugenyuzi,BDI.8.1_1,96,96,0,0.0,3,3,0,0.0
+BDI,Burundi,Buhiga,BDI.8.2_1,93,93,0,0.0,3,3,0,0.0
+BDI,Burundi,Bukemba,BDI.16.1_1,90,90,0,0.0,3,3,0,0.0
+BDI,Burundi,Bukeye,BDI.12.1_1,80,80,0,0.0,5,5,0,0.0
+BDI,Burundi,Bukinanyana,BDI.6.2_1,79,79,0,0.0,5,5,0,0.0
+BDI,Burundi,Bukirasazi,BDI.7.2_1,71,65,6,9.23,7,6,1,16.67
+BDI,Burundi,Burambi,BDI.4.1_1,79,69,10,14.49,6,4,2,50.0
+BDI,Burundi,Buraza,BDI.7.3_1,77,77,0,0.0,7,7,0,0.0
+BDI,Burundi,Bururi,BDI.4.2_1,55,55,0,0.0,4,4,0,0.0
+BDI,Burundi,Busiga,BDI.15.1_1,89,78,11,14.1,5,3,2,66.67
+BDI,Burundi,Busoni,BDI.10.2_1,16,16,0,0.0,1,1,0,0.0
+BDI,Burundi,Butaganzwa1,BDI.9.1_1,80,80,0,0.0,5,5,0,0.0
+BDI,Burundi,Butaganzwa2,BDI.17.1_1,99,94,5,5.32,4,3,1,33.33
+BDI,Burundi,Butihinda,BDI.13.2_1,89,89,0,0.0,4,4,0,0.0
+BDI,Burundi,Buyengero,BDI.4.3_1,75,64,11,17.19,6,4,2,50.0
+BDI,Burundi,Bweru,BDI.17.3_1,96,91,5,5.49,4,3,1,33.33
+BDI,Burundi,Cankuzo,BDI.5.1_1,93,88,5,5.68,5,4,1,25.0
+BDI,Burundi,Gahombo,BDI.9.2_1,78,78,0,0.0,4,4,0,0.0
+BDI,Burundi,Gashikanwa,BDI.15.2_1,94,89,5,5.62,4,3,1,33.33
+BDI,Burundi,Gashoho,BDI.13.3_1,95,95,0,0.0,5,5,0,0.0
+BDI,Burundi,Gasorwe,BDI.13.4_1,99,94,5,5.32,5,4,1,25.0
+BDI,Burundi,Gatara,BDI.9.3_1,78,78,0,0.0,4,4,0,0.0
+BDI,Burundi,Gihanga,BDI.1.2_1,72,67,5,7.46,5,4,1,25.0
+BDI,Burundi,Giharo,BDI.16.2_1,90,85,5,5.88,4,3,1,33.33
+BDI,Burundi,Giheta,BDI.7.4_1,83,73,10,13.7,7,5,2,40.0
+BDI,Burundi,Gisagara,BDI.5.3_1,83,78,5,6.41,4,3,1,33.33
+BDI,Burundi,Gishubi,BDI.7.5_1,79,74,5,6.76,7,6,1,16.67
+BDI,Burundi,Gisozi,BDI.14.2_1,81,70,11,15.71,6,4,2,50.0
+BDI,Burundi,Gisuru,BDI.17.4_1,91,81,10,12.35,5,3,2,66.67
+BDI,Burundi,Gitanga,BDI.16.3_1,87,87,0,0.0,3,3,0,0.0
+BDI,Burundi,Gitaramuka,BDI.8.4_1,96,91,5,5.49,4,3,1,33.33
+BDI,Burundi,Gitega,BDI.7.6_1,63,63,0,0.0,4,4,0,0.0
+BDI,Burundi,Giteranyi,BDI.13.5_1,48,43,5,11.63,3,2,1,50.0
+BDI,Burundi,Gitobe,BDI.10.4_1,85,80,5,6.25,7,6,1,16.67
+BDI,Burundi,Isale,BDI.3.2_1,80,80,0,0.0,5,5,0,0.0
+BDI,Burundi,Itaba,BDI.7.7_1,74,63,11,17.46,8,6,2,33.33
+BDI,Burundi,Kabarore,BDI.9.4_1,84,84,0,0.0,5,5,0,0.0
+BDI,Burundi,Kayanza,BDI.9.5_1,79,79,0,0.0,4,4,0,0.0
+BDI,Burundi,Kayogoro,BDI.11.1_1,82,72,10,13.89,6,4,2,50.0
+BDI,Burundi,Kayokwe,BDI.14.3_1,81,70,11,15.71,7,5,2,40.0
+BDI,Burundi,Kibago,BDI.11.2_1,77,51,26,50.98,8,3,5,166.67
+BDI,Burundi,Kiganda,BDI.12.2_1,76,65,11,16.92,6,4,2,50.0
+BDI,Burundi,Kinyinya,BDI.17.5_1,95,89,6,6.74,5,4,1,25.0
+BDI,Burundi,Kiremba,BDI.15.3_1,97,92,5,5.43,6,5,1,20.0
+BDI,Burundi,Mabanda,BDI.11.4_1,6,0,6,100.0,1,0,1,100.0
+BDI,Burundi,Mabayi,BDI.6.3_1,72,55,17,30.91,5,2,3,150.0
+BDI,Burundi,Makamba,BDI.11.5_1,68,68,0,0.0,5,5,0,0.0
+BDI,Burundi,Makebuko,BDI.7.8_1,74,68,6,8.82,7,6,1,16.67
+BDI,Burundi,Matana,BDI.4.5_1,88,88,0,0.0,7,7,0,0.0
+BDI,Burundi,Matongo,BDI.9.6_1,84,84,0,0.0,5,5,0,0.0
+BDI,Burundi,Mbuye,BDI.12.3_1,85,74,11,14.86,7,5,2,40.0
+BDI,Burundi,Mishiha,BDI.5.5_1,88,83,5,6.02,4,3,1,33.33
+BDI,Burundi,Mpanda,BDI.1.3_1,66,66,0,0.0,4,4,0,0.0
+BDI,Burundi,Mpinga-Kayove,BDI.16.4_1,95,90,5,5.56,4,3,1,33.33
+BDI,Burundi,Mugamba,BDI.4.6_1,77,72,5,6.94,5,4,1,25.0
+BDI,Burundi,Mugina,BDI.6.4_1,75,65,10,15.38,6,4,2,50.0
+BDI,Burundi,Mugongomanga,BDI.3.7_1,81,70,11,15.71,6,4,2,50.0
+BDI,Burundi,Muhanga,BDI.9.7_1,80,80,0,0.0,4,4,0,0.0
+BDI,Burundi,Muhuta,BDI.3.8_1,83,78,5,6.41,5,4,1,25.0
+BDI,Burundi,Mukike,BDI.3.9_1,77,67,10,14.93,6,4,2,50.0
+BDI,Burundi,Muramvya,BDI.12.4_1,72,66,6,9.09,6,5,1,20.0
+BDI,Burundi,Muruta,BDI.9.8_1,84,84,0,0.0,5,5,0,0.0
+BDI,Burundi,Murwi,BDI.6.5_1,87,82,5,6.1,6,5,1,20.0
+BDI,Burundi,Musongati,BDI.16.5_1,93,88,5,5.68,4,3,1,33.33
+BDI,Burundi,Mutambu,BDI.3.10_1,82,77,5,6.49,5,4,1,25.0
+BDI,Burundi,Mutimbuzi,BDI.3.11_1,60,55,5,9.09,4,3,1,33.33
+BDI,Burundi,Muyinga,BDI.13.6_1,95,95,0,0.0,4,4,0,0.0
+BDI,Burundi,Mwumba,BDI.15.5_1,82,66,16,24.24,6,3,3,100.0
+BDI,Burundi,Ndava,BDI.14.4_1,81,76,5,6.58,6,5,1,20.0
+BDI,Burundi,Ngozi,BDI.15.6_1,94,84,10,11.9,5,3,2,66.67
+BDI,Burundi,Ntega,BDI.10.6_1,80,80,0,0.0,4,4,0,0.0
+BDI,Burundi,Nyabihanga,BDI.14.5_1,80,74,6,8.11,6,5,1,20.0
+BDI,Burundi,Nyabiraba,BDI.3.12_1,81,70,11,15.71,6,4,2,50.0
+BDI,Burundi,Nyanrusange,BDI.7.10_1,83,67,16,23.88,8,5,3,60.0
+BDI,Burundi,Rango,BDI.9.9_1,86,81,5,6.17,6,5,1,20.0
+BDI,Burundi,Rugombo,BDI.6.6_1,83,83,0,0.0,6,6,0,0.0
+BDI,Burundi,Ruhororo,BDI.15.8_1,95,95,0,0.0,3,3,0,0.0
+BDI,Burundi,Rusaka,BDI.14.6_1,82,76,6,7.89,6,5,1,20.0
+BDI,Burundi,Rutana,BDI.16.6_1,92,87,5,5.75,4,3,1,33.33
+BDI,Burundi,Rutegama,BDI.12.5_1,79,63,16,25.4,7,4,3,75.0
+BDI,Burundi,Rutovu,BDI.4.8_1,73,63,10,15.87,7,5,2,40.0
+BDI,Burundi,Ruyigi,BDI.17.7_1,92,92,0,0.0,3,3,0,0.0
+BDI,Burundi,Ryansoro,BDI.7.11_1,83,83,0,0.0,7,7,0,0.0
+BDI,Burundi,Songa,BDI.4.9_1,66,66,0,0.0,6,6,0,0.0
+BDI,Burundi,Tangara,BDI.15.9_1,98,98,0,0.0,4,4,0,0.0
+BDI,Burundi,Vugizo,BDI.11.7_1,0,0,0,0.0,0,0,0,0.0
+BDI,Burundi,Vumbi,BDI.10.7_1,85,80,5,6.25,5,4,1,25.0
+BDI,Burundi,Vyanda,BDI.4.10_1,24,18,6,33.33,3,2,1,50.0
+BEN,Benin,Agbangnizoun,BEN.12.2_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Aplahoué,BEN.7.1_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Bantè,BEN.5.1_1,81,69,12,17.39,6,4,2,50.0
+BEN,Benin,Bassila,BEN.6.1_1,76,64,12,18.75,4,2,2,100.0
+BEN,Benin,Bembèrèkè,BEN.4.1_1,78,78,0,0.0,4,4,0,0.0
+BEN,Benin,Dassa-Zoumè,BEN.5.2_1,8,8,0,0.0,1,1,0,0.0
+BEN,Benin,Djakotomey,BEN.7.2_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Djidja,BEN.12.5_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Djougou Rural,BEN.6.5_1,80,75,5,6.67,5,4,1,25.0
+BEN,Benin,Glazoué,BEN.5.3_1,75,69,6,8.7,5,4,1,25.0
+BEN,Benin,Kalalé,BEN.4.2_1,69,48,21,43.75,6,2,4,200.0
+BEN,Benin,Klouékanmè,BEN.7.4_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Kétou,BEN.11.3_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,N'Dali,BEN.4.3_1,75,63,12,19.05,5,3,2,66.67
+BEN,Benin,Nikki,BEN.4.4_1,75,63,12,19.05,6,4,2,50.0
+BEN,Benin,Ouaké,BEN.6.4_1,74,69,5,7.25,5,4,1,25.0
+BEN,Benin,Ouèssè,BEN.5.4_1,82,82,0,0.0,3,3,0,0.0
+BEN,Benin,Parakou,BEN.4.5_1,64,64,0,0.0,3,3,0,0.0
+BEN,Benin,Pobè,BEN.11.4_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Pèrèrè,BEN.4.6_1,73,73,0,0.0,3,3,0,0.0
+BEN,Benin,Savalou,BEN.5.5_1,85,74,11,14.86,7,5,2,40.0
+BEN,Benin,Savè,BEN.5.6_1,83,83,0,0.0,4,4,0,0.0
+BEN,Benin,Sinendé,BEN.4.7_1,78,78,0,0.0,4,4,0,0.0
+BEN,Benin,Tchaourou,BEN.4.8_1,75,75,0,0.0,5,5,0,0.0
+BEN,Benin,Za-Kpota,BEN.12.7_1,0,0,0,0.0,0,0,0,0.0
+BEN,Benin,Zogbodomey,BEN.12.9_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Balé,BFA.1.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Bam,BFA.4.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Banwa,BFA.1.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Bazèga,BFA.6.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Boulgou,BFA.3.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Boulkiemdé,BFA.5.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Ganzourgou,BFA.11.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Gourma,BFA.8.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Houet,BFA.9.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kadiogo,BFA.7.1_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kompienga,BFA.8.4_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kossi,BFA.1.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Koulpélogo,BFA.3.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kouritenga,BFA.3.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kourwéogo,BFA.11.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Kénédougou,BFA.9.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Mouhoun,BFA.1.4_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Nahouri,BFA.6.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Nayala,BFA.1.5_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Passoré,BFA.10.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Poni,BFA.13.4_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Sanguié,BFA.5.2_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Sanmatenga,BFA.4.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Sissili,BFA.5.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Sourou,BFA.1.6_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Tapoa,BFA.8.5_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Tuy,BFA.9.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Yatenga,BFA.10.3_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Ziro,BFA.5.4_1,0,0,0,0.0,0,0,0,0.0
+BFA,Burkina Faso,Zoundwéogo,BFA.6.3_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Barolong,BWA.15.1_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Bobonong,BWA.1.1_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Kgatleng,BWA.8.1_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Kweneng North,BWA.9.1_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Kweneng South,BWA.9.2_1,5,0,5,100.0,1,0,1,100.0
+BWA,Botswana,Machaneng,BWA.1.3_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Mahalapye,BWA.1.4_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Masungu,BWA.11.1_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Ngwaketse North,BWA.15.3_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Ngwaketse South,BWA.15.4_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Palapye,BWA.1.5_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Serowe,BWA.1.6_1,0,0,0,0.0,0,0,0,0.0
+BWA,Botswana,Tutume,BWA.1.8_1,0,0,0,0.0,0,0,0,0.0
+CAF,Central African Republic,Bangassou,CAF.9.2_1,0,0,0,0.0,0,0,0,0.0
+CAF,Central African Republic,Batangafo,CAF.15.1_1,118,97,21,21.65,9,5,4,80.0
+CAF,Central African Republic,Birao,CAF.17.1_1,188,183,5,2.73,6,5,1,20.0
+CAF,Central African Republic,Bocaranga,CAF.14.1_1,124,119,5,4.2,5,4,1,25.0
+CAF,Central African Republic,Bouar,CAF.11.3_1,105,89,16,17.98,7,4,3,75.0
+CAF,Central African Republic,Bozoum,CAF.14.2_1,118,107,11,10.28,7,5,2,40.0
+CAF,Central African Republic,Gambo-Ouango,CAF.9.3_1,0,0,0,0.0,0,0,0,0.0
+CAF,Central African Republic,Kabo,CAF.15.4_1,127,121,6,4.96,8,7,1,14.29
+CAF,Central African Republic,Kaga-Bandoro,CAF.10.1_1,95,83,12,14.46,9,7,2,28.57
+CAF,Central African Republic,Kembé,CAF.3.2_1,105,99,6,6.06,5,4,1,25.0
+CAF,Central African Republic,Kouango,CAF.13.5_1,127,106,21,19.81,10,6,4,66.67
+CAF,Central African Republic,Markounda,CAF.15.5_1,120,110,10,9.09,7,5,2,40.0
+CAF,Central African Republic,Mobaye,CAF.3.4_1,135,129,6,4.65,7,6,1,16.67
+CAF,Central African Republic,Ndélé,CAF.1.2_1,137,137,0,0.0,4,4,0,0.0
+CAF,Central African Republic,Paoua,CAF.14.3_1,124,124,0,0.0,5,5,0,0.0
+CIV,Côte d'Ivoire,Abidjan,CIV.1.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Agnéby-Tiassa,CIV.7.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Bounkani,CIV.14.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Bélier,CIV.6.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Gbeke,CIV.11.1_1,65,59,6,10.17,3,2,1,50.0
+CIV,Côte d'Ivoire,Gôh,CIV.5.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Hambol,CIV.11.2_1,20,20,0,0.0,1,1,0,0.0
+CIV,Côte d'Ivoire,Haut-Sassandra,CIV.9.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Iffou,CIV.6.2_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Indénié-Djuablin,CIV.3.1_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Lôh-Djiboua,CIV.5.2_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Marahoué,CIV.9.2_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Moronou,CIV.6.3_1,0,0,0,0.0,0,0,0,0.0
+CIV,Côte d'Ivoire,Yamoussoukro,CIV.13.1_1,0,0,0,0.0,0,0,0,0.0
+CMR,Cameroon,Bamboutos,CMR.8.1_1,87,81,6,7.41,6,5,1,20.0
+CMR,Cameroon,Faro et Déo,CMR.1.2_1,73,67,6,8.96,4,3,1,33.33
+CMR,Cameroon,Haute Sanaga,CMR.2.1_1,12,12,0,0.0,1,1,0,0.0
+CMR,Cameroon,Noun,CMR.8.8_1,81,75,6,8.0,5,4,1,25.0
+CMR,Cameroon,Vina,CMR.1.5_1,92,87,5,5.75,6,5,1,20.0
+COD,Democratic Republic of the Congo,Aketi,COD.1.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Aru,COD.6.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Banalia,COD.25.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Basoko,COD.25.3_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Bondo,COD.1.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Bongandanga,COD.18.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Budjala,COD.23.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Bukama,COD.4.1_1,52,52,0,0.0,2,2,0,0.0
+COD,Democratic Republic of the Congo,Bumba,COD.18.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Businga,COD.20.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Buta,COD.1.7_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Demba,COD.7.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Dibaya,COD.7.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Dimbelenge,COD.7.3_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Djugu,COD.6.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Fizi,COD.22.3_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Gemena,COD.23.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Idjwi,COD.22.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Ilebo,COD.9.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Irumu,COD.6.7_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Isangi,COD.25.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kabalo,COD.24.1_1,119,114,5,4.39,5,4,1,25.0
+COD,Democratic Republic of the Congo,Kabare,COD.22.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kabeya-Kamwanga,COD.8.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kabinda,COD.14.1_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kailo,COD.17.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kalehe,COD.22.6_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kambove,COD.3.1_1,120,115,5,4.35,8,7,1,14.29
+COD,Democratic Republic of the Congo,Kamonia,COD.9.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kasenga,COD.3.2_1,29,29,0,0.0,2,2,0,0.0
+COD,Democratic Republic of the Congo,Kasongo,COD.17.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Katanda,COD.8.2_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kipushi,COD.3.3_1,8,8,0,0.0,1,1,0,0.0
+COD,Democratic Republic of the Congo,Kisangani,COD.25.7_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kongolo,COD.24.5_1,19,14,5,35.71,2,1,1,100.0
+COD,Democratic Republic of the Congo,Kongolo (ville),COD.24.6_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Kungu,COD.23.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Libenge,COD.23.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Likasi,COD.3.5_1,103,91,12,13.19,8,6,2,33.33
+COD,Democratic Republic of the Congo,Lisala,COD.18.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Lubao,COD.14.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Lubero,COD.19.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Lubudi,COD.15.5_1,105,105,0,0.0,7,7,0,0.0
+COD,Democratic Republic of the Congo,Lubumbashi,COD.3.6_1,97,91,6,6.59,8,7,1,14.29
+COD,Democratic Republic of the Congo,Luilu,COD.14.6_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Lupatapata,COD.8.4_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Mahagi,COD.6.8_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Mahagi (ville),COD.6.9_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Malemba-Nkulu,COD.4.6_1,75,70,5,7.14,4,3,1,33.33
+COD,Democratic Republic of the Congo,Manono,COD.24.7_1,116,101,15,14.85,6,3,3,100.0
+COD,Democratic Republic of the Congo,Masisi,COD.19.5_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Miabi,COD.8.6_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Moba,COD.24.9_1,10,0,10,100.0,2,0,2,100.0
+COD,Democratic Republic of the Congo,Mutshatsha,COD.15.6_1,113,96,17,17.71,8,5,3,60.0
+COD,Democratic Republic of the Congo,Mweka,COD.9.7_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Ngandajika,COD.14.8_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Oicha,COD.19.7_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Pweto,COD.3.8_1,93,87,6,6.9,6,5,1,20.0
+COD,Democratic Republic of the Congo,Rutshuru,COD.19.9_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Sakania,COD.3.9_1,77,67,10,14.93,7,5,2,40.0
+COD,Democratic Republic of the Congo,Tshilenge,COD.8.8_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Tshilenge (ville),COD.8.9_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Uvira,COD.22.11_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Walungu,COD.22.13_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Watsa,COD.5.10_1,0,0,0,0.0,0,0,0,0.0
+COD,Democratic Republic of the Congo,Yakoma,COD.20.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abnub,EGY.18.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Hammad,EGY.16.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Hummus,EGY.3.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Kabir,EGY.16.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Qurqas,EGY.10.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Tij,EGY.18.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu Tisht,EGY.25.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Abu al-Matamir,EGY.3.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ad-Dilinat,EGY.3.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Aja,EGY.1.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Akhmim,EGY.27.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-'Amriyah,EGY.6.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-'Ayyat,EGY.8.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-'Idwah,EGY.10.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-'Usayrat,EGY.27.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Badari,EGY.18.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Bajur,EGY.9.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Baliyana,EGY.27.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Burulus,EGY.23.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Fashn,EGY.19.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Fath,EGY.18.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Fayyum,EGY.4.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Ganoub,EGY.20.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Ganoub 2,EGY.20.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Ghanayim,EGY.18.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Hamul,EGY.23.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Husayniyah,EGY.16.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Ibrahimiyah,EGY.16.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Mahallah al-Kubra,EGY.5.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Mahmudiyah,EGY.3.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Manshah,EGY.27.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Mansurah,EGY.1.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Mansurah 2,EGY.1.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Manzilah,EGY.1.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Maraghah,EGY.27.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Matariyah,EGY.1.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Minya,EGY.10.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Qanatir al-Khayriyah,EGY.12.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Qanayat,EGY.16.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Qantarah,EGY.7.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Qantarah ash-Sharqiyah,EGY.7.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Qusiyah,EGY.18.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Waqf,EGY.25.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Warraq,EGY.8.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Al-Wasta,EGY.19.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ar-Rahmaniyah,EGY.3.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ar-Riyad,EGY.23.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Armant,EGY.25.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,As-Santah,EGY.5.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,As-Sinbillawayn,EGY.1.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ash-Shuhada,EGY.9.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ashmun,EGY.9.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Asyut,EGY.18.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,At-Tall al-Kabir,EGY.7.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Awlad Saqr,EGY.16.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Badr,EGY.3.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Banha,EGY.12.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Bani Mazar,EGY.10.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Bani Suwayf,EGY.19.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Bani Ubayd,EGY.1.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Basyun,EGY.5.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Biba,EGY.19.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Bilbays,EGY.16.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Bilqas,EGY.1.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Birkat as-Sab',EGY.9.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Biyala,EGY.23.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Burj al-'Arab,EGY.6.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Damanhur,EGY.3.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Dar as-Salam,EGY.27.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Dayr Mawas,EGY.10.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Dayrut,EGY.18.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Dikirnis,EGY.1.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Dishna,EGY.25.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Disuq,EGY.23.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Diyarb Najm,EGY.16.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Faqus,EGY.16.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Faraskur,EGY.21.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Farshut,EGY.25.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Fuwah,EGY.23.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Hawsh 'Isa,EGY.3.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Hihya,EGY.16.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ibshaway,EGY.4.3_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Idfu,EGY.17.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Idku,EGY.3.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ihnasiya,EGY.19.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Imbabah,EGY.8.14_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ismailia,EGY.7.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Isna,EGY.25.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Itsa,EGY.4.4_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Ityay al-Barud,EGY.3.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Jirja,EGY.27.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Juhaynah al-Gharbiyah,EGY.27.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kafr Sa'd,EGY.21.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kafr Saqr,EGY.16.14_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kafr ad-Dawwar,EGY.3.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kafr ash-Shaykh,EGY.23.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kafr az-Zayyat,EGY.5.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kawm Hamadah,EGY.3.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Kawm Umbu,EGY.17.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Luxor,EGY.13.1_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Maghaghah,EGY.10.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mahalat Dimnah,EGY.1.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mallawi,EGY.10.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mallawi City,EGY.10.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Manfalut,EGY.18.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mashtul as-Suq,EGY.16.15_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Matay,EGY.10.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Minuf,EGY.9.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Minuf City,EGY.9.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Minya al-Qamh,EGY.16.16_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Minyat an-Nasr,EGY.1.14_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mit Ghamr,EGY.1.15_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mit Salsil,EGY.1.16_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Mutubis,EGY.23.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Nabaruh,EGY.1.17_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Naj' Hammadi,EGY.25.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Naqadah,EGY.25.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Nasir Bush,EGY.19.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Nasr,EGY.17.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,New Salhiyah,EGY.16.17_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qaha,EGY.12.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qallin,EGY.23.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qalyub,EGY.12.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qift,EGY.25.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qina,EGY.25.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qus,EGY.25.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Qutur,EGY.5.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Quwaysina,EGY.9.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Rosetta,EGY.3.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sadat City,EGY.9.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sahil Salim,EGY.18.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Samalut,EGY.10.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Samannud,EGY.5.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Saqultah,EGY.27.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sawhaj,EGY.27.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Shibin al-Kawm,EGY.9.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Shibin al-Qanatir,EGY.12.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Shirbin,EGY.1.18_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Shubra Khit,EGY.3.14_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sidfa,EGY.18.14_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sidi Salim,EGY.23.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sinnuris,EGY.4.5_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sirs al-Layyanah,EGY.9.10_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Sumusta al-Waqf,EGY.19.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tahta,EGY.27.15_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tahta City,EGY.27.16_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tala,EGY.9.11_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Talkha,EGY.1.19_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tamiyah,EGY.4.6_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tanta,EGY.5.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tibah Police Dept.,EGY.13.2_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tima,EGY.27.17_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Timay al-Imdid,EGY.1.20_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Tukh,EGY.12.12_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Al Buhayrah,EGY.3.15_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Al Fayoum,EGY.4.7_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Al Iskandariyah,EGY.6.18_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Al Jizah,EGY.8.19_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Al Minya,EGY.10.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Aswan,EGY.17.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Asyut,EGY.18.15_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Bani Suwayf,EGY.19.9_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Qina,EGY.25.13_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Unorganized in Suhaj,EGY.27.18_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,West Nubariyah,EGY.3.17_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Yusuf as-Sidiq,EGY.4.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Zaqaziq,EGY.16.19_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Zarqa,EGY.21.8_1,0,0,0,0.0,0,0,0,0.0
+EGY,Egypt,Zifta,EGY.5.12_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Agew Awi,ETH.3.1_1,76,76,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Alaba,ETH.10.1_1,59,59,0,0.0,4,4,0,0.0
+ETH,Ethiopia,Arsi,ETH.8.1_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Bale,ETH.8.2_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Bench Maji,ETH.10.5_1,8,8,0,0.0,1,1,0,0.0
+ETH,Ethiopia,Borena,ETH.8.3_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Debub Gondar,ETH.3.4_1,29,29,0,0.0,2,2,0,0.0
+ETH,Ethiopia,Debub Mirab Shewa,ETH.8.4_1,71,71,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Debub Omo,ETH.10.8_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Debub Wollo,ETH.3.5_1,62,62,0,0.0,4,4,0,0.0
+ETH,Ethiopia,Debubawi,ETH.11.1_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Gamo Gofa,ETH.10.10_1,26,26,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Guji,ETH.8.5_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Gurage,ETH.10.12_1,66,66,0,0.0,4,4,0,0.0
+ETH,Ethiopia,Hadiya,ETH.10.13_1,61,56,5,8.93,4,3,1,33.33
+ETH,Ethiopia,Horo Guduru,ETH.8.6_1,70,70,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Ilubabor,ETH.8.7_1,66,66,0,0.0,4,4,0,0.0
+ETH,Ethiopia,Jimma,ETH.8.8_1,75,75,0,0.0,5,5,0,0.0
+ETH,Ethiopia,Keffa,ETH.10.14_1,62,62,0,0.0,2,2,0,0.0
+ETH,Ethiopia,Kelem Wellega,ETH.8.9_1,67,67,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Mehakelegnaw,ETH.11.2_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Mirab Arsi,ETH.8.10_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Mirab Gojjam,ETH.3.6_1,73,73,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Mirab Hararghe,ETH.8.11_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Mirab Shewa,ETH.8.12_1,78,72,6,8.33,5,4,1,25.0
+ETH,Ethiopia,Mirab Welega,ETH.8.13_1,69,64,5,7.81,5,4,1,25.0
+ETH,Ethiopia,Misraq Gojjam,ETH.3.7_1,75,69,6,8.7,4,3,1,33.33
+ETH,Ethiopia,Misraq Harerge,ETH.8.14_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Misraq Shewa,ETH.8.15_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Misraq Wellega,ETH.8.16_1,77,77,0,0.0,3,3,0,0.0
+ETH,Ethiopia,Misraqawi,ETH.11.4_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,North Shewa,ETH.3.8_1,33,33,0,0.0,2,2,0,0.0
+ETH,Ethiopia,Semen Gondar,ETH.3.10_1,0,0,0,0.0,0,0,0,0.0
+ETH,Ethiopia,Semen Wello,ETH.3.11_1,25,25,0,0.0,2,2,0,0.0
+ETH,Ethiopia,Sidama,ETH.10.19_1,63,52,11,21.15,4,2,2,100.0
+ETH,Ethiopia,Silti,ETH.10.20_1,54,54,0,0.0,4,4,0,0.0
+ETH,Ethiopia,Wag Himra,ETH.3.12_1,77,71,6,8.45,7,6,1,16.67
+GHA,Ghana,Ada West,GHA7.6_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Adaklu,GHA14.1_2,86,81,5,6.17,7,6,1,16.67
+GHA,Ghana,Agotime Ziope,GHA14.3_2,74,63,11,17.46,7,5,2,40.0
+GHA,Ghana,Akatsi North,GHA14.4_2,52,42,10,23.81,5,3,2,66.67
+GHA,Ghana,Akatsi South,GHA14.5_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Asante-Akim North,GHA2.14_2,81,75,6,8.0,4,3,1,33.33
+GHA,Ghana,Asuogyaman,GHA6.8_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Atebubu-Amantin,GHA4.1_2,80,70,10,14.29,6,4,2,50.0
+GHA,Ghana,Awutu Senya West,GHA5.9_2,20,14,6,42.86,3,2,1,50.0
+GHA,Ghana,Central Tongu,GHA14.7_2,65,59,6,10.17,3,2,1,50.0
+GHA,Ghana,Ejura-Sekyedumase,GHA2.26_2,12,7,5,71.43,2,1,1,100.0
+GHA,Ghana,Fanteakwa North,GHA6.16_2,27,21,6,28.57,3,2,1,50.0
+GHA,Ghana,Ga South,GHA7.16_2,72,62,10,16.13,6,4,2,50.0
+GHA,Ghana,Ga West,GHA7.17_2,76,71,5,7.04,6,5,1,20.0
+GHA,Ghana,Gomoa East,GHA5.15_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Ho West,GHA14.9_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Ketu North,GHA14.12_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Ketu South,GHA14.13_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Kintampo North,GHA4.2_2,76,66,10,15.15,6,4,2,50.0
+GHA,Ghana,Kpone-Katamanso,GHA7.19_2,72,56,16,28.57,5,2,3,150.0
+GHA,Ghana,Krachi East,GHA10.4_2,88,88,0,0.0,5,5,0,0.0
+GHA,Ghana,Krachi Nchumuru,GHA10.5_2,81,75,6,8.0,5,4,1,25.0
+GHA,Ghana,Krachi West,GHA10.6_2,80,80,0,0.0,5,5,0,0.0
+GHA,Ghana,Kwahu Afram Plains North,GHA6.19_2,5,0,5,100.0,1,0,1,100.0
+GHA,Ghana,Kwahu Afram Plains South,GHA6.20_2,79,63,16,25.4,6,3,3,100.0
+GHA,Ghana,Kwahu South,GHA6.22_2,85,85,0,0.0,5,5,0,0.0
+GHA,Ghana,Mampong,GHA2.31_2,25,25,0,0.0,2,2,0,0.0
+GHA,Ghana,Ningo-Prampram,GHA7.24_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Nkoranza North,GHA4.4_2,78,78,0,0.0,5,5,0,0.0
+GHA,Ghana,Nkoranza South,GHA4.5_2,42,36,6,16.67,3,2,1,50.0
+GHA,Ghana,Nkwanta North,GHA10.7_2,63,46,17,36.96,6,3,3,100.0
+GHA,Ghana,Nkwanta South,GHA10.8_2,66,61,5,8.2,6,5,1,20.0
+GHA,Ghana,North Tongu,GHA14.16_2,65,49,16,32.65,5,2,3,150.0
+GHA,Ghana,Offinso North,GHA2.35_2,41,36,5,13.89,3,2,1,50.0
+GHA,Ghana,Pru East,GHA4.6_2,90,79,11,13.92,7,5,2,40.0
+GHA,Ghana,Pru West,GHA4.7_2,77,77,0,0.0,5,5,0,0.0
+GHA,Ghana,Sekyere Afram Plains North,GHA2.38_2,76,76,0,0.0,4,4,0,0.0
+GHA,Ghana,Sekyere Central,GHA2.39_2,81,81,0,0.0,5,5,0,0.0
+GHA,Ghana,Sene East,GHA4.8_2,82,82,0,0.0,5,5,0,0.0
+GHA,Ghana,Sene West,GHA4.9_2,74,68,6,8.82,4,3,1,33.33
+GHA,Ghana,Shai Osudoku,GHA7.26_2,78,63,15,23.81,6,3,3,100.0
+GHA,Ghana,South Tongu,GHA14.18_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Upper Manya,GHA6.30_2,0,0,0,0.0,0,0,0,0.0
+GHA,Ghana,Wenchi,GHA3.12_2,81,75,6,8.0,4,3,1,33.33
+GIN,Guinea,Forécariah,GIN.5.3_1,11,0,11,100.0,2,0,2,100.0
+GIN,Guinea,Kindia,GIN.5.4_1,80,74,6,8.11,4,3,1,33.33
+GNB,Guinea-Bissau,Bambadinca,GNB.1.2_1,82,77,5,6.49,4,3,1,33.33
+GNB,Guinea-Bissau,Bedanda,GNB.9.1_1,0,0,0,0.0,0,0,0,0.0
+GNB,Guinea-Bissau,Bissau,GNB.3.1_1,63,47,16,34.04,5,2,3,150.0
+GNB,Guinea-Bissau,Bula,GNB.5.2_1,91,73,18,24.66,5,2,3,150.0
+GNB,Guinea-Bissau,Catio,GNB.9.3_1,0,0,0,0.0,0,0,0,0.0
+GNB,Guinea-Bissau,Contuboel,GNB.1.3_1,71,59,12,20.34,5,3,2,66.67
+GNB,Guinea-Bissau,Farim,GNB.7.2_1,79,69,10,14.49,6,4,2,50.0
+GNB,Guinea-Bissau,Gabu,GNB.6.2_1,76,71,5,7.04,4,3,1,33.33
+GNB,Guinea-Bissau,Galomaro,GNB.1.4_1,84,69,15,21.74,7,4,3,75.0
+GNB,Guinea-Bissau,Gamamundo,GNB.1.5_1,80,69,11,15.94,6,4,2,50.0
+GNB,Guinea-Bissau,Mansoa,GNB.7.4_1,88,88,0,0.0,4,4,0,0.0
+GNB,Guinea-Bissau,Nhacra,GNB.7.5_1,85,74,11,14.86,5,3,2,66.67
+GNB,Guinea-Bissau,Piche,GNB.6.3_1,92,76,16,21.05,7,4,3,75.0
+GNB,Guinea-Bissau,Pirada,GNB.6.4_1,85,80,5,6.25,6,5,1,20.0
+GNB,Guinea-Bissau,Quinhamel,GNB.2.2_1,15,15,0,0.0,1,1,0,0.0
+GNB,Guinea-Bissau,Safim,GNB.2.3_1,92,86,6,6.98,3,2,1,50.0
+GNB,Guinea-Bissau,Sao Domingos,GNB.5.6_1,0,0,0,0.0,0,0,0,0.0
+GNB,Guinea-Bissau,Sonaco,GNB.6.5_1,91,79,12,15.19,6,4,2,50.0
+GNB,Guinea-Bissau,Tite,GNB.8.4_1,37,37,0,0.0,1,1,0,0.0
+KEN,Kenya,Ainabkoi,KEN.44.1_1,6,0,6,100.0,1,0,1,100.0
+KEN,Kenya,Ainamoi,KEN.12.1_1,33,33,0,0.0,2,2,0,0.0
+KEN,Kenya,Aldai,KEN.32.1_1,69,64,5,7.81,4,3,1,33.33
+KEN,Kenya,Alego Usonga,KEN.38.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Awendo,KEN.27.1_1,110,110,0,0.0,5,5,0,0.0
+KEN,Kenya,Bahati,KEN.31.1_1,61,61,0,0.0,4,4,0,0.0
+KEN,Kenya,Baringo North,KEN.1.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Baringo South,KEN.1.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Belgut,KEN.12.2_1,87,81,6,7.41,6,5,1,20.0
+KEN,Kenya,Bobasi,KEN.16.1_1,110,105,5,4.76,5,4,1,25.0
+KEN,Kenya,Bomachoge Borabu,KEN.16.2_1,93,88,5,5.68,4,3,1,33.33
+KEN,Kenya,Bomachoge Chache,KEN.16.3_1,114,104,10,9.62,6,4,2,50.0
+KEN,Kenya,Bomet Central,KEN.2.1_1,82,82,0,0.0,4,4,0,0.0
+KEN,Kenya,Bomet East,KEN.2.2_1,83,78,5,6.41,5,4,1,25.0
+KEN,Kenya,Bonchari,KEN.16.4_1,110,110,0,0.0,5,5,0,0.0
+KEN,Kenya,Bondo,KEN.38.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Borabu,KEN.34.1_1,108,108,0,0.0,4,4,0,0.0
+KEN,Kenya,Budalangi,KEN.4.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Bumula,KEN.3.1_1,106,106,0,0.0,5,5,0,0.0
+KEN,Kenya,Bureti,KEN.12.3_1,87,87,0,0.0,4,4,0,0.0
+KEN,Kenya,Butere,KEN.11.1_1,111,101,10,9.9,9,7,2,28.57
+KEN,Kenya,Butula,KEN.4.2_1,111,106,5,4.72,7,6,1,16.67
+KEN,Kenya,Buuri,KEN.26.1_1,6,0,6,100.0,1,0,1,100.0
+KEN,Kenya,Central Imenti,KEN.26.2_1,19,19,0,0.0,2,2,0,0.0
+KEN,Kenya,Chepalungu,KEN.2.3_1,79,79,0,0.0,4,4,0,0.0
+KEN,Kenya,Cherangany,KEN.42.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Chesumei,KEN.32.2_1,65,59,6,10.17,5,4,1,25.0
+KEN,Kenya,Eldama Ravine,KEN.1.5_1,12,7,5,71.43,2,1,1,100.0
+KEN,Kenya,Emgwen,KEN.32.3_1,60,49,11,22.45,5,3,2,66.67
+KEN,Kenya,Emurua Dikirr,KEN.33.1_1,61,61,0,0.0,4,4,0,0.0
+KEN,Kenya,Endebess,KEN.42.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Funyula,KEN.4.3_1,41,41,0,0.0,3,3,0,0.0
+KEN,Kenya,Ganze,KEN.14.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Garsen,KEN.40.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Gatanga,KEN.29.1_1,80,80,0,0.0,4,4,0,0.0
+KEN,Kenya,Gem,KEN.38.3_1,110,110,0,0.0,7,7,0,0.0
+KEN,Kenya,Gilgil,KEN.31.2_1,30,30,0,0.0,2,2,0,0.0
+KEN,Kenya,Hamisi,KEN.45.2_1,110,110,0,0.0,5,5,0,0.0
+KEN,Kenya,Igembe Central,KEN.26.3_1,5,0,5,100.0,1,0,1,100.0
+KEN,Kenya,Igembe North,KEN.26.4_1,6,0,6,100.0,1,0,1,100.0
+KEN,Kenya,Igembe South,KEN.26.5_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Ikolomani,KEN.11.2_1,111,106,5,4.72,5,4,1,25.0
+KEN,Kenya,Kabondo Kasipul,KEN.8.2_1,104,104,0,0.0,6,6,0,0.0
+KEN,Kenya,Kabuchai,KEN.3.2_1,103,97,6,6.19,5,4,1,25.0
+KEN,Kenya,Kacheliba,KEN.47.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kajiado Central,KEN.10.1_1,23,17,6,35.29,3,2,1,50.0
+KEN,Kenya,Kajiado East,KEN.10.2_1,33,22,11,50.0,4,2,2,100.0
+KEN,Kenya,Kajiado South,KEN.10.4_1,29,29,0,0.0,3,3,0,0.0
+KEN,Kenya,Kajiado West,KEN.10.5_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kaloleni,KEN.14.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kandara,KEN.29.2_1,80,80,0,0.0,4,4,0,0.0
+KEN,Kenya,Kanduyi,KEN.3.3_1,108,108,0,0.0,5,5,0,0.0
+KEN,Kenya,Kapenguria,KEN.47.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kapseret,KEN.44.2_1,61,56,5,8.93,5,4,1,25.0
+KEN,Kenya,Karachuonyo,KEN.8.3_1,107,107,0,0.0,6,6,0,0.0
+KEN,Kenya,Kasipul,KEN.8.4_1,104,104,0,0.0,6,6,0,0.0
+KEN,Kenya,Keiyo North,KEN.5.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Keiyo South,KEN.5.2_1,6,0,6,100.0,1,0,1,100.0
+KEN,Kenya,Kesses,KEN.44.3_1,23,18,5,27.78,3,2,1,50.0
+KEN,Kenya,Khwisero,KEN.11.3_1,115,110,5,4.55,7,6,1,16.67
+KEN,Kenya,Kibwezi East,KEN.23.2_1,32,26,6,23.08,2,1,1,100.0
+KEN,Kenya,Kibwezi West,KEN.23.3_1,16,16,0,0.0,2,2,0,0.0
+KEN,Kenya,Kieni,KEN.36.1_1,33,33,0,0.0,2,2,0,0.0
+KEN,Kenya,Kigumo,KEN.29.4_1,82,82,0,0.0,4,4,0,0.0
+KEN,Kenya,Kiharu,KEN.29.5_1,76,76,0,0.0,4,4,0,0.0
+KEN,Kenya,Kilgoris,KEN.33.2_1,15,15,0,0.0,1,1,0,0.0
+KEN,Kenya,Kilome,KEN.23.4_1,48,48,0,0.0,3,3,0,0.0
+KEN,Kenya,Kimilili,KEN.3.4_1,98,92,6,6.52,5,4,1,25.0
+KEN,Kenya,Kiminini,KEN.42.3_1,28,17,11,64.71,4,2,2,100.0
+KEN,Kenya,Kinango,KEN.19.1_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kinangop,KEN.35.1_1,80,80,0,0.0,4,4,0,0.0
+KEN,Kenya,Kipipiri,KEN.35.2_1,79,79,0,0.0,5,5,0,0.0
+KEN,Kenya,Kipkelion East,KEN.12.4_1,20,20,0,0.0,2,2,0,0.0
+KEN,Kenya,Kipkelion West,KEN.12.5_1,15,10,5,50.0,2,1,1,100.0
+KEN,Kenya,Kirinyaga Central,KEN.15.2_1,57,57,0,0.0,3,3,0,0.0
+KEN,Kenya,Kitui Central,KEN.18.1_1,23,23,0,0.0,2,2,0,0.0
+KEN,Kenya,Kitui East,KEN.18.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kitui Rural,KEN.18.3_1,22,22,0,0.0,2,2,0,0.0
+KEN,Kenya,Kitui South,KEN.18.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Kitui West,KEN.18.5_1,23,23,0,0.0,2,2,0,0.0
+KEN,Kenya,Kitutu Chache North,KEN.16.5_1,104,104,0,0.0,5,5,0,0.0
+KEN,Kenya,Kitutu Masaba,KEN.34.2_1,114,108,6,5.56,5,4,1,25.0
+KEN,Kenya,Konoin,KEN.2.4_1,93,88,5,5.68,6,5,1,20.0
+KEN,Kenya,Kuresoi North,KEN.31.3_1,17,17,0,0.0,2,2,0,0.0
+KEN,Kenya,Kuresoi South,KEN.31.4_1,9,9,0,0.0,1,1,0,0.0
+KEN,Kenya,Kuria East,KEN.27.2_1,101,96,5,5.21,5,4,1,25.0
+KEN,Kenya,Kuria West,KEN.27.3_1,103,103,0,0.0,4,4,0,0.0
+KEN,Kenya,Kwanza,KEN.42.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Laikipia East,KEN.20.1_1,36,36,0,0.0,2,2,0,0.0
+KEN,Kenya,Laikipia North,KEN.20.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Laikipia West,KEN.20.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Lamu West,KEN.21.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Lari,KEN.13.9_1,80,80,0,0.0,3,3,0,0.0
+KEN,Kenya,Likuyani,KEN.3.5_1,91,86,5,5.81,7,6,1,16.67
+KEN,Kenya,Limuru,KEN.13.10_1,84,84,0,0.0,3,3,0,0.0
+KEN,Kenya,Lugari,KEN.3.6_1,109,104,5,4.81,7,6,1,16.67
+KEN,Kenya,Lungalunga,KEN.19.2_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Lurambi,KEN.11.5_1,105,105,0,0.0,6,6,0,0.0
+KEN,Kenya,Machakos Town,KEN.22.3_1,51,51,0,0.0,3,3,0,0.0
+KEN,Kenya,Magarini,KEN.14.5_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Makueni,KEN.23.5_1,32,32,0,0.0,3,3,0,0.0
+KEN,Kenya,Malava,KEN.11.6_1,112,102,10,9.8,6,4,2,50.0
+KEN,Kenya,Malindi,KEN.14.6_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Maragwa,KEN.29.6_1,83,78,5,6.41,5,4,1,25.0
+KEN,Kenya,Marakwet East,KEN.5.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Marakwet West,KEN.5.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Masinga,KEN.22.4_1,22,22,0,0.0,2,2,0,0.0
+KEN,Kenya,Matayos,KEN.4.4_1,112,112,0,0.0,5,5,0,0.0
+KEN,Kenya,Mathira,KEN.36.2_1,58,58,0,0.0,3,3,0,0.0
+KEN,Kenya,Matuga,KEN.19.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Matungu,KEN.11.7_1,111,111,0,0.0,6,6,0,0.0
+KEN,Kenya,Matungulu,KEN.22.5_1,72,67,5,7.46,4,3,1,33.33
+KEN,Kenya,Mavoko,KEN.22.6_1,78,73,5,6.85,5,4,1,25.0
+KEN,Kenya,Mbeere North,KEN.6.2_1,24,24,0,0.0,2,2,0,0.0
+KEN,Kenya,Mbeere South,KEN.6.3_1,23,23,0,0.0,2,2,0,0.0
+KEN,Kenya,Mbooni,KEN.23.6_1,49,49,0,0.0,3,3,0,0.0
+KEN,Kenya,Mogotio,KEN.1.6_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Moiben,KEN.44.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Molo,KEN.31.5_1,5,0,5,100.0,1,0,1,100.0
+KEN,Kenya,Mosop,KEN.32.4_1,81,76,5,6.58,7,6,1,16.67
+KEN,Kenya,Mt. Elgon,KEN.3.7_1,103,103,0,0.0,7,7,0,0.0
+KEN,Kenya,Muhoroni,KEN.17.4_1,108,108,0,0.0,6,6,0,0.0
+KEN,Kenya,Mumias East,KEN.11.8_1,103,103,0,0.0,6,6,0,0.0
+KEN,Kenya,Mumias West,KEN.11.9_1,114,104,10,9.62,8,6,2,33.33
+KEN,Kenya,Mwala,KEN.22.7_1,52,52,0,0.0,3,3,0,0.0
+KEN,Kenya,Mwea,KEN.15.3_1,81,76,5,6.58,6,5,1,20.0
+KEN,Kenya,Mwingi Central,KEN.18.6_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Mwingi North,KEN.18.7_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Mwingi West,KEN.18.8_1,25,25,0,0.0,2,2,0,0.0
+KEN,Kenya,Naivasha,KEN.31.6_1,29,29,0,0.0,3,3,0,0.0
+KEN,Kenya,Nambale,KEN.4.5_1,112,112,0,0.0,6,6,0,0.0
+KEN,Kenya,Nandi Hills,KEN.32.5_1,45,34,11,32.35,4,2,2,100.0
+KEN,Kenya,Narok East,KEN.33.3_1,18,18,0,0.0,2,2,0,0.0
+KEN,Kenya,Narok North,KEN.33.4_1,6,0,6,100.0,1,0,1,100.0
+KEN,Kenya,Narok South,KEN.33.5_1,27,27,0,0.0,2,2,0,0.0
+KEN,Kenya,Narok West,KEN.33.6_1,17,17,0,0.0,2,2,0,0.0
+KEN,Kenya,Navakholo,KEN.11.10_1,107,96,11,11.46,7,5,2,40.0
+KEN,Kenya,Ndaragwa,KEN.35.3_1,52,52,0,0.0,3,3,0,0.0
+KEN,Kenya,Ndhiwa,KEN.8.6_1,73,62,11,17.74,7,5,2,40.0
+KEN,Kenya,Ndia,KEN.15.4_1,66,60,6,10.0,4,3,1,33.33
+KEN,Kenya,Njoro,KEN.31.9_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,North Mugirango,KEN.34.3_1,105,105,0,0.0,5,5,0,0.0
+KEN,Kenya,Nyakach,KEN.17.5_1,106,96,10,10.42,7,5,2,40.0
+KEN,Kenya,Nyando,KEN.17.6_1,102,102,0,0.0,5,5,0,0.0
+KEN,Kenya,Nyaribari Chache,KEN.16.7_1,110,104,6,5.77,5,4,1,25.0
+KEN,Kenya,Nyaribari Masaba,KEN.16.8_1,100,95,5,5.26,6,5,1,20.0
+KEN,Kenya,Nyatike,KEN.27.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Ol Jorok,KEN.35.4_1,82,76,6,7.89,5,4,1,25.0
+KEN,Kenya,Ol Kalou,KEN.35.5_1,79,74,5,6.76,6,5,1,20.0
+KEN,Kenya,Pokot South,KEN.47.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Rangwe,KEN.8.7_1,105,105,0,0.0,6,6,0,0.0
+KEN,Kenya,Rarieda,KEN.38.4_1,12,7,5,71.43,2,1,1,100.0
+KEN,Kenya,Rongai,KEN.31.10_1,7,7,0,0.0,1,1,0,0.0
+KEN,Kenya,Rongo,KEN.27.5_1,115,115,0,0.0,6,6,0,0.0
+KEN,Kenya,Sabatia,KEN.45.4_1,114,109,5,4.59,6,5,1,20.0
+KEN,Kenya,Saboti,KEN.42.5_1,28,7,21,300.0,5,1,4,400.0
+KEN,Kenya,Samburu West,KEN.37.3_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Seme,KEN.17.7_1,108,108,0,0.0,5,5,0,0.0
+KEN,Kenya,Shinyalu,KEN.11.11_1,103,92,11,11.96,7,5,2,40.0
+KEN,Kenya,Sigor,KEN.47.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Sigowet/Soin,KEN.12.6_1,45,39,6,15.38,3,2,1,50.0
+KEN,Kenya,Sirisia,KEN.3.8_1,107,107,0,0.0,5,5,0,0.0
+KEN,Kenya,Sotik,KEN.2.5_1,78,78,0,0.0,5,5,0,0.0
+KEN,Kenya,South Imenti,KEN.26.7_1,34,34,0,0.0,3,3,0,0.0
+KEN,Kenya,South Mugirango,KEN.16.9_1,115,110,5,4.55,6,5,1,20.0
+KEN,Kenya,Soy,KEN.44.5_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Subukia,KEN.31.11_1,8,8,0,0.0,1,1,0,0.0
+KEN,Kenya,Suna East,KEN.27.6_1,111,111,0,0.0,5,5,0,0.0
+KEN,Kenya,Suna West,KEN.27.7_1,89,83,6,7.23,6,5,1,20.0
+KEN,Kenya,Taveta,KEN.39.2_1,70,70,0,0.0,3,3,0,0.0
+KEN,Kenya,Teso North,KEN.4.6_1,109,98,11,11.22,6,4,2,50.0
+KEN,Kenya,Teso South,KEN.4.7_1,109,109,0,0.0,6,6,0,0.0
+KEN,Kenya,Tharaka,KEN.41.4_1,0,0,0,0.0,0,0,0,0.0
+KEN,Kenya,Tigania East,KEN.26.8_1,5,0,5,100.0,1,0,1,100.0
+KEN,Kenya,Tigania West,KEN.26.9_1,25,25,0,0.0,3,3,0,0.0
+KEN,Kenya,Tinderet,KEN.32.6_1,34,34,0,0.0,3,3,0,0.0
+KEN,Kenya,Tongaren,KEN.3.9_1,103,80,23,28.75,7,3,4,133.33
+KEN,Kenya,Turbo,KEN.44.6_1,24,19,5,26.32,3,2,1,50.0
+KEN,Kenya,Ugenya,KEN.38.5_1,99,99,0,0.0,6,6,0,0.0
+KEN,Kenya,Ugunja,KEN.38.6_1,109,109,0,0.0,7,7,0,0.0
+KEN,Kenya,Uriri,KEN.27.8_1,109,109,0,0.0,6,6,0,0.0
+KEN,Kenya,Voi,KEN.39.3_1,30,30,0,0.0,1,1,0,0.0
+KEN,Kenya,Webute West,KEN.3.10_1,107,101,6,5.94,6,5,1,20.0
+KEN,Kenya,Webuye East,KEN.3.11_1,109,109,0,0.0,5,5,0,0.0
+KEN,Kenya,West Mugirango,KEN.34.4_1,105,105,0,0.0,5,5,0,0.0
+KEN,Kenya,Yatta,KEN.22.9_1,31,31,0,0.0,2,2,0,0.0
+KEN,Kenya,unknown 4,KEN.42.6_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Gbehlageh,LBR.12.1_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Jorquelleh,LBR.2.2_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Panta-Kpa,LBR.2.4_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Saclepea,LBR.12.2_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Salayea,LBR.8.4_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Sanniquelleh-Mahn,LBR.12.3_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Suakoko,LBR.2.7_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Tappita,LBR.12.4_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Voinjama,LBR.8.5_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Zoegeh,LBR.12.6_1,0,0,0,0.0,0,0,0,0.0
+LBR,Liberia,Zorzor,LBR.8.6_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Alaotra-Mangoro,MDG.5.1_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Amoron'i mania,MDG.3.1_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Analamanga,MDG.1.1_1,32,17,15,88.24,5,2,3,150.0
+MDG,Madagascar,Betsiboka,MDG.4.1_1,30,18,12,66.67,4,2,2,100.0
+MDG,Madagascar,Boeny,MDG.4.2_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Bongolava,MDG.1.2_1,101,101,0,0.0,6,6,0,0.0
+MDG,Madagascar,Diana,MDG.2.1_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Haute matsiatra,MDG.3.3_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Itasy,MDG.1.3_1,89,72,17,23.61,7,4,3,75.0
+MDG,Madagascar,Sofia,MDG.4.4_1,0,0,0,0.0,0,0,0,0.0
+MDG,Madagascar,Vakinankaratra,MDG.1.4_1,41,41,0,0.0,3,3,0,0.0
+MLI,Mali,Bafoulabé,MLI.3.1_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Barouéli,MLI.7.1_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Bla,MLI.7.2_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Dioïla,MLI.5.2_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Kati,MLI.5.4_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Kita,MLI.3.5_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Koulikoro,MLI.5.6_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Koutiala,MLI.8.4_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Tominian,MLI.7.7_1,0,0,0,0.0,0,0,0,0.0
+MLI,Mali,Yorosso,MLI.8.7_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Alto Molocue,MOZ.11.1_1,31,26,5,19.23,4,3,1,33.33
+MOZ,Mozambique,Angoche,MOZ.7.1_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Angónia,MOZ.10.1_1,110,104,6,5.77,7,6,1,16.67
+MOZ,Mozambique,Barue,MOZ.4.1_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Cahora Bassa,MOZ.10.2_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Caia,MOZ.9.2_1,7,7,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Changara,MOZ.10.3_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Chemba,MOZ.9.3_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Chifunde,MOZ.10.4_1,28,28,0,0.0,3,3,0,0.0
+MOZ,Mozambique,Chiuta,MOZ.10.5_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Cuamba,MOZ.8.1_1,109,91,18,19.78,10,7,3,42.86
+MOZ,Mozambique,Dondo,MOZ.9.6_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Erati,MOZ.7.2_1,5,0,5,100.0,1,0,1,100.0
+MOZ,Mozambique,Gile,MOZ.11.3_1,15,9,6,66.67,2,1,1,100.0
+MOZ,Mozambique,Gondola,MOZ.4.2_1,9,9,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Gorongosa,MOZ.9.7_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Guro,MOZ.4.3_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Gurue,MOZ.11.4_1,94,89,5,5.62,9,8,1,12.5
+MOZ,Mozambique,Ile,MOZ.11.5_1,16,10,6,60.0,2,1,1,100.0
+MOZ,Mozambique,Lalaua,MOZ.7.3_1,22,22,0,0.0,3,3,0,0.0
+MOZ,Mozambique,Lichinga,MOZ.8.3_1,12,12,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Macanga,MOZ.10.6_1,101,96,5,5.21,5,4,1,25.0
+MOZ,Mozambique,Maganja da Costa,MOZ.11.8_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Magoe,MOZ.10.7_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Malema,MOZ.7.4_1,59,59,0,0.0,5,5,0,0.0
+MOZ,Mozambique,Mandimba,MOZ.8.5_1,109,99,10,10.1,7,5,2,40.0
+MOZ,Mozambique,Manica,MOZ.4.6_1,10,10,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Maravia,MOZ.10.8_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Maringue,MOZ.9.9_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Marromeu,MOZ.9.10_1,11,11,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Marrupa,MOZ.8.6_1,76,55,21,38.18,9,5,4,80.0
+MOZ,Mozambique,Maúa,MOZ.8.7_1,8,8,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Mecanhelas,MOZ.8.9_1,101,91,10,10.99,7,5,2,40.0
+MOZ,Mozambique,Meconta,MOZ.7.5_1,11,11,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Mecuburi,MOZ.7.6_1,5,0,5,100.0,1,0,1,100.0
+MOZ,Mozambique,Memba,MOZ.7.7_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Metarica,MOZ.8.11_1,54,28,26,92.86,7,2,5,250.0
+MOZ,Mozambique,Milange,MOZ.11.9_1,36,36,0,0.0,2,2,0,0.0
+MOZ,Mozambique,Moatize,MOZ.10.9_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Mogovolas,MOZ.7.8_1,34,34,0,0.0,2,2,0,0.0
+MOZ,Mozambique,Moma,MOZ.7.9_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Monapo,MOZ.7.10_1,8,8,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Mopeia,MOZ.11.11_1,16,16,0,0.0,2,2,0,0.0
+MOZ,Mozambique,Morrumbala,MOZ.11.12_1,8,8,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Mossuril,MOZ.7.12_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Mossurize,MOZ.4.7_1,11,11,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Muecate,MOZ.7.13_1,6,0,6,100.0,1,0,1,100.0
+MOZ,Mozambique,Muembe,MOZ.8.12_1,103,93,10,10.75,9,7,2,28.57
+MOZ,Mozambique,Murrupula,MOZ.7.14_1,13,8,5,62.5,2,1,1,100.0
+MOZ,Mozambique,Mutarara,MOZ.10.10_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,N'gauma,MOZ.8.13_1,105,88,17,19.32,11,8,3,37.5
+MOZ,Mozambique,Nacala Velha,MOZ.7.15_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Namapa,MOZ.7.16_1,0,0,0,0.0,0,0,0,0.0
+MOZ,Mozambique,Namarroi,MOZ.11.14_1,5,0,5,100.0,1,0,1,100.0
+MOZ,Mozambique,Nampula,MOZ.7.17_1,10,10,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Nhamatanda,MOZ.9.12_1,6,0,6,100.0,1,0,1,100.0
+MOZ,Mozambique,Nicoadala,MOZ.11.15_1,11,11,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Nipepe,MOZ.8.14_1,15,15,0,0.0,2,2,0,0.0
+MOZ,Mozambique,Ribaue,MOZ.7.18_1,5,0,5,100.0,1,0,1,100.0
+MOZ,Mozambique,Sanga,MOZ.8.15_1,103,93,10,10.75,7,5,2,40.0
+MOZ,Mozambique,Sussundenga,MOZ.4.8_1,13,13,0,0.0,1,1,0,0.0
+MOZ,Mozambique,Tsangano,MOZ.10.11_1,99,88,11,12.5,6,4,2,50.0
+MOZ,Mozambique,Zumbu,MOZ.10.12_1,5,0,5,100.0,1,0,1,100.0
+MWI,Malawi,Blantyre City,MWI.2.1_1,135,109,26,23.85,14,9,5,55.56
+MWI,Malawi,Lilongwe City,MWI.11.1_1,133,133,0,0.0,8,8,0,0.0
+MWI,Malawi,Mwanza Boma,MWI.16.2_1,12,7,5,71.43,2,1,1,100.0
+MWI,Malawi,Ntchisi Boma,MWI.23.1_1,118,107,11,10.28,11,9,2,22.22
+MWI,Malawi,Rumphi Boma,MWI.25.3_1,131,120,11,9.17,9,7,2,28.57
+MWI,Malawi,SC Chakhaza,MWI.7.3_1,123,118,5,4.24,10,9,1,11.11
+MWI,Malawi,SC Chamba,MWI.12.5_1,109,103,6,5.83,8,7,1,14.29
+MWI,Malawi,SC Chikweo,MWI.12.6_1,132,121,11,9.09,9,7,2,28.57
+MWI,Malawi,SC Chilikumwendo,MWI.6.4_1,133,123,10,8.13,9,7,2,28.57
+MWI,Malawi,SC Chilooko,MWI.23.2_1,130,103,27,26.21,13,8,5,62.5
+MWI,Malawi,SC Chilowamatambe,MWI.9.3_1,120,104,16,15.38,12,9,3,33.33
+MWI,Malawi,SC Chitekwele,MWI.11.2_1,60,55,5,9.09,5,4,1,25.0
+MWI,Malawi,SC Chiwalo,MWI.12.7_1,120,109,11,10.09,9,7,2,28.57
+MWI,Malawi,SC Chowe,MWI.13.5_1,72,56,16,28.57,7,4,3,75.0
+MWI,Malawi,SC Dambe,MWI.14.2_1,133,123,10,8.13,9,7,2,28.57
+MWI,Malawi,SC Goodson Ganya,MWI.22.3_1,123,103,20,19.42,9,5,4,80.0
+MWI,Malawi,SC Juma,MWI.15.3_1,133,127,6,4.72,9,8,1,12.5
+MWI,Malawi,SC Kamenya Gwaza,MWI.6.5_1,127,127,0,0.0,8,8,0,0.0
+MWI,Malawi,SC Kampingo Sibande,MWI.17.4_1,70,65,5,7.69,4,3,1,33.33
+MWI,Malawi,SC Kawamba,MWI.9.5_1,130,120,10,8.33,9,7,2,28.57
+MWI,Malawi,SC Kayembe,MWI.7.4_1,134,123,11,8.94,11,9,2,22.22
+MWI,Malawi,SC Khosolo Gwaza Jere,MWI.17.5_1,11,0,11,100.0,2,0,2,100.0
+MWI,Malawi,SC Lukwa,MWI.9.6_1,135,119,16,13.45,11,8,3,37.5
+MWI,Malawi,SC M'nyanja,MWI.9.7_1,111,106,5,4.72,10,9,1,11.11
+MWI,Malawi,SC Makwangwala,MWI.22.4_1,119,114,5,4.39,9,8,1,12.5
+MWI,Malawi,SC Mavwere,MWI.14.3_1,132,127,5,3.94,9,8,1,12.5
+MWI,Malawi,SC Mbenje,MWI.21.4_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,SC Mbiza,MWI.28.2_1,134,128,6,4.69,10,9,1,11.11
+MWI,Malawi,SC Mbwana Nyambi,MWI.13.6_1,122,117,5,4.27,9,8,1,12.5
+MWI,Malawi,SC Mduwa,MWI.14.4_1,138,128,10,7.81,10,8,2,25.0
+MWI,Malawi,SC Mkukula,MWI.7.5_1,132,121,11,9.09,10,8,2,25.0
+MWI,Malawi,SC Mlomba,MWI.12.8_1,113,108,5,4.63,6,5,1,20.0
+MWI,Malawi,SC Mponela,MWI.7.6_1,135,135,0,0.0,11,11,0,0.0
+MWI,Malawi,SC Mposa,MWI.12.9_1,130,125,5,4.0,7,6,1,16.67
+MWI,Malawi,SC Mtema,MWI.11.3_1,136,126,10,7.94,11,9,2,22.22
+MWI,Malawi,SC Mwahenga,MWI.25.6_1,95,90,5,5.56,7,6,1,16.67
+MWI,Malawi,SC Mwankhunikira,MWI.25.8_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,SC Mwirang'ombe,MWI.8.5_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,SC Namabvi,MWI.13.7_1,65,59,6,10.17,5,4,1,25.0
+MWI,Malawi,SC Ngokwe,MWI.12.10_1,138,128,10,7.81,9,7,2,28.57
+MWI,Malawi,SC Njewa,MWI.11.4_1,127,127,0,0.0,9,9,0,0.0
+MWI,Malawi,SC Njombwa,MWI.9.8_1,138,117,21,17.95,13,9,4,44.44
+MWI,Malawi,SC Simlemba,MWI.9.9_1,119,113,6,5.31,10,9,1,11.11
+MWI,Malawi,SC Sitola,MWI.12.11_1,114,93,21,22.58,10,6,4,66.67
+MWI,Malawi,TA Bvumbwe,MWI.27.6_1,120,115,5,4.35,10,9,1,11.11
+MWI,Malawi,TA Chadza,MWI.11.6_1,139,139,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Chapananga,MWI.3.5_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Chigaru,MWI.2.2_1,24,24,0,0.0,3,3,0,0.0
+MWI,Malawi,TA Chikowi,MWI.28.4_1,132,132,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Chikulamayembe,MWI.25.9_1,130,125,5,4.0,8,7,1,14.29
+MWI,Malawi,TA Chikumbu,MWI.15.5_1,120,114,6,5.26,8,7,1,14.29
+MWI,Malawi,TA Chimaliro,MWI.27.8_1,135,130,5,3.85,11,10,1,10.0
+MWI,Malawi,TA Chimutu,MWI.11.7_1,132,132,0,0.0,8,8,0,0.0
+MWI,Malawi,TA Chimwala,MWI.13.8_1,74,59,15,25.42,7,4,3,75.0
+MWI,Malawi,TA Chindi,MWI.17.6_1,128,107,21,19.63,12,8,4,50.0
+MWI,Malawi,TA Chiseka,MWI.11.8_1,131,131,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Chitera,MWI.4.2_1,121,111,10,9.01,10,8,2,25.0
+MWI,Malawi,TA Chitukula,MWI.11.9_1,134,114,20,17.54,12,8,4,50.0
+MWI,Malawi,TA Chiwere,MWI.7.7_1,74,57,17,29.82,7,4,3,75.0
+MWI,Malawi,TA Chulu,MWI.9.10_1,137,112,25,22.32,14,9,5,55.56
+MWI,Malawi,TA Dzoole,MWI.7.8_1,141,141,0,0.0,11,11,0,0.0
+MWI,Malawi,TA Jalasi,MWI.13.9_1,118,103,15,14.56,12,9,3,33.33
+MWI,Malawi,TA Kabudula,MWI.11.10_1,116,106,10,9.43,9,7,2,28.57
+MWI,Malawi,TA Kachindamoto,MWI.6.6_1,44,34,10,29.41,4,2,2,100.0
+MWI,Malawi,TA Kadewere,MWI.4.3_1,107,107,0,0.0,7,7,0,0.0
+MWI,Malawi,TA Kalembo,MWI.1.2_1,116,105,11,10.48,11,9,2,22.22
+MWI,Malawi,TA Kalolo,MWI.11.11_1,129,109,20,18.35,12,8,4,50.0
+MWI,Malawi,TA Kaluluma,MWI.9.11_1,121,105,16,15.24,12,9,3,33.33
+MWI,Malawi,TA Kalumba,MWI.11.12_1,144,138,6,4.35,9,8,1,12.5
+MWI,Malawi,TA Kalumbu,MWI.11.13_1,136,125,11,8.8,10,8,2,25.0
+MWI,Malawi,TA Kalumo,MWI.23.5_1,132,120,12,10.0,12,10,2,20.0
+MWI,Malawi,TA Kameme,MWI.5.3_1,130,130,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Kanduku,MWI.16.3_1,7,7,0,0.0,1,1,0,0.0
+MWI,Malawi,TA Kanyenda,MWI.20.7_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Kaomba,MWI.9.12_1,134,112,22,19.64,14,10,4,40.0
+MWI,Malawi,TA Kapelula,MWI.9.13_1,61,61,0,0.0,6,6,0,0.0
+MWI,Malawi,TA Kapeni,MWI.2.3_1,91,64,27,42.19,9,4,5,125.0
+MWI,Malawi,TA Kaphuka,MWI.6.7_1,140,128,12,9.38,10,8,2,25.0
+MWI,Malawi,TA Kasumbu,MWI.6.8_1,138,138,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Katuli,MWI.13.10_1,103,86,17,19.77,9,6,3,50.0
+MWI,Malawi,TA Katunga,MWI.3.7_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Kawinga,MWI.12.12_1,140,129,11,8.53,10,8,2,25.0
+MWI,Malawi,TA Khombedza,MWI.26.7_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Khongoni,MWI.11.14_1,137,122,15,12.3,11,8,3,37.5
+MWI,Malawi,TA Kilupula,MWI.8.6_1,129,118,11,9.32,10,8,2,25.0
+MWI,Malawi,TA Kuntaja,MWI.2.4_1,16,16,0,0.0,2,2,0,0.0
+MWI,Malawi,TA Kunthembwe,MWI.2.5_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Kuntumanji,MWI.28.5_1,139,139,0,0.0,7,7,0,0.0
+MWI,Malawi,TA Kyungu,MWI.8.7_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Likoswe,MWI.4.4_1,122,99,23,23.23,11,7,4,57.14
+MWI,Malawi,TA Liwonde,MWI.12.13_1,113,101,12,11.88,9,7,2,28.57
+MWI,Malawi,TA Lundu,MWI.2.6_1,7,7,0,0.0,1,1,0,0.0
+MWI,Malawi,TA M'Mbelwa,MWI.17.7_1,129,98,31,31.63,14,8,6,75.0
+MWI,Malawi,TA Mabuka,MWI.15.6_1,128,123,5,4.07,9,8,1,12.5
+MWI,Malawi,TA Mabulabo,MWI.17.8_1,137,120,17,14.17,14,11,3,27.27
+MWI,Malawi,TA Machinjili,MWI.2.7_1,137,111,26,23.42,14,9,5,55.56
+MWI,Malawi,TA Makanjila,MWI.13.11_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Makata,MWI.2.8_1,115,99,16,16.16,10,7,3,42.86
+MWI,Malawi,TA Makhwira,MWI.3.9_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Malemia,MWI.21.6_1,29,24,5,20.83,3,2,1,50.0
+MWI,Malawi,TA Malili,MWI.11.15_1,123,123,0,0.0,8,8,0,0.0
+MWI,Malawi,TA Masasa,MWI.22.7_1,114,83,31,37.35,10,4,6,150.0
+MWI,Malawi,TA Maseya,MWI.3.10_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Mazengera,MWI.11.16_1,138,133,5,3.76,9,8,1,12.5
+MWI,Malawi,TA Mkanda,MWI.14.5_1,122,122,0,0.0,8,8,0,0.0
+MWI,Malawi,TA Mkhumba,MWI.24.2_1,142,137,5,3.65,11,10,1,10.0
+MWI,Malawi,TA Mlauli,MWI.18.3_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Mlolo,MWI.21.7_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Mlonyeni,MWI.14.6_1,140,130,10,7.69,10,8,2,25.0
+MWI,Malawi,TA Mlumbe,MWI.28.7_1,122,105,17,16.19,9,6,3,50.0
+MWI,Malawi,TA Mpama,MWI.4.5_1,121,105,16,15.24,10,7,3,42.86
+MWI,Malawi,TA Mpando,MWI.22.8_1,134,118,16,13.56,8,5,3,60.0
+MWI,Malawi,TA Mpherembe,MWI.17.9_1,95,85,10,11.76,7,5,2,40.0
+MWI,Malawi,TA Mponda,MWI.13.12_1,20,20,0,0.0,2,2,0,0.0
+MWI,Malawi,TA Msakambewa,MWI.7.9_1,140,135,5,3.7,11,10,1,10.0
+MWI,Malawi,TA Mtwalo,MWI.17.10_1,78,63,15,23.81,6,3,3,100.0
+MWI,Malawi,TA Mwabulambya,MWI.5.4_1,137,126,11,8.73,9,7,2,28.57
+MWI,Malawi,TA Mwadzama,MWI.20.9_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Mwambo,MWI.28.8_1,142,142,0,0.0,9,9,0,0.0
+MWI,Malawi,TA Mwase,MWI.9.14_1,122,117,5,4.27,11,10,1,10.0
+MWI,Malawi,TA Mzikubola,MWI.17.11_1,47,47,0,0.0,3,3,0,0.0
+MWI,Malawi,TA Mzukuzuku,MWI.17.12_1,110,99,11,11.11,10,8,2,25.0
+MWI,Malawi,TA Nankumba,MWI.13.13_1,5,0,5,100.0,1,0,1,100.0
+MWI,Malawi,TA Nazombe,MWI.24.3_1,137,137,0,0.0,10,10,0,0.0
+MWI,Malawi,TA Nchema,MWI.4.6_1,124,114,10,8.77,10,8,2,25.0
+MWI,Malawi,TA Ndindi,MWI.26.10_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Ngabu,MWI.3.11_1,0,0,0,0.0,0,0,0,0.0
+MWI,Malawi,TA Njolomole,MWI.22.9_1,129,118,11,9.32,9,7,2,28.57
+MWI,Malawi,TA Nkalo,MWI.4.7_1,126,116,10,8.62,10,8,2,25.0
+MWI,Malawi,TA Nkanda,MWI.15.7_1,131,121,10,8.26,9,7,2,28.57
+MWI,Malawi,TA Nsamala,MWI.1.3_1,99,88,11,12.5,7,5,2,40.0
+MWI,Malawi,TA Nthache,MWI.16.4_1,7,7,0,0.0,1,1,0,0.0
+MWI,Malawi,TA Nthalire,MWI.5.7_1,128,123,5,4.07,6,5,1,20.0
+MWI,Malawi,TA Nthiramanja,MWI.15.8_1,113,108,5,4.63,8,7,1,14.29
+MWI,Malawi,TA Nyambi,MWI.12.14_1,126,121,5,4.13,9,8,1,12.5
+MWI,Malawi,TA Pemba,MWI.6.9_1,139,122,17,13.93,10,7,3,42.86
+MWI,Malawi,TA Phambala,MWI.22.10_1,130,120,10,8.33,8,6,2,33.33
+MWI,Malawi,TA Santhe,MWI.9.15_1,128,123,5,4.07,8,7,1,14.29
+MWI,Malawi,TA Symon,MWI.18.5_1,18,13,5,38.46,2,1,1,100.0
+MWI,Malawi,TA Tambala,MWI.6.10_1,47,42,5,11.9,4,3,1,33.33
+MWI,Malawi,TA Tengani,MWI.21.11_1,7,7,0,0.0,1,1,0,0.0
+MWI,Malawi,TA Wimbe,MWI.9.16_1,129,113,16,14.16,13,10,3,30.0
+MWI,Malawi,TA Zulu,MWI.14.7_1,140,130,10,7.69,10,8,2,25.0
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,MWI.25.12_1,129,129,0,0.0,7,7,0,0.0
+NAM,Namibia,Anamulenge,NAM.9.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Eenhana,NAM.7.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Endola,NAM.7.2_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Engela,NAM.7.3_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Engodi,NAM.11.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Epembe,NAM.7.4_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Etayi,NAM.9.3_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Grootfontein,NAM.12.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Guinas,NAM.11.2_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Kahenge,NAM.4.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Kapako,NAM.4.2_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Mashare,NAM.4.3_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Mpungu,NAM.4.4_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Mukwe,NAM.4.5_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ndiyona,NAM.4.6_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ogongo,NAM.9.4_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ohangwena,NAM.7.5_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Okahao,NAM.9.5_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Okaku,NAM.10.1_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Okalongo,NAM.9.6_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Okankolo,NAM.11.3_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Okongo,NAM.7.6_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Omatako,NAM.12.4_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Omulonga,NAM.7.7_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Omundaungilo,NAM.7.8_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Omuntele,NAM.11.5_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Omuthiyagwipundi,NAM.11.6_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ondangwa,NAM.10.5_1,31,26,5,19.23,3,2,1,50.0
+NAM,Namibia,Ondobe,NAM.7.9_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Onesi,NAM.9.7_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ongenga,NAM.7.10_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ongwediva,NAM.10.6_1,10,10,0,0.0,1,1,0,0.0
+NAM,Namibia,Oniipa,NAM.11.8_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Onyaanya,NAM.11.9_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Oshikango,NAM.7.11_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Otamanzi,NAM.9.9_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Otavi,NAM.12.5_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Outapi,NAM.9.10_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Ruacana,NAM.9.11_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Rundu Rural East,NAM.4.7_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Rundu Rural West,NAM.4.8_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Steinhausen,NAM.8.7_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Tsandi,NAM.9.12_1,0,0,0,0.0,0,0,0,0.0
+NAM,Namibia,Tsumkwe,NAM.12.7_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Abakaliki,NGA.11.1_1,48,37,11,29.73,6,4,2,50.0
+NGA,Nigeria,Ado,NGA.7.1_1,57,51,6,11.76,5,4,1,25.0
+NGA,Nigeria,Afijio,NGA.31.1_1,55,33,22,66.67,6,2,4,200.0
+NGA,Nigeria,Agatu,NGA.7.2_1,67,56,11,19.64,6,4,2,50.0
+NGA,Nigeria,Ajaokuta,NGA.23.2_1,68,63,5,7.94,6,5,1,20.0
+NGA,Nigeria,Ajingi,NGA.20.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Albasu,NGA.20.2_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Aleiro,NGA.22.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Anka,NGA.37.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Apa,NGA.7.3_1,49,39,10,25.64,6,4,2,50.0
+NGA,Nigeria,Arewa Dandi,NGA.22.2_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Argungu,NGA.22.3_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Asa,NGA.24.1_1,72,72,0,0.0,6,6,0,0.0
+NGA,Nigeria,Atiba,NGA.31.3_1,67,67,0,0.0,4,4,0,0.0
+NGA,Nigeria,Augie,NGA.22.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Auyo,NGA.18.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Babura,NGA.18.2_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bagudo,NGA.22.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bagwai,NGA.20.3_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bakori,NGA.21.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bakura,NGA.37.2_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Baruten,NGA.24.2_1,62,62,0,0.0,3,3,0,0.0
+NGA,Nigeria,Batagarawa,NGA.21.2_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Batsari,NGA.21.3_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Baure,NGA.21.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bebeji,NGA.20.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bichi,NGA.20.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bindawa,NGA.21.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Binji,NGA.34.1_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Biriniwa,NGA.18.3_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Birnin Kebbi,NGA.22.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Birnin Kudu,NGA.18.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Birnin-Magaji/Kiyaw,NGA.37.3_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Buji,NGA.18.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bukkuyum,NGA.37.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bukuru,NGA.7.4_1,62,52,10,19.23,6,4,2,50.0
+NGA,Nigeria,Bungudu,NGA.37.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bunkure,NGA.20.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Bunza,NGA.22.7_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Charanchi,NGA.21.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dambatta,NGA.20.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dandi,NGA.22.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dandume,NGA.21.7_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Danja,NGA.21.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Danko Wasagu,NGA.22.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Danmusa,NGA.21.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Daura,NGA.21.10_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dawakin Kudu,NGA.20.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dawakin Tofa,NGA.20.10_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Doguwa,NGA.20.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dutse,NGA.18.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dutsi,NGA.21.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Dutsinma,NGA.21.12_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ebonyi,NGA.11.4_1,55,44,11,25.0,5,3,2,66.67
+NGA,Nigeria,Edu,NGA.24.3_1,64,54,10,18.52,4,2,2,100.0
+NGA,Nigeria,Ezza North,NGA.11.5_1,71,65,6,9.23,5,4,1,25.0
+NGA,Nigeria,Ezza South,NGA.11.6_1,68,45,23,51.11,8,4,4,100.0
+NGA,Nigeria,Fakai,NGA.22.10_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Faskari,NGA.21.13_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Funtua,NGA.21.14_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gabasawa,NGA.20.13_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gada,NGA.34.4_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gagarawa,NGA.18.7_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Garki,NGA.18.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Garko,NGA.20.14_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Garum Mallam,NGA.20.15_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gaya,NGA.20.16_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gboko,NGA.7.5_1,63,46,17,36.96,6,3,3,100.0
+NGA,Nigeria,Gezawa,NGA.20.17_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Goronyo,NGA.34.5_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gudu,NGA.34.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Guma,NGA.7.6_1,50,50,0,0.0,5,5,0,0.0
+NGA,Nigeria,Gumel,NGA.18.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gummi,NGA.37.6_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gusau,NGA.37.7_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gwandu,NGA.22.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gwaram,NGA.18.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gwarzo,NGA.20.19_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Gwer East,NGA.7.7_1,69,58,11,18.97,5,3,2,66.67
+NGA,Nigeria,Gwer West,NGA.7.8_1,69,63,6,9.52,7,6,1,16.67
+NGA,Nigeria,Gwiwa,NGA.18.12_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ibarapa Central,NGA.31.11_1,72,61,11,18.03,6,4,2,50.0
+NGA,Nigeria,Ibarapa East,NGA.31.12_1,57,57,0,0.0,3,3,0,0.0
+NGA,Nigeria,Ibarapa North,NGA.31.13_1,67,67,0,0.0,4,4,0,0.0
+NGA,Nigeria,Ifelodun,NGA.24.5_1,60,55,5,9.09,5,4,1,25.0
+NGA,Nigeria,Ikwo,NGA.11.7_1,41,25,16,64.0,6,3,3,100.0
+NGA,Nigeria,Illela,NGA.34.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ingawa,NGA.21.15_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Irepo,NGA.31.15_1,64,59,5,8.47,5,4,1,25.0
+NGA,Nigeria,Isa,NGA.34.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Iseyin,NGA.31.16_1,65,54,11,20.37,6,4,2,50.0
+NGA,Nigeria,Ishielu,NGA.11.8_1,58,53,5,9.43,3,2,1,50.0
+NGA,Nigeria,Izzi,NGA.11.10_1,43,19,24,126.32,6,2,4,200.0
+NGA,Nigeria,Jahun,NGA.18.14_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Jega,NGA.22.12_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Jibia,NGA.21.16_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kabo,NGA.20.20_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kafin Hausa,NGA.18.15_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kafur,NGA.21.17_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kaiama,NGA.24.11_1,62,51,11,21.57,6,4,2,50.0
+NGA,Nigeria,Kaita,NGA.21.18_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kalgo,NGA.22.13_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kankara,NGA.21.19_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kankia,NGA.21.20_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Karaye,NGA.20.22_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Katsina-Ala,NGA.7.9_1,58,52,6,11.54,4,3,1,33.33
+NGA,Nigeria,Kaugama,NGA.18.16_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kaura Namoda,NGA.37.8_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kazaure,NGA.18.17_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kebbe,NGA.34.10_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kibiya,NGA.20.23_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kiri Kasama,NGA.18.18_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kiru,NGA.20.24_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kiyawa,NGA.18.19_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Koko/Besse,NGA.22.14_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Konshisha,NGA.7.10_1,67,50,17,34.0,7,4,3,75.0
+NGA,Nigeria,Kumbotso,NGA.20.25_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kunchi,NGA.20.26_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kura,NGA.20.27_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kurfi,NGA.21.22_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kusada,NGA.21.23_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Kwande,NGA.7.11_1,61,61,0,0.0,3,3,0,0.0
+NGA,Nigeria,Kware,NGA.34.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Logo,NGA.7.12_1,63,63,0,0.0,5,5,0,0.0
+NGA,Nigeria,Lokoja,NGA.23.12_1,65,47,18,38.3,6,3,3,100.0
+NGA,Nigeria,Madobi,NGA.20.28_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Mai'Adua,NGA.21.24_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Maigatari,NGA.18.20_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Maiyama,NGA.22.15_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Makoda,NGA.20.29_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Makurdi,NGA.7.13_1,60,54,6,11.11,4,3,1,33.33
+NGA,Nigeria,Malam Maduri,NGA.18.21_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Malumfashi,NGA.21.25_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Mani,NGA.21.26_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Maradun,NGA.37.9_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Maru,NGA.37.10_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Mashi,NGA.21.27_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Matazu,NGA.21.28_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Miga,NGA.18.22_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Minjibir,NGA.20.30_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Moro,NGA.24.12_1,57,51,6,11.76,5,4,1,25.0
+NGA,Nigeria,Musawa,NGA.21.29_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ngaski,NGA.22.16_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Nkanu East,NGA.14.11_1,71,60,11,18.33,5,3,2,66.67
+NGA,Nigeria,Obi,NGA.7.14_1,55,25,30,120.0,8,3,5,166.67
+NGA,Nigeria,Ohaukwu,NGA.11.12_1,52,47,5,10.64,3,2,1,50.0
+NGA,Nigeria,Ori-Ire,NGA.31.28_1,70,64,6,9.38,6,5,1,20.0
+NGA,Nigeria,Otukpo,NGA.7.19_1,65,60,5,8.33,5,4,1,25.0
+NGA,Nigeria,Oyo East,NGA.31.29_1,56,34,22,64.71,7,3,4,133.33
+NGA,Nigeria,Oyo West,NGA.31.30_1,48,26,22,84.62,6,2,4,200.0
+NGA,Nigeria,Pategi,NGA.24.16_1,62,50,12,24.0,6,4,2,50.0
+NGA,Nigeria,Rabah,NGA.34.12_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Rano,NGA.20.32_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Rimi,NGA.21.30_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Rimin Gado,NGA.20.33_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ringim,NGA.18.23_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Rogo,NGA.20.34_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Roni,NGA.18.24_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Sabon Birni,NGA.34.13_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Sabuwa,NGA.21.31_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Safana,NGA.21.32_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Sakaba,NGA.22.17_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Saki East,NGA.31.31_1,63,63,0,0.0,4,4,0,0.0
+NGA,Nigeria,Saki West,NGA.31.32_1,69,69,0,0.0,4,4,0,0.0
+NGA,Nigeria,Sandamu,NGA.21.33_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Shagari,NGA.34.14_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Shanga,NGA.22.18_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Shanono,NGA.20.35_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Shinkafi,NGA.37.11_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Sule Tankarkar,NGA.18.25_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Sumaila,NGA.20.36_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Suru,NGA.22.19_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Takai,NGA.20.37_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Talata-Mafara,NGA.37.12_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tambuwal,NGA.34.18_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tangaza,NGA.34.19_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tarka,NGA.7.20_1,64,58,6,10.34,6,5,1,20.0
+NGA,Nigeria,Taura,NGA.18.26_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tofa,NGA.20.39_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tsafe,NGA.37.13_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tsanyawa,NGA.20.40_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tudun Wada,NGA.20.41_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Tureta,NGA.34.20_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Ukum,NGA.7.21_1,75,75,0,0.0,4,4,0,0.0
+NGA,Nigeria,Ushongo,NGA.7.22_1,52,52,0,0.0,4,4,0,0.0
+NGA,Nigeria,Vande Ikya,NGA.7.23_1,61,61,0,0.0,5,5,0,0.0
+NGA,Nigeria,Warawa,NGA.20.43_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Wudil,NGA.20.44_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Yala,NGA.9.18_1,50,33,17,51.52,7,4,3,75.0
+NGA,Nigeria,Yankwashi,NGA.18.27_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Yauri,NGA.22.20_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Yewa North,NGA.28.4_1,29,23,6,26.09,2,1,1,100.0
+NGA,Nigeria,Zango,NGA.21.34_1,0,0,0,0.0,0,0,0,0.0
+NGA,Nigeria,Zurmi,NGA.37.14_1,0,0,0,0.0,0,0,0,0.0
+RWA,Rwanda,Bugesera,RWA.3.1_1,82,82,0,0.0,5,5,0,0.0
+RWA,Rwanda,Burera,RWA.1.1_1,91,91,0,0.0,5,5,0,0.0
+RWA,Rwanda,Gakenke,RWA.1.2_1,95,95,0,0.0,4,4,0,0.0
+RWA,Rwanda,Gasabo,RWA.5.1_1,75,64,11,17.19,6,4,2,50.0
+RWA,Rwanda,Gatsibo,RWA.3.2_1,87,87,0,0.0,5,5,0,0.0
+RWA,Rwanda,Gicumbi,RWA.1.3_1,90,90,0,0.0,4,4,0,0.0
+RWA,Rwanda,Gisagara,RWA.2.1_1,90,84,6,7.14,5,4,1,25.0
+RWA,Rwanda,Huye,RWA.2.2_1,87,76,11,14.47,5,3,2,66.67
+RWA,Rwanda,Kamonyi,RWA.2.3_1,94,89,5,5.62,4,3,1,33.33
+RWA,Rwanda,Karongi,RWA.4.1_1,90,79,11,13.92,6,4,2,50.0
+RWA,Rwanda,Kayonza,RWA.3.3_1,84,84,0,0.0,5,5,0,0.0
+RWA,Rwanda,Kirehe,RWA.3.4_1,84,84,0,0.0,5,5,0,0.0
+RWA,Rwanda,Muhanga,RWA.2.4_1,84,84,0,0.0,4,4,0,0.0
+RWA,Rwanda,Musanze,RWA.1.4_1,73,73,0,0.0,4,4,0,0.0
+RWA,Rwanda,Ngororero,RWA.4.2_1,87,82,5,6.1,5,4,1,25.0
+RWA,Rwanda,Nyabihu,RWA.4.3_1,82,65,17,26.15,7,4,3,75.0
+RWA,Rwanda,Nyagatare,RWA.3.6_1,85,85,0,0.0,5,5,0,0.0
+RWA,Rwanda,Nyamagabe,RWA.2.5_1,78,78,0,0.0,4,4,0,0.0
+RWA,Rwanda,Nyanza,RWA.2.6_1,77,72,5,6.94,4,3,1,33.33
+RWA,Rwanda,Nyaruguru,RWA.2.7_1,83,78,5,6.41,5,4,1,25.0
+RWA,Rwanda,Rubavu,RWA.4.5_1,53,48,5,10.42,6,5,1,20.0
+RWA,Rwanda,Ruhango,RWA.2.8_1,93,93,0,0.0,5,5,0,0.0
+RWA,Rwanda,Rulindo,RWA.1.5_1,99,94,5,5.32,5,4,1,25.0
+RWA,Rwanda,Rutsiro,RWA.4.7_1,94,84,10,11.9,6,4,2,50.0
+RWA,Rwanda,Rwamagana,RWA.3.7_1,85,85,0,0.0,5,5,0,0.0
+SOM,Somalia,Aadan,SOM.14.1_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Afgooye,SOM.15.1_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Balcad,SOM.14.2_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Baraawe,SOM.15.2_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Baydhabo,SOM.5.1_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Buur Xakaba,SOM.5.2_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Cadale,SOM.14.3_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Diinsoor,SOM.5.3_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Gabiley,SOM.18.2_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Jawhar,SOM.14.4_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Kismaayo,SOM.10.4_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Kuntuwaaray,SOM.15.3_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Marka,SOM.15.4_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Qansax Dheere,SOM.5.4_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Qoryooley,SOM.15.5_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Saakow,SOM.9.3_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Sablale,SOM.15.6_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Tiyeeglow,SOM.2.3_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Wanla Weyn,SOM.15.7_1,0,0,0,0.0,0,0,0,0.0
+SOM,Somalia,Xudur,SOM.2.5_1,0,0,0,0.0,0,0,0,0.0
+SSD,South Sudan,Al Renk,SSD.7.2_1,17,17,0,0.0,1,1,0,0.0
+SSD,South Sudan,Aliab,SSD.4.1_1,62,62,0,0.0,4,4,0,0.0
+SSD,South Sudan,Amatonge,SSD.2.1_1,87,81,6,7.41,4,3,1,33.33
+SSD,South Sudan,Aryat,SSD.5.1_1,72,72,0,0.0,3,3,0,0.0
+SSD,South Sudan,Aweil,SSD.5.2_1,93,88,5,5.68,4,3,1,33.33
+SSD,South Sudan,Bahr al Jabal,SSD.1.1_1,84,79,5,6.33,4,3,1,33.33
+SSD,South Sudan,Fashooda,SSD.7.4_1,36,36,0,0.0,1,1,0,0.0
+SSD,South Sudan,Gogrial,SSD.8.1_1,105,105,0,0.0,4,4,0,0.0
+SSD,South Sudan,Kajo Kaii,SSD.1.2_1,82,82,0,0.0,4,4,0,0.0
+SSD,South Sudan,Magwi,SSD.2.3_1,81,70,11,15.71,6,4,2,50.0
+SSD,South Sudan,Nahr Yei,SSD.1.3_1,90,90,0,0.0,4,4,0,0.0
+SSD,South Sudan,Raja,SSD.9.1_1,105,105,0,0.0,3,3,0,0.0
+SSD,South Sudan,Rumbek,SSD.4.2_1,101,95,6,6.32,7,6,1,16.67
+SSD,South Sudan,Shobet,SSD.4.3_1,97,97,0,0.0,6,6,0,0.0
+SSD,South Sudan,Terkaka,SSD.1.4_1,84,79,5,6.33,5,4,1,25.0
+SSD,South Sudan,Tonj,SSD.8.3_1,102,96,6,6.25,6,5,1,20.0
+SSD,South Sudan,Wanjuk,SSD.5.4_1,36,36,0,0.0,1,1,0,0.0
+SSD,South Sudan,Warab,SSD.8.4_1,103,103,0,0.0,4,4,0,0.0
+SSD,South Sudan,Yerol,SSD.4.4_1,97,85,12,14.12,6,4,2,50.0
+SWZ,Swaziland,Gege,SWZ.4.1_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Hlane,SWZ.2.2_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Hosea,SWZ.4.2_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Lobamba Lomdzala,SWZ.3.4_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Lomahasha,SWZ.2.3_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Lubuli,SWZ.2.4_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Lugongolweni,SWZ.2.5_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Madlangempisi,SWZ.1.3_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mahlangatja,SWZ.3.7_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Maseyisini,SWZ.4.4_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Matsanjeni North,SWZ.2.6_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mayiwane,SWZ.1.4_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mbangweni,SWZ.4.6_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mhlangatane,SWZ.1.7_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mhlume,SWZ.2.7_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mkhiweni,SWZ.3.12_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Motjane,SWZ.1.8_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mphalaleni,SWZ.1.9_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mpholonjeni,SWZ.2.8_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Mtsambama,SWZ.4.7_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Ndzingeni,SWZ.1.10_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Ngwenpisi,SWZ.3.14_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Nhlambeni,SWZ.3.15_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Nkilongo,SWZ.2.9_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Ntfonjeni,SWZ.1.12_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Ntondozi,SWZ.3.16_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Sandleni,SWZ.4.10_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Shiselweni,SWZ.4.11_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Sigwe,SWZ.4.12_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Siphofaneni,SWZ.2.10_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Sithobela,SWZ.2.11_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Timpisini,SWZ.1.14_1,0,0,0,0.0,0,0,0,0.0
+SWZ,Swaziland,Zombodze,SWZ.4.14_1,0,0,0,0.0,0,0,0,0.0
+TCD,Chad,Batha Est,TCD.2.1_1,0,0,0,0.0,0,0,0,0.0
+TCD,Chad,Batha Oues,TCD.2.2_1,0,0,0,0.0,0,0,0,0.0
+TCD,Chad,Kabbia,TCD.14.1_1,39,33,6,18.18,4,3,1,33.33
+TCD,Chad,Loug Chari,TCD.4.2_1,11,11,0,0.0,1,1,0,0.0
+TCD,Chad,Mayo-Boneye,TCD.14.2_1,10,10,0,0.0,1,1,0,0.0
+TCD,Chad,Mayo-Dallah,TCD.15.2_1,46,40,6,15.0,4,3,1,33.33
+TCD,Chad,Mont Illi,TCD.14.3_1,24,19,5,26.32,3,2,1,50.0
+TCD,Chad,Monts de Lam,TCD.12.2_1,47,42,5,11.9,4,3,1,33.33
+TCD,Chad,Ouara,TCD.17.3_1,0,0,0,0.0,0,0,0,0.0
+TGO,Togo,Amou,TGO.4.3_2,76,70,6,8.57,6,5,1,20.0
+TGO,Togo,Anié,TGO.4.4_2,91,91,0,0.0,5,5,0,0.0
+TGO,Togo,Bas-Mono,TGO.3.3_2,16,0,16,100.0,3,0,3,100.0
+TGO,Togo,Blitta,TGO.1.1_2,82,82,0,0.0,5,5,0,0.0
+TGO,Togo,Est-Mono,TGO.4.6_2,83,77,6,7.79,4,3,1,33.33
+TGO,Togo,Haho,TGO.4.7_2,68,68,0,0.0,5,5,0,0.0
+TGO,Togo,Lacs,TGO.3.5_2,0,0,0,0.0,0,0,0,0.0
+TGO,Togo,Mô,TGO.1.2_2,83,83,0,0.0,5,5,0,0.0
+TGO,Togo,Ogou,TGO.4.11_2,86,81,5,6.17,6,5,1,20.0
+TGO,Togo,Sotouboua,TGO.1.3_2,89,89,0,0.0,3,3,0,0.0
+TGO,Togo,Tchamba,TGO.1.4_2,67,61,6,9.84,5,4,1,25.0
+TGO,Togo,Tchaudjo,TGO.1.5_2,74,74,0,0.0,4,4,0,0.0
+TGO,Togo,Vo,TGO.3.7_2,0,0,0,0.0,0,0,0,0.0
+TGO,Togo,Zio,TGO.3.9_2,68,63,5,7.94,4,3,1,33.33
+TZA,Tanzania,Babati,TZA.11.2_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Bagamoyo,TZA.20.1_1,33,33,0,0.0,1,1,0,0.0
+TZA,Tanzania,Bahi,TZA.3.1_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Bariadi,TZA.24.1_1,10,10,0,0.0,1,1,0,0.0
+TZA,Tanzania,Biharamulo,TZA.6.1_1,92,87,5,5.75,7,6,1,16.67
+TZA,Tanzania,Bukombe,TZA.4.1_1,92,92,0,0.0,4,4,0,0.0
+TZA,Tanzania,Bunda,TZA.12.1_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Busega,TZA.24.2_1,92,92,0,0.0,6,6,0,0.0
+TZA,Tanzania,Butiama,TZA.12.2_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Chamwino,TZA.3.2_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Chato,TZA.4.2_1,84,79,5,6.33,7,6,1,16.67
+TZA,Tanzania,Chemba,TZA.3.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Chunya,TZA.13.1_1,134,134,0,0.0,5,5,0,0.0
+TZA,Tanzania,Dodoma Urban,TZA.3.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Gairo,TZA.14.1_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Geita,TZA.4.3_1,81,66,15,22.73,8,5,3,60.0
+TZA,Tanzania,Hanang,TZA.11.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Handeni,TZA.27.2_1,15,15,0,0.0,1,1,0,0.0
+TZA,Tanzania,Igunga,TZA.26.1_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Ikungi,TZA.25.1_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Ilemela,TZA.16.1_1,82,82,0,0.0,4,4,0,0.0
+TZA,Tanzania,Iramba,TZA.25.2_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Iringa Rural,TZA.5.1_1,52,52,0,0.0,3,3,0,0.0
+TZA,Tanzania,Itilima,TZA.24.3_1,31,31,0,0.0,2,2,0,0.0
+TZA,Tanzania,Kahama,TZA.23.2_1,91,81,10,12.35,7,5,2,40.0
+TZA,Tanzania,Kahama Town,TZA.23.1_1,91,91,0,0.0,4,4,0,0.0
+TZA,Tanzania,Kalambo,TZA.21.1_1,130,114,16,14.04,9,6,3,50.0
+TZA,Tanzania,Kaliua,TZA.26.2_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Karagwe,TZA.6.4_1,90,90,0,0.0,4,4,0,0.0
+TZA,Tanzania,Karatu,TZA.1.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Kasulu,TZA.8.4_1,132,120,12,10.0,8,6,2,33.33
+TZA,Tanzania,Kilindi,TZA.27.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Kilolo,TZA.5.3_1,78,56,22,39.29,7,3,4,133.33
+TZA,Tanzania,Kilombero,TZA.14.2_1,136,115,21,18.26,13,9,4,44.44
+TZA,Tanzania,Kilosa,TZA.14.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Kilwa,TZA.10.1_1,54,54,0,0.0,3,3,0,0.0
+TZA,Tanzania,Kishapu,TZA.23.3_1,85,85,0,0.0,4,4,0,0.0
+TZA,Tanzania,Kiteto,TZA.11.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Kondoa,TZA.3.5_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Kongwa,TZA.3.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Korogwe,TZA.27.5_1,8,8,0,0.0,1,1,0,0.0
+TZA,Tanzania,Kwimba,TZA.16.2_1,82,82,0,0.0,6,6,0,0.0
+TZA,Tanzania,Magu,TZA.16.4_1,85,75,10,13.33,5,3,2,66.67
+TZA,Tanzania,Manyoni,TZA.25.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Masasi,TZA.15.2_1,60,50,10,20.0,6,4,2,50.0
+TZA,Tanzania,Masasi Town,TZA.15.1_1,119,103,16,15.53,9,6,3,50.0
+TZA,Tanzania,Maswa,TZA.24.6_1,83,67,16,23.88,7,4,3,75.0
+TZA,Tanzania,Mbarali,TZA.13.5_1,144,139,5,3.6,8,7,1,14.29
+TZA,Tanzania,Mbeya Rural,TZA.13.6_1,142,132,10,7.58,8,6,2,33.33
+TZA,Tanzania,Mbinga,TZA.22.1_1,77,52,25,48.08,8,3,5,166.67
+TZA,Tanzania,Mbogwe,TZA.4.4_1,88,67,21,31.34,8,4,4,100.0
+TZA,Tanzania,Mbozi,TZA.31.8_1,142,142,0,0.0,9,9,0,0.0
+TZA,Tanzania,Mbulu,TZA.11.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Meatu,TZA.24.7_1,7,7,0,0.0,1,1,0,0.0
+TZA,Tanzania,Missenyi,TZA.6.7_1,40,40,0,0.0,3,3,0,0.0
+TZA,Tanzania,Misungwi,TZA.16.5_1,71,71,0,0.0,3,3,0,0.0
+TZA,Tanzania,Mkalama,TZA.25.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Mlele,TZA.7.3_1,141,136,5,3.68,7,6,1,16.67
+TZA,Tanzania,Momba,TZA.31.9_1,131,126,5,3.97,7,6,1,16.67
+TZA,Tanzania,Monduli,TZA.1.8_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Morogoro Rural,TZA.14.4_1,5,0,5,100.0,1,0,1,100.0
+TZA,Tanzania,Moshi Rural,TZA.9.2_1,65,65,0,0.0,2,2,0,0.0
+TZA,Tanzania,Mpanda Rural,TZA.7.5_1,56,51,5,9.8,3,2,1,50.0
+TZA,Tanzania,Mpanda Urban,TZA.7.4_1,131,126,5,3.97,12,11,1,9.09
+TZA,Tanzania,Mpwapwa,TZA.3.7_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Musoma Rural,TZA.12.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Mvomero,TZA.14.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Nachingwea,TZA.10.5_1,78,73,5,6.85,5,4,1,25.0
+TZA,Tanzania,Namtumbo,TZA.22.2_1,144,134,10,7.46,10,8,2,25.0
+TZA,Tanzania,Nanyumbu,TZA.15.5_1,23,12,11,91.67,3,1,2,200.0
+TZA,Tanzania,Newala,TZA.15.6_1,38,33,5,15.15,3,2,1,50.0
+TZA,Tanzania,Nkasi,TZA.21.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Nyang'hwale,TZA.4.5_1,87,87,0,0.0,5,5,0,0.0
+TZA,Tanzania,Nzega,TZA.26.3_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Rorya,TZA.12.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Rufiji,TZA.20.7_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Sengerema,TZA.16.7_1,26,21,5,23.81,3,2,1,50.0
+TZA,Tanzania,Serengeti,TZA.12.7_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Shinyanga Rural,TZA.23.4_1,86,81,5,6.17,5,4,1,25.0
+TZA,Tanzania,Shinyanga Urban,TZA.23.5_1,91,86,5,5.81,6,5,1,20.0
+TZA,Tanzania,Sikonge,TZA.26.4_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Simanjiro,TZA.11.7_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Singida Rural,TZA.25.5_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Singida Urban,TZA.25.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Songwe,TZA.31.1_1,104,99,5,5.05,6,5,1,20.0
+TZA,Tanzania,Sumbawanga Rural,TZA.21.5_1,25,25,0,0.0,2,2,0,0.0
+TZA,Tanzania,Sumbawanga Urban,TZA.21.6_1,138,126,12,9.52,10,8,2,25.0
+TZA,Tanzania,Tabora,TZA.26.5_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Tarime,TZA.12.8_1,93,93,0,0.0,4,4,0,0.0
+TZA,Tanzania,Tunduru,TZA.22.6_1,121,111,10,9.01,7,5,2,40.0
+TZA,Tanzania,Ukerewe,TZA.16.8_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Ulanga,TZA.14.7_1,129,113,16,14.16,10,7,3,42.86
+TZA,Tanzania,Urambo,TZA.26.6_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Uvinza,TZA.8.9_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Uyui,TZA.26.7_1,0,0,0,0.0,0,0,0,0.0
+TZA,Tanzania,Wanging'ombe,TZA.17.6_1,137,132,5,3.79,9,8,1,12.5
+UGA,Uganda,Agago,UGA.49.1_1,19,14,5,35.71,2,1,1,100.0
+UGA,Uganda,Amuria,UGA.22.1_1,17,17,0,0.0,1,1,0,0.0
+UGA,Uganda,Aringa,UGA.58.1_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,Aruu,UGA.49.2_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,Aswa,UGA.8.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Ayivu,UGA.3.2_1,8,8,0,0.0,1,1,0,0.0
+UGA,Uganda,Bamunanika,UGA.34.1_1,69,58,11,18.97,6,4,2,50.0
+UGA,Uganda,Bbaale,UGA.23.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bokora,UGA.40.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bubulo,UGA.38.1_1,88,83,5,6.02,6,5,1,20.0
+UGA,Uganda,Budaka,UGA.50.1_1,80,69,11,15.94,7,5,2,40.0
+UGA,Uganda,Budiope,UGA.17.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bugabula,UGA.17.2_1,39,39,0,0.0,2,2,0,0.0
+UGA,Uganda,Bugahya,UGA.9.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bugangaizi,UGA.24.1_1,28,17,11,64.71,3,1,2,200.0
+UGA,Uganda,Bugweri,UGA.10.1_1,79,74,5,6.76,7,6,1,16.67
+UGA,Uganda,Buhaguzi,UGA.9.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Buhweju,UGA.6.1_1,82,82,0,0.0,4,4,0,0.0
+UGA,Uganda,Buikwe,UGA.44.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bujenje,UGA.36.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bujenje (?),UGA.36.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Bukanga,UGA.39.1_1,60,60,0,0.0,3,3,0,0.0
+UGA,Uganda,Bukedea,UGA.29.1_1,31,19,12,63.16,4,2,2,100.0
+UGA,Uganda,Bukooli,UGA.4.1_1,32,32,0,0.0,3,3,0,0.0
+UGA,Uganda,Bukoto,UGA.35.2_1,24,24,0,0.0,2,2,0,0.0
+UGA,Uganda,Bulamogi,UGA.17.3_1,23,17,6,35.29,3,2,1,50.0
+UGA,Uganda,Bungokho,UGA.38.2_1,83,77,6,7.79,6,5,1,20.0
+UGA,Uganda,Bunya,UGA.37.1_1,15,15,0,0.0,2,2,0,0.0
+UGA,Uganda,Bunyole,UGA.56.1_1,79,69,10,14.49,8,6,2,33.33
+UGA,Uganda,Buruli,UGA.36.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Busiiro,UGA.57.1_1,55,55,0,0.0,4,4,0,0.0
+UGA,Uganda,Busiki,UGA.10.2_1,58,53,5,9.43,5,4,1,25.0
+UGA,Uganda,Busongora,UGA.21.2_1,80,80,0,0.0,4,4,0,0.0
+UGA,Uganda,Butebo,UGA.50.2_1,76,71,5,7.04,5,4,1,25.0
+UGA,Uganda,Buwekula,UGA.43.2_1,26,26,0,0.0,2,2,0,0.0
+UGA,Uganda,Buyaga,UGA.24.2_1,21,21,0,0.0,2,2,0,0.0
+UGA,Uganda,Buyanja,UGA.24.3_1,27,21,6,28.57,3,2,1,50.0
+UGA,Uganda,Buzaaya,UGA.17.4_1,66,66,0,0.0,4,4,0,0.0
+UGA,Uganda,Chekwii,UGA.45.1_1,17,12,5,41.67,2,1,1,100.0
+UGA,Uganda,Chua,UGA.27.1_1,18,18,0,0.0,1,1,0,0.0
+UGA,Uganda,Dodoth,UGA.28.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Dokolo,UGA.33.1_1,8,8,0,0.0,1,1,0,0.0
+UGA,Uganda,East Moyo,UGA.1.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Erute,UGA.33.2_1,44,39,5,12.82,4,3,1,33.33
+UGA,Uganda,Gomba,UGA.42.2_1,10,10,0,0.0,1,1,0,0.0
+UGA,Uganda,Gulu,UGA.8.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Ibanda,UGA.39.2_1,30,30,0,0.0,2,2,0,0.0
+UGA,Uganda,Isingiro,UGA.39.3_1,84,78,6,7.69,5,4,1,25.0
+UGA,Uganda,Jie,UGA.28.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Jinja,UGA.11.2_1,82,77,5,6.49,6,5,1,20.0
+UGA,Uganda,Jonam,UGA.47.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kabale,UGA.12.1_1,90,84,6,7.14,5,4,1,25.0
+UGA,Uganda,Kaberamaido,UGA.14.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kabula,UGA.51.1_1,10,10,0,0.0,1,1,0,0.0
+UGA,Uganda,Kagoma,UGA.11.3_1,66,61,5,8.2,4,3,1,33.33
+UGA,Uganda,Kakuuto,UGA.51.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kalaki,UGA.14.2_1,12,7,5,71.43,2,1,1,100.0
+UGA,Uganda,Kapelebyong,UGA.22.2_1,23,13,10,76.92,3,1,2,200.0
+UGA,Uganda,Kasilo,UGA.55.1_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kassanda,UGA.43.3_1,62,52,10,19.23,5,3,2,66.67
+UGA,Uganda,Katikamu,UGA.34.2_1,65,50,15,30.0,6,3,3,100.0
+UGA,Uganda,Kibale,UGA.18.1_1,70,70,0,0.0,3,3,0,0.0
+UGA,Uganda,Kibanda,UGA.36.4_1,68,63,5,7.94,7,6,1,16.67
+UGA,Uganda,Kiboga,UGA.25.1_1,35,35,0,0.0,2,2,0,0.0
+UGA,Uganda,Kibuku,UGA.50.3_1,49,43,6,13.95,5,4,1,25.0
+UGA,Uganda,Kigulu,UGA.10.3_1,82,76,6,7.89,6,5,1,20.0
+UGA,Uganda,Kilak,UGA.8.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kinkiizi,UGA.19.1_1,58,58,0,0.0,3,3,0,0.0
+UGA,Uganda,Kisoko (West Budama),UGA.56.2_1,78,62,16,25.81,7,4,3,75.0
+UGA,Uganda,Kisoro,UGA.26.1_1,73,73,0,0.0,4,4,0,0.0
+UGA,Uganda,Koboko,UGA.3.3_1,68,57,11,19.3,5,3,2,66.67
+UGA,Uganda,Kole,UGA.2.1_1,34,34,0,0.0,2,2,0,0.0
+UGA,Uganda,Kongasis,UGA.20.1_1,68,63,5,7.94,7,6,1,16.67
+UGA,Uganda,Kooki,UGA.51.3_1,39,39,0,0.0,3,3,0,0.0
+UGA,Uganda,Kumi,UGA.29.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kwania,UGA.2.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Kween,UGA.20.2_1,46,40,6,15.0,4,3,1,33.33
+UGA,Uganda,Kyaka,UGA.30.1_1,19,14,5,35.71,2,1,1,100.0
+UGA,Uganda,Kyoga,UGA.33.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Labwor,UGA.28.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Lamwo,UGA.27.2_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,Lira,UGA.33.4_1,54,42,12,28.57,5,3,2,66.67
+UGA,Uganda,Luuka,UGA.10.4_1,79,68,11,16.18,6,4,2,50.0
+UGA,Uganda,Madi-Okollo,UGA.3.4_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Maracha,UGA.3.5_1,42,31,11,35.48,4,2,2,100.0
+UGA,Uganda,Maruzi,UGA.2.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Mawogola,UGA.53.2_1,7,7,0,0.0,1,1,0,0.0
+UGA,Uganda,Mawokota,UGA.42.3_1,21,21,0,0.0,2,2,0,0.0
+UGA,Uganda,Moroto,UGA.33.5_1,36,31,5,16.13,4,3,1,33.33
+UGA,Uganda,Mwenge,UGA.30.2_1,81,75,6,8.0,6,5,1,20.0
+UGA,Uganda,Nakaseke,UGA.34.3_1,35,35,0,0.0,2,2,0,0.0
+UGA,Uganda,Nakifuma,UGA.44.4_1,86,76,10,13.16,5,3,2,66.67
+UGA,Uganda,Ndorwa,UGA.12.2_1,90,90,0,0.0,5,5,0,0.0
+UGA,Uganda,Ngora,UGA.29.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Ntenjeru,UGA.23.2_1,81,71,10,14.08,6,4,2,50.0
+UGA,Uganda,Nwoya,UGA.8.4_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Nyabushozi,UGA.39.7_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Okoro,UGA.47.2_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,Omoro,UGA.8.5_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Oyam,UGA.2.4_1,17,17,0,0.0,1,1,0,0.0
+UGA,Uganda,Padyere,UGA.47.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Pallisa,UGA.50.4_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Rubabo,UGA.52.2_1,89,84,5,5.95,5,4,1,25.0
+UGA,Uganda,Rubanda,UGA.12.3_1,89,89,0,0.0,6,6,0,0.0
+UGA,Uganda,Ruhaama,UGA.48.2_1,76,65,11,16.92,6,4,2,50.0
+UGA,Uganda,Rukiga,UGA.12.4_1,84,78,6,7.69,5,4,1,25.0
+UGA,Uganda,Rushenyi,UGA.48.3_1,81,76,5,6.58,5,4,1,25.0
+UGA,Uganda,Rwampara,UGA.39.8_1,75,58,17,29.31,6,3,3,100.0
+UGA,Uganda,Samia-Bugwe,UGA.7.1_1,81,76,5,6.58,7,6,1,16.67
+UGA,Uganda,Serere,UGA.55.2_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Soroti,UGA.55.4_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,Soroti (Municipality),UGA.55.3_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Terego,UGA.3.6_1,0,0,0,0.0,0,0,0,0.0
+UGA,Uganda,Tororo,UGA.56.4_1,78,78,0,0.0,4,4,0,0.0
+UGA,Uganda,Tororo (Municipality),UGA.56.3_1,83,83,0,0.0,4,4,0,0.0
+UGA,Uganda,Usuk,UGA.22.3_1,7,7,0,0.0,1,1,0,0.0
+UGA,Uganda,Vurra,UGA.3.7_1,6,0,6,100.0,1,0,1,100.0
+UGA,Uganda,West Moyo,UGA.41.2_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Cacadu,ZAF.1.4_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Chris Hani,ZAF.1.5_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Ehlanzeni,ZAF.6.1_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Ekurhuleni,ZAF.3.3_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Fezile Dabi,ZAF.2.1_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Frances Baard,ZAF.8.1_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Gert Sibande,ZAF.6.2_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Joe Gqabi,ZAF.1.6_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Lejweleputswa,ZAF.2.2_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Mangaung,ZAF.2.3_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Nkangala,ZAF.6.3_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Pixley ka Seme,ZAF.8.4_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Thabo Mofutsanyane,ZAF.2.4_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,West Rand,ZAF.3.5_1,0,0,0,0.0,0,0,0,0.0
+ZAF,South Africa,Xhariep,ZAF.2.5_1,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Chibombo,ZMB.1.1_2,100,90,10,11.11,5,3,2,66.67
+ZMB,Zambia,Chikankanta,ZMB.9.1_2,11,11,0,0.0,1,1,0,0.0
+ZMB,Zambia,Chirundu,ZMB.5.2_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Chisamba,ZMB.1.2_2,85,75,10,13.33,6,4,2,50.0
+ZMB,Zambia,Chitambo,ZMB.1.3_2,98,87,11,12.64,9,7,2,28.57
+ZMB,Zambia,Choma,ZMB.9.2_2,88,83,5,6.02,6,5,1,20.0
+ZMB,Zambia,Gwembe,ZMB.9.3_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Itezhi-tezhi,ZMB.1.4_2,46,40,6,15.0,4,3,1,33.33
+ZMB,Zambia,Kabompo,ZMB.7.3_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Kabwe,ZMB.1.5_2,92,82,10,12.2,4,2,2,100.0
+ZMB,Zambia,Kalomo,ZMB.9.4_2,94,88,6,6.82,6,5,1,20.0
+ZMB,Zambia,Kapiri Mposhi,ZMB.1.6_2,63,57,6,10.53,3,2,1,50.0
+ZMB,Zambia,Kasempa,ZMB.7.5_2,28,23,5,21.74,2,1,1,100.0
+ZMB,Zambia,Kazungula,ZMB.9.5_2,60,60,0,0.0,3,3,0,0.0
+ZMB,Zambia,Luano,ZMB.1.7_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Manyinga,ZMB.7.6_2,39,34,5,14.71,3,2,1,50.0
+ZMB,Zambia,Mazabuka,ZMB.9.7_2,89,89,0,0.0,4,4,0,0.0
+ZMB,Zambia,Mkushi,ZMB.1.8_2,73,51,22,43.14,7,3,4,133.33
+ZMB,Zambia,Monze,ZMB.9.8_2,54,54,0,0.0,2,2,0,0.0
+ZMB,Zambia,Mufumbwe,ZMB.7.7_2,80,70,10,14.29,6,4,2,50.0
+ZMB,Zambia,Mumbwa,ZMB.1.9_2,99,93,6,6.45,5,4,1,25.0
+ZMB,Zambia,Namwala,ZMB.9.9_2,59,53,6,11.32,4,3,1,33.33
+ZMB,Zambia,Pemba,ZMB.9.10_2,91,85,6,7.06,6,5,1,20.0
+ZMB,Zambia,Serenje,ZMB.1.11_2,79,79,0,0.0,7,7,0,0.0
+ZMB,Zambia,Shibuyunji,ZMB.5.8_2,101,101,0,0.0,4,4,0,0.0
+ZMB,Zambia,Siavonga,ZMB.9.11_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Sinazongwe,ZMB.9.12_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Solwezi,ZMB.7.10_2,17,12,5,41.67,2,1,1,100.0
+ZMB,Zambia,Zambezi,ZMB.7.11_2,0,0,0,0.0,0,0,0,0.0
+ZMB,Zambia,Zimba,ZMB.9.13_2,49,43,6,13.95,3,2,1,50.0
+ZWE,Zimbabwe,Binga,ZWE.8.1_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Buhera,ZWE.3.1_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Chegutu,ZWE.6.1_2,72,72,0,0.0,5,5,0,0.0
+ZWE,Zimbabwe,Chikomba,ZWE.5.1_2,40,40,0,0.0,2,2,0,0.0
+ZWE,Zimbabwe,Chipinge,ZWE.3.3_2,11,11,0,0.0,1,1,0,0.0
+ZWE,Zimbabwe,Goromonzi,ZWE.5.2_2,89,78,11,14.1,7,5,2,40.0
+ZWE,Zimbabwe,Hurungwe,ZWE.6.4_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Hwange,ZWE.8.3_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Lupane,ZWE.8.5_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Makonde,ZWE.6.9_2,75,63,12,19.05,7,5,2,40.0
+ZWE,Zimbabwe,Makoni,ZWE.3.5_2,22,22,0,0.0,2,2,0,0.0
+ZWE,Zimbabwe,Marondera,ZWE.5.4_2,22,22,0,0.0,2,2,0,0.0
+ZWE,Zimbabwe,Mhondoro-Ngezi,ZWE.6.10_2,46,34,12,35.29,4,2,2,100.0
+ZWE,Zimbabwe,Mudzi,ZWE.5.6_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Murehwa,ZWE.5.7_2,37,37,0,0.0,2,2,0,0.0
+ZWE,Zimbabwe,Mutare,ZWE.3.6_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Mutoko,ZWE.5.8_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Nkayi,ZWE.8.6_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Nyanga,ZWE.3.9_2,24,24,0,0.0,2,2,0,0.0
+ZWE,Zimbabwe,Sanyati,ZWE.6.12_2,56,56,0,0.0,3,3,0,0.0
+ZWE,Zimbabwe,Seke,ZWE.5.10_2,64,41,23,56.1,6,2,4,200.0
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,ZWE.5.11_2,0,0,0,0.0,0,0,0,0.0
+ZWE,Zimbabwe,Zvimba,ZWE.6.13_2,72,56,16,28.57,6,3,3,100.0

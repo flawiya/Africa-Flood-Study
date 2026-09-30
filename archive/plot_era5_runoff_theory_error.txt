@@ -1,0 +1,13 @@
+Exception Type: KeyError
+Exception Message: 'doy'
+
+Traceback (most recent call last):
+  File "C:\Users\FlawiyaShirishMore\OneDrive - Africa Specialty Risks Ltd\ASR-Parametric_Research_Study\Africa-Flood-Study\script\agricultural\plot_agri_trigger_era5_runoff.py", line 110, in <module>
+    merged_climatology = df_merged.groupby(['District_Upper', 'doy']).agg(
+  File "C:\Users\FlawiyaShirishMore\anaconda3\envs\africa_env\lib\site-packages\pandas\core\frame.py", line 9210, in groupby
+    return DataFrameGroupBy(
+  File "C:\Users\FlawiyaShirishMore\anaconda3\envs\africa_env\lib\site-packages\pandas\core\groupby\groupby.py", line 1331, in __init__
+    grouper, exclusions, obj = get_grouper(
+  File "C:\Users\FlawiyaShirishMore\anaconda3\envs\africa_env\lib\site-packages\pandas\core\groupby\grouper.py", line 1043, in get_grouper
+    raise KeyError(gpr)
+KeyError: 'doy'

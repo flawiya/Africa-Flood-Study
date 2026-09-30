@@ -1,0 +1,5599 @@
+ISO3,COUNTRY,ADM_NAME,crop_year,flood_days_7plus,num_flood_events_7plus,max_consec_days
+AGO,Angola,Amboim,2007,18,1,18
+AGO,Angola,Amboim,2023,7,1,7
+AGO,Angola,Bailundo,2010,0,0,3
+AGO,Angola,Bailundo,2012,9,1,9
+AGO,Angola,Bailundo,2021,0,0,3
+AGO,Angola,Bailundo,2023,8,1,8
+AGO,Angola,Bibala,2008,7,1,7
+AGO,Angola,Bibala,2011,0,0,5
+AGO,Angola,Bibala,2020,10,1,10
+AGO,Angola,Bibala,2023,0,0,5
+AGO,Angola,Bocoio,2023,19,1,19
+AGO,Angola,Bocoio,2024,0,0,5
+AGO,Angola,Caconda,2011,0,0,3
+AGO,Angola,Caconda,2016,0,0,1
+AGO,Angola,Caconda,2020,17,2,10
+AGO,Angola,Caconda,2022,0,0,2
+AGO,Angola,Caconda,2025,0,0,1
+AGO,Angola,Cacuzo,2007,0,0,4
+AGO,Angola,Cacuzo,2012,0,0,3
+AGO,Angola,Cacuzo,2023,14,1,14
+AGO,Angola,Cacuzo,2024,0,0,2
+AGO,Angola,Cahama,2008,0,0,6
+AGO,Angola,Cahama,2009,0,0,6
+AGO,Angola,Cahama,2011,7,1,7
+AGO,Angola,Cahama,2020,0,0,3
+AGO,Angola,Caiambambo,2023,17,1,17
+AGO,Angola,Caiambambo,2024,10,1,10
+AGO,Angola,Calandula,2023,25,2,17
+AGO,Angola,Caluquembe,2016,0,0,4
+AGO,Angola,Caluquembe,2020,9,1,9
+AGO,Angola,Caluquembe,2022,0,0,2
+AGO,Angola,Camacuio,2008,0,0,5
+AGO,Angola,Camacuio,2011,0,0,5
+AGO,Angola,Camacuio,2020,9,1,9
+AGO,Angola,Camacuio,2023,0,0,6
+AGO,Angola,Camacupa,2020,16,1,16
+AGO,Angola,Camacupa,2024,0,0,5
+AGO,Angola,Cangandala,2023,27,2,17
+AGO,Angola,Cassongue,2012,0,0,5
+AGO,Angola,Cassongue,2022,0,0,1
+AGO,Angola,Cassongue,2023,9,1,9
+AGO,Angola,Cassongue,2024,7,1,7
+AGO,Angola,Catabola,2010,0,0,5
+AGO,Angola,Catabola,2020,0,0,2
+AGO,Angola,Catabola,2023,17,1,17
+AGO,Angola,Catchiungo,2010,7,1,7
+AGO,Angola,Catchiungo,2017,0,0,2
+AGO,Angola,Catchiungo,2023,14,2,7
+AGO,Angola,Caála,2018,7,1,7
+AGO,Angola,Caála,2020,17,2,10
+AGO,Angola,Caála,2023,0,0,1
+AGO,Angola,Caála,2025,0,0,1
+AGO,Angola,Chibia,2008,0,0,1
+AGO,Angola,Chibia,2011,10,1,10
+AGO,Angola,Chibia,2016,0,0,2
+AGO,Angola,Chibia,2020,12,1,12
+AGO,Angola,Chibia,2024,0,0,1
+AGO,Angola,Chicomba,2011,9,1,9
+AGO,Angola,Chicomba,2020,17,2,9
+AGO,Angola,Chinguar,2010,0,0,6
+AGO,Angola,Chinguar,2023,18,1,18
+AGO,Angola,Chinguar,2024,0,0,2
+AGO,Angola,Chipindo,2009,0,0,3
+AGO,Angola,Chipindo,2020,22,1,22
+AGO,Angola,Chipindo,2025,0,0,2
+AGO,Angola,Chitembo,2010,9,1,9
+AGO,Angola,Chitembo,2020,9,1,9
+AGO,Angola,Chitembo,2022,0,0,5
+AGO,Angola,Chitembo,2024,0,0,2
+AGO,Angola,Chongoroi,2020,0,0,1
+AGO,Angola,Chongoroi,2023,24,1,24
+AGO,Angola,Chongoroi,2024,0,0,2
+AGO,Angola,Cuangar,2009,7,1,7
+AGO,Angola,Cuangar,2010,0,0,2
+AGO,Angola,Cuangar,2012,0,0,5
+AGO,Angola,Cuangar,2017,0,0,1
+AGO,Angola,Cuangar,2020,0,0,5
+AGO,Angola,Cuangar,2021,0,0,2
+AGO,Angola,Cuango,2023,23,2,15
+AGO,Angola,Cuango,2024,0,0,2
+AGO,Angola,Cuanhama,2009,13,1,13
+AGO,Angola,Cuanhama,2011,0,0,5
+AGO,Angola,Cuanhama,2012,0,0,2
+AGO,Angola,Cuanhama,2020,0,0,2
+AGO,Angola,Cubal,2016,7,1,7
+AGO,Angola,Cubal,2023,15,1,15
+AGO,Angola,Cubal,2024,0,0,4
+AGO,Angola,Cuchi,2009,0,0,1
+AGO,Angola,Cuchi,2020,14,1,14
+AGO,Angola,Cuchi,2022,0,0,3
+AGO,Angola,Cuchi,2025,0,0,1
+AGO,Angola,Cuito Cuanavale,2008,0,0,2
+AGO,Angola,Cuito Cuanavale,2010,0,0,1
+AGO,Angola,Cuito Cuanavale,2020,0,0,2
+AGO,Angola,Cuito Cuanavale,2022,8,1,8
+AGO,Angola,Cuito Cuanavale,2023,0,0,4
+AGO,Angola,Cuvelai,2009,8,1,8
+AGO,Angola,Cuvelai,2011,0,0,3
+AGO,Angola,Cuvelai,2020,8,1,8
+AGO,Angola,Ebo,2007,0,0,2
+AGO,Angola,Ebo,2012,0,0,2
+AGO,Angola,Ebo,2023,11,1,11
+AGO,Angola,Ebo,2024,10,1,10
+AGO,Angola,Ekunha,2012,0,0,2
+AGO,Angola,Ekunha,2022,0,0,6
+AGO,Angola,Ekunha,2023,19,2,12
+AGO,Angola,Gambos,2008,7,1,7
+AGO,Angola,Gambos,2011,7,1,7
+AGO,Angola,Gambos,2020,8,1,8
+AGO,Angola,Ganda,2016,0,0,5
+AGO,Angola,Ganda,2023,22,1,22
+AGO,Angola,Huambo,2016,0,0,5
+AGO,Angola,Huambo,2020,0,0,3
+AGO,Angola,Huambo,2022,0,0,4
+AGO,Angola,Huambo,2023,8,1,8
+AGO,Angola,Humpata,2011,8,1,8
+AGO,Angola,Humpata,2020,17,1,17
+AGO,Angola,Humpata,2023,0,0,2
+AGO,Angola,Jamba,2009,7,1,7
+AGO,Angola,Jamba,2011,8,1,8
+AGO,Angola,Jamba,2020,9,1,9
+AGO,Angola,Kuito,2010,8,1,8
+AGO,Angola,Kuito,2020,0,0,5
+AGO,Angola,Kuito,2023,7,1,7
+AGO,Angola,Kuito,2024,0,0,1
+AGO,Angola,Kuvango,2009,0,0,5
+AGO,Angola,Kuvango,2020,22,2,15
+AGO,Angola,Londuimbale,2022,0,0,6
+AGO,Angola,Londuimbale,2023,19,2,10
+AGO,Angola,Longonjo,2016,7,1,7
+AGO,Angola,Longonjo,2020,7,1,7
+AGO,Angola,Longonjo,2023,0,0,5
+AGO,Angola,Lubango,2011,0,0,3
+AGO,Angola,Lubango,2020,22,1,22
+AGO,Angola,Lumbala-Nguimbo,2013,8,1,8
+AGO,Angola,Lumbala-Nguimbo,2021,0,0,5
+AGO,Angola,Lumbala-Nguimbo,2022,0,0,1
+AGO,Angola,Malanje,2023,21,1,21
+AGO,Angola,Malanje,2024,0,0,1
+AGO,Angola,Matala,2009,8,1,8
+AGO,Angola,Matala,2011,8,1,8
+AGO,Angola,Matala,2020,8,1,8
+AGO,Angola,Matala,2023,0,0,3
+AGO,Angola,Menongue,2009,0,0,2
+AGO,Angola,Menongue,2010,0,0,2
+AGO,Angola,Menongue,2018,0,0,5
+AGO,Angola,Menongue,2020,0,0,2
+AGO,Angola,Menongue,2022,0,0,5
+AGO,Angola,Mungo,2010,7,1,7
+AGO,Angola,Mungo,2012,0,0,2
+AGO,Angola,Mungo,2018,0,0,1
+AGO,Angola,Mungo,2023,9,1,9
+AGO,Angola,Namakunde,2009,15,1,15
+AGO,Angola,Namakunde,2011,0,0,3
+AGO,Angola,Namakunde,2020,0,0,2
+AGO,Angola,Ombadja,2009,14,1,14
+AGO,Angola,Ombadja,2011,7,1,7
+AGO,Angola,Ombadja,2012,0,0,1
+AGO,Angola,Quibala,2007,0,0,2
+AGO,Angola,Quibala,2021,7,1,7
+AGO,Angola,Quibala,2023,13,1,13
+AGO,Angola,Quibala,2024,0,0,1
+AGO,Angola,Quilenda,2023,24,1,24
+AGO,Angola,Quilengues,2016,0,0,3
+AGO,Angola,Quilengues,2020,19,2,12
+AGO,Angola,Quilengues,2023,0,0,2
+AGO,Angola,Seles,2007,0,0,2
+AGO,Angola,Seles,2023,18,2,10
+AGO,Angola,Seles,2024,0,0,6
+AGO,Angola,Tchicala-Tcholoanga,2010,0,0,6
+AGO,Angola,Tchicala-Tcholoanga,2018,0,0,1
+AGO,Angola,Tchicala-Tcholoanga,2022,0,0,2
+AGO,Angola,Tchicala-Tcholoanga,2023,17,2,10
+AGO,Angola,Tchipungo,2011,8,1,8
+AGO,Angola,Tchipungo,2020,12,1,12
+AGO,Angola,Ukuma,2023,26,1,26
+AGO,Angola,Waku Kungo,2007,0,0,2
+AGO,Angola,Waku Kungo,2012,12,1,12
+AGO,Angola,Waku Kungo,2023,7,1,7
+AGO,Angola,Waku Kungo,2024,0,0,3
+BDI,Burundi,Bubanza,2023,0,0,4
+BDI,Burundi,Bubanza,2024,14,1,14
+BDI,Burundi,Bugendana,2023,0,0,2
+BDI,Burundi,Bugendana,2024,9,1,9
+BDI,Burundi,Buhiga,2023,7,1,7
+BDI,Burundi,Buhiga,2024,10,1,10
+BDI,Burundi,Burambi,2023,0,0,2
+BDI,Burundi,Burambi,2024,9,1,9
+BDI,Burundi,Burambi,2025,0,0,1
+BDI,Burundi,Bururi,2024,0,0,5
+BDI,Burundi,Bururi,2025,0,0,6
+BDI,Burundi,Busoni,2021,0,0,6
+BDI,Burundi,Busoni,2024,15,1,15
+BDI,Burundi,Buyengero,2024,0,0,2
+BDI,Burundi,Buyengero,2025,0,0,4
+BDI,Burundi,Bweru,2023,7,1,7
+BDI,Burundi,Bweru,2024,10,1,10
+BDI,Burundi,Cankuzo,2023,10,1,10
+BDI,Burundi,Cankuzo,2024,10,1,10
+BDI,Burundi,Giheta,2023,0,0,2
+BDI,Burundi,Giheta,2024,7,1,7
+BDI,Burundi,Gisagara,2023,0,0,5
+BDI,Burundi,Gisagara,2024,16,2,8
+BDI,Burundi,Gisuru,2023,0,0,3
+BDI,Burundi,Gisuru,2024,10,1,10
+BDI,Burundi,Gitaramuka,2023,7,1,7
+BDI,Burundi,Gitaramuka,2024,7,1,7
+BDI,Burundi,Gitega,2023,0,0,2
+BDI,Burundi,Gitega,2024,10,1,10
+BDI,Burundi,Giteranyi,2021,13,1,13
+BDI,Burundi,Giteranyi,2024,8,1,8
+BDI,Burundi,Gitobe,2021,0,0,4
+BDI,Burundi,Gitobe,2023,0,0,3
+BDI,Burundi,Gitobe,2024,0,0,5
+BDI,Burundi,Itaba,2013,9,1,9
+BDI,Burundi,Kayogoro,2023,9,1,9
+BDI,Burundi,Kayogoro,2024,0,0,5
+BDI,Burundi,Kibago,2023,0,0,3
+BDI,Burundi,Kibago,2024,8,1,8
+BDI,Burundi,Kibago,2025,0,0,4
+BDI,Burundi,Kinyinya,2023,10,1,10
+BDI,Burundi,Kinyinya,2024,10,1,10
+BDI,Burundi,Mabanda,2024,15,1,15
+BDI,Burundi,Mabanda,2025,7,1,7
+BDI,Burundi,Mabayi,2023,14,1,14
+BDI,Burundi,Mabayi,2024,0,0,3
+BDI,Burundi,Makamba,2023,7,1,7
+BDI,Burundi,Makamba,2024,10,1,10
+BDI,Burundi,Makamba,2025,0,0,3
+BDI,Burundi,Makebuko,2023,0,0,2
+BDI,Burundi,Makebuko,2024,9,1,9
+BDI,Burundi,Makebuko,2025,0,0,3
+BDI,Burundi,Matongo,2024,12,1,12
+BDI,Burundi,Matongo,2025,8,1,8
+BDI,Burundi,Mishiha,2023,0,0,5
+BDI,Burundi,Mishiha,2024,9,1,9
+BDI,Burundi,Mpanda,2023,0,0,2
+BDI,Burundi,Mpanda,2024,19,1,19
+BDI,Burundi,Mpinga-Kayove,2022,0,0,2
+BDI,Burundi,Mpinga-Kayove,2023,12,1,12
+BDI,Burundi,Mpinga-Kayove,2024,0,0,6
+BDI,Burundi,Mugamba,2023,0,0,2
+BDI,Burundi,Mugamba,2024,7,1,7
+BDI,Burundi,Mugamba,2025,0,0,3
+BDI,Burundi,Mugina,2023,10,1,10
+BDI,Burundi,Mugina,2024,7,1,7
+BDI,Burundi,Muhuta,2024,14,1,14
+BDI,Burundi,Muhuta,2025,0,0,2
+BDI,Burundi,Mukike,2023,0,0,2
+BDI,Burundi,Mukike,2024,0,0,5
+BDI,Burundi,Mukike,2025,0,0,3
+BDI,Burundi,Muramvya,2023,0,0,2
+BDI,Burundi,Muramvya,2024,9,1,9
+BDI,Burundi,Muramvya,2025,9,1,9
+BDI,Burundi,Muruta,2023,7,1,7
+BDI,Burundi,Muruta,2024,12,1,12
+BDI,Burundi,Muruta,2025,0,0,4
+BDI,Burundi,Murwi,2023,7,1,7
+BDI,Burundi,Murwi,2024,14,1,14
+BDI,Burundi,Musongati,2020,0,0,1
+BDI,Burundi,Musongati,2022,0,0,2
+BDI,Burundi,Musongati,2023,0,0,2
+BDI,Burundi,Musongati,2024,10,1,10
+BDI,Burundi,Mutambu,2023,0,0,4
+BDI,Burundi,Mutambu,2024,14,1,14
+BDI,Burundi,Mutimbuzi,2023,0,0,2
+BDI,Burundi,Mutimbuzi,2024,21,1,21
+BDI,Burundi,Muyinga,2023,17,1,17
+BDI,Burundi,Muyinga,2024,0,0,5
+BDI,Burundi,Ngozi,2023,0,0,2
+BDI,Burundi,Ngozi,2024,0,0,4
+BDI,Burundi,Ntega,2021,0,0,5
+BDI,Burundi,Ntega,2023,0,0,2
+BDI,Burundi,Ntega,2024,0,0,2
+BDI,Burundi,Nyabihanga,2023,0,0,3
+BDI,Burundi,Nyabihanga,2024,7,1,7
+BDI,Burundi,Nyabihanga,2025,0,0,3
+BDI,Burundi,Nyabiraba,2023,0,0,4
+BDI,Burundi,Nyabiraba,2024,9,1,9
+BDI,Burundi,Nyabiraba,2025,0,0,6
+BDI,Burundi,Nyanrusange,2020,0,0,1
+BDI,Burundi,Nyanrusange,2023,0,0,2
+BDI,Burundi,Nyanrusange,2024,8,1,8
+BDI,Burundi,Nyanrusange,2025,0,0,3
+BDI,Burundi,Rango,2023,7,1,7
+BDI,Burundi,Rango,2024,12,1,12
+BDI,Burundi,Rango,2025,0,0,2
+BDI,Burundi,Rugombo,2023,10,1,10
+BDI,Burundi,Rugombo,2024,12,1,12
+BDI,Burundi,Ruhororo,2021,0,0,2
+BDI,Burundi,Ruhororo,2023,7,1,7
+BDI,Burundi,Ruhororo,2024,14,1,14
+BDI,Burundi,Rusaka,2023,0,0,2
+BDI,Burundi,Rusaka,2024,7,1,7
+BDI,Burundi,Rusaka,2025,0,0,6
+BDI,Burundi,Rutana,2020,0,0,2
+BDI,Burundi,Rutana,2023,0,0,5
+BDI,Burundi,Rutana,2024,9,1,9
+BDI,Burundi,Rutegama,2023,0,0,4
+BDI,Burundi,Rutegama,2024,9,1,9
+BDI,Burundi,Rutegama,2025,0,0,4
+BDI,Burundi,Rutovu,2023,0,0,4
+BDI,Burundi,Rutovu,2024,18,2,10
+BDI,Burundi,Ruyigi,2023,0,0,2
+BDI,Burundi,Ruyigi,2024,10,1,10
+BDI,Burundi,Ryansoro,2023,0,0,2
+BDI,Burundi,Ryansoro,2024,16,2,8
+BDI,Burundi,Ryansoro,2025,0,0,4
+BDI,Burundi,Songa,2023,0,0,2
+BDI,Burundi,Songa,2024,15,2,8
+BDI,Burundi,Songa,2025,0,0,4
+BDI,Burundi,Tangara,2021,0,0,2
+BDI,Burundi,Tangara,2023,0,0,4
+BDI,Burundi,Tangara,2024,10,1,10
+BDI,Burundi,Vumbi,2021,10,1,10
+BDI,Burundi,Vumbi,2023,8,1,8
+BDI,Burundi,Vumbi,2024,0,0,4
+BEN,Benin,Aplahoué,2018,0,0,2
+BEN,Benin,Aplahoué,2022,0,0,6
+BEN,Benin,Aplahoué,2024,15,1,15
+BEN,Benin,Banikoara,2016,9,1,9
+BEN,Benin,Banikoara,2018,0,0,2
+BEN,Benin,Banikoara,2022,12,1,12
+BEN,Benin,Bantè,2012,0,0,5
+BEN,Benin,Bantè,2017,0,0,1
+BEN,Benin,Bantè,2018,8,1,8
+BEN,Benin,Bantè,2019,0,0,4
+BEN,Benin,Bantè,2020,12,1,12
+BEN,Benin,Bassila,2018,0,0,4
+BEN,Benin,Bassila,2019,0,0,4
+BEN,Benin,Bassila,2020,12,1,12
+BEN,Benin,Bassila,2022,0,0,4
+BEN,Benin,Bassila,2023,0,0,4
+BEN,Benin,Bembèrèkè,2007,0,0,1
+BEN,Benin,Bembèrèkè,2008,10,1,10
+BEN,Benin,Bembèrèkè,2009,0,0,4
+BEN,Benin,Bembèrèkè,2012,9,1,9
+BEN,Benin,Boukoumbé,2021,0,0,1
+BEN,Benin,Boukoumbé,2023,19,1,19
+BEN,Benin,Cobly,2018,0,0,2
+BEN,Benin,Cobly,2021,0,0,3
+BEN,Benin,Cobly,2023,13,1,13
+BEN,Benin,Dassa-Zoumè,2017,0,0,3
+BEN,Benin,Dassa-Zoumè,2019,0,0,2
+BEN,Benin,Dassa-Zoumè,2023,8,1,8
+BEN,Benin,Dassa-Zoumè,2024,10,1,10
+BEN,Benin,Djakotomey,2024,12,1,12
+BEN,Benin,Djakotomey,2025,12,1,12
+BEN,Benin,Djidja,2011,0,0,1
+BEN,Benin,Djidja,2018,0,0,4
+BEN,Benin,Djidja,2022,0,0,2
+BEN,Benin,Djidja,2023,0,0,4
+BEN,Benin,Djidja,2024,0,0,3
+BEN,Benin,Djougou Rural,2017,8,1,8
+BEN,Benin,Djougou Rural,2018,0,0,3
+BEN,Benin,Djougou Rural,2020,10,1,10
+BEN,Benin,Djougou Rural,2023,0,0,4
+BEN,Benin,Glazoué,2018,0,0,4
+BEN,Benin,Glazoué,2019,11,1,11
+BEN,Benin,Glazoué,2020,11,1,11
+BEN,Benin,Glazoué,2023,0,0,4
+BEN,Benin,Gogounou,2016,0,0,2
+BEN,Benin,Gogounou,2017,0,0,2
+BEN,Benin,Gogounou,2018,7,1,7
+BEN,Benin,Gogounou,2022,8,1,8
+BEN,Benin,Kalalé,2007,8,1,8
+BEN,Benin,Kalalé,2008,10,1,10
+BEN,Benin,Kalalé,2012,0,0,1
+BEN,Benin,Kalalé,2020,9,1,9
+BEN,Benin,Kandi,2017,0,0,6
+BEN,Benin,Kandi,2018,8,1,8
+BEN,Benin,Kandi,2019,0,0,1
+BEN,Benin,Kandi,2022,8,1,8
+BEN,Benin,Karimama,2020,0,0,5
+BEN,Benin,Karimama,2021,0,0,3
+BEN,Benin,Karimama,2022,14,1,14
+BEN,Benin,Karimama,2024,0,0,1
+BEN,Benin,Klouékanmè,2022,0,0,6
+BEN,Benin,Klouékanmè,2024,12,1,12
+BEN,Benin,Klouékanmè,2025,0,0,3
+BEN,Benin,Kouandé,2018,10,1,10
+BEN,Benin,Kouandé,2022,8,1,8
+BEN,Benin,Kouandé,2023,0,0,2
+BEN,Benin,Kérou,2016,0,0,2
+BEN,Benin,Kérou,2018,0,0,6
+BEN,Benin,Kérou,2022,8,1,8
+BEN,Benin,Kétou,2011,0,0,1
+BEN,Benin,Kétou,2020,0,0,2
+BEN,Benin,Kétou,2024,19,1,19
+BEN,Benin,Malanville,2017,0,0,2
+BEN,Benin,Malanville,2018,9,1,9
+BEN,Benin,Malanville,2022,8,1,8
+BEN,Benin,Matéri,2018,0,0,3
+BEN,Benin,Matéri,2022,0,0,6
+BEN,Benin,Matéri,2023,14,1,14
+BEN,Benin,N'Dali,2012,15,1,15
+BEN,Benin,N'Dali,2017,10,1,10
+BEN,Benin,N'Dali,2020,0,0,5
+BEN,Benin,Natitingou,2023,17,1,17
+BEN,Benin,Nikki,2008,0,0,6
+BEN,Benin,Nikki,2009,0,0,1
+BEN,Benin,Nikki,2012,17,1,17
+BEN,Benin,Nikki,2020,0,0,5
+BEN,Benin,Ouaké,2017,9,1,9
+BEN,Benin,Ouaké,2020,9,1,9
+BEN,Benin,Ouaké,2023,9,1,9
+BEN,Benin,Ouèssè,2018,0,0,3
+BEN,Benin,Ouèssè,2019,7,1,7
+BEN,Benin,Ouèssè,2020,11,1,11
+BEN,Benin,Ouèssè,2022,0,0,3
+BEN,Benin,Ouèssè,2023,0,0,5
+BEN,Benin,Parakou,2012,0,0,3
+BEN,Benin,Parakou,2016,0,0,3
+BEN,Benin,Parakou,2017,0,0,4
+BEN,Benin,Parakou,2019,7,1,7
+BEN,Benin,Parakou,2020,0,0,5
+BEN,Benin,Parakou,2022,0,0,3
+BEN,Benin,Pobè,2011,0,0,3
+BEN,Benin,Pobè,2024,15,1,15
+BEN,Benin,Pobè,2025,0,0,4
+BEN,Benin,Pèrèrè,2008,0,0,2
+BEN,Benin,Pèrèrè,2009,0,0,1
+BEN,Benin,Pèrèrè,2012,14,1,14
+BEN,Benin,Pèrèrè,2016,0,0,5
+BEN,Benin,Pèrèrè,2020,0,0,5
+BEN,Benin,Pèrèrè,2022,0,0,2
+BEN,Benin,Péhunco,2016,0,0,2
+BEN,Benin,Péhunco,2018,11,1,11
+BEN,Benin,Péhunco,2021,0,0,1
+BEN,Benin,Péhunco,2022,9,1,9
+BEN,Benin,Savalou,2018,9,1,9
+BEN,Benin,Savalou,2019,0,0,6
+BEN,Benin,Savalou,2020,9,1,9
+BEN,Benin,Savalou,2023,0,0,5
+BEN,Benin,Savè,2019,8,1,8
+BEN,Benin,Savè,2020,15,1,15
+BEN,Benin,Savè,2023,0,0,5
+BEN,Benin,Sinendé,2008,0,0,4
+BEN,Benin,Sinendé,2012,15,1,15
+BEN,Benin,Sinendé,2017,0,0,6
+BEN,Benin,Sinendé,2020,0,0,1
+BEN,Benin,Ségbana,2007,8,1,8
+BEN,Benin,Ségbana,2017,7,1,7
+BEN,Benin,Ségbana,2018,7,1,7
+BEN,Benin,Ségbana,2019,0,0,1
+BEN,Benin,Tanguiéta,2008,0,0,1
+BEN,Benin,Tanguiéta,2015,8,1,8
+BEN,Benin,Tanguiéta,2023,11,1,11
+BEN,Benin,Tchaourou,2019,12,1,12
+BEN,Benin,Tchaourou,2020,13,1,13
+BEN,Benin,Tchaourou,2022,0,0,4
+BEN,Benin,Tchaourou,2023,0,0,1
+BEN,Benin,Za-Kpota,2022,17,1,17
+BEN,Benin,Za-Kpota,2024,7,1,7
+BEN,Benin,Zogbodomey,2024,7,1,7
+BEN,Benin,Zogbodomey,2025,16,1,16
+BFA,Burkina Faso,Balé,2010,0,0,3
+BFA,Burkina Faso,Balé,2013,0,0,3
+BFA,Burkina Faso,Balé,2016,7,1,7
+BFA,Burkina Faso,Balé,2018,0,0,4
+BFA,Burkina Faso,Balé,2019,0,0,1
+BFA,Burkina Faso,Bam,2021,0,0,2
+BFA,Burkina Faso,Bam,2022,0,0,5
+BFA,Burkina Faso,Bam,2023,0,0,2
+BFA,Burkina Faso,Bam,2024,9,1,9
+BFA,Burkina Faso,Banwa,2010,0,0,4
+BFA,Burkina Faso,Banwa,2012,0,0,3
+BFA,Burkina Faso,Banwa,2017,9,1,9
+BFA,Burkina Faso,Banwa,2021,0,0,2
+BFA,Burkina Faso,Bazèga,2010,0,0,3
+BFA,Burkina Faso,Bazèga,2016,0,0,2
+BFA,Burkina Faso,Bazèga,2017,0,0,3
+BFA,Burkina Faso,Bazèga,2019,0,0,5
+BFA,Burkina Faso,Bazèga,2021,0,0,2
+BFA,Burkina Faso,Bazèga,2024,0,0,2
+BFA,Burkina Faso,Boulgou,2007,0,0,1
+BFA,Burkina Faso,Boulgou,2008,0,0,4
+BFA,Burkina Faso,Boulgou,2010,0,0,2
+BFA,Burkina Faso,Boulgou,2016,0,0,4
+BFA,Burkina Faso,Boulgou,2019,0,0,6
+BFA,Burkina Faso,Boulkiemdé,2016,7,1,7
+BFA,Burkina Faso,Boulkiemdé,2018,0,0,3
+BFA,Burkina Faso,Boulkiemdé,2019,0,0,3
+BFA,Burkina Faso,Boulkiemdé,2021,0,0,2
+BFA,Burkina Faso,Boulkiemdé,2022,0,0,3
+BFA,Burkina Faso,Comoé,2022,0,0,3
+BFA,Burkina Faso,Comoé,2023,14,1,14
+BFA,Burkina Faso,Ganzourgou,2008,0,0,6
+BFA,Burkina Faso,Ganzourgou,2010,10,1,10
+BFA,Burkina Faso,Ganzourgou,2016,0,0,1
+BFA,Burkina Faso,Ganzourgou,2021,0,0,1
+BFA,Burkina Faso,Gourma,2008,0,0,6
+BFA,Burkina Faso,Gourma,2017,7,1,7
+BFA,Burkina Faso,Gourma,2024,0,0,2
+BFA,Burkina Faso,Houet,2012,0,0,6
+BFA,Burkina Faso,Houet,2016,0,0,1
+BFA,Burkina Faso,Houet,2017,0,0,2
+BFA,Burkina Faso,Houet,2018,0,0,1
+BFA,Burkina Faso,Houet,2019,0,0,4
+BFA,Burkina Faso,Houet,2023,0,0,1
+BFA,Burkina Faso,Houet,2024,0,0,2
+BFA,Burkina Faso,Houet,2025,0,0,1
+BFA,Burkina Faso,Kadiogo,2019,0,0,1
+BFA,Burkina Faso,Kadiogo,2021,0,0,4
+BFA,Burkina Faso,Kadiogo,2023,9,1,9
+BFA,Burkina Faso,Kadiogo,2024,0,0,2
+BFA,Burkina Faso,Kompienga,2008,0,0,5
+BFA,Burkina Faso,Kompienga,2017,8,1,8
+BFA,Burkina Faso,Kompienga,2019,0,0,4
+BFA,Burkina Faso,Kompienga,2024,0,0,1
+BFA,Burkina Faso,Kossi,2010,0,0,2
+BFA,Burkina Faso,Kossi,2012,0,0,4
+BFA,Burkina Faso,Kossi,2017,0,0,4
+BFA,Burkina Faso,Kossi,2023,8,1,8
+BFA,Burkina Faso,Koulpélogo,2008,0,0,2
+BFA,Burkina Faso,Koulpélogo,2017,10,1,10
+BFA,Burkina Faso,Koulpélogo,2019,0,0,6
+BFA,Burkina Faso,Kouritenga,2008,0,0,2
+BFA,Burkina Faso,Kouritenga,2010,8,1,8
+BFA,Burkina Faso,Kouritenga,2016,0,0,2
+BFA,Burkina Faso,Kouritenga,2019,0,0,5
+BFA,Burkina Faso,Kourwéogo,2016,0,0,2
+BFA,Burkina Faso,Kourwéogo,2017,0,0,2
+BFA,Burkina Faso,Kourwéogo,2018,0,0,3
+BFA,Burkina Faso,Kourwéogo,2021,0,0,4
+BFA,Burkina Faso,Kourwéogo,2023,0,0,5
+BFA,Burkina Faso,Kénédougou,2008,0,0,2
+BFA,Burkina Faso,Kénédougou,2010,0,0,3
+BFA,Burkina Faso,Kénédougou,2012,0,0,3
+BFA,Burkina Faso,Kénédougou,2016,0,0,2
+BFA,Burkina Faso,Kénédougou,2017,0,0,3
+BFA,Burkina Faso,Kénédougou,2018,0,0,2
+BFA,Burkina Faso,Kénédougou,2025,0,0,1
+BFA,Burkina Faso,Léraba,2016,0,0,1
+BFA,Burkina Faso,Léraba,2018,0,0,4
+BFA,Burkina Faso,Léraba,2019,0,0,1
+BFA,Burkina Faso,Léraba,2021,0,0,1
+BFA,Burkina Faso,Léraba,2022,7,1,7
+BFA,Burkina Faso,Léraba,2023,0,0,2
+BFA,Burkina Faso,Mouhoun,2010,0,0,2
+BFA,Burkina Faso,Mouhoun,2012,0,0,3
+BFA,Burkina Faso,Mouhoun,2013,0,0,3
+BFA,Burkina Faso,Mouhoun,2016,0,0,2
+BFA,Burkina Faso,Mouhoun,2017,0,0,1
+BFA,Burkina Faso,Mouhoun,2018,0,0,4
+BFA,Burkina Faso,Mouhoun,2021,0,0,2
+BFA,Burkina Faso,Nahouri,2007,0,0,4
+BFA,Burkina Faso,Nahouri,2016,0,0,1
+BFA,Burkina Faso,Nahouri,2018,0,0,6
+BFA,Burkina Faso,Nahouri,2019,7,1,7
+BFA,Burkina Faso,Nayala,2010,0,0,2
+BFA,Burkina Faso,Nayala,2012,0,0,4
+BFA,Burkina Faso,Nayala,2014,0,0,2
+BFA,Burkina Faso,Nayala,2016,0,0,2
+BFA,Burkina Faso,Nayala,2021,0,0,4
+BFA,Burkina Faso,Nayala,2022,0,0,1
+BFA,Burkina Faso,Nayala,2023,0,0,2
+BFA,Burkina Faso,Passoré,2014,0,0,2
+BFA,Burkina Faso,Passoré,2016,0,0,4
+BFA,Burkina Faso,Passoré,2017,0,0,2
+BFA,Burkina Faso,Passoré,2018,0,0,1
+BFA,Burkina Faso,Passoré,2021,0,0,5
+BFA,Burkina Faso,Passoré,2023,0,0,4
+BFA,Burkina Faso,Poni,2018,0,0,1
+BFA,Burkina Faso,Poni,2023,15,1,15
+BFA,Burkina Faso,Poni,2025,0,0,2
+BFA,Burkina Faso,Sanguié,2016,7,1,7
+BFA,Burkina Faso,Sanguié,2018,0,0,3
+BFA,Burkina Faso,Sanguié,2019,0,0,1
+BFA,Burkina Faso,Sanguié,2021,0,0,3
+BFA,Burkina Faso,Sanguié,2022,0,0,3
+BFA,Burkina Faso,Sanmatenga,2017,0,0,3
+BFA,Burkina Faso,Sanmatenga,2021,0,0,6
+BFA,Burkina Faso,Sanmatenga,2023,0,0,5
+BFA,Burkina Faso,Sanmatenga,2024,0,0,4
+BFA,Burkina Faso,Sissili,2008,0,0,4
+BFA,Burkina Faso,Sissili,2010,0,0,3
+BFA,Burkina Faso,Sissili,2012,0,0,5
+BFA,Burkina Faso,Sissili,2016,0,0,5
+BFA,Burkina Faso,Sissili,2021,0,0,1
+BFA,Burkina Faso,Sourou,2021,0,0,2
+BFA,Burkina Faso,Sourou,2022,9,1,9
+BFA,Burkina Faso,Sourou,2023,7,1,7
+BFA,Burkina Faso,Tapoa,2007,0,0,1
+BFA,Burkina Faso,Tapoa,2008,8,1,8
+BFA,Burkina Faso,Tapoa,2010,0,0,5
+BFA,Burkina Faso,Tapoa,2017,0,0,1
+BFA,Burkina Faso,Tapoa,2024,0,0,3
+BFA,Burkina Faso,Tuy,2010,0,0,2
+BFA,Burkina Faso,Tuy,2012,0,0,3
+BFA,Burkina Faso,Tuy,2013,0,0,2
+BFA,Burkina Faso,Tuy,2016,0,0,2
+BFA,Burkina Faso,Tuy,2017,0,0,2
+BFA,Burkina Faso,Tuy,2018,0,0,4
+BFA,Burkina Faso,Tuy,2019,0,0,3
+BFA,Burkina Faso,Yatenga,2012,0,0,5
+BFA,Burkina Faso,Yatenga,2017,0,0,3
+BFA,Burkina Faso,Yatenga,2023,0,0,5
+BFA,Burkina Faso,Yatenga,2024,0,0,3
+BFA,Burkina Faso,Ziro,2008,0,0,4
+BFA,Burkina Faso,Ziro,2010,0,0,6
+BFA,Burkina Faso,Ziro,2012,0,0,1
+BFA,Burkina Faso,Ziro,2016,0,0,6
+BFA,Burkina Faso,Ziro,2021,0,0,1
+BFA,Burkina Faso,Zoundwéogo,2007,0,0,1
+BFA,Burkina Faso,Zoundwéogo,2008,0,0,1
+BFA,Burkina Faso,Zoundwéogo,2009,0,0,1
+BFA,Burkina Faso,Zoundwéogo,2010,0,0,2
+BFA,Burkina Faso,Zoundwéogo,2016,0,0,4
+BFA,Burkina Faso,Zoundwéogo,2018,0,0,3
+BFA,Burkina Faso,Zoundwéogo,2019,0,0,3
+BFA,Burkina Faso,Zoundwéogo,2024,0,0,1
+BWA,Botswana,Barolong,2017,9,1,9
+BWA,Botswana,Barolong,2025,8,1,8
+BWA,Botswana,Bobonong,2021,0,0,2
+BWA,Botswana,Bobonong,2025,13,1,13
+BWA,Botswana,Chobe,2008,7,1,7
+BWA,Botswana,Chobe,2017,0,0,3
+BWA,Botswana,Chobe,2021,0,0,5
+BWA,Botswana,Kgatleng,2025,18,1,18
+BWA,Botswana,Kweneng North,2017,0,0,5
+BWA,Botswana,Kweneng North,2021,0,0,4
+BWA,Botswana,Kweneng North,2025,7,1,7
+BWA,Botswana,Kweneng South,2017,14,1,14
+BWA,Botswana,Kweneng South,2021,0,0,3
+BWA,Botswana,Kweneng South,2025,0,0,5
+BWA,Botswana,Machaneng,2025,22,1,22
+BWA,Botswana,Mahalapye,2021,0,0,6
+BWA,Botswana,Mahalapye,2025,15,1,15
+BWA,Botswana,Masungu,2017,0,0,3
+BWA,Botswana,Masungu,2025,18,2,11
+BWA,Botswana,Ngwaketse North,2014,0,0,5
+BWA,Botswana,Ngwaketse North,2017,9,1,9
+BWA,Botswana,Ngwaketse North,2025,0,0,6
+BWA,Botswana,Ngwaketse South,2014,9,1,9
+BWA,Botswana,Ngwaketse South,2025,9,1,9
+BWA,Botswana,Palapye,2021,0,0,2
+BWA,Botswana,Palapye,2025,19,2,12
+BWA,Botswana,Serowe,2014,0,0,1
+BWA,Botswana,Serowe,2017,0,0,3
+BWA,Botswana,Serowe,2021,7,1,7
+BWA,Botswana,Serowe,2025,7,1,7
+BWA,Botswana,Tutume,2008,0,0,1
+BWA,Botswana,Tutume,2017,16,1,16
+BWA,Botswana,Tutume,2021,0,0,4
+CAF,Central African Republic,Bangassou,2021,0,0,3
+CAF,Central African Republic,Bangassou,2022,0,0,6
+CAF,Central African Republic,Bangassou,2024,28,2,19
+CAF,Central African Republic,Batangafo,2024,39,2,28
+CAF,Central African Republic,Berbérati,2023,37,2,22
+CAF,Central African Republic,Bimbo,2021,16,1,16
+CAF,Central African Republic,Bimbo,2022,0,0,5
+CAF,Central African Republic,Bimbo,2023,0,0,5
+CAF,Central African Republic,Bimbo,2024,0,0,1
+CAF,Central African Republic,Bocaranga,2024,30,2,23
+CAF,Central African Republic,Bouar,2013,0,0,4
+CAF,Central African Republic,Bouar,2019,0,0,3
+CAF,Central African Republic,Bouar,2021,0,0,2
+CAF,Central African Republic,Bouar,2024,27,1,27
+CAF,Central African Republic,Bozoum,2013,0,0,3
+CAF,Central African Republic,Bozoum,2021,0,0,2
+CAF,Central African Republic,Bozoum,2023,0,0,4
+CAF,Central African Republic,Bozoum,2024,25,1,25
+CAF,Central African Republic,Carnot,2023,12,1,12
+CAF,Central African Republic,Carnot,2024,15,1,15
+CAF,Central African Republic,Gambo-Ouango,2020,10,1,10
+CAF,Central African Republic,Gambo-Ouango,2023,7,1,7
+CAF,Central African Republic,Gambo-Ouango,2024,0,0,4
+CAF,Central African Republic,Gamboula,2023,29,2,20
+CAF,Central African Republic,Gamboula,2024,7,1,7
+CAF,Central African Republic,Kabo,2019,13,1,13
+CAF,Central African Republic,Kabo,2024,25,1,25
+CAF,Central African Republic,Kaga-Bandoro,2010,0,0,5
+CAF,Central African Republic,Kaga-Bandoro,2019,0,0,6
+CAF,Central African Republic,Kaga-Bandoro,2022,9,1,9
+CAF,Central African Republic,Kaga-Bandoro,2023,0,0,1
+CAF,Central African Republic,Kaga-Bandoro,2024,7,1,7
+CAF,Central African Republic,Kembé,2023,0,0,4
+CAF,Central African Republic,Kembé,2024,33,2,26
+CAF,Central African Republic,Kouango,2022,9,1,9
+CAF,Central African Republic,Kouango,2023,9,1,9
+CAF,Central African Republic,Kouango,2024,9,1,9
+CAF,Central African Republic,M'Baïki,2021,7,1,7
+CAF,Central African Republic,M'Baïki,2022,16,1,16
+CAF,Central African Republic,M'Baïki,2023,0,0,4
+CAF,Central African Republic,M'Baïki,2024,0,0,2
+CAF,Central African Republic,Markounda,2023,0,0,1
+CAF,Central African Republic,Markounda,2024,36,2,23
+CAF,Central African Republic,Mobaye,2023,10,1,10
+CAF,Central African Republic,Mobaye,2024,15,1,15
+CAF,Central African Republic,Ndélé,2020,0,0,1
+CAF,Central African Republic,Ndélé,2022,10,1,10
+CAF,Central African Republic,Ndélé,2024,29,1,29
+CAF,Central African Republic,Nola,2019,8,1,8
+CAF,Central African Republic,Nola,2021,0,0,3
+CAF,Central African Republic,Nola,2023,25,1,25
+CAF,Central African Republic,Paoua,2022,0,0,2
+CAF,Central African Republic,Paoua,2023,0,0,1
+CAF,Central African Republic,Paoua,2024,19,1,19
+CIV,Côte d'Ivoire,Agnéby-Tiassa,2008,0,0,1
+CIV,Côte d'Ivoire,Agnéby-Tiassa,2009,0,0,1
+CIV,Côte d'Ivoire,Agnéby-Tiassa,2014,0,0,6
+CIV,Côte d'Ivoire,Agnéby-Tiassa,2023,13,1,13
+CIV,Côte d'Ivoire,Bagoué,2018,8,1,8
+CIV,Côte d'Ivoire,Bagoué,2021,0,0,1
+CIV,Côte d'Ivoire,Bagoué,2022,8,1,8
+CIV,Côte d'Ivoire,Bagoué,2024,0,0,1
+CIV,Côte d'Ivoire,Bounkani,2023,15,1,15
+CIV,Côte d'Ivoire,Bounkani,2024,10,1,10
+CIV,Côte d'Ivoire,Bélier,2023,0,0,4
+CIV,Côte d'Ivoire,Bélier,2024,0,0,6
+CIV,Côte d'Ivoire,Bélier,2025,14,1,14
+CIV,Côte d'Ivoire,Béré,2023,0,0,3
+CIV,Côte d'Ivoire,Béré,2024,0,0,4
+CIV,Côte d'Ivoire,Béré,2025,0,0,5
+CIV,Côte d'Ivoire,Folon,2018,0,0,3
+CIV,Côte d'Ivoire,Folon,2020,0,0,2
+CIV,Côte d'Ivoire,Folon,2022,8,1,8
+CIV,Côte d'Ivoire,Folon,2023,0,0,4
+CIV,Côte d'Ivoire,Gbeke,2023,0,0,1
+CIV,Côte d'Ivoire,Gbeke,2024,7,1,7
+CIV,Côte d'Ivoire,Gbeke,2025,20,2,10
+CIV,Côte d'Ivoire,Gôh,2009,0,0,1
+CIV,Côte d'Ivoire,Gôh,2010,9,1,9
+CIV,Côte d'Ivoire,Gôh,2025,9,1,9
+CIV,Côte d'Ivoire,Hambol,2022,0,0,2
+CIV,Côte d'Ivoire,Hambol,2023,20,1,20
+CIV,Côte d'Ivoire,Hambol,2024,0,0,4
+CIV,Côte d'Ivoire,Hambol,2025,0,0,2
+CIV,Côte d'Ivoire,Haut-Sassandra,2007,0,0,2
+CIV,Côte d'Ivoire,Haut-Sassandra,2008,9,1,9
+CIV,Côte d'Ivoire,Haut-Sassandra,2024,0,0,3
+CIV,Côte d'Ivoire,Haut-Sassandra,2025,9,1,9
+CIV,Côte d'Ivoire,Iffou,2023,20,1,20
+CIV,Côte d'Ivoire,Iffou,2025,7,1,7
+CIV,Côte d'Ivoire,Indénié-Djuablin,2009,0,0,6
+CIV,Côte d'Ivoire,Indénié-Djuablin,2011,0,0,1
+CIV,Côte d'Ivoire,Indénié-Djuablin,2018,0,0,3
+CIV,Côte d'Ivoire,Indénié-Djuablin,2023,9,1,9
+CIV,Côte d'Ivoire,Indénié-Djuablin,2025,0,0,2
+CIV,Côte d'Ivoire,Kabadougou,2021,0,0,1
+CIV,Côte d'Ivoire,Kabadougou,2022,7,1,7
+CIV,Côte d'Ivoire,Kabadougou,2023,7,1,7
+CIV,Côte d'Ivoire,Kabadougou,2024,0,0,3
+CIV,Côte d'Ivoire,Lôh-Djiboua,2008,0,0,2
+CIV,Côte d'Ivoire,Lôh-Djiboua,2009,0,0,3
+CIV,Côte d'Ivoire,Lôh-Djiboua,2010,16,1,16
+CIV,Côte d'Ivoire,Lôh-Djiboua,2014,0,0,6
+CIV,Côte d'Ivoire,Marahoué,2024,11,1,11
+CIV,Côte d'Ivoire,Marahoué,2025,17,2,10
+CIV,Côte d'Ivoire,Moronou,2009,0,0,1
+CIV,Côte d'Ivoire,Moronou,2018,11,1,11
+CIV,Côte d'Ivoire,Moronou,2022,0,0,4
+CIV,Côte d'Ivoire,Moronou,2023,0,0,6
+CIV,Côte d'Ivoire,Poro,2012,7,1,7
+CIV,Côte d'Ivoire,Poro,2018,7,1,7
+CIV,Côte d'Ivoire,Poro,2021,0,0,2
+CIV,Côte d'Ivoire,Poro,2023,0,0,1
+CIV,Côte d'Ivoire,Tchologo,2018,0,0,6
+CIV,Côte d'Ivoire,Tchologo,2020,0,0,3
+CIV,Côte d'Ivoire,Tchologo,2021,0,0,1
+CIV,Côte d'Ivoire,Tchologo,2023,0,0,4
+CIV,Côte d'Ivoire,Worodougou,2023,0,0,4
+CIV,Côte d'Ivoire,Worodougou,2024,8,1,8
+CIV,Côte d'Ivoire,Yamoussoukro,2020,0,0,1
+CIV,Côte d'Ivoire,Yamoussoukro,2023,0,0,2
+CIV,Côte d'Ivoire,Yamoussoukro,2024,0,0,6
+CIV,Côte d'Ivoire,Yamoussoukro,2025,21,1,21
+CMR,Cameroon,Bamboutos,2019,0,0,5
+CMR,Cameroon,Bamboutos,2023,0,0,3
+CMR,Cameroon,Bamboutos,2024,16,2,9
+CMR,Cameroon,Bénoué,2018,0,0,1
+CMR,Cameroon,Bénoué,2019,0,0,2
+CMR,Cameroon,Bénoué,2021,10,1,10
+CMR,Cameroon,Bénoué,2022,0,0,4
+CMR,Cameroon,Bénoué,2023,0,0,3
+CMR,Cameroon,Diamaré,2007,8,1,8
+CMR,Cameroon,Diamaré,2018,0,0,1
+CMR,Cameroon,Diamaré,2024,17,1,17
+CMR,Cameroon,Faro,2020,0,0,1
+CMR,Cameroon,Faro,2023,14,1,14
+CMR,Cameroon,Faro,2024,0,0,6
+CMR,Cameroon,Faro et Déo,2023,23,1,23
+CMR,Cameroon,Faro et Déo,2025,0,0,2
+CMR,Cameroon,Haute Sanaga,2018,0,0,1
+CMR,Cameroon,Haute Sanaga,2019,11,1,11
+CMR,Cameroon,Haute Sanaga,2023,8,1,8
+CMR,Cameroon,Mayo Danay,2007,14,1,14
+CMR,Cameroon,Mayo Danay,2024,12,1,12
+CMR,Cameroon,Mayo Kani,2007,11,1,11
+CMR,Cameroon,Mayo Kani,2018,0,0,1
+CMR,Cameroon,Mayo Kani,2024,14,1,14
+CMR,Cameroon,Mayo Louti,2018,0,0,1
+CMR,Cameroon,Mayo Louti,2021,7,1,7
+CMR,Cameroon,Mayo Louti,2022,0,0,6
+CMR,Cameroon,Mayo Louti,2023,0,0,3
+CMR,Cameroon,Mayo Louti,2024,0,0,2
+CMR,Cameroon,Mayo Rey,2023,0,0,5
+CMR,Cameroon,Mayo Rey,2024,20,1,20
+CMR,Cameroon,Mayo Sava,2018,0,0,6
+CMR,Cameroon,Mayo Sava,2022,0,0,1
+CMR,Cameroon,Mayo Sava,2024,18,1,18
+CMR,Cameroon,Mayo Tsanaga,2018,0,0,6
+CMR,Cameroon,Mayo Tsanaga,2022,15,2,8
+CMR,Cameroon,Mayo Tsanaga,2024,0,0,3
+CMR,Cameroon,Noun,2019,10,1,10
+CMR,Cameroon,Noun,2020,0,0,1
+CMR,Cameroon,Noun,2023,0,0,5
+CMR,Cameroon,Vina,2016,7,1,7
+CMR,Cameroon,Vina,2023,11,1,11
+CMR,Cameroon,Vina,2024,0,0,6
+COD,Democratic Republic of the Congo,Aketi,2020,0,0,1
+COD,Democratic Republic of the Congo,Aketi,2022,9,1,9
+COD,Democratic Republic of the Congo,Aketi,2024,0,0,4
+COD,Democratic Republic of the Congo,Aru,2020,0,0,2
+COD,Democratic Republic of the Congo,Aru,2024,17,1,17
+COD,Democratic Republic of the Congo,Bagata,2012,0,0,6
+COD,Democratic Republic of the Congo,Bagata,2019,0,0,5
+COD,Democratic Republic of the Congo,Bagata,2023,7,1,7
+COD,Democratic Republic of the Congo,Banalia,2020,0,0,1
+COD,Democratic Republic of the Congo,Banalia,2022,0,0,2
+COD,Democratic Republic of the Congo,Banalia,2024,19,2,10
+COD,Democratic Republic of the Congo,Basoko,2020,10,1,10
+COD,Democratic Republic of the Congo,Basoko,2022,10,1,10
+COD,Democratic Republic of the Congo,Basoko,2024,0,0,2
+COD,Democratic Republic of the Congo,Bondo,2020,0,0,4
+COD,Democratic Republic of the Congo,Bondo,2022,0,0,2
+COD,Democratic Republic of the Congo,Bondo,2024,9,1,9
+COD,Democratic Republic of the Congo,Bongandanga,2020,0,0,4
+COD,Democratic Republic of the Congo,Bongandanga,2022,14,1,14
+COD,Democratic Republic of the Congo,Budjala,2013,0,0,2
+COD,Democratic Republic of the Congo,Budjala,2020,7,1,7
+COD,Democratic Republic of the Congo,Budjala,2021,0,0,2
+COD,Democratic Republic of the Congo,Budjala,2023,0,0,5
+COD,Democratic Republic of the Congo,Bulungu,2007,0,0,2
+COD,Democratic Republic of the Congo,Bulungu,2018,0,0,4
+COD,Democratic Republic of the Congo,Bulungu,2019,0,0,3
+COD,Democratic Republic of the Congo,Bulungu,2020,0,0,2
+COD,Democratic Republic of the Congo,Bulungu,2023,0,0,5
+COD,Democratic Republic of the Congo,Bumba,2010,0,0,1
+COD,Democratic Republic of the Congo,Bumba,2017,0,0,3
+COD,Democratic Republic of the Congo,Bumba,2020,7,1,7
+COD,Democratic Republic of the Congo,Bumba,2022,0,0,2
+COD,Democratic Republic of the Congo,Bumba,2024,0,0,4
+COD,Democratic Republic of the Congo,Businga,2016,0,0,2
+COD,Democratic Republic of the Congo,Businga,2017,0,0,1
+COD,Democratic Republic of the Congo,Businga,2020,10,1,10
+COD,Democratic Republic of the Congo,Businga,2023,0,0,2
+COD,Democratic Republic of the Congo,Buta,2020,8,1,8
+COD,Democratic Republic of the Congo,Buta,2021,0,0,3
+COD,Democratic Republic of the Congo,Buta,2024,11,1,11
+COD,Democratic Republic of the Congo,Demba,2012,0,0,2
+COD,Democratic Republic of the Congo,Demba,2019,14,1,14
+COD,Democratic Republic of the Congo,Demba,2023,0,0,2
+COD,Democratic Republic of the Congo,Dibaya,2019,19,1,19
+COD,Democratic Republic of the Congo,Dibaya,2023,0,0,2
+COD,Democratic Republic of the Congo,Dimbelenge,2012,0,0,2
+COD,Democratic Republic of the Congo,Dimbelenge,2019,0,0,5
+COD,Democratic Republic of the Congo,Dimbelenge,2020,0,0,1
+COD,Democratic Republic of the Congo,Dimbelenge,2022,7,1,7
+COD,Democratic Republic of the Congo,Dimbelenge,2023,7,1,7
+COD,Democratic Republic of the Congo,Feshi,2019,0,0,6
+COD,Democratic Republic of the Congo,Feshi,2020,0,0,1
+COD,Democratic Republic of the Congo,Feshi,2022,9,1,9
+COD,Democratic Republic of the Congo,Feshi,2023,0,0,2
+COD,Democratic Republic of the Congo,Gemena,2012,8,1,8
+COD,Democratic Republic of the Congo,Gemena,2014,0,0,4
+COD,Democratic Republic of the Congo,Gemena,2018,0,0,2
+COD,Democratic Republic of the Congo,Gemena,2023,8,1,8
+COD,Democratic Republic of the Congo,Gemena,2024,0,0,1
+COD,Democratic Republic of the Congo,Gungu,2007,0,0,2
+COD,Democratic Republic of the Congo,Gungu,2009,7,1,7
+COD,Democratic Republic of the Congo,Gungu,2019,0,0,4
+COD,Democratic Republic of the Congo,Gungu,2020,0,0,3
+COD,Democratic Republic of the Congo,Gungu,2021,0,0,1
+COD,Democratic Republic of the Congo,Gungu,2022,0,0,4
+COD,Democratic Republic of the Congo,Gungu,2023,0,0,2
+COD,Democratic Republic of the Congo,Idiofa,2007,7,1,7
+COD,Democratic Republic of the Congo,Idiofa,2018,0,0,3
+COD,Democratic Republic of the Congo,Idiofa,2019,0,0,3
+COD,Democratic Republic of the Congo,Idiofa,2023,10,1,10
+COD,Democratic Republic of the Congo,Ilebo,2018,0,0,5
+COD,Democratic Republic of the Congo,Ilebo,2019,7,1,7
+COD,Democratic Republic of the Congo,Ilebo,2023,0,0,4
+COD,Democratic Republic of the Congo,Isangi,2019,0,0,4
+COD,Democratic Republic of the Congo,Isangi,2020,0,0,1
+COD,Democratic Republic of the Congo,Isangi,2022,9,1,9
+COD,Democratic Republic of the Congo,Isangi,2023,0,0,2
+COD,Democratic Republic of the Congo,Isangi,2024,0,0,2
+COD,Democratic Republic of the Congo,Kabalo,2023,0,0,5
+COD,Democratic Republic of the Congo,Kabalo,2024,10,1,10
+COD,Democratic Republic of the Congo,Kabeya-Kamwanga,2019,17,1,17
+COD,Democratic Republic of the Congo,Kabeya-Kamwanga,2023,0,0,2
+COD,Democratic Republic of the Congo,Kabinda,2015,0,0,2
+COD,Democratic Republic of the Congo,Kabinda,2019,18,1,18
+COD,Democratic Republic of the Congo,Kabinda,2021,0,0,1
+COD,Democratic Republic of the Congo,Kabinda,2022,0,0,1
+COD,Democratic Republic of the Congo,Kailo,2019,14,1,14
+COD,Democratic Republic of the Congo,Kambove,2007,0,0,1
+COD,Democratic Republic of the Congo,Kambove,2017,9,1,9
+COD,Democratic Republic of the Congo,Kambove,2018,0,0,1
+COD,Democratic Republic of the Congo,Kambove,2019,0,0,3
+COD,Democratic Republic of the Congo,Kambove,2020,0,0,6
+COD,Democratic Republic of the Congo,Kambove,2023,0,0,3
+COD,Democratic Republic of the Congo,Kamonia,2019,8,1,8
+COD,Democratic Republic of the Congo,Kamonia,2020,0,0,1
+COD,Democratic Republic of the Congo,Kamonia,2023,0,0,6
+COD,Democratic Republic of the Congo,Kasenga,2013,0,0,1
+COD,Democratic Republic of the Congo,Kasenga,2020,21,1,21
+COD,Democratic Republic of the Congo,Kasenga,2021,0,0,1
+COD,Democratic Republic of the Congo,Kasongo,2019,16,1,16
+COD,Democratic Republic of the Congo,Kasongo,2023,0,0,5
+COD,Democratic Republic of the Congo,Katanda,2007,0,0,2
+COD,Democratic Republic of the Congo,Katanda,2012,0,0,1
+COD,Democratic Republic of the Congo,Katanda,2019,13,1,13
+COD,Democratic Republic of the Congo,Katanda,2021,0,0,5
+COD,Democratic Republic of the Congo,Kenge,2012,0,0,3
+COD,Democratic Republic of the Congo,Kenge,2020,0,0,1
+COD,Democratic Republic of the Congo,Kenge,2023,19,1,19
+COD,Democratic Republic of the Congo,Kimvula,2008,0,0,2
+COD,Democratic Republic of the Congo,Kimvula,2011,0,0,1
+COD,Democratic Republic of the Congo,Kimvula,2017,0,0,1
+COD,Democratic Republic of the Congo,Kimvula,2019,0,0,3
+COD,Democratic Republic of the Congo,Kimvula,2023,16,1,16
+COD,Democratic Republic of the Congo,Kinshasa,2020,7,1,7
+COD,Democratic Republic of the Congo,Kinshasa,2023,0,0,6
+COD,Democratic Republic of the Congo,Kinshasa,2025,8,1,8
+COD,Democratic Republic of the Congo,Kipushi,2008,0,0,3
+COD,Democratic Republic of the Congo,Kipushi,2010,7,1,7
+COD,Democratic Republic of the Congo,Kipushi,2013,0,0,2
+COD,Democratic Republic of the Congo,Kipushi,2018,0,0,5
+COD,Democratic Republic of the Congo,Kipushi,2019,0,0,3
+COD,Democratic Republic of the Congo,Kisangani,2014,0,0,2
+COD,Democratic Republic of the Congo,Kisangani,2017,0,0,3
+COD,Democratic Republic of the Congo,Kisangani,2019,0,0,4
+COD,Democratic Republic of the Congo,Kisangani,2022,0,0,5
+COD,Democratic Republic of the Congo,Kisangani,2023,0,0,5
+COD,Democratic Republic of the Congo,Kongolo,2023,14,1,14
+COD,Democratic Republic of the Congo,Kongolo,2024,0,0,3
+COD,Democratic Republic of the Congo,Kongolo (ville),2007,0,0,5
+COD,Democratic Republic of the Congo,Kongolo (ville),2017,0,0,3
+COD,Democratic Republic of the Congo,Kongolo (ville),2022,0,0,2
+COD,Democratic Republic of the Congo,Kongolo (ville),2023,12,1,12
+COD,Democratic Republic of the Congo,Kungu,2013,0,0,2
+COD,Democratic Republic of the Congo,Kungu,2014,0,0,4
+COD,Democratic Republic of the Congo,Kungu,2022,14,1,14
+COD,Democratic Republic of the Congo,Kungu,2023,0,0,3
+COD,Democratic Republic of the Congo,Kutu,2019,0,0,4
+COD,Democratic Republic of the Congo,Kutu,2025,19,1,19
+COD,Democratic Republic of the Congo,Libenge,2023,0,0,5
+COD,Democratic Republic of the Congo,Libenge,2024,11,1,11
+COD,Democratic Republic of the Congo,Likasi,2018,0,0,5
+COD,Democratic Republic of the Congo,Likasi,2019,0,0,3
+COD,Democratic Republic of the Congo,Likasi,2020,9,1,9
+COD,Democratic Republic of the Congo,Likasi,2023,0,0,1
+COD,Democratic Republic of the Congo,Lisala,2020,8,1,8
+COD,Democratic Republic of the Congo,Lubao,2019,16,1,16
+COD,Democratic Republic of the Congo,Lubao,2021,0,0,2
+COD,Democratic Republic of the Congo,Lubao,2022,0,0,3
+COD,Democratic Republic of the Congo,Lubudi,2018,9,1,9
+COD,Democratic Republic of the Congo,Lubudi,2019,0,0,1
+COD,Democratic Republic of the Congo,Lubudi,2020,0,0,6
+COD,Democratic Republic of the Congo,Lubudi,2023,0,0,1
+COD,Democratic Republic of the Congo,Lubumbashi,2019,0,0,3
+COD,Democratic Republic of the Congo,Lubumbashi,2021,0,0,2
+COD,Democratic Republic of the Congo,Lubumbashi,2023,19,1,19
+COD,Democratic Republic of the Congo,Lubumbashi,2025,0,0,3
+COD,Democratic Republic of the Congo,Luilu,2007,0,0,6
+COD,Democratic Republic of the Congo,Luilu,2009,0,0,2
+COD,Democratic Republic of the Congo,Luilu,2015,7,1,7
+COD,Democratic Republic of the Congo,Luilu,2019,7,1,7
+COD,Democratic Republic of the Congo,Lupatapata,2007,0,0,2
+COD,Democratic Republic of the Congo,Lupatapata,2012,0,0,2
+COD,Democratic Republic of the Congo,Lupatapata,2019,12,1,12
+COD,Democratic Republic of the Congo,Lupatapata,2021,0,0,3
+COD,Democratic Republic of the Congo,Madimba,2008,0,0,2
+COD,Democratic Republic of the Congo,Madimba,2019,0,0,3
+COD,Democratic Republic of the Congo,Madimba,2020,0,0,4
+COD,Democratic Republic of the Congo,Madimba,2023,14,1,14
+COD,Democratic Republic of the Congo,Mahagi (ville),2022,0,0,2
+COD,Democratic Republic of the Congo,Mahagi (ville),2024,8,1,8
+COD,Democratic Republic of the Congo,Malemba-Nkulu,2020,0,0,2
+COD,Democratic Republic of the Congo,Malemba-Nkulu,2024,25,1,25
+COD,Democratic Republic of the Congo,Manono,2024,22,2,12
+COD,Democratic Republic of the Congo,Masi-Manimba,2018,0,0,4
+COD,Democratic Republic of the Congo,Masi-Manimba,2023,19,1,19
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2019,0,0,3
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2020,9,1,9
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2023,0,0,6
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2025,0,0,5
+COD,Democratic Republic of the Congo,Miabi,2019,18,1,18
+COD,Democratic Republic of the Congo,Miabi,2021,0,0,2
+COD,Democratic Republic of the Congo,Mutshatsha,2018,0,0,2
+COD,Democratic Republic of the Congo,Mutshatsha,2024,24,1,24
+COD,Democratic Republic of the Congo,Mweka,2007,0,0,5
+COD,Democratic Republic of the Congo,Mweka,2008,0,0,2
+COD,Democratic Republic of the Congo,Mweka,2010,0,0,2
+COD,Democratic Republic of the Congo,Mweka,2023,11,1,11
+COD,Democratic Republic of the Congo,Ngandajika,2019,19,1,19
+COD,Democratic Republic of the Congo,Ngandajika,2021,0,0,1
+COD,Democratic Republic of the Congo,Oshwe,2023,19,2,12
+COD,Democratic Republic of the Congo,Popokabaka,2011,0,0,1
+COD,Democratic Republic of the Congo,Popokabaka,2019,0,0,1
+COD,Democratic Republic of the Congo,Popokabaka,2022,0,0,2
+COD,Democratic Republic of the Congo,Popokabaka,2023,19,1,19
+COD,Democratic Republic of the Congo,Sakania,2007,0,0,6
+COD,Democratic Republic of the Congo,Sakania,2008,0,0,5
+COD,Democratic Republic of the Congo,Sakania,2021,0,0,2
+COD,Democratic Republic of the Congo,Sakania,2023,7,1,7
+COD,Democratic Republic of the Congo,Songololo,2007,0,0,2
+COD,Democratic Republic of the Congo,Songololo,2020,0,0,3
+COD,Democratic Republic of the Congo,Songololo,2025,17,1,17
+COD,Democratic Republic of the Congo,Tshilenge,2019,17,1,17
+COD,Democratic Republic of the Congo,Tshilenge,2021,0,0,5
+COD,Democratic Republic of the Congo,Tshilenge (ville),2012,0,0,2
+COD,Democratic Republic of the Congo,Tshilenge (ville),2019,7,1,7
+COD,Democratic Republic of the Congo,Tshilenge (ville),2021,0,0,6
+COD,Democratic Republic of the Congo,Walungu,2015,0,0,2
+COD,Democratic Republic of the Congo,Walungu,2023,7,1,7
+COD,Democratic Republic of the Congo,Walungu,2024,0,0,5
+COD,Democratic Republic of the Congo,Watsa,2022,0,0,2
+COD,Democratic Republic of the Congo,Watsa,2023,0,0,2
+COD,Democratic Republic of the Congo,Watsa,2024,15,1,15
+COD,Democratic Republic of the Congo,Yakoma,2020,0,0,4
+COD,Democratic Republic of the Congo,Yakoma,2023,0,0,1
+COD,Democratic Republic of the Congo,Yakoma,2024,12,1,12
+EGY,Egypt,Abu Hammad,2014,11,1,11
+EGY,Egypt,Abu al-Matamir,2024,29,2,16
+EGY,Egypt,Al-Burulus,2011,0,0,2
+EGY,Egypt,Al-Burulus,2013,8,1,8
+EGY,Egypt,Al-Ganoub 2,2021,0,0,6
+EGY,Egypt,Al-Ganoub 2,2022,0,0,3
+EGY,Egypt,Al-Ganoub 2,2023,0,0,5
+EGY,Egypt,Al-Ganoub 2,2024,8,1,8
+EGY,Egypt,Al-Ganoub 2,2025,0,0,1
+EGY,Egypt,Al-Hamul,2009,0,0,1
+EGY,Egypt,Al-Hamul,2011,0,0,6
+EGY,Egypt,Al-Hamul,2018,0,0,2
+EGY,Egypt,Al-Hamul,2021,7,1,7
+EGY,Egypt,Al-Hamul,2022,0,0,1
+EGY,Egypt,Al-Hamul,2023,0,0,2
+EGY,Egypt,Al-Hamul,2024,9,1,9
+EGY,Egypt,Al-Husayniyah,2007,0,0,6
+EGY,Egypt,Al-Husayniyah,2011,0,0,2
+EGY,Egypt,Al-Husayniyah,2012,0,0,1
+EGY,Egypt,Al-Husayniyah,2015,0,0,1
+EGY,Egypt,Al-Husayniyah,2016,0,0,1
+EGY,Egypt,Al-Husayniyah,2017,0,0,1
+EGY,Egypt,Al-Husayniyah,2018,0,0,2
+EGY,Egypt,Al-Husayniyah,2021,0,0,1
+EGY,Egypt,Al-Husayniyah,2022,0,0,1
+EGY,Egypt,Al-Husayniyah,2024,10,1,10
+EGY,Egypt,Al-Mahallah al-Kubra,2011,0,0,2
+EGY,Egypt,Al-Mahallah al-Kubra,2014,9,1,9
+EGY,Egypt,Al-Manzilah,2007,8,1,8
+EGY,Egypt,Al-Manzilah,2010,0,0,6
+EGY,Egypt,Al-Manzilah,2011,0,0,2
+EGY,Egypt,Al-Manzilah,2013,0,0,3
+EGY,Egypt,Al-Manzilah,2015,0,0,1
+EGY,Egypt,Al-Manzilah,2016,0,0,1
+EGY,Egypt,Al-Manzilah,2018,0,0,2
+EGY,Egypt,Al-Manzilah,2024,0,0,3
+EGY,Egypt,Al-Matariyah,2007,0,0,5
+EGY,Egypt,Al-Matariyah,2008,9,1,9
+EGY,Egypt,Al-Matariyah,2015,0,0,1
+EGY,Egypt,Al-Matariyah,2017,0,0,3
+EGY,Egypt,Al-Matariyah,2018,0,0,3
+EGY,Egypt,Al-Minya,2024,24,2,14
+EGY,Egypt,Al-Minya,2025,0,0,5
+EGY,Egypt,Al-Qantarah,2022,0,0,6
+EGY,Egypt,Al-Qantarah,2023,8,1,8
+EGY,Egypt,Al-Qantarah,2024,12,1,12
+EGY,Egypt,Al-Qantarah,2025,0,0,1
+EGY,Egypt,Al-Qantarah ash-Sharqiyah,2022,0,0,1
+EGY,Egypt,Al-Qantarah ash-Sharqiyah,2023,25,1,25
+EGY,Egypt,Ar-Riyad,2009,0,0,4
+EGY,Egypt,Ar-Riyad,2010,0,0,4
+EGY,Egypt,Ar-Riyad,2011,10,1,10
+EGY,Egypt,Ar-Riyad,2013,0,0,3
+EGY,Egypt,Ar-Riyad,2024,0,0,1
+EGY,Egypt,At-Tall al-Kabir,2024,7,1,7
+EGY,Egypt,At-Tall al-Kabir,2025,16,1,16
+EGY,Egypt,Awlad Saqr,2010,7,1,7
+EGY,Egypt,Awlad Saqr,2011,0,0,3
+EGY,Egypt,Awlad Saqr,2022,0,0,1
+EGY,Egypt,Awlad Saqr,2024,8,1,8
+EGY,Egypt,Badr,2024,0,0,3
+EGY,Egypt,Badr,2025,17,1,17
+EGY,Egypt,Bani Ubayd,2010,7,1,7
+EGY,Egypt,Bani Ubayd,2011,0,0,3
+EGY,Egypt,Bani Ubayd,2022,0,0,1
+EGY,Egypt,Bani Ubayd,2024,8,1,8
+EGY,Egypt,Bilbays,2024,15,1,15
+EGY,Egypt,Bilbays,2025,13,1,13
+EGY,Egypt,Biyala,2018,10,1,10
+EGY,Egypt,Biyala,2021,0,0,4
+EGY,Egypt,Biyala,2022,0,0,5
+EGY,Egypt,Biyala,2024,8,1,8
+EGY,Egypt,Damanhur,2011,7,1,7
+EGY,Egypt,Damanhur,2024,15,1,15
+EGY,Egypt,Damanhur,2025,0,0,5
+EGY,Egypt,Dikirnis,2007,0,0,4
+EGY,Egypt,Dikirnis,2010,0,0,6
+EGY,Egypt,Dikirnis,2011,0,0,3
+EGY,Egypt,Dikirnis,2018,0,0,3
+EGY,Egypt,Dikirnis,2024,8,1,8
+EGY,Egypt,Diyarb Najm,2022,14,1,14
+EGY,Egypt,Diyarb Najm,2023,10,1,10
+EGY,Egypt,Diyarb Najm,2024,0,0,2
+EGY,Egypt,Faqus,2023,10,1,10
+EGY,Egypt,Faqus,2024,11,1,11
+EGY,Egypt,Faqus,2025,0,0,3
+EGY,Egypt,Fuwah,2011,8,1,8
+EGY,Egypt,Fuwah,2022,8,1,8
+EGY,Egypt,Fuwah,2024,9,1,9
+EGY,Egypt,Hawsh 'Isa,2024,25,1,25
+EGY,Egypt,Hawsh 'Isa,2025,0,0,4
+EGY,Egypt,Imbabah,2024,0,0,5
+EGY,Egypt,Imbabah,2025,13,1,13
+EGY,Egypt,Ismailia,2023,0,0,1
+EGY,Egypt,Ismailia,2024,10,1,10
+EGY,Egypt,Ismailia,2025,13,1,13
+EGY,Egypt,Itsa,2023,0,0,4
+EGY,Egypt,Itsa,2024,14,1,14
+EGY,Egypt,Ityay al-Barud,2018,0,0,2
+EGY,Egypt,Ityay al-Barud,2024,0,0,4
+EGY,Egypt,Ityay al-Barud,2025,0,0,4
+EGY,Egypt,Kafr Saqr,2022,0,0,1
+EGY,Egypt,Kafr Saqr,2023,12,1,12
+EGY,Egypt,Kafr Saqr,2024,15,1,15
+EGY,Egypt,Kafr ash-Shaykh,2011,0,0,3
+EGY,Egypt,Kafr ash-Shaykh,2013,0,0,3
+EGY,Egypt,Kafr ash-Shaykh,2018,9,1,9
+EGY,Egypt,Kafr ash-Shaykh,2021,0,0,2
+EGY,Egypt,Kafr ash-Shaykh,2022,0,0,5
+EGY,Egypt,Kafr ash-Shaykh,2024,0,0,6
+EGY,Egypt,Kawm Hamadah,2018,16,2,9
+EGY,Egypt,Kawm Hamadah,2023,0,0,3
+EGY,Egypt,Luxor,2024,9,1,9
+EGY,Egypt,Maghaghah,2024,17,1,17
+EGY,Egypt,Mahalat Dimnah,2023,11,1,11
+EGY,Egypt,Mahalat Dimnah,2024,12,1,12
+EGY,Egypt,Mallawi,2010,0,0,1
+EGY,Egypt,Mallawi,2012,0,0,1
+EGY,Egypt,Mallawi,2014,0,0,2
+EGY,Egypt,Mashtul as-Suq,2024,17,1,17
+EGY,Egypt,Mashtul as-Suq,2025,7,1,7
+EGY,Egypt,Matay,2024,17,1,17
+EGY,Egypt,Minuf,2022,0,0,1
+EGY,Egypt,Minuf,2023,14,1,14
+EGY,Egypt,Minuf,2024,0,0,2
+EGY,Egypt,Minya al-Qamh,2010,0,0,4
+EGY,Egypt,Minyat an-Nasr,2018,0,0,3
+EGY,Egypt,Minyat an-Nasr,2022,0,0,1
+EGY,Egypt,Minyat an-Nasr,2023,0,0,5
+EGY,Egypt,Minyat an-Nasr,2024,10,1,10
+EGY,Egypt,Mit Ghamr,2022,14,1,14
+EGY,Egypt,Mit Ghamr,2023,10,1,10
+EGY,Egypt,Mit Ghamr,2024,0,0,1
+EGY,Egypt,Mit Salsil,2014,0,0,2
+EGY,Egypt,Mit Salsil,2018,23,1,23
+EGY,Egypt,Nabaruh,2018,12,1,12
+EGY,Egypt,Nabaruh,2021,0,0,6
+EGY,Egypt,Nabaruh,2022,0,0,5
+EGY,Egypt,Nabaruh,2024,0,0,6
+EGY,Egypt,Nasir Bush,2024,7,1,7
+EGY,Egypt,Nasr,2024,27,2,17
+EGY,Egypt,Nasr,2025,0,0,1
+EGY,Egypt,New Salhiyah,2024,17,1,17
+EGY,Egypt,New Salhiyah,2025,0,0,6
+EGY,Egypt,Qallin,2018,0,0,2
+EGY,Egypt,Qallin,2022,0,0,6
+EGY,Egypt,Qallin,2024,0,0,6
+EGY,Egypt,Qalyub,2024,0,0,5
+EGY,Egypt,Qalyub,2025,14,1,14
+EGY,Egypt,Qutur,2022,7,1,7
+EGY,Egypt,Qutur,2023,0,0,4
+EGY,Egypt,Qutur,2024,16,1,16
+EGY,Egypt,Quwaysina,2023,9,1,9
+EGY,Egypt,Quwaysina,2024,9,1,9
+EGY,Egypt,Rosetta,2022,7,1,7
+EGY,Egypt,Rosetta,2023,0,0,1
+EGY,Egypt,Rosetta,2024,15,1,15
+EGY,Egypt,Rosetta,2025,0,0,2
+EGY,Egypt,Sadat City,2022,15,1,15
+EGY,Egypt,Sadat City,2023,12,1,12
+EGY,Egypt,Samalut,2024,18,1,18
+EGY,Egypt,Samalut,2025,0,0,5
+EGY,Egypt,Samannud,2022,9,1,9
+EGY,Egypt,Samannud,2023,12,1,12
+EGY,Egypt,Samannud,2024,0,0,5
+EGY,Egypt,Shibin al-Kawm,2023,13,1,13
+EGY,Egypt,Shibin al-Kawm,2024,15,1,15
+EGY,Egypt,Shibin al-Qanatir,2024,13,1,13
+EGY,Egypt,Shibin al-Qanatir,2025,0,0,5
+EGY,Egypt,Shirbin,2018,0,0,2
+EGY,Egypt,Shirbin,2021,0,0,4
+EGY,Egypt,Shirbin,2022,0,0,6
+EGY,Egypt,Shirbin,2023,0,0,5
+EGY,Egypt,Shirbin,2024,11,1,11
+EGY,Egypt,Shubra Khit,2022,0,0,4
+EGY,Egypt,Shubra Khit,2024,20,1,20
+EGY,Egypt,Shubra Khit,2025,0,0,4
+EGY,Egypt,Sinnuris,2023,0,0,5
+EGY,Egypt,Sinnuris,2024,12,1,12
+EGY,Egypt,Sirs al-Layyanah,2023,0,0,4
+EGY,Egypt,Sirs al-Layyanah,2024,10,1,10
+EGY,Egypt,Sumusta al-Waqf,2024,12,1,12
+EGY,Egypt,Tala,2018,12,1,12
+EGY,Egypt,Tala,2023,11,1,11
+EGY,Egypt,Talkha,2023,13,1,13
+EGY,Egypt,Talkha,2024,12,1,12
+EGY,Egypt,Tamiyah,2024,18,2,11
+EGY,Egypt,Tanta,2018,0,0,1
+EGY,Egypt,Tanta,2022,12,1,12
+EGY,Egypt,Tanta,2023,9,1,9
+EGY,Egypt,Tanta,2024,0,0,4
+EGY,Egypt,Tibah Police Dept.,2024,10,1,10
+EGY,Egypt,Tima,2024,0,0,4
+EGY,Egypt,Timay al-Imdid,2022,0,0,1
+EGY,Egypt,Timay al-Imdid,2023,14,1,14
+EGY,Egypt,Timay al-Imdid,2024,0,0,4
+EGY,Egypt,Tukh,2023,8,1,8
+EGY,Egypt,Tukh,2024,17,1,17
+EGY,Egypt,Tukh,2025,0,0,1
+EGY,Egypt,Unorganized in Al Buhayrah,2024,10,1,10
+EGY,Egypt,Unorganized in Al Buhayrah,2025,19,1,19
+EGY,Egypt,Unorganized in Al Fayoum,2024,27,1,27
+EGY,Egypt,Unorganized in Al Iskandariyah,2024,15,2,8
+EGY,Egypt,Unorganized in Al Jizah,2024,10,1,10
+EGY,Egypt,Unorganized in Al Jizah,2025,17,1,17
+EGY,Egypt,Unorganized in Al Minya,2024,11,1,11
+EGY,Egypt,Unorganized in Al Minya,2025,0,0,6
+EGY,Egypt,Unorganized in Aswan,2010,7,1,7
+EGY,Egypt,Unorganized in Aswan,2012,0,0,3
+EGY,Egypt,Unorganized in Aswan,2013,12,1,12
+EGY,Egypt,Unorganized in Asyut,2024,25,3,10
+EGY,Egypt,Unorganized in Bani Suwayf,2019,0,0,3
+EGY,Egypt,Unorganized in Bani Suwayf,2024,15,1,15
+EGY,Egypt,Unorganized in Qina,2024,22,1,22
+EGY,Egypt,Unorganized in Qina,2025,0,0,5
+EGY,Egypt,Unorganized in Suhaj,2019,7,1,7
+EGY,Egypt,Unorganized in Suhaj,2021,0,0,2
+EGY,Egypt,Unorganized in Suhaj,2023,0,0,1
+EGY,Egypt,Unorganized in Suhaj,2024,14,1,14
+EGY,Egypt,Unorganized in Suhaj,2025,0,0,2
+EGY,Egypt,West Nubariyah,2024,10,1,10
+EGY,Egypt,West Nubariyah,2025,19,1,19
+EGY,Egypt,Yusuf as-Sidiq,2021,0,0,1
+EGY,Egypt,Yusuf as-Sidiq,2022,0,0,1
+EGY,Egypt,Yusuf as-Sidiq,2024,22,1,22
+EGY,Egypt,Zaqaziq,2021,0,0,1
+EGY,Egypt,Zaqaziq,2022,0,0,6
+EGY,Egypt,Zaqaziq,2023,0,0,2
+EGY,Egypt,Zaqaziq,2024,13,1,13
+EGY,Egypt,Zaqaziq,2025,0,0,6
+EGY,Egypt,Zarqa,2018,10,1,10
+EGY,Egypt,Zarqa,2023,0,0,1
+EGY,Egypt,Zarqa,2024,8,1,8
+EGY,Egypt,Zifta,2022,9,1,9
+EGY,Egypt,Zifta,2023,11,1,11
+EGY,Egypt,Zifta,2024,0,0,6
+ETH,Ethiopia,Agew Awi,2022,23,1,23
+ETH,Ethiopia,Alaba,2012,7,1,7
+ETH,Ethiopia,Alaba,2020,0,0,4
+ETH,Ethiopia,Alaba,2024,0,0,3
+ETH,Ethiopia,Arsi,2020,0,0,5
+ETH,Ethiopia,Arsi,2024,13,1,13
+ETH,Ethiopia,Bale,2010,16,1,16
+ETH,Ethiopia,Bale,2016,0,0,1
+ETH,Ethiopia,Bale,2018,0,0,4
+ETH,Ethiopia,Bale,2020,0,0,2
+ETH,Ethiopia,Bench Maji,2024,18,2,10
+ETH,Ethiopia,Debub Gondar,2007,7,1,7
+ETH,Ethiopia,Debub Gondar,2022,8,1,8
+ETH,Ethiopia,Debub Gondar,2024,0,0,5
+ETH,Ethiopia,Debub Mirab Shewa,2020,0,0,6
+ETH,Ethiopia,Debub Mirab Shewa,2022,10,1,10
+ETH,Ethiopia,Debub Wollo,2020,10,1,10
+ETH,Ethiopia,Debub Wollo,2021,7,1,7
+ETH,Ethiopia,Debub Wollo,2022,0,0,5
+ETH,Ethiopia,Debubawi,2016,0,0,2
+ETH,Ethiopia,Debubawi,2020,8,1,8
+ETH,Ethiopia,Debubawi,2021,8,1,8
+ETH,Ethiopia,Debubawi,2022,0,0,3
+ETH,Ethiopia,Fafan,2010,0,0,6
+ETH,Ethiopia,Fafan,2023,12,1,12
+ETH,Ethiopia,Guji,2010,7,1,7
+ETH,Ethiopia,Guji,2018,0,0,5
+ETH,Ethiopia,Guji,2020,0,0,5
+ETH,Ethiopia,Guji,2024,0,0,3
+ETH,Ethiopia,Gurage,2020,13,1,13
+ETH,Ethiopia,Gurage,2022,0,0,4
+ETH,Ethiopia,Hadiya,2020,8,1,8
+ETH,Ethiopia,Hadiya,2024,12,1,12
+ETH,Ethiopia,Horo Guduru,2020,0,0,4
+ETH,Ethiopia,Horo Guduru,2022,16,1,16
+ETH,Ethiopia,Ilubabor,2020,7,1,7
+ETH,Ethiopia,Ilubabor,2022,9,1,9
+ETH,Ethiopia,Ilubabor,2023,0,0,2
+ETH,Ethiopia,Ilubabor,2024,0,0,4
+ETH,Ethiopia,Jimma,2020,0,0,1
+ETH,Ethiopia,Jimma,2021,0,0,1
+ETH,Ethiopia,Jimma,2024,17,1,17
+ETH,Ethiopia,Keffa,2020,8,1,8
+ETH,Ethiopia,Keffa,2024,12,1,12
+ETH,Ethiopia,Kelem Wellega,2020,0,0,1
+ETH,Ethiopia,Kelem Wellega,2024,16,1,16
+ETH,Ethiopia,Kelem Wellega,2025,0,0,1
+ETH,Ethiopia,Mehakelegnaw,2020,0,0,5
+ETH,Ethiopia,Mehakelegnaw,2021,0,0,1
+ETH,Ethiopia,Mehakelegnaw,2022,17,1,17
+ETH,Ethiopia,Mirab Hararghe,2020,15,1,15
+ETH,Ethiopia,Mirab Hararghe,2024,0,0,4
+ETH,Ethiopia,Mirab Shewa,2020,7,1,7
+ETH,Ethiopia,Mirab Shewa,2021,0,0,1
+ETH,Ethiopia,Mirab Shewa,2022,15,1,15
+ETH,Ethiopia,Mirab Welega,2022,10,1,10
+ETH,Ethiopia,Mirab Welega,2023,0,0,5
+ETH,Ethiopia,Mirab Welega,2024,0,0,1
+ETH,Ethiopia,Misraq Gojjam,2020,0,0,6
+ETH,Ethiopia,Misraq Gojjam,2021,0,0,2
+ETH,Ethiopia,Misraq Gojjam,2022,15,1,15
+ETH,Ethiopia,Misraq Harerge,2020,14,1,14
+ETH,Ethiopia,Misraq Harerge,2024,0,0,5
+ETH,Ethiopia,Misraq Wellega,2020,0,0,6
+ETH,Ethiopia,Misraq Wellega,2022,10,1,10
+ETH,Ethiopia,Misraqawi,2020,15,1,15
+ETH,Ethiopia,Misraqawi,2021,0,0,3
+ETH,Ethiopia,Misraqawi,2022,0,0,3
+ETH,Ethiopia,North Shewa,2021,9,1,9
+ETH,Ethiopia,North Shewa,2022,10,1,10
+ETH,Ethiopia,Semen Wello,2020,11,1,11
+ETH,Ethiopia,Semen Wello,2021,10,1,10
+ETH,Ethiopia,Sidama,2020,12,1,12
+ETH,Ethiopia,Sidama,2024,0,0,5
+ETH,Ethiopia,Silti,2012,0,0,2
+ETH,Ethiopia,Silti,2024,18,1,18
+ETH,Ethiopia,Wag Himra,2016,10,1,10
+ETH,Ethiopia,Wag Himra,2020,9,1,9
+ETH,Ethiopia,Wag Himra,2021,0,0,2
+ETH,Ethiopia,Wag Himra,2022,0,0,2
+GHA,Ghana,Adaklu,2024,7,1,7
+GHA,Ghana,Adaklu,2025,11,1,11
+GHA,Ghana,Agotime Ziope,2024,9,1,9
+GHA,Ghana,Agotime Ziope,2025,16,1,16
+GHA,Ghana,Akatsi North,2024,9,1,9
+GHA,Ghana,Akatsi North,2025,17,1,17
+GHA,Ghana,Akatsi South,2024,9,1,9
+GHA,Ghana,Akatsi South,2025,14,1,14
+GHA,Ghana,Asante-Akim North,2017,0,0,4
+GHA,Ghana,Asante-Akim North,2018,0,0,4
+GHA,Ghana,Asante-Akim North,2023,12,1,12
+GHA,Ghana,Asuogyaman,2017,10,1,10
+GHA,Ghana,Asuogyaman,2023,0,0,4
+GHA,Ghana,Asuogyaman,2024,0,0,3
+GHA,Ghana,Asuogyaman,2025,10,1,10
+GHA,Ghana,Atebubu-Amantin,2012,0,0,6
+GHA,Ghana,Atebubu-Amantin,2022,9,1,9
+GHA,Ghana,Atebubu-Amantin,2023,9,1,9
+GHA,Ghana,Awutu Senya West,2023,0,0,1
+GHA,Ghana,Awutu Senya West,2024,0,0,6
+GHA,Ghana,Awutu Senya West,2025,8,1,8
+GHA,Ghana,Bawku West,2016,0,0,2
+GHA,Ghana,Bawku West,2018,0,0,3
+GHA,Ghana,Bawku West,2019,7,1,7
+GHA,Ghana,Binduri,2019,12,1,12
+GHA,Ghana,Bole,2023,0,0,4
+GHA,Ghana,Bole,2024,8,1,8
+GHA,Ghana,Bongo,2016,0,0,1
+GHA,Ghana,Bongo,2018,0,0,6
+GHA,Ghana,Bongo,2021,0,0,1
+GHA,Ghana,Bongo,2022,0,0,3
+GHA,Ghana,Bongo,2023,0,0,1
+GHA,Ghana,Builsa South,2009,0,0,2
+GHA,Ghana,Builsa South,2016,0,0,6
+GHA,Ghana,Builsa South,2018,0,0,4
+GHA,Ghana,Central Gonja,2023,0,0,4
+GHA,Ghana,Central Gonja,2024,0,0,5
+GHA,Ghana,Central Tongu,2024,14,1,14
+GHA,Ghana,Central Tongu,2025,12,1,12
+GHA,Ghana,Chereponi,2008,0,0,4
+GHA,Ghana,Chereponi,2009,0,0,1
+GHA,Ghana,Chereponi,2012,7,1,7
+GHA,Ghana,East Gonja,2017,0,0,2
+GHA,Ghana,East Gonja,2018,0,0,2
+GHA,Ghana,East Gonja,2019,7,1,7
+GHA,Ghana,East Mamprusi,2008,9,1,9
+GHA,Ghana,East Mamprusi,2009,0,0,2
+GHA,Ghana,East Mamprusi,2018,0,0,1
+GHA,Ghana,Ejura-Sekyedumase,2022,10,1,10
+GHA,Ghana,Ejura-Sekyedumase,2023,9,1,9
+GHA,Ghana,Ejura-Sekyedumase,2025,0,0,1
+GHA,Ghana,Fanteakwa North,2017,9,1,9
+GHA,Ghana,Fanteakwa North,2018,0,0,3
+GHA,Ghana,Fanteakwa North,2023,0,0,6
+GHA,Ghana,Fanteakwa North,2024,0,0,6
+GHA,Ghana,Fanteakwa North,2025,0,0,2
+GHA,Ghana,Ga South,2023,0,0,1
+GHA,Ghana,Ga South,2024,0,0,3
+GHA,Ghana,Ga South,2025,18,1,18
+GHA,Ghana,Ga West,2024,0,0,5
+GHA,Ghana,Ga West,2025,18,1,18
+GHA,Ghana,Garu,2008,0,0,3
+GHA,Ghana,Garu,2016,0,0,1
+GHA,Ghana,Garu,2019,8,1,8
+GHA,Ghana,Gushegu,2008,0,0,4
+GHA,Ghana,Gushegu,2009,0,0,2
+GHA,Ghana,Gushegu,2012,0,0,3
+GHA,Ghana,Gushegu,2017,0,0,3
+GHA,Ghana,Ho West,2017,15,1,15
+GHA,Ghana,Ho West,2019,0,0,6
+GHA,Ghana,Ho West,2023,0,0,3
+GHA,Ghana,Ho West,2025,0,0,3
+GHA,Ghana,Jirapa,2008,0,0,4
+GHA,Ghana,Jirapa,2012,0,0,4
+GHA,Ghana,Jirapa,2016,0,0,2
+GHA,Ghana,Jirapa,2018,0,0,2
+GHA,Ghana,Karaga,2008,0,0,6
+GHA,Ghana,Karaga,2009,0,0,2
+GHA,Ghana,Karaga,2012,0,0,1
+GHA,Ghana,Karaga,2017,0,0,3
+GHA,Ghana,Kasena Nankana East,2009,0,0,2
+GHA,Ghana,Kasena Nankana East,2016,0,0,4
+GHA,Ghana,Kasena Nankana East,2018,0,0,4
+GHA,Ghana,Kasena Nankana East,2022,0,0,2
+GHA,Ghana,Kasena Nankana West,2018,0,0,6
+GHA,Ghana,Kasena Nankana West,2019,0,0,2
+GHA,Ghana,Kasena Nankana West,2022,0,0,4
+GHA,Ghana,Ketu North,2024,19,1,19
+GHA,Ghana,Ketu North,2025,0,0,6
+GHA,Ghana,Ketu South,2023,0,0,3
+GHA,Ghana,Ketu South,2024,17,1,17
+GHA,Ghana,Ketu South,2025,7,1,7
+GHA,Ghana,Kintampo North,2012,0,0,3
+GHA,Ghana,Kintampo North,2020,0,0,2
+GHA,Ghana,Kintampo North,2023,12,1,12
+GHA,Ghana,Kintampo North,2024,7,1,7
+GHA,Ghana,Kintampo North,2025,0,0,1
+GHA,Ghana,Kpandai,2017,0,0,6
+GHA,Ghana,Kpandai,2018,0,0,1
+GHA,Ghana,Kpone-Katamanso,2025,11,1,11
+GHA,Ghana,Krachi East,2012,0,0,3
+GHA,Ghana,Krachi East,2019,0,0,5
+GHA,Ghana,Krachi East,2020,0,0,1
+GHA,Ghana,Krachi Nchumuru,2017,16,1,16
+GHA,Ghana,Krachi Nchumuru,2023,8,1,8
+GHA,Ghana,Krachi West,2017,19,1,19
+GHA,Ghana,Krachi West,2020,0,0,1
+GHA,Ghana,Krachi West,2023,7,1,7
+GHA,Ghana,Kumbungu,2016,0,0,2
+GHA,Ghana,Kumbungu,2017,0,0,6
+GHA,Ghana,Kumbungu,2023,0,0,1
+GHA,Ghana,Kwahu Afram Plains North,2017,22,1,22
+GHA,Ghana,Kwahu Afram Plains North,2018,0,0,3
+GHA,Ghana,Kwahu Afram Plains North,2019,0,0,2
+GHA,Ghana,Kwahu Afram Plains South,2017,22,1,22
+GHA,Ghana,Kwahu Afram Plains South,2018,0,0,4
+GHA,Ghana,Kwahu Afram Plains South,2023,0,0,1
+GHA,Ghana,Kwahu South,2017,17,1,17
+GHA,Ghana,Kwahu South,2018,0,0,4
+GHA,Ghana,Kwahu South,2023,0,0,6
+GHA,Ghana,Mampong,2017,0,0,3
+GHA,Ghana,Mampong,2018,0,0,1
+GHA,Ghana,Mampong,2022,0,0,2
+GHA,Ghana,Mampong,2023,17,2,9
+GHA,Ghana,Mampong,2025,0,0,1
+GHA,Ghana,Mamprugu Moagduri,2009,0,0,2
+GHA,Ghana,Mamprugu Moagduri,2016,7,1,7
+GHA,Ghana,Mamprugu Moagduri,2017,0,0,2
+GHA,Ghana,Mamprugu Moagduri,2018,0,0,1
+GHA,Ghana,Mion,2016,0,0,4
+GHA,Ghana,Mion,2017,8,1,8
+GHA,Ghana,Nanton,2017,7,1,7
+GHA,Ghana,Nanton,2023,0,0,4
+GHA,Ghana,Nanumba North,2017,12,1,12
+GHA,Ghana,Nanumba South,2017,11,1,11
+GHA,Ghana,Nanumba South,2018,0,0,1
+GHA,Ghana,Ningo-Prampram,2007,0,0,1
+GHA,Ghana,Nkoranza North,2022,0,0,3
+GHA,Ghana,Nkoranza North,2023,14,1,14
+GHA,Ghana,Nkoranza North,2025,8,1,8
+GHA,Ghana,Nkoranza South,2022,0,0,1
+GHA,Ghana,Nkoranza South,2023,8,1,8
+GHA,Ghana,Nkoranza South,2025,12,1,12
+GHA,Ghana,Nkwanta North,2012,0,0,4
+GHA,Ghana,Nkwanta North,2017,0,0,2
+GHA,Ghana,Nkwanta North,2020,12,1,12
+GHA,Ghana,Nkwanta North,2022,0,0,3
+GHA,Ghana,Nkwanta North,2023,0,0,4
+GHA,Ghana,Nkwanta South,2017,16,1,16
+GHA,Ghana,Nkwanta South,2023,7,1,7
+GHA,Ghana,Nkwanta South,2024,0,0,1
+GHA,Ghana,Nkwanta South,2025,0,0,2
+GHA,Ghana,North East Gonja,2017,12,1,12
+GHA,Ghana,North Gonja,2012,0,0,1
+GHA,Ghana,North Gonja,2016,0,0,2
+GHA,Ghana,North Gonja,2017,0,0,1
+GHA,Ghana,North Gonja,2018,0,0,2
+GHA,Ghana,North Gonja,2023,0,0,4
+GHA,Ghana,North Tongu,2024,0,0,6
+GHA,Ghana,North Tongu,2025,20,1,20
+GHA,Ghana,Offinso North,2009,0,0,2
+GHA,Ghana,Offinso North,2017,7,1,7
+GHA,Ghana,Offinso North,2022,13,1,13
+GHA,Ghana,Offinso North,2023,0,0,1
+GHA,Ghana,Offinso North,2025,0,0,3
+GHA,Ghana,Pru East,2007,0,0,2
+GHA,Ghana,Pru East,2008,0,0,5
+GHA,Ghana,Pru East,2017,16,1,16
+GHA,Ghana,Pru East,2018,0,0,3
+GHA,Ghana,Pru West,2012,8,1,8
+GHA,Ghana,Pru West,2022,0,0,2
+GHA,Ghana,Pru West,2023,7,1,7
+GHA,Ghana,Pusiga,2017,0,0,3
+GHA,Ghana,Pusiga,2019,7,1,7
+GHA,Ghana,Pusiga,2023,0,0,2
+GHA,Ghana,Saboba,2008,0,0,4
+GHA,Ghana,Saboba,2016,0,0,2
+GHA,Ghana,Saboba,2017,0,0,6
+GHA,Ghana,Savelugu,2009,0,0,1
+GHA,Ghana,Savelugu,2017,8,1,8
+GHA,Ghana,Savelugu,2023,0,0,3
+GHA,Ghana,Sawla-Tuna-Kalba,2023,8,1,8
+GHA,Ghana,Sawla-Tuna-Kalba,2024,0,0,4
+GHA,Ghana,Sekyere Afram Plains North,2017,0,0,2
+GHA,Ghana,Sekyere Afram Plains North,2018,0,0,4
+GHA,Ghana,Sekyere Afram Plains North,2023,19,1,19
+GHA,Ghana,Sekyere Central,2018,0,0,2
+GHA,Ghana,Sekyere Central,2022,0,0,6
+GHA,Ghana,Sekyere Central,2023,19,1,19
+GHA,Ghana,Sene East,2017,19,1,19
+GHA,Ghana,Sene East,2018,0,0,1
+GHA,Ghana,Sene East,2023,7,1,7
+GHA,Ghana,Sene West,2008,0,0,3
+GHA,Ghana,Sene West,2017,11,1,11
+GHA,Ghana,Sene West,2018,0,0,3
+GHA,Ghana,Sene West,2023,9,1,9
+GHA,Ghana,Shai Osudoku,2024,0,0,3
+GHA,Ghana,Shai Osudoku,2025,23,1,23
+GHA,Ghana,Sissala East,2008,0,0,1
+GHA,Ghana,Sissala East,2016,0,0,5
+GHA,Ghana,Sissala East,2018,0,0,5
+GHA,Ghana,Sissala East,2020,0,0,1
+GHA,Ghana,Sissala West,2008,0,0,4
+GHA,Ghana,Sissala West,2012,8,1,8
+GHA,Ghana,South Tongu,2008,7,1,7
+GHA,Ghana,Talensi,2008,0,0,1
+GHA,Ghana,Talensi,2016,0,0,4
+GHA,Ghana,Talensi,2018,0,0,1
+GHA,Ghana,Talensi,2021,0,0,1
+GHA,Ghana,Talensi,2022,0,0,5
+GHA,Ghana,Tamale,2017,0,0,6
+GHA,Ghana,Tamale,2023,0,0,4
+GHA,Ghana,Tempane,2017,0,0,3
+GHA,Ghana,Tempane,2019,8,1,8
+GHA,Ghana,Tolon,2017,0,0,4
+GHA,Ghana,Tolon,2023,0,0,4
+GHA,Ghana,Upper Manya,2017,18,1,18
+GHA,Ghana,Upper Manya,2023,0,0,3
+GHA,Ghana,Wa East,2016,0,0,4
+GHA,Ghana,Wa East,2018,0,0,2
+GHA,Ghana,Wa East,2023,0,0,4
+GHA,Ghana,Wa Municipal,2009,0,0,1
+GHA,Ghana,Wa Municipal,2018,0,0,2
+GHA,Ghana,Wa Municipal,2023,8,1,8
+GHA,Ghana,Wenchi,2022,0,0,3
+GHA,Ghana,Wenchi,2023,7,1,7
+GHA,Ghana,Wenchi,2025,0,0,6
+GHA,Ghana,West Gonja,2023,7,1,7
+GHA,Ghana,West Gonja,2024,0,0,2
+GHA,Ghana,West Mamprusi,2008,0,0,6
+GHA,Ghana,West Mamprusi,2009,0,0,2
+GHA,Ghana,West Mamprusi,2012,0,0,3
+GHA,Ghana,West Mamprusi,2016,0,0,1
+GHA,Ghana,Yendi,2016,0,0,4
+GHA,Ghana,Yendi,2017,8,1,8
+GHA,Ghana,Yunyoo-Nasuan,2008,7,1,7
+GHA,Ghana,Yunyoo-Nasuan,2009,0,0,2
+GHA,Ghana,Yunyoo-Nasuan,2012,0,0,3
+GHA,Ghana,Zabzugu,2017,12,1,12
+GIN,Guinea,Beyla,2023,0,0,2
+GIN,Guinea,Beyla,2024,18,2,10
+GIN,Guinea,Dabola,2018,0,0,3
+GIN,Guinea,Dabola,2022,0,0,3
+GIN,Guinea,Dabola,2024,13,1,13
+GIN,Guinea,Dinguiraye,2018,11,1,11
+GIN,Guinea,Dinguiraye,2020,9,1,9
+GIN,Guinea,Gaoual,2020,0,0,5
+GIN,Guinea,Gaoual,2024,0,0,6
+GIN,Guinea,Kankan,2018,0,0,5
+GIN,Guinea,Kankan,2023,0,0,1
+GIN,Guinea,Kankan,2024,18,1,18
+GIN,Guinea,Kindia,2019,0,0,4
+GIN,Guinea,Kindia,2020,10,1,10
+GIN,Guinea,Kindia,2021,0,0,1
+GIN,Guinea,Kindia,2024,0,0,6
+GIN,Guinea,Koundara,2010,0,0,5
+GIN,Guinea,Koundara,2012,0,0,5
+GIN,Guinea,Koundara,2016,0,0,3
+GIN,Guinea,Koundara,2019,0,0,1
+GIN,Guinea,Koundara,2020,0,0,2
+GIN,Guinea,Koundara,2024,10,1,10
+GIN,Guinea,Kouroussa,2018,0,0,5
+GIN,Guinea,Kouroussa,2024,11,1,11
+GIN,Guinea,Mandiana,2018,0,0,5
+GIN,Guinea,Mandiana,2021,0,0,5
+GIN,Guinea,Mandiana,2022,0,0,4
+GIN,Guinea,Mandiana,2024,0,0,4
+GIN,Guinea,Siguiri,2020,16,1,16
+GIN,Guinea,Siguiri,2021,0,0,3
+GIN,Guinea,Siguiri,2024,10,1,10
+KEN,Kenya,Alego Usonga,2020,0,0,5
+KEN,Kenya,Alego Usonga,2021,0,0,5
+KEN,Kenya,Alego Usonga,2023,14,1,14
+KEN,Kenya,Bahati,2025,11,1,11
+KEN,Kenya,Baringo North,2020,20,2,12
+KEN,Kenya,Baringo North,2024,9,1,9
+KEN,Kenya,Baringo South,2010,0,0,2
+KEN,Kenya,Baringo South,2012,0,0,2
+KEN,Kenya,Baringo South,2020,20,2,12
+KEN,Kenya,Baringo South,2024,7,1,7
+KEN,Kenya,Belgut,2024,10,1,10
+KEN,Kenya,Belgut,2025,0,0,3
+KEN,Kenya,Bomachoge Chache,2024,0,0,2
+KEN,Kenya,Buuri,2018,0,0,6
+KEN,Kenya,Buuri,2020,0,0,5
+KEN,Kenya,Buuri,2024,10,1,10
+KEN,Kenya,Central Imenti,2018,0,0,4
+KEN,Kenya,Central Imenti,2020,8,1,8
+KEN,Kenya,Central Imenti,2024,12,1,12
+KEN,Kenya,Chepalungu,2018,0,0,3
+KEN,Kenya,Chepalungu,2024,29,1,29
+KEN,Kenya,Chepalungu,2025,0,0,1
+KEN,Kenya,Cherangany,2018,0,0,1
+KEN,Kenya,Cherangany,2020,0,0,1
+KEN,Kenya,Cherangany,2024,0,0,2
+KEN,Kenya,Cherangany,2025,8,1,8
+KEN,Kenya,Eldama Ravine,2018,8,1,8
+KEN,Kenya,Eldama Ravine,2020,9,1,9
+KEN,Kenya,Eldama Ravine,2024,15,1,15
+KEN,Kenya,Emgwen,2020,0,0,1
+KEN,Kenya,Emgwen,2024,20,2,12
+KEN,Kenya,Emgwen,2025,8,1,8
+KEN,Kenya,Endebess,2012,0,0,3
+KEN,Kenya,Endebess,2018,7,1,7
+KEN,Kenya,Endebess,2020,7,1,7
+KEN,Kenya,Endebess,2024,9,1,9
+KEN,Kenya,Funyula,2021,0,0,3
+KEN,Kenya,Funyula,2023,14,1,14
+KEN,Kenya,Funyula,2024,15,1,15
+KEN,Kenya,Ganze,2007,12,1,12
+KEN,Kenya,Ganze,2020,10,1,10
+KEN,Kenya,Gatanga,2024,17,1,17
+KEN,Kenya,Gem,2018,0,0,2
+KEN,Kenya,Gem,2020,7,1,7
+KEN,Kenya,Gem,2021,0,0,1
+KEN,Kenya,Gem,2023,0,0,3
+KEN,Kenya,Gem,2024,0,0,2
+KEN,Kenya,Gem,2025,12,1,12
+KEN,Kenya,Gilgil,2024,19,1,19
+KEN,Kenya,Gilgil,2025,14,2,7
+KEN,Kenya,Hamisi,2024,0,0,3
+KEN,Kenya,Hamisi,2025,14,1,14
+KEN,Kenya,Igembe Central,2018,10,1,10
+KEN,Kenya,Igembe Central,2020,0,0,5
+KEN,Kenya,Igembe Central,2024,0,0,6
+KEN,Kenya,Igembe North,2018,7,1,7
+KEN,Kenya,Igembe North,2024,12,1,12
+KEN,Kenya,Igembe South,2018,9,1,9
+KEN,Kenya,Igembe South,2020,12,1,12
+KEN,Kenya,Igembe South,2024,0,0,2
+KEN,Kenya,Kacheliba,2018,0,0,2
+KEN,Kenya,Kacheliba,2020,27,3,12
+KEN,Kenya,Kacheliba,2024,0,0,5
+KEN,Kenya,Kajiado Central,2018,0,0,6
+KEN,Kenya,Kajiado Central,2020,13,1,13
+KEN,Kenya,Kajiado Central,2024,10,1,10
+KEN,Kenya,Kajiado East,2018,19,1,19
+KEN,Kenya,Kajiado East,2024,15,1,15
+KEN,Kenya,Kajiado South,2018,34,1,34
+KEN,Kenya,Kajiado West,2020,14,1,14
+KEN,Kenya,Kajiado West,2024,19,1,19
+KEN,Kenya,Kaloleni,2007,7,1,7
+KEN,Kenya,Kaloleni,2018,7,1,7
+KEN,Kenya,Kaloleni,2020,10,1,10
+KEN,Kenya,Kandara,2018,0,0,2
+KEN,Kenya,Kandara,2024,17,1,17
+KEN,Kenya,Kanduyi,2020,0,0,3
+KEN,Kenya,Kanduyi,2024,0,0,5
+KEN,Kenya,Kanduyi,2025,13,1,13
+KEN,Kenya,Kapenguria,2007,0,0,5
+KEN,Kenya,Kapenguria,2012,0,0,5
+KEN,Kenya,Kapenguria,2018,0,0,5
+KEN,Kenya,Kapenguria,2020,18,2,9
+KEN,Kenya,Karachuonyo,2013,0,0,3
+KEN,Kenya,Karachuonyo,2020,0,0,5
+KEN,Kenya,Karachuonyo,2024,12,1,12
+KEN,Kenya,Karachuonyo,2025,0,0,4
+KEN,Kenya,Kasipul,2020,0,0,2
+KEN,Kenya,Kasipul,2024,12,1,12
+KEN,Kenya,Kasipul,2025,14,2,7
+KEN,Kenya,Keiyo North,2018,8,1,8
+KEN,Kenya,Keiyo North,2020,13,1,13
+KEN,Kenya,Keiyo North,2024,9,1,9
+KEN,Kenya,Keiyo South,2018,0,0,2
+KEN,Kenya,Keiyo South,2020,10,1,10
+KEN,Kenya,Keiyo South,2024,12,1,12
+KEN,Kenya,Kesses,2018,0,0,4
+KEN,Kenya,Kesses,2020,0,0,5
+KEN,Kenya,Kesses,2024,19,2,12
+KEN,Kenya,Kesses,2025,0,0,2
+KEN,Kenya,Khwisero,2024,7,1,7
+KEN,Kenya,Khwisero,2025,0,0,6
+KEN,Kenya,Kibwezi East,2018,0,0,2
+KEN,Kenya,Kibwezi East,2020,0,0,6
+KEN,Kenya,Kibwezi West,2018,24,1,24
+KEN,Kenya,Kieni,2018,9,1,9
+KEN,Kenya,Kieni,2020,0,0,3
+KEN,Kenya,Kieni,2024,19,1,19
+KEN,Kenya,Kigumo,2024,17,1,17
+KEN,Kenya,Kiharu,2018,0,0,2
+KEN,Kenya,Kiharu,2024,17,1,17
+KEN,Kenya,Kilgoris,2012,0,0,5
+KEN,Kenya,Kilgoris,2013,0,0,2
+KEN,Kenya,Kilgoris,2020,0,0,4
+KEN,Kenya,Kilgoris,2024,20,1,20
+KEN,Kenya,Kilome,2018,7,1,7
+KEN,Kenya,Kilome,2024,15,1,15
+KEN,Kenya,Kinango,2007,0,0,3
+KEN,Kenya,Kinango,2020,20,1,20
+KEN,Kenya,Kinangop,2020,0,0,1
+KEN,Kenya,Kinangop,2024,17,1,17
+KEN,Kenya,Kipipiri,2024,17,1,17
+KEN,Kenya,Kipkelion East,2018,7,1,7
+KEN,Kenya,Kipkelion East,2020,7,1,7
+KEN,Kenya,Kipkelion East,2024,13,1,13
+KEN,Kenya,Kipkelion West,2018,7,1,7
+KEN,Kenya,Kipkelion West,2020,7,1,7
+KEN,Kenya,Kipkelion West,2024,13,1,13
+KEN,Kenya,Kirinyaga Central,2020,10,1,10
+KEN,Kenya,Kirinyaga Central,2024,8,1,8
+KEN,Kenya,Kitui East,2020,22,2,13
+KEN,Kenya,Kitui East,2024,0,0,2
+KEN,Kenya,Kitui Rural,2018,7,1,7
+KEN,Kenya,Kitui Rural,2020,7,1,7
+KEN,Kenya,Kitui Rural,2024,10,1,10
+KEN,Kenya,Kitui South,2020,13,1,13
+KEN,Kenya,Kitui West,2018,12,1,12
+KEN,Kenya,Kitui West,2020,0,0,2
+KEN,Kenya,Kitui West,2024,10,1,10
+KEN,Kenya,Kitutu Chache North,2024,0,0,3
+KEN,Kenya,Kitutu Chache North,2025,18,1,18
+KEN,Kenya,Konoin,2024,0,0,4
+KEN,Kenya,Konoin,2025,9,1,9
+KEN,Kenya,Kuresoi North,2018,0,0,5
+KEN,Kenya,Kuresoi North,2020,7,1,7
+KEN,Kenya,Kuresoi North,2024,16,1,16
+KEN,Kenya,Kuresoi South,2018,0,0,6
+KEN,Kenya,Kuresoi South,2024,19,2,12
+KEN,Kenya,Kuresoi South,2025,0,0,3
+KEN,Kenya,Kuria East,2024,14,1,14
+KEN,Kenya,Kuria West,2020,0,0,2
+KEN,Kenya,Kuria West,2024,15,1,15
+KEN,Kenya,Kwanza,2018,17,1,17
+KEN,Kenya,Kwanza,2020,0,0,6
+KEN,Kenya,Kwanza,2024,0,0,5
+KEN,Kenya,Laikipia East,2018,12,1,12
+KEN,Kenya,Laikipia East,2020,0,0,1
+KEN,Kenya,Laikipia East,2024,21,1,21
+KEN,Kenya,Laikipia North,2018,0,0,2
+KEN,Kenya,Laikipia North,2020,11,1,11
+KEN,Kenya,Laikipia North,2024,18,1,18
+KEN,Kenya,Laikipia West,2012,0,0,2
+KEN,Kenya,Laikipia West,2020,8,1,8
+KEN,Kenya,Laikipia West,2024,19,2,12
+KEN,Kenya,Lari,2020,0,0,1
+KEN,Kenya,Lari,2024,19,1,19
+KEN,Kenya,Limuru,2018,0,0,3
+KEN,Kenya,Limuru,2020,0,0,2
+KEN,Kenya,Limuru,2024,15,1,15
+KEN,Kenya,Machakos Town,2018,0,0,6
+KEN,Kenya,Machakos Town,2024,17,1,17
+KEN,Kenya,Makueni,2018,12,1,12
+KEN,Kenya,Makueni,2024,12,1,12
+KEN,Kenya,Maragwa,2018,12,1,12
+KEN,Kenya,Maragwa,2024,12,1,12
+KEN,Kenya,Marakwet East,2007,0,0,6
+KEN,Kenya,Marakwet East,2018,7,1,7
+KEN,Kenya,Marakwet East,2020,9,1,9
+KEN,Kenya,Marakwet East,2024,0,0,4
+KEN,Kenya,Marakwet West,2018,8,1,8
+KEN,Kenya,Marakwet West,2020,12,1,12
+KEN,Kenya,Marakwet West,2024,8,1,8
+KEN,Kenya,Masinga,2018,10,1,10
+KEN,Kenya,Masinga,2020,0,0,1
+KEN,Kenya,Masinga,2024,13,1,13
+KEN,Kenya,Mathira,2020,9,1,9
+KEN,Kenya,Mathira,2024,15,1,15
+KEN,Kenya,Matungu,2020,0,0,4
+KEN,Kenya,Matungu,2024,0,0,4
+KEN,Kenya,Matungu,2025,15,1,15
+KEN,Kenya,Matungulu,2018,0,0,5
+KEN,Kenya,Matungulu,2024,19,1,19
+KEN,Kenya,Mavoko,2024,24,1,24
+KEN,Kenya,Mbeere North,2018,0,0,5
+KEN,Kenya,Mbeere North,2024,19,1,19
+KEN,Kenya,Mbeere South,2018,9,1,9
+KEN,Kenya,Mbeere South,2024,15,1,15
+KEN,Kenya,Mbooni,2018,8,1,8
+KEN,Kenya,Mbooni,2024,14,1,14
+KEN,Kenya,Mogotio,2012,0,0,2
+KEN,Kenya,Mogotio,2018,0,0,4
+KEN,Kenya,Mogotio,2020,9,1,9
+KEN,Kenya,Mogotio,2024,0,0,6
+KEN,Kenya,Moiben,2018,8,1,8
+KEN,Kenya,Moiben,2020,13,1,13
+KEN,Kenya,Moiben,2024,11,1,11
+KEN,Kenya,Molo,2018,0,0,6
+KEN,Kenya,Molo,2020,0,0,3
+KEN,Kenya,Molo,2024,16,1,16
+KEN,Kenya,Molo,2025,0,0,2
+KEN,Kenya,Mosop,2024,0,0,4
+KEN,Kenya,Mosop,2025,18,2,10
+KEN,Kenya,Mt. Elgon,2018,12,1,12
+KEN,Kenya,Mt. Elgon,2020,9,1,9
+KEN,Kenya,Mt. Elgon,2024,9,1,9
+KEN,Kenya,Muhoroni,2024,22,2,12
+KEN,Kenya,Muhoroni,2025,10,1,10
+KEN,Kenya,Mumias East,2024,0,0,2
+KEN,Kenya,Mumias West,2020,0,0,1
+KEN,Kenya,Mumias West,2024,7,1,7
+KEN,Kenya,Mumias West,2025,15,1,15
+KEN,Kenya,Mwala,2018,0,0,5
+KEN,Kenya,Mwala,2024,19,1,19
+KEN,Kenya,Mwea,2018,8,1,8
+KEN,Kenya,Mwea,2024,13,1,13
+KEN,Kenya,Mwingi Central,2018,0,0,2
+KEN,Kenya,Mwingi Central,2020,20,2,10
+KEN,Kenya,Mwingi North,2008,0,0,3
+KEN,Kenya,Mwingi North,2010,0,0,3
+KEN,Kenya,Mwingi North,2018,8,1,8
+KEN,Kenya,Mwingi North,2020,10,1,10
+KEN,Kenya,Mwingi West,2018,0,0,6
+KEN,Kenya,Mwingi West,2020,8,1,8
+KEN,Kenya,Mwingi West,2024,10,1,10
+KEN,Kenya,Naivasha,2018,0,0,4
+KEN,Kenya,Naivasha,2020,0,0,6
+KEN,Kenya,Naivasha,2024,17,1,17
+KEN,Kenya,Nambale,2020,8,1,8
+KEN,Kenya,Nambale,2024,0,0,5
+KEN,Kenya,Nambale,2025,7,1,7
+KEN,Kenya,Nandi Hills,2018,0,0,5
+KEN,Kenya,Nandi Hills,2020,0,0,3
+KEN,Kenya,Nandi Hills,2024,10,1,10
+KEN,Kenya,Nandi Hills,2025,7,1,7
+KEN,Kenya,Narok East,2018,0,0,2
+KEN,Kenya,Narok East,2020,15,1,15
+KEN,Kenya,Narok East,2024,15,1,15
+KEN,Kenya,Narok North,2018,0,0,2
+KEN,Kenya,Narok North,2024,26,1,26
+KEN,Kenya,Narok South,2018,7,1,7
+KEN,Kenya,Narok South,2020,0,0,4
+KEN,Kenya,Narok South,2024,21,1,21
+KEN,Kenya,Narok West,2012,8,1,8
+KEN,Kenya,Narok West,2018,0,0,5
+KEN,Kenya,Narok West,2024,16,1,16
+KEN,Kenya,Navakholo,2024,7,1,7
+KEN,Kenya,Navakholo,2025,7,1,7
+KEN,Kenya,Ndaragwa,2018,0,0,4
+KEN,Kenya,Ndaragwa,2024,15,1,15
+KEN,Kenya,Ndhiwa,2018,0,0,3
+KEN,Kenya,Ndhiwa,2020,0,0,3
+KEN,Kenya,Ndhiwa,2023,16,1,16
+KEN,Kenya,Ndhiwa,2025,11,1,11
+KEN,Kenya,Ndia,2020,10,1,10
+KEN,Kenya,Ndia,2024,12,1,12
+KEN,Kenya,Njoro,2018,0,0,2
+KEN,Kenya,Njoro,2024,28,1,28
+KEN,Kenya,Njoro,2025,0,0,4
+KEN,Kenya,Nyakach,2020,0,0,1
+KEN,Kenya,Nyakach,2024,9,1,9
+KEN,Kenya,Nyakach,2025,17,1,17
+KEN,Kenya,Nyaribari Chache,2024,12,1,12
+KEN,Kenya,Nyaribari Chache,2025,10,1,10
+KEN,Kenya,Nyaribari Masaba,2024,20,1,20
+KEN,Kenya,Nyaribari Masaba,2025,0,0,2
+KEN,Kenya,Ol Jorok,2018,0,0,4
+KEN,Kenya,Ol Jorok,2024,12,1,12
+KEN,Kenya,Ol Kalou,2018,0,0,2
+KEN,Kenya,Ol Kalou,2024,19,2,12
+KEN,Kenya,Pokot South,2010,0,0,2
+KEN,Kenya,Pokot South,2012,0,0,1
+KEN,Kenya,Pokot South,2018,0,0,5
+KEN,Kenya,Pokot South,2020,11,1,11
+KEN,Kenya,Pokot South,2024,7,1,7
+KEN,Kenya,Rangwe,2020,9,1,9
+KEN,Kenya,Rangwe,2024,10,1,10
+KEN,Kenya,Rangwe,2025,0,0,6
+KEN,Kenya,Rongai,2018,7,1,7
+KEN,Kenya,Rongai,2020,9,1,9
+KEN,Kenya,Rongai,2024,10,1,10
+KEN,Kenya,Rongo,2023,14,1,14
+KEN,Kenya,Rongo,2024,0,0,2
+KEN,Kenya,Rongo,2025,12,1,12
+KEN,Kenya,Sabatia,2024,8,1,8
+KEN,Kenya,Sabatia,2025,16,1,16
+KEN,Kenya,Saboti,2018,7,1,7
+KEN,Kenya,Saboti,2020,9,1,9
+KEN,Kenya,Saboti,2024,9,1,9
+KEN,Kenya,Samburu West,2020,9,1,9
+KEN,Kenya,Samburu West,2024,25,2,13
+KEN,Kenya,Shinyalu,2024,18,2,9
+KEN,Kenya,Shinyalu,2025,0,0,5
+KEN,Kenya,Sigor,2018,0,0,4
+KEN,Kenya,Sigor,2020,20,2,12
+KEN,Kenya,Sigor,2024,0,0,3
+KEN,Kenya,Sigowet/Soin,2018,12,1,12
+KEN,Kenya,Sigowet/Soin,2024,0,0,6
+KEN,Kenya,Sigowet/Soin,2025,11,1,11
+KEN,Kenya,Sirisia,2018,9,1,9
+KEN,Kenya,Sirisia,2020,10,1,10
+KEN,Kenya,Sirisia,2024,9,1,9
+KEN,Kenya,Sotik,2023,0,0,3
+KEN,Kenya,Sotik,2024,27,1,27
+KEN,Kenya,Sotik,2025,0,0,2
+KEN,Kenya,South Imenti,2018,0,0,2
+KEN,Kenya,South Imenti,2020,10,1,10
+KEN,Kenya,South Imenti,2024,12,1,12
+KEN,Kenya,South Mugirango,2023,12,1,12
+KEN,Kenya,South Mugirango,2024,12,1,12
+KEN,Kenya,Soy,2018,0,0,3
+KEN,Kenya,Soy,2020,9,1,9
+KEN,Kenya,Soy,2024,11,1,11
+KEN,Kenya,Soy,2025,0,0,4
+KEN,Kenya,Subukia,2018,7,1,7
+KEN,Kenya,Subukia,2020,9,1,9
+KEN,Kenya,Subukia,2024,0,0,5
+KEN,Kenya,Suna East,2024,27,2,17
+KEN,Kenya,Suna West,2023,11,1,11
+KEN,Kenya,Suna West,2024,19,2,11
+KEN,Kenya,Taveta,2020,21,1,21
+KEN,Kenya,Taveta,2024,0,0,3
+KEN,Kenya,Teso North,2018,0,0,2
+KEN,Kenya,Teso North,2020,12,1,12
+KEN,Kenya,Teso North,2024,7,1,7
+KEN,Kenya,Teso South,2020,8,1,8
+KEN,Kenya,Teso South,2024,7,1,7
+KEN,Kenya,Teso South,2025,15,1,15
+KEN,Kenya,Tharaka,2008,0,0,1
+KEN,Kenya,Tharaka,2018,8,1,8
+KEN,Kenya,Tharaka,2020,9,1,9
+KEN,Kenya,Tharaka,2024,0,0,6
+KEN,Kenya,Tigania East,2018,0,0,6
+KEN,Kenya,Tigania East,2024,15,1,15
+KEN,Kenya,Tigania West,2018,13,1,13
+KEN,Kenya,Tigania West,2020,0,0,1
+KEN,Kenya,Tigania West,2024,10,1,10
+KEN,Kenya,Tinderet,2018,10,1,10
+KEN,Kenya,Tinderet,2020,0,0,2
+KEN,Kenya,Tinderet,2024,10,1,10
+KEN,Kenya,Tinderet,2025,0,0,6
+KEN,Kenya,Tongaren,2020,0,0,2
+KEN,Kenya,Tongaren,2024,7,1,7
+KEN,Kenya,Tongaren,2025,13,1,13
+KEN,Kenya,Turbo,2018,0,0,1
+KEN,Kenya,Turbo,2024,9,1,9
+KEN,Kenya,Turbo,2025,17,2,10
+KEN,Kenya,Ugenya,2020,9,1,9
+KEN,Kenya,Ugenya,2021,0,0,5
+KEN,Kenya,Ugenya,2023,0,0,4
+KEN,Kenya,Ugenya,2024,0,0,5
+KEN,Kenya,Ugenya,2025,0,0,5
+KEN,Kenya,Ugunja,2020,9,1,9
+KEN,Kenya,Ugunja,2024,0,0,1
+KEN,Kenya,Ugunja,2025,20,2,11
+KEN,Kenya,Uriri,2020,0,0,1
+KEN,Kenya,Uriri,2023,19,1,19
+KEN,Kenya,Uriri,2024,8,1,8
+KEN,Kenya,Uriri,2025,0,0,1
+KEN,Kenya,Voi,2020,24,2,17
+KEN,Kenya,Webute West,2024,7,1,7
+KEN,Kenya,Webute West,2025,0,0,5
+KEN,Kenya,Webuye East,2018,0,0,2
+KEN,Kenya,Webuye East,2020,0,0,1
+KEN,Kenya,Webuye East,2024,16,2,9
+KEN,Kenya,Webuye East,2025,9,1,9
+KEN,Kenya,West Mugirango,2024,16,1,16
+KEN,Kenya,West Mugirango,2025,15,2,8
+KEN,Kenya,Yatta,2018,9,1,9
+KEN,Kenya,Yatta,2020,0,0,1
+KEN,Kenya,Yatta,2024,13,1,13
+KEN,Kenya,unknown 4,2018,9,1,9
+KEN,Kenya,unknown 4,2019,0,0,2
+KEN,Kenya,unknown 4,2020,0,0,2
+KEN,Kenya,unknown 4,2024,0,0,3
+KEN,Kenya,unknown 4,2025,0,0,4
+LBR,Liberia,Gbarzon,2012,10,1,10
+LBR,Liberia,Gbarzon,2014,0,0,6
+LBR,Liberia,Gbarzon,2017,0,0,6
+LBR,Liberia,Gbarzon,2018,0,0,1
+LBR,Liberia,Gbeapo,2012,0,0,2
+LBR,Liberia,Gbeapo,2014,0,0,2
+LBR,Liberia,Gbeapo,2018,0,0,5
+LBR,Liberia,Gbeapo,2021,17,1,17
+LBR,Liberia,Gbehlageh,2007,0,0,2
+LBR,Liberia,Gbehlageh,2008,0,0,4
+LBR,Liberia,Gbehlageh,2012,0,0,4
+LBR,Liberia,Gbehlageh,2015,0,0,1
+LBR,Liberia,Gbehlageh,2016,0,0,2
+LBR,Liberia,Gbehlageh,2018,0,0,1
+LBR,Liberia,Gbehlageh,2021,0,0,1
+LBR,Liberia,Gbehlageh,2024,13,1,13
+LBR,Liberia,Jorquelleh,2007,0,0,2
+LBR,Liberia,Jorquelleh,2014,0,0,2
+LBR,Liberia,Jorquelleh,2018,0,0,2
+LBR,Liberia,Jorquelleh,2019,0,0,4
+LBR,Liberia,Jorquelleh,2023,0,0,5
+LBR,Liberia,Jorquelleh,2024,11,1,11
+LBR,Liberia,Konobo,2010,0,0,2
+LBR,Liberia,Konobo,2017,0,0,1
+LBR,Liberia,Konobo,2018,0,0,3
+LBR,Liberia,Konobo,2021,14,1,14
+LBR,Liberia,Panta-Kpa,2007,0,0,2
+LBR,Liberia,Panta-Kpa,2014,0,0,2
+LBR,Liberia,Panta-Kpa,2016,0,0,3
+LBR,Liberia,Panta-Kpa,2018,0,0,2
+LBR,Liberia,Panta-Kpa,2019,0,0,3
+LBR,Liberia,Panta-Kpa,2023,0,0,4
+LBR,Liberia,Panta-Kpa,2024,12,1,12
+LBR,Liberia,Saclepea,2007,0,0,2
+LBR,Liberia,Saclepea,2014,0,0,2
+LBR,Liberia,Saclepea,2015,0,0,2
+LBR,Liberia,Saclepea,2016,0,0,3
+LBR,Liberia,Saclepea,2019,0,0,5
+LBR,Liberia,Saclepea,2023,0,0,2
+LBR,Liberia,Saclepea,2024,14,1,14
+LBR,Liberia,Salayea,2016,0,0,2
+LBR,Liberia,Salayea,2018,0,0,1
+LBR,Liberia,Salayea,2019,0,0,5
+LBR,Liberia,Salayea,2021,0,0,5
+LBR,Liberia,Salayea,2023,0,0,1
+LBR,Liberia,Salayea,2024,14,1,14
+LBR,Liberia,Salayea,2025,0,0,1
+LBR,Liberia,Sanniquelleh-Mahn,2007,0,0,1
+LBR,Liberia,Sanniquelleh-Mahn,2012,0,0,1
+LBR,Liberia,Sanniquelleh-Mahn,2015,0,0,5
+LBR,Liberia,Sanniquelleh-Mahn,2016,0,0,3
+LBR,Liberia,Sanniquelleh-Mahn,2019,0,0,2
+LBR,Liberia,Sanniquelleh-Mahn,2021,0,0,1
+LBR,Liberia,Sanniquelleh-Mahn,2023,0,0,1
+LBR,Liberia,Sanniquelleh-Mahn,2024,15,1,15
+LBR,Liberia,Suakoko,2007,0,0,2
+LBR,Liberia,Suakoko,2014,0,0,2
+LBR,Liberia,Suakoko,2015,0,0,2
+LBR,Liberia,Suakoko,2018,0,0,1
+LBR,Liberia,Suakoko,2019,0,0,3
+LBR,Liberia,Suakoko,2023,0,0,5
+LBR,Liberia,Suakoko,2024,12,1,12
+LBR,Liberia,Tappita,2007,0,0,5
+LBR,Liberia,Tappita,2014,0,0,2
+LBR,Liberia,Tappita,2017,0,0,3
+LBR,Liberia,Tappita,2019,0,0,5
+LBR,Liberia,Tappita,2024,13,1,13
+LBR,Liberia,Tchien,2010,0,0,4
+LBR,Liberia,Tchien,2012,0,0,1
+LBR,Liberia,Tchien,2014,0,0,6
+LBR,Liberia,Tchien,2017,11,1,11
+LBR,Liberia,Tchien,2018,0,0,2
+LBR,Liberia,Voinjama,2012,0,0,2
+LBR,Liberia,Voinjama,2016,0,0,1
+LBR,Liberia,Voinjama,2018,0,0,3
+LBR,Liberia,Voinjama,2019,0,0,2
+LBR,Liberia,Voinjama,2022,0,0,3
+LBR,Liberia,Voinjama,2023,0,0,1
+LBR,Liberia,Voinjama,2024,11,1,11
+LBR,Liberia,Voinjama,2025,0,0,4
+LBR,Liberia,Zoegeh,2007,0,0,6
+LBR,Liberia,Zoegeh,2008,0,0,3
+LBR,Liberia,Zoegeh,2014,0,0,2
+LBR,Liberia,Zoegeh,2015,0,0,1
+LBR,Liberia,Zoegeh,2016,0,0,3
+LBR,Liberia,Zoegeh,2017,0,0,1
+LBR,Liberia,Zoegeh,2018,0,0,1
+LBR,Liberia,Zoegeh,2024,13,1,13
+LBR,Liberia,Zorzor,2012,0,0,3
+LBR,Liberia,Zorzor,2019,0,0,6
+LBR,Liberia,Zorzor,2021,0,0,1
+LBR,Liberia,Zorzor,2023,0,0,6
+LBR,Liberia,Zorzor,2024,12,1,12
+MAR,Morocco,Al Haouz,2018,0,0,5
+MAR,Morocco,Al Haouz,2019,0,0,5
+MAR,Morocco,Al Haouz,2020,0,0,4
+MAR,Morocco,Al Haouz,2022,0,0,1
+MAR,Morocco,Al Haouz,2024,0,0,3
+MAR,Morocco,Al Haouz,2025,0,0,3
+MAR,Morocco,Azilal,2021,8,1,8
+MAR,Morocco,Azilal,2024,7,1,7
+MAR,Morocco,Azilal,2025,0,0,1
+MAR,Morocco,Béni Mellal,2018,0,0,6
+MAR,Morocco,Béni Mellal,2025,8,1,8
+MAR,Morocco,Chichaoua,2018,0,0,4
+MAR,Morocco,Chichaoua,2019,8,1,8
+MAR,Morocco,Chichaoua,2020,0,0,4
+MAR,Morocco,Chichaoua,2021,0,0,1
+MAR,Morocco,Chichaoua,2022,0,0,3
+MAR,Morocco,El Hajeb,2018,12,1,12
+MAR,Morocco,El Hajeb,2025,7,1,7
+MAR,Morocco,El Kelaâ des Sraghna,2018,7,1,7
+MAR,Morocco,El Kelaâ des Sraghna,2019,0,0,5
+MAR,Morocco,El Kelaâ des Sraghna,2021,0,0,2
+MAR,Morocco,El Kelaâ des Sraghna,2025,0,0,1
+MAR,Morocco,Ifrane,2018,8,1,8
+MAR,Morocco,Ifrane,2025,10,1,10
+MAR,Morocco,Khouribga,2018,7,1,7
+MAR,Morocco,Khouribga,2025,11,1,11
+MAR,Morocco,Khémisset,2018,7,1,7
+MAR,Morocco,Khémisset,2024,0,0,3
+MAR,Morocco,Khémisset,2025,11,1,11
+MAR,Morocco,Khénifra,2018,0,0,5
+MAR,Morocco,Khénifra,2024,0,0,4
+MAR,Morocco,Khénifra,2025,12,1,12
+MAR,Morocco,Meknès,2018,12,1,12
+MAR,Morocco,Meknès,2024,0,0,3
+MAR,Morocco,Meknès,2025,0,0,5
+MAR,Morocco,Oujda Angad,2018,10,1,10
+MAR,Morocco,Oujda Angad,2020,0,0,3
+MAR,Morocco,Oujda Angad,2022,0,0,2
+MAR,Morocco,Sefrou,2018,7,1,7
+MAR,Morocco,Sefrou,2022,0,0,1
+MAR,Morocco,Sefrou,2025,12,1,12
+MAR,Morocco,Settat,2018,0,0,5
+MAR,Morocco,Settat,2025,13,1,13
+MAR,Morocco,Sidi Kacem,2018,12,1,12
+MAR,Morocco,Sidi Kacem,2025,0,0,6
+MAR,Morocco,Taounate,2018,8,1,8
+MAR,Morocco,Taounate,2025,10,1,10
+MAR,Morocco,Taroudannt,2021,0,0,1
+MAR,Morocco,Taroudannt,2024,7,1,7
+MAR,Morocco,Taroudannt,2025,0,0,4
+MAR,Morocco,Taza,2018,7,1,7
+MAR,Morocco,Taza,2020,0,0,6
+MAR,Morocco,Taza,2022,0,0,1
+MAR,Morocco,Taza,2025,7,1,7
+MAR,Morocco,Zouagha-Moulay Yacoub,2018,8,1,8
+MAR,Morocco,Zouagha-Moulay Yacoub,2025,12,1,12
+MDG,Madagascar,Alaotra-Mangoro,2007,11,1,11
+MDG,Madagascar,Alaotra-Mangoro,2022,0,0,2
+MDG,Madagascar,Alaotra-Mangoro,2024,0,0,4
+MDG,Madagascar,Amoron'i mania,2007,21,1,21
+MDG,Madagascar,Amoron'i mania,2025,0,0,1
+MDG,Madagascar,Analamanga,2007,15,2,8
+MDG,Madagascar,Analamanga,2015,0,0,1
+MDG,Madagascar,Analamanga,2022,0,0,1
+MDG,Madagascar,Analamanga,2024,0,0,4
+MDG,Madagascar,Analamanga,2025,0,0,1
+MDG,Madagascar,Betsiboka,2007,9,1,9
+MDG,Madagascar,Betsiboka,2015,9,1,9
+MDG,Madagascar,Betsiboka,2024,0,0,1
+MDG,Madagascar,Bongolava,2007,0,0,4
+MDG,Madagascar,Bongolava,2015,0,0,3
+MDG,Madagascar,Bongolava,2023,0,0,4
+MDG,Madagascar,Bongolava,2024,0,0,2
+MDG,Madagascar,Haute matsiatra,2007,16,2,8
+MDG,Madagascar,Haute matsiatra,2014,0,0,1
+MDG,Madagascar,Haute matsiatra,2025,0,0,2
+MDG,Madagascar,Itasy,2024,8,1,8
+MDG,Madagascar,Itasy,2025,0,0,6
+MDG,Madagascar,Vakinankaratra,2015,9,1,9
+MDG,Madagascar,Vakinankaratra,2024,0,0,6
+MDG,Madagascar,Vakinankaratra,2025,7,1,7
+MLI,Mali,Bafoulabé,2012,0,0,5
+MLI,Mali,Bafoulabé,2015,0,0,5
+MLI,Mali,Bafoulabé,2016,0,0,5
+MLI,Mali,Bafoulabé,2018,0,0,5
+MLI,Mali,Banamba,2008,0,0,2
+MLI,Mali,Banamba,2010,0,0,1
+MLI,Mali,Banamba,2012,8,1,8
+MLI,Mali,Banamba,2020,0,0,4
+MLI,Mali,Banamba,2022,0,0,2
+MLI,Mali,Banamba,2024,0,0,6
+MLI,Mali,Bankass,2012,0,0,6
+MLI,Mali,Bankass,2015,0,0,5
+MLI,Mali,Bankass,2020,0,0,1
+MLI,Mali,Bankass,2022,9,1,9
+MLI,Mali,Bankass,2023,0,0,2
+MLI,Mali,Barouéli,2010,0,0,2
+MLI,Mali,Barouéli,2012,8,1,8
+MLI,Mali,Barouéli,2014,0,0,6
+MLI,Mali,Barouéli,2015,0,0,2
+MLI,Mali,Barouéli,2017,0,0,1
+MLI,Mali,Barouéli,2022,0,0,3
+MLI,Mali,Bla,2010,0,0,1
+MLI,Mali,Bla,2012,9,1,9
+MLI,Mali,Bla,2016,0,0,2
+MLI,Mali,Bla,2017,0,0,6
+MLI,Mali,Bla,2023,0,0,3
+MLI,Mali,Bougouni,2016,0,0,3
+MLI,Mali,Bougouni,2021,12,1,12
+MLI,Mali,Bougouni,2022,0,0,5
+MLI,Mali,Bougouni,2023,0,0,2
+MLI,Mali,Bougouni,2024,0,0,1
+MLI,Mali,Dioïla,2008,0,0,2
+MLI,Mali,Dioïla,2010,0,0,1
+MLI,Mali,Dioïla,2012,8,1,8
+MLI,Mali,Dioïla,2016,0,0,5
+MLI,Mali,Dioïla,2017,0,0,1
+MLI,Mali,Dioïla,2021,0,0,2
+MLI,Mali,Dioïla,2022,0,0,2
+MLI,Mali,Dioïla,2023,0,0,1
+MLI,Mali,Diéma,2007,0,0,3
+MLI,Mali,Diéma,2008,0,0,2
+MLI,Mali,Diéma,2010,0,0,4
+MLI,Mali,Diéma,2018,0,0,4
+MLI,Mali,Diéma,2020,0,0,4
+MLI,Mali,Diéma,2022,0,0,5
+MLI,Mali,Kadiolo,2016,0,0,2
+MLI,Mali,Kadiolo,2018,14,1,14
+MLI,Mali,Kadiolo,2021,0,0,4
+MLI,Mali,Kadiolo,2023,0,0,3
+MLI,Mali,Kati,2008,0,0,3
+MLI,Mali,Kati,2012,7,1,7
+MLI,Mali,Kati,2020,0,0,4
+MLI,Mali,Kati,2021,0,0,2
+MLI,Mali,Kati,2024,0,0,5
+MLI,Mali,Kayes,2007,0,0,1
+MLI,Mali,Kayes,2008,0,0,3
+MLI,Mali,Kayes,2010,0,0,3
+MLI,Mali,Kayes,2012,7,1,7
+MLI,Mali,Kayes,2022,8,1,8
+MLI,Mali,Kita,2007,0,0,5
+MLI,Mali,Kita,2008,0,0,2
+MLI,Mali,Kita,2012,8,1,8
+MLI,Mali,Kita,2015,0,0,1
+MLI,Mali,Kita,2018,7,1,7
+MLI,Mali,Kolokani,2008,0,0,5
+MLI,Mali,Kolokani,2012,9,1,9
+MLI,Mali,Kolokani,2018,0,0,4
+MLI,Mali,Kolokani,2020,0,0,5
+MLI,Mali,Kolondiéba,2016,14,1,14
+MLI,Mali,Kolondiéba,2021,0,0,2
+MLI,Mali,Kolondiéba,2022,0,0,3
+MLI,Mali,Kolondiéba,2023,0,0,2
+MLI,Mali,Kolondiéba,2024,0,0,2
+MLI,Mali,Koro,2012,0,0,6
+MLI,Mali,Koro,2019,0,0,3
+MLI,Mali,Koro,2020,0,0,1
+MLI,Mali,Koro,2022,9,1,9
+MLI,Mali,Koro,2023,0,0,2
+MLI,Mali,Koro,2024,0,0,2
+MLI,Mali,Koulikoro,2008,0,0,5
+MLI,Mali,Koulikoro,2012,8,1,8
+MLI,Mali,Koulikoro,2016,0,0,1
+MLI,Mali,Koulikoro,2018,0,0,1
+MLI,Mali,Koulikoro,2020,0,0,3
+MLI,Mali,Koulikoro,2024,0,0,5
+MLI,Mali,Koutiala,2010,0,0,2
+MLI,Mali,Koutiala,2012,0,0,6
+MLI,Mali,Koutiala,2016,0,0,4
+MLI,Mali,Koutiala,2017,0,0,1
+MLI,Mali,Koutiala,2021,0,0,2
+MLI,Mali,Koutiala,2023,0,0,5
+MLI,Mali,Macina,2012,0,0,4
+MLI,Mali,Macina,2020,0,0,3
+MLI,Mali,Macina,2023,0,0,2
+MLI,Mali,Macina,2024,14,1,14
+MLI,Mali,Nara,2008,0,0,2
+MLI,Mali,Nara,2012,7,1,7
+MLI,Mali,Nara,2020,0,0,5
+MLI,Mali,Nara,2022,0,0,5
+MLI,Mali,Nara,2023,0,0,1
+MLI,Mali,Nara,2024,0,0,2
+MLI,Mali,Niono,2012,0,0,6
+MLI,Mali,Niono,2020,0,0,1
+MLI,Mali,Niono,2022,0,0,3
+MLI,Mali,Niono,2024,12,1,12
+MLI,Mali,San,2012,0,0,6
+MLI,Mali,San,2015,0,0,3
+MLI,Mali,San,2022,0,0,4
+MLI,Mali,San,2023,10,1,10
+MLI,Mali,Sikasso,2016,12,1,12
+MLI,Mali,Sikasso,2018,0,0,5
+MLI,Mali,Sikasso,2021,0,0,3
+MLI,Mali,Sikasso,2023,0,0,3
+MLI,Mali,Ségou,2012,9,1,9
+MLI,Mali,Ségou,2020,0,0,2
+MLI,Mali,Ségou,2022,0,0,3
+MLI,Mali,Ségou,2023,0,0,2
+MLI,Mali,Ségou,2024,7,1,7
+MLI,Mali,Tominian,2012,0,0,1
+MLI,Mali,Tominian,2015,0,0,2
+MLI,Mali,Tominian,2020,0,0,2
+MLI,Mali,Tominian,2022,0,0,5
+MLI,Mali,Tominian,2023,12,1,12
+MLI,Mali,Yorosso,2010,0,0,6
+MLI,Mali,Yorosso,2016,0,0,4
+MLI,Mali,Yorosso,2017,8,1,8
+MLI,Mali,Yorosso,2023,0,0,3
+MOZ,Mozambique,Alto Molocue,2007,0,0,1
+MOZ,Mozambique,Alto Molocue,2013,10,1,10
+MOZ,Mozambique,Alto Molocue,2014,0,0,5
+MOZ,Mozambique,Alto Molocue,2015,0,0,3
+MOZ,Mozambique,Alto Molocue,2020,0,0,6
+MOZ,Mozambique,Angónia,2008,0,0,1
+MOZ,Mozambique,Angónia,2019,0,0,2
+MOZ,Mozambique,Angónia,2023,20,1,20
+MOZ,Mozambique,Balama,2008,9,1,9
+MOZ,Mozambique,Balama,2014,0,0,5
+MOZ,Mozambique,Balama,2021,10,1,10
+MOZ,Mozambique,Barue,2007,0,0,4
+MOZ,Mozambique,Barue,2008,0,0,1
+MOZ,Mozambique,Barue,2014,0,0,3
+MOZ,Mozambique,Barue,2017,0,0,4
+MOZ,Mozambique,Barue,2021,0,0,5
+MOZ,Mozambique,Bilene,2007,0,0,1
+MOZ,Mozambique,Boane,2023,22,1,22
+MOZ,Mozambique,Cahora Bassa,2008,9,1,9
+MOZ,Mozambique,Cahora Bassa,2010,7,1,7
+MOZ,Mozambique,Cahora Bassa,2017,0,0,2
+MOZ,Mozambique,Cahora Bassa,2025,0,0,5
+MOZ,Mozambique,Caia,2008,0,0,5
+MOZ,Mozambique,Caia,2013,0,0,5
+MOZ,Mozambique,Caia,2015,9,1,9
+MOZ,Mozambique,Caia,2023,0,0,1
+MOZ,Mozambique,Changara,2008,7,1,7
+MOZ,Mozambique,Changara,2017,0,0,6
+MOZ,Mozambique,Changara,2023,0,0,1
+MOZ,Mozambique,Changara,2025,10,1,10
+MOZ,Mozambique,Chemba,2013,0,0,6
+MOZ,Mozambique,Chemba,2022,0,0,2
+MOZ,Mozambique,Chemba,2023,0,0,4
+MOZ,Mozambique,Chemba,2025,7,1,7
+MOZ,Mozambique,Chibuto,2021,14,1,14
+MOZ,Mozambique,Chibuto,2023,8,1,8
+MOZ,Mozambique,Chibuto,2025,0,0,2
+MOZ,Mozambique,Chicualacuala,2021,23,2,16
+MOZ,Mozambique,Chifunde,2017,7,1,7
+MOZ,Mozambique,Chifunde,2022,0,0,2
+MOZ,Mozambique,Chifunde,2023,8,1,8
+MOZ,Mozambique,Chifunde,2025,0,0,2
+MOZ,Mozambique,Chiuta,2008,0,0,4
+MOZ,Mozambique,Chiuta,2010,0,0,1
+MOZ,Mozambique,Chiuta,2017,0,0,4
+MOZ,Mozambique,Chiuta,2022,0,0,3
+MOZ,Mozambique,Chiuta,2025,8,1,8
+MOZ,Mozambique,Chiúre,2007,0,0,3
+MOZ,Mozambique,Chiúre,2008,0,0,1
+MOZ,Mozambique,Chiúre,2014,0,0,1
+MOZ,Mozambique,Chiúre,2015,0,0,3
+MOZ,Mozambique,Chiúre,2024,13,1,13
+MOZ,Mozambique,Chókwè,2021,19,1,19
+MOZ,Mozambique,Cuamba,2008,0,0,1
+MOZ,Mozambique,Cuamba,2014,9,1,9
+MOZ,Mozambique,Cuamba,2025,8,1,8
+MOZ,Mozambique,Erati,2007,0,0,3
+MOZ,Mozambique,Erati,2008,0,0,5
+MOZ,Mozambique,Erati,2024,15,1,15
+MOZ,Mozambique,Funhalouro,2017,0,0,5
+MOZ,Mozambique,Funhalouro,2021,10,1,10
+MOZ,Mozambique,Funhalouro,2023,0,0,6
+MOZ,Mozambique,Gile,2007,0,0,1
+MOZ,Mozambique,Gile,2013,11,1,11
+MOZ,Mozambique,Gile,2014,0,0,2
+MOZ,Mozambique,Gile,2015,0,0,6
+MOZ,Mozambique,Gile,2020,0,0,4
+MOZ,Mozambique,Gondola,2010,7,1,7
+MOZ,Mozambique,Gondola,2018,0,0,3
+MOZ,Mozambique,Gondola,2021,14,1,14
+MOZ,Mozambique,Gorongosa,2007,0,0,4
+MOZ,Mozambique,Gorongosa,2008,0,0,1
+MOZ,Mozambique,Gorongosa,2010,0,0,4
+MOZ,Mozambique,Gorongosa,2017,0,0,1
+MOZ,Mozambique,Gorongosa,2021,12,1,12
+MOZ,Mozambique,Gorongosa,2023,0,0,2
+MOZ,Mozambique,Guijá,2021,18,1,18
+MOZ,Mozambique,Guijá,2025,0,0,5
+MOZ,Mozambique,Guro,2008,0,0,3
+MOZ,Mozambique,Guro,2013,0,0,2
+MOZ,Mozambique,Guro,2023,0,0,3
+MOZ,Mozambique,Guro,2025,14,1,14
+MOZ,Mozambique,Gurue,2008,0,0,6
+MOZ,Mozambique,Gurue,2013,7,1,7
+MOZ,Mozambique,Gurue,2020,0,0,3
+MOZ,Mozambique,Gurue,2021,0,0,2
+MOZ,Mozambique,Gurue,2023,0,0,1
+MOZ,Mozambique,Gurue,2025,0,0,3
+MOZ,Mozambique,Ile,2013,10,1,10
+MOZ,Mozambique,Ile,2014,0,0,2
+MOZ,Mozambique,Ile,2020,0,0,6
+MOZ,Mozambique,Ile,2024,0,0,5
+MOZ,Mozambique,Lalaua,2007,15,1,15
+MOZ,Mozambique,Lalaua,2008,0,0,1
+MOZ,Mozambique,Lalaua,2013,0,0,5
+MOZ,Mozambique,Lalaua,2014,0,0,1
+MOZ,Mozambique,Lalaua,2021,0,0,3
+MOZ,Mozambique,Mabote,2021,21,2,12
+MOZ,Mozambique,Mabote,2023,0,0,4
+MOZ,Mozambique,Macanga,2008,0,0,4
+MOZ,Mozambique,Macanga,2017,0,0,3
+MOZ,Mozambique,Macanga,2019,0,0,1
+MOZ,Mozambique,Macanga,2022,0,0,2
+MOZ,Mozambique,Macanga,2023,9,1,9
+MOZ,Mozambique,Macanga,2025,0,0,4
+MOZ,Mozambique,Magoe,2008,11,1,11
+MOZ,Mozambique,Magoe,2010,0,0,3
+MOZ,Mozambique,Magoe,2017,7,1,7
+MOZ,Mozambique,Magoe,2023,0,0,2
+MOZ,Mozambique,Magude,2017,0,0,5
+MOZ,Mozambique,Magude,2021,14,1,14
+MOZ,Mozambique,Magude,2023,0,0,2
+MOZ,Mozambique,Magude,2025,0,0,2
+MOZ,Mozambique,Malema,2013,0,0,4
+MOZ,Mozambique,Malema,2014,7,1,7
+MOZ,Mozambique,Malema,2021,0,0,6
+MOZ,Mozambique,Malema,2025,0,0,4
+MOZ,Mozambique,Mandimba,2014,0,0,5
+MOZ,Mozambique,Mandimba,2019,0,0,3
+MOZ,Mozambique,Mandimba,2021,8,1,8
+MOZ,Mozambique,Mandimba,2023,0,0,3
+MOZ,Mozambique,Manica,2007,0,0,3
+MOZ,Mozambique,Manica,2008,0,0,1
+MOZ,Mozambique,Manica,2017,0,0,3
+MOZ,Mozambique,Manica,2018,0,0,4
+MOZ,Mozambique,Manica,2021,14,1,14
+MOZ,Mozambique,Maravia,2008,9,1,9
+MOZ,Mozambique,Maravia,2017,0,0,6
+MOZ,Mozambique,Maravia,2025,8,1,8
+MOZ,Mozambique,Maringue,2010,0,0,4
+MOZ,Mozambique,Maringue,2013,7,1,7
+MOZ,Mozambique,Maringue,2020,0,0,5
+MOZ,Mozambique,Maringue,2021,0,0,1
+MOZ,Mozambique,Maringue,2023,0,0,4
+MOZ,Mozambique,Maringue,2025,0,0,1
+MOZ,Mozambique,Marrupa,2008,0,0,2
+MOZ,Mozambique,Marrupa,2014,0,0,3
+MOZ,Mozambique,Marrupa,2021,10,1,10
+MOZ,Mozambique,Marrupa,2022,0,0,3
+MOZ,Mozambique,Marrupa,2024,0,0,4
+MOZ,Mozambique,Maúa,2007,7,1,7
+MOZ,Mozambique,Maúa,2008,0,0,2
+MOZ,Mozambique,Maúa,2010,0,0,3
+MOZ,Mozambique,Maúa,2021,8,1,8
+MOZ,Mozambique,Maúa,2023,0,0,1
+MOZ,Mozambique,Meconta,2008,0,0,3
+MOZ,Mozambique,Meconta,2015,20,1,20
+MOZ,Mozambique,Mecuburi,2007,15,1,15
+MOZ,Mozambique,Mecuburi,2014,0,0,1
+MOZ,Mozambique,Mecuburi,2015,0,0,5
+MOZ,Mozambique,Mecuburi,2021,0,0,3
+MOZ,Mozambique,Meluco,2024,12,1,12
+MOZ,Mozambique,Metarica,2007,0,0,2
+MOZ,Mozambique,Metarica,2008,0,0,2
+MOZ,Mozambique,Metarica,2010,0,0,1
+MOZ,Mozambique,Metarica,2014,0,0,6
+MOZ,Mozambique,Metarica,2019,0,0,2
+MOZ,Mozambique,Metarica,2021,7,1,7
+MOZ,Mozambique,Metarica,2023,0,0,1
+MOZ,Mozambique,Metarica,2025,0,0,2
+MOZ,Mozambique,Milange,2008,19,2,11
+MOZ,Mozambique,Milange,2013,0,0,4
+MOZ,Mozambique,Milange,2025,0,0,2
+MOZ,Mozambique,Moatize,2008,9,1,9
+MOZ,Mozambique,Moatize,2013,0,0,5
+MOZ,Mozambique,Moatize,2022,0,0,3
+MOZ,Mozambique,Moatize,2025,0,0,6
+MOZ,Mozambique,Mogovolas,2013,0,0,6
+MOZ,Mozambique,Mogovolas,2015,17,1,17
+MOZ,Mozambique,Mogovolas,2019,0,0,1
+MOZ,Mozambique,Monapo,2007,0,0,1
+MOZ,Mozambique,Monapo,2008,8,1,8
+MOZ,Mozambique,Monapo,2015,15,1,15
+MOZ,Mozambique,Montepuez,2008,0,0,1
+MOZ,Mozambique,Montepuez,2014,0,0,2
+MOZ,Mozambique,Montepuez,2021,10,1,10
+MOZ,Mozambique,Montepuez,2022,0,0,5
+MOZ,Mozambique,Montepuez,2024,7,1,7
+MOZ,Mozambique,Mopeia,2007,0,0,3
+MOZ,Mozambique,Mopeia,2013,7,1,7
+MOZ,Mozambique,Mopeia,2022,0,0,6
+MOZ,Mozambique,Mopeia,2025,0,0,4
+MOZ,Mozambique,Morrumbala,2013,14,1,14
+MOZ,Mozambique,Morrumbala,2020,0,0,4
+MOZ,Mozambique,Morrumbala,2022,0,0,1
+MOZ,Mozambique,Morrumbala,2023,0,0,1
+MOZ,Mozambique,Morrumbala,2025,0,0,4
+MOZ,Mozambique,Mossurize,2017,0,0,3
+MOZ,Mozambique,Mossurize,2021,20,1,20
+MOZ,Mozambique,Muecate,2007,0,0,6
+MOZ,Mozambique,Muecate,2008,0,0,1
+MOZ,Mozambique,Muecate,2014,0,0,3
+MOZ,Mozambique,Muecate,2015,9,1,9
+MOZ,Mozambique,Muecate,2024,0,0,1
+MOZ,Mozambique,Mueda,2022,0,0,2
+MOZ,Mozambique,Mueda,2024,21,2,12
+MOZ,Mozambique,Muembe,2008,0,0,5
+MOZ,Mozambique,Muembe,2010,0,0,2
+MOZ,Mozambique,Muembe,2019,0,0,5
+MOZ,Mozambique,Muembe,2020,7,1,7
+MOZ,Mozambique,Muembe,2021,0,0,2
+MOZ,Mozambique,Muembe,2022,0,0,2
+MOZ,Mozambique,Muembe,2023,0,0,1
+MOZ,Mozambique,Muidumbe,2020,0,0,1
+MOZ,Mozambique,Muidumbe,2024,24,1,24
+MOZ,Mozambique,Murrupula,2013,14,1,14
+MOZ,Mozambique,Murrupula,2015,11,1,11
+MOZ,Mozambique,Mutarara,2008,0,0,5
+MOZ,Mozambique,Mutarara,2013,11,1,11
+MOZ,Mozambique,Mutarara,2023,0,0,3
+MOZ,Mozambique,Mutarara,2025,0,0,4
+MOZ,Mozambique,N'gauma,2008,0,0,5
+MOZ,Mozambique,N'gauma,2010,7,1,7
+MOZ,Mozambique,N'gauma,2020,0,0,2
+MOZ,Mozambique,N'gauma,2021,0,0,1
+MOZ,Mozambique,N'gauma,2023,0,0,5
+MOZ,Mozambique,Namapa,2007,0,0,1
+MOZ,Mozambique,Namarroi,2007,0,0,1
+MOZ,Mozambique,Namarroi,2008,0,0,2
+MOZ,Mozambique,Namarroi,2010,0,0,5
+MOZ,Mozambique,Namarroi,2013,8,1,8
+MOZ,Mozambique,Namarroi,2020,0,0,5
+MOZ,Mozambique,Namarroi,2023,0,0,1
+MOZ,Mozambique,Namarroi,2025,0,0,1
+MOZ,Mozambique,Nampula,2013,0,0,3
+MOZ,Mozambique,Nampula,2014,0,0,1
+MOZ,Mozambique,Nampula,2015,20,1,20
+MOZ,Mozambique,Namuno,2007,12,1,12
+MOZ,Mozambique,Namuno,2008,0,0,1
+MOZ,Mozambique,Namuno,2014,0,0,4
+MOZ,Mozambique,Namuno,2021,0,0,3
+MOZ,Mozambique,Namuno,2024,0,0,2
+MOZ,Mozambique,Nhamatanda,2017,0,0,1
+MOZ,Mozambique,Nhamatanda,2018,14,2,7
+MOZ,Mozambique,Nhamatanda,2021,8,1,8
+MOZ,Mozambique,Nhamatanda,2023,0,0,1
+MOZ,Mozambique,Nicoadala,2007,0,0,1
+MOZ,Mozambique,Nipepe,2007,0,0,6
+MOZ,Mozambique,Nipepe,2011,0,0,1
+MOZ,Mozambique,Nipepe,2013,7,1,7
+MOZ,Mozambique,Nipepe,2021,8,1,8
+MOZ,Mozambique,Nipepe,2023,0,0,2
+MOZ,Mozambique,Ribaue,2007,10,1,10
+MOZ,Mozambique,Ribaue,2008,0,0,2
+MOZ,Mozambique,Ribaue,2015,0,0,6
+MOZ,Mozambique,Ribaue,2021,0,0,2
+MOZ,Mozambique,Sanga,2008,0,0,1
+MOZ,Mozambique,Sanga,2020,13,1,13
+MOZ,Mozambique,Sanga,2022,0,0,4
+MOZ,Mozambique,Sanga,2024,0,0,1
+MOZ,Mozambique,Sussundenga,2017,0,0,3
+MOZ,Mozambique,Sussundenga,2018,0,0,4
+MOZ,Mozambique,Sussundenga,2021,18,1,18
+MOZ,Mozambique,Tsangano,2008,7,1,7
+MOZ,Mozambique,Tsangano,2019,0,0,3
+MOZ,Mozambique,Tsangano,2022,0,0,1
+MOZ,Mozambique,Tsangano,2023,14,2,7
+MOZ,Mozambique,Zumbu,2008,17,2,9
+MOZ,Mozambique,Zumbu,2017,0,0,5
+MWI,Malawi,Blantyre City,2007,0,0,1
+MWI,Malawi,Mwanza Boma,2007,0,0,1
+MWI,Malawi,SC Chakhaza,2007,7,1,7
+MWI,Malawi,SC Chakhaza,2019,0,0,4
+MWI,Malawi,SC Chakhaza,2022,0,0,3
+MWI,Malawi,SC Chakhaza,2023,0,0,3
+MWI,Malawi,SC Chamba,2007,0,0,1
+MWI,Malawi,SC Chilooko,2007,9,1,9
+MWI,Malawi,SC Chilooko,2020,0,0,2
+MWI,Malawi,SC Chilooko,2022,0,0,6
+MWI,Malawi,SC Chilooko,2024,0,0,4
+MWI,Malawi,SC Chilowamatambe,2007,7,1,7
+MWI,Malawi,SC Chilowamatambe,2008,0,0,1
+MWI,Malawi,SC Chilowamatambe,2020,0,0,1
+MWI,Malawi,SC Chilowamatambe,2022,0,0,4
+MWI,Malawi,SC Chilowamatambe,2025,0,0,1
+MWI,Malawi,SC Chitekwele,2007,0,0,1
+MWI,Malawi,SC Chowe,2008,0,0,2
+MWI,Malawi,SC Chowe,2022,0,0,2
+MWI,Malawi,SC Chowe,2025,7,1,7
+MWI,Malawi,SC Dambe,2007,9,1,9
+MWI,Malawi,SC Goodson Ganya,2008,12,1,12
+MWI,Malawi,SC Goodson Ganya,2020,0,0,2
+MWI,Malawi,SC Goodson Ganya,2023,0,0,3
+MWI,Malawi,SC Juma,2007,0,0,1
+MWI,Malawi,SC Kamenya Gwaza,2007,0,0,1
+MWI,Malawi,SC Kampingo Sibande,2007,0,0,3
+MWI,Malawi,SC Kampingo Sibande,2020,0,0,4
+MWI,Malawi,SC Kampingo Sibande,2022,0,0,1
+MWI,Malawi,SC Kampingo Sibande,2024,0,0,5
+MWI,Malawi,SC Kawamba,2007,7,1,7
+MWI,Malawi,SC Kawamba,2021,0,0,4
+MWI,Malawi,SC Kawamba,2022,0,0,3
+MWI,Malawi,SC Kawamba,2023,0,0,5
+MWI,Malawi,SC Kayembe,2007,7,1,7
+MWI,Malawi,SC Kayembe,2017,0,0,4
+MWI,Malawi,SC Kayembe,2022,0,0,3
+MWI,Malawi,SC Kayembe,2023,0,0,1
+MWI,Malawi,SC Khosolo Gwaza Jere,2020,0,0,2
+MWI,Malawi,SC Khosolo Gwaza Jere,2022,8,1,8
+MWI,Malawi,SC Khosolo Gwaza Jere,2023,0,0,2
+MWI,Malawi,SC Khosolo Gwaza Jere,2024,0,0,5
+MWI,Malawi,SC Lukwa,2007,0,0,4
+MWI,Malawi,SC Lukwa,2022,0,0,6
+MWI,Malawi,SC Lukwa,2023,0,0,5
+MWI,Malawi,SC Makwangwala,2008,12,1,12
+MWI,Malawi,SC Makwangwala,2020,0,0,2
+MWI,Malawi,SC Makwangwala,2023,0,0,6
+MWI,Malawi,SC Mbenje,2008,0,0,4
+MWI,Malawi,SC Mbenje,2013,11,1,11
+MWI,Malawi,SC Mbenje,2023,0,0,3
+MWI,Malawi,SC Mbenje,2025,0,0,3
+MWI,Malawi,SC Mbiza,2007,0,0,1
+MWI,Malawi,SC Mbwana Nyambi,2008,0,0,2
+MWI,Malawi,SC Mbwana Nyambi,2023,7,1,7
+MWI,Malawi,SC Mbwana Nyambi,2025,9,1,9
+MWI,Malawi,SC Mduwa,2007,7,1,7
+MWI,Malawi,SC Mduwa,2017,0,0,5
+MWI,Malawi,SC Mduwa,2019,0,0,5
+MWI,Malawi,SC Mduwa,2023,0,0,1
+MWI,Malawi,SC Mposa,2008,10,1,10
+MWI,Malawi,SC Mposa,2023,12,1,12
+MWI,Malawi,SC Mtema,2007,7,1,7
+MWI,Malawi,SC Mwahenga,2022,0,0,2
+MWI,Malawi,SC Mwahenga,2024,17,1,17
+MWI,Malawi,SC Mwankhunikira,2007,10,1,10
+MWI,Malawi,SC Mwankhunikira,2024,12,1,12
+MWI,Malawi,SC Mwirang'ombe,2022,7,1,7
+MWI,Malawi,SC Mwirang'ombe,2024,11,1,11
+MWI,Malawi,SC Njewa,2007,7,1,7
+MWI,Malawi,SC Njewa,2022,0,0,1
+MWI,Malawi,SC Njewa,2023,0,0,3
+MWI,Malawi,SC Njombwa,2007,9,1,9
+MWI,Malawi,SC Njombwa,2019,0,0,2
+MWI,Malawi,SC Njombwa,2022,0,0,3
+MWI,Malawi,SC Njombwa,2023,0,0,5
+MWI,Malawi,SC Simlemba,2007,0,0,4
+MWI,Malawi,SC Simlemba,2008,0,0,3
+MWI,Malawi,SC Simlemba,2014,0,0,5
+MWI,Malawi,SC Simlemba,2020,0,0,1
+MWI,Malawi,SC Simlemba,2022,0,0,2
+MWI,Malawi,SC Simlemba,2023,0,0,5
+MWI,Malawi,SC Sitola,2008,7,1,7
+MWI,Malawi,SC Sitola,2019,0,0,5
+MWI,Malawi,SC Sitola,2023,0,0,3
+MWI,Malawi,TA Bvumbwe,2007,0,0,3
+MWI,Malawi,TA Bvumbwe,2008,0,0,2
+MWI,Malawi,TA Bvumbwe,2015,9,1,9
+MWI,Malawi,TA Bvumbwe,2023,0,0,4
+MWI,Malawi,TA Bvumbwe,2024,0,0,1
+MWI,Malawi,TA Chapananga,2008,7,1,7
+MWI,Malawi,TA Chapananga,2013,7,1,7
+MWI,Malawi,TA Chapananga,2015,0,0,6
+MWI,Malawi,TA Chapananga,2023,0,0,1
+MWI,Malawi,TA Chapananga,2025,0,0,1
+MWI,Malawi,TA Chigaru,2008,0,0,5
+MWI,Malawi,TA Chigaru,2019,7,1,7
+MWI,Malawi,TA Chigaru,2023,9,1,9
+MWI,Malawi,TA Chikowi,2008,11,1,11
+MWI,Malawi,TA Chikowi,2013,0,0,1
+MWI,Malawi,TA Chikowi,2020,0,0,4
+MWI,Malawi,TA Chikowi,2023,0,0,2
+MWI,Malawi,TA Chikulamayembe,2016,0,0,2
+MWI,Malawi,TA Chikulamayembe,2020,7,1,7
+MWI,Malawi,TA Chikulamayembe,2022,0,0,3
+MWI,Malawi,TA Chikulamayembe,2024,0,0,5
+MWI,Malawi,TA Chikumbu,2007,0,0,1
+MWI,Malawi,TA Chimaliro,2007,0,0,3
+MWI,Malawi,TA Chimaliro,2008,12,1,12
+MWI,Malawi,TA Chimaliro,2015,0,0,1
+MWI,Malawi,TA Chimaliro,2024,0,0,1
+MWI,Malawi,TA Chimutu,2007,0,0,5
+MWI,Malawi,TA Chimutu,2008,7,1,7
+MWI,Malawi,TA Chimutu,2014,0,0,2
+MWI,Malawi,TA Chimutu,2019,0,0,2
+MWI,Malawi,TA Chimutu,2022,0,0,2
+MWI,Malawi,TA Chimwala,2008,7,1,7
+MWI,Malawi,TA Chimwala,2017,0,0,2
+MWI,Malawi,TA Chimwala,2020,0,0,2
+MWI,Malawi,TA Chindi,2007,0,0,2
+MWI,Malawi,TA Chindi,2020,0,0,2
+MWI,Malawi,TA Chindi,2022,10,1,10
+MWI,Malawi,TA Chindi,2024,0,0,3
+MWI,Malawi,TA Chiseka,2007,7,1,7
+MWI,Malawi,TA Chiseka,2008,0,0,4
+MWI,Malawi,TA Chiseka,2019,11,1,11
+MWI,Malawi,TA Chitera,2007,0,0,1
+MWI,Malawi,TA Chitukula,2007,7,1,7
+MWI,Malawi,TA Chitukula,2019,0,0,4
+MWI,Malawi,TA Chitukula,2022,0,0,1
+MWI,Malawi,TA Chitukula,2023,0,0,3
+MWI,Malawi,TA Chiwere,2007,7,1,7
+MWI,Malawi,TA Chiwere,2008,12,1,12
+MWI,Malawi,TA Chiwere,2014,0,0,1
+MWI,Malawi,TA Chulu,2007,7,1,7
+MWI,Malawi,TA Chulu,2008,0,0,3
+MWI,Malawi,TA Chulu,2014,0,0,5
+MWI,Malawi,TA Chulu,2022,0,0,4
+MWI,Malawi,TA Chulu,2023,0,0,2
+MWI,Malawi,TA Dzoole,2007,7,1,7
+MWI,Malawi,TA Dzoole,2017,0,0,3
+MWI,Malawi,TA Dzoole,2019,0,0,6
+MWI,Malawi,TA Dzoole,2022,0,0,3
+MWI,Malawi,TA Kabudula,2007,9,1,9
+MWI,Malawi,TA Kabudula,2017,0,0,4
+MWI,Malawi,TA Kabudula,2019,0,0,6
+MWI,Malawi,TA Kadewere,2007,0,0,1
+MWI,Malawi,TA Kalembo,2008,8,1,8
+MWI,Malawi,TA Kalembo,2013,0,0,1
+MWI,Malawi,TA Kalembo,2019,0,0,2
+MWI,Malawi,TA Kalembo,2022,0,0,1
+MWI,Malawi,TA Kalembo,2025,0,0,4
+MWI,Malawi,TA Kalolo,2007,9,1,9
+MWI,Malawi,TA Kalolo,2008,0,0,2
+MWI,Malawi,TA Kalolo,2019,9,1,9
+MWI,Malawi,TA Kaluluma,2007,7,1,7
+MWI,Malawi,TA Kaluluma,2014,0,0,1
+MWI,Malawi,TA Kaluluma,2021,10,1,10
+MWI,Malawi,TA Kaluluma,2023,0,0,3
+MWI,Malawi,TA Kalumba,2007,7,1,7
+MWI,Malawi,TA Kalumba,2008,0,0,3
+MWI,Malawi,TA Kalumba,2019,0,0,3
+MWI,Malawi,TA Kalumba,2023,0,0,3
+MWI,Malawi,TA Kalumo,2007,7,1,7
+MWI,Malawi,TA Kalumo,2008,0,0,2
+MWI,Malawi,TA Kalumo,2019,0,0,4
+MWI,Malawi,TA Kalumo,2022,0,0,4
+MWI,Malawi,TA Kalumo,2023,0,0,3
+MWI,Malawi,TA Kameme,2020,0,0,4
+MWI,Malawi,TA Kameme,2022,13,1,13
+MWI,Malawi,TA Kameme,2024,0,0,5
+MWI,Malawi,TA Kanduku,2007,7,1,7
+MWI,Malawi,TA Kanduku,2008,7,1,7
+MWI,Malawi,TA Kanduku,2013,0,0,3
+MWI,Malawi,TA Kanduku,2015,0,0,3
+MWI,Malawi,TA Kaomba,2007,7,1,7
+MWI,Malawi,TA Kaomba,2022,0,0,3
+MWI,Malawi,TA Kaomba,2023,0,0,5
+MWI,Malawi,TA Kaomba,2025,0,0,2
+MWI,Malawi,TA Kapelula,2007,10,1,10
+MWI,Malawi,TA Kapelula,2022,0,0,4
+MWI,Malawi,TA Kapelula,2023,0,0,1
+MWI,Malawi,TA Kapelula,2024,0,0,6
+MWI,Malawi,TA Kapeni,2007,0,0,1
+MWI,Malawi,TA Kaphuka,2008,0,0,3
+MWI,Malawi,TA Kaphuka,2019,0,0,4
+MWI,Malawi,TA Kaphuka,2023,15,1,15
+MWI,Malawi,TA Kasumbu,2008,8,1,8
+MWI,Malawi,TA Kasumbu,2020,0,0,3
+MWI,Malawi,TA Kasumbu,2022,0,0,1
+MWI,Malawi,TA Kasumbu,2023,0,0,5
+MWI,Malawi,TA Katuli,2008,8,1,8
+MWI,Malawi,TA Katuli,2010,0,0,2
+MWI,Malawi,TA Katuli,2012,0,0,2
+MWI,Malawi,TA Katuli,2020,0,0,1
+MWI,Malawi,TA Katunga,2008,7,1,7
+MWI,Malawi,TA Katunga,2013,0,0,6
+MWI,Malawi,TA Katunga,2015,0,0,6
+MWI,Malawi,TA Katunga,2023,0,0,1
+MWI,Malawi,TA Katunga,2025,0,0,1
+MWI,Malawi,TA Kawinga,2008,0,0,6
+MWI,Malawi,TA Kawinga,2020,16,1,16
+MWI,Malawi,TA Khombedza,2008,14,1,14
+MWI,Malawi,TA Khombedza,2022,0,0,4
+MWI,Malawi,TA Khongoni,2007,7,1,7
+MWI,Malawi,TA Khongoni,2017,0,0,5
+MWI,Malawi,TA Khongoni,2019,8,1,8
+MWI,Malawi,TA Kuntaja,2015,0,0,2
+MWI,Malawi,TA Kuntaja,2019,0,0,2
+MWI,Malawi,TA Kuntaja,2023,15,1,15
+MWI,Malawi,TA Kuntaja,2024,0,0,1
+MWI,Malawi,TA Kunthembwe,2015,8,1,8
+MWI,Malawi,TA Kunthembwe,2019,0,0,2
+MWI,Malawi,TA Kunthembwe,2023,12,1,12
+MWI,Malawi,TA Kuntumanji,2008,0,0,1
+MWI,Malawi,TA Kuntumanji,2023,13,1,13
+MWI,Malawi,TA Likoswe,2007,0,0,1
+MWI,Malawi,TA Liwonde,2008,18,1,18
+MWI,Malawi,TA Liwonde,2020,0,0,1
+MWI,Malawi,TA Lundu,2007,0,0,4
+MWI,Malawi,TA Lundu,2020,0,0,2
+MWI,Malawi,TA Lundu,2023,0,0,1
+MWI,Malawi,TA Lundu,2025,0,0,3
+MWI,Malawi,TA M'Mbelwa,2007,9,1,9
+MWI,Malawi,TA M'Mbelwa,2012,0,0,1
+MWI,Malawi,TA M'Mbelwa,2022,7,1,7
+MWI,Malawi,TA M'Mbelwa,2024,0,0,5
+MWI,Malawi,TA Mabuka,2008,15,1,15
+MWI,Malawi,TA Mabuka,2013,0,0,3
+MWI,Malawi,TA Mabuka,2020,0,0,2
+MWI,Malawi,TA Mabulabo,2007,0,0,4
+MWI,Malawi,TA Mabulabo,2014,0,0,1
+MWI,Malawi,TA Mabulabo,2020,0,0,6
+MWI,Malawi,TA Mabulabo,2022,0,0,5
+MWI,Malawi,TA Mabulabo,2023,0,0,1
+MWI,Malawi,TA Mabulabo,2024,0,0,2
+MWI,Malawi,TA Machinjili,2015,0,0,2
+MWI,Malawi,TA Machinjili,2023,13,1,13
+MWI,Malawi,TA Machinjili,2024,0,0,2
+MWI,Malawi,TA Makata,2008,0,0,5
+MWI,Malawi,TA Makata,2023,15,1,15
+MWI,Malawi,TA Makhwira,2007,0,0,3
+MWI,Malawi,TA Makhwira,2008,14,2,7
+MWI,Malawi,TA Malemia,2008,14,1,14
+MWI,Malawi,TA Malemia,2023,0,0,1
+MWI,Malawi,TA Malili,2007,9,1,9
+MWI,Malawi,TA Malili,2008,0,0,2
+MWI,Malawi,TA Malili,2019,9,1,9
+MWI,Malawi,TA Malili,2022,0,0,2
+MWI,Malawi,TA Masasa,2008,12,1,12
+MWI,Malawi,TA Masasa,2017,0,0,6
+MWI,Malawi,TA Maseya,2007,0,0,3
+MWI,Malawi,TA Maseya,2008,7,1,7
+MWI,Malawi,TA Maseya,2013,0,0,3
+MWI,Malawi,TA Maseya,2025,0,0,1
+MWI,Malawi,TA Mazengera,2007,7,1,7
+MWI,Malawi,TA Mazengera,2008,10,1,10
+MWI,Malawi,TA Mazengera,2014,0,0,1
+MWI,Malawi,TA Mazengera,2019,0,0,1
+MWI,Malawi,TA Mazengera,2023,0,0,1
+MWI,Malawi,TA Mkanda,2007,9,1,9
+MWI,Malawi,TA Mkanda,2021,0,0,1
+MWI,Malawi,TA Mkanda,2022,0,0,4
+MWI,Malawi,TA Mkanda,2023,0,0,5
+MWI,Malawi,TA Mkhumba,2008,10,1,10
+MWI,Malawi,TA Mkhumba,2013,8,1,8
+MWI,Malawi,TA Mkhumba,2019,0,0,4
+MWI,Malawi,TA Mlauli,2007,0,0,1
+MWI,Malawi,TA Mlauli,2008,7,1,7
+MWI,Malawi,TA Mlauli,2013,0,0,3
+MWI,Malawi,TA Mlauli,2015,9,1,9
+MWI,Malawi,TA Mlauli,2019,0,0,1
+MWI,Malawi,TA Mlolo,2008,8,1,8
+MWI,Malawi,TA Mlolo,2013,9,1,9
+MWI,Malawi,TA Mlolo,2024,0,0,2
+MWI,Malawi,TA Mlolo,2025,0,0,1
+MWI,Malawi,TA Mlonyeni,2007,0,0,2
+MWI,Malawi,TA Mlonyeni,2022,0,0,2
+MWI,Malawi,TA Mlonyeni,2023,0,0,3
+MWI,Malawi,TA Mlumbe,2008,7,1,7
+MWI,Malawi,TA Mlumbe,2019,0,0,2
+MWI,Malawi,TA Mlumbe,2020,0,0,1
+MWI,Malawi,TA Mlumbe,2023,12,1,12
+MWI,Malawi,TA Mpama,2008,0,0,5
+MWI,Malawi,TA Mpama,2023,16,1,16
+MWI,Malawi,TA Mpando,2008,0,0,3
+MWI,Malawi,TA Mpando,2020,0,0,1
+MWI,Malawi,TA Mpando,2023,18,2,10
+MWI,Malawi,TA Mpherembe,2007,0,0,2
+MWI,Malawi,TA Mpherembe,2008,0,0,5
+MWI,Malawi,TA Mpherembe,2020,7,1,7
+MWI,Malawi,TA Mpherembe,2022,0,0,4
+MWI,Malawi,TA Mpherembe,2024,0,0,3
+MWI,Malawi,TA Msakambewa,2007,7,1,7
+MWI,Malawi,TA Msakambewa,2008,0,0,3
+MWI,Malawi,TA Msakambewa,2019,7,1,7
+MWI,Malawi,TA Msakambewa,2022,0,0,1
+MWI,Malawi,TA Mtwalo,2007,0,0,2
+MWI,Malawi,TA Mtwalo,2020,9,1,9
+MWI,Malawi,TA Mtwalo,2022,0,0,2
+MWI,Malawi,TA Mtwalo,2024,0,0,5
+MWI,Malawi,TA Mwabulambya,2020,0,0,6
+MWI,Malawi,TA Mwabulambya,2022,0,0,3
+MWI,Malawi,TA Mwabulambya,2024,10,1,10
+MWI,Malawi,TA Mwase,2007,7,1,7
+MWI,Malawi,TA Mwase,2022,0,0,6
+MWI,Malawi,TA Mwase,2023,0,0,5
+MWI,Malawi,TA Mzikubola,2007,12,1,12
+MWI,Malawi,TA Mzikubola,2020,0,0,2
+MWI,Malawi,TA Mzikubola,2022,0,0,2
+MWI,Malawi,TA Mzikubola,2024,0,0,5
+MWI,Malawi,TA Mzukuzuku,2007,10,1,10
+MWI,Malawi,TA Mzukuzuku,2012,0,0,1
+MWI,Malawi,TA Mzukuzuku,2022,0,0,5
+MWI,Malawi,TA Mzukuzuku,2024,0,0,3
+MWI,Malawi,TA Nazombe,2008,10,1,10
+MWI,Malawi,TA Nazombe,2013,0,0,6
+MWI,Malawi,TA Nazombe,2019,0,0,4
+MWI,Malawi,TA Nchema,2008,9,1,9
+MWI,Malawi,TA Nchema,2020,0,0,3
+MWI,Malawi,TA Nchema,2023,9,1,9
+MWI,Malawi,TA Ngabu,2008,8,1,8
+MWI,Malawi,TA Ngabu,2013,8,1,8
+MWI,Malawi,TA Ngabu,2023,0,0,1
+MWI,Malawi,TA Njolomole,2007,7,1,7
+MWI,Malawi,TA Njolomole,2008,7,1,7
+MWI,Malawi,TA Njolomole,2023,0,0,5
+MWI,Malawi,TA Nkalo,2008,9,1,9
+MWI,Malawi,TA Nkalo,2020,0,0,3
+MWI,Malawi,TA Nkalo,2023,7,1,7
+MWI,Malawi,TA Nkanda,2008,10,1,10
+MWI,Malawi,TA Nkanda,2013,8,1,8
+MWI,Malawi,TA Nkanda,2019,0,0,4
+MWI,Malawi,TA Nsamala,2008,7,1,7
+MWI,Malawi,TA Nsamala,2013,0,0,6
+MWI,Malawi,TA Nsamala,2019,0,0,3
+MWI,Malawi,TA Nsamala,2023,0,0,3
+MWI,Malawi,TA Nthache,2007,0,0,5
+MWI,Malawi,TA Nthache,2008,10,1,10
+MWI,Malawi,TA Nthache,2013,0,0,3
+MWI,Malawi,TA Nthache,2015,0,0,3
+MWI,Malawi,TA Nthalire,2018,0,0,2
+MWI,Malawi,TA Nthalire,2022,0,0,4
+MWI,Malawi,TA Nthalire,2024,16,1,16
+MWI,Malawi,TA Nthiramanja,2008,15,1,15
+MWI,Malawi,TA Nthiramanja,2013,0,0,3
+MWI,Malawi,TA Nthiramanja,2020,0,0,3
+MWI,Malawi,TA Nthiramanja,2025,0,0,1
+MWI,Malawi,TA Nyambi,2008,8,1,8
+MWI,Malawi,TA Nyambi,2014,0,0,4
+MWI,Malawi,TA Nyambi,2020,0,0,6
+MWI,Malawi,TA Nyambi,2025,0,0,4
+MWI,Malawi,TA Phambala,2008,7,1,7
+MWI,Malawi,TA Phambala,2019,0,0,2
+MWI,Malawi,TA Phambala,2023,13,1,13
+MWI,Malawi,TA Santhe,2007,7,1,7
+MWI,Malawi,TA Santhe,2017,0,0,6
+MWI,Malawi,TA Santhe,2023,0,0,3
+MWI,Malawi,TA Symon,2008,7,1,7
+MWI,Malawi,TA Symon,2013,0,0,3
+MWI,Malawi,TA Symon,2015,0,0,3
+MWI,Malawi,TA Symon,2019,7,1,7
+MWI,Malawi,TA Symon,2023,0,0,1
+MWI,Malawi,TA Tambala,2007,0,0,4
+MWI,Malawi,TA Tambala,2008,10,1,10
+MWI,Malawi,TA Tambala,2020,0,0,4
+MWI,Malawi,TA Tambala,2022,0,0,3
+MWI,Malawi,TA Tengani,2013,16,1,16
+MWI,Malawi,TA Tengani,2023,0,0,4
+MWI,Malawi,TA Tengani,2025,0,0,1
+MWI,Malawi,TA Wimbe,2007,7,1,7
+MWI,Malawi,TA Wimbe,2008,0,0,1
+MWI,Malawi,TA Wimbe,2020,0,0,1
+MWI,Malawi,TA Wimbe,2022,8,1,8
+MWI,Malawi,TA Wimbe,2023,0,0,1
+MWI,Malawi,TA Wimbe,2024,0,0,4
+MWI,Malawi,TA Zulu,2007,7,1,7
+MWI,Malawi,TA Zulu,2017,0,0,1
+MWI,Malawi,TA Zulu,2019,0,0,1
+MWI,Malawi,TA Zulu,2023,7,1,7
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2008,0,0,3
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2020,9,1,9
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2022,10,1,10
+NAM,Namibia,Anamulenge,2007,0,0,1
+NAM,Namibia,Eenhana,2011,9,1,9
+NAM,Namibia,Eenhana,2017,0,0,3
+NAM,Namibia,Eenhana,2020,8,1,8
+NAM,Namibia,Endola,2007,0,0,1
+NAM,Namibia,Engela,2007,0,0,1
+NAM,Namibia,Engodi,2009,0,0,2
+NAM,Namibia,Engodi,2011,13,1,13
+NAM,Namibia,Engodi,2020,0,0,5
+NAM,Namibia,Epembe,2009,0,0,1
+NAM,Namibia,Epembe,2011,9,1,9
+NAM,Namibia,Epembe,2017,0,0,3
+NAM,Namibia,Epembe,2020,7,1,7
+NAM,Namibia,Etayi,2011,13,1,13
+NAM,Namibia,Etayi,2012,0,0,6
+NAM,Namibia,Grootfontein,2012,7,1,7
+NAM,Namibia,Grootfontein,2014,0,0,3
+NAM,Namibia,Grootfontein,2021,0,0,6
+NAM,Namibia,Grootfontein,2025,0,0,2
+NAM,Namibia,Guinas,2009,18,1,18
+NAM,Namibia,Guinas,2021,0,0,3
+NAM,Namibia,Guinas,2025,0,0,1
+NAM,Namibia,Kahenge,2020,0,0,4
+NAM,Namibia,Kahenge,2021,0,0,5
+NAM,Namibia,Kahenge,2025,8,1,8
+NAM,Namibia,Kapako,2014,0,0,1
+NAM,Namibia,Kapako,2021,17,1,17
+NAM,Namibia,Kapako,2025,0,0,4
+NAM,Namibia,Mashare,2017,0,0,3
+NAM,Namibia,Mashare,2020,0,0,1
+NAM,Namibia,Mashare,2021,13,1,13
+NAM,Namibia,Mashare,2025,0,0,2
+NAM,Namibia,Mpungu,2009,0,0,4
+NAM,Namibia,Mpungu,2011,0,0,3
+NAM,Namibia,Mpungu,2017,0,0,1
+NAM,Namibia,Mpungu,2020,10,1,10
+NAM,Namibia,Mpungu,2025,0,0,3
+NAM,Namibia,Mukwe,2008,13,1,13
+NAM,Namibia,Mukwe,2017,0,0,1
+NAM,Namibia,Mukwe,2021,0,0,6
+NAM,Namibia,Ndiyona,2008,0,0,4
+NAM,Namibia,Ndiyona,2017,0,0,5
+NAM,Namibia,Ndiyona,2021,13,1,13
+NAM,Namibia,Ogongo,2009,13,1,13
+NAM,Namibia,Ogongo,2011,9,1,9
+NAM,Namibia,Ohangwena,2011,0,0,6
+NAM,Namibia,Ohangwena,2012,0,0,6
+NAM,Namibia,Ohangwena,2020,7,1,7
+NAM,Namibia,Okahao,2009,20,1,20
+NAM,Namibia,Okahao,2017,0,0,2
+NAM,Namibia,Okaku,2007,0,0,1
+NAM,Namibia,Okalongo,2011,11,1,11
+NAM,Namibia,Okalongo,2012,0,0,6
+NAM,Namibia,Okankolo,2009,0,0,1
+NAM,Namibia,Okankolo,2011,12,1,12
+NAM,Namibia,Okankolo,2017,0,0,1
+NAM,Namibia,Okankolo,2020,7,1,7
+NAM,Namibia,Okongo,2009,0,0,1
+NAM,Namibia,Okongo,2011,7,1,7
+NAM,Namibia,Okongo,2017,0,0,1
+NAM,Namibia,Okongo,2020,0,0,5
+NAM,Namibia,Omatako,2011,0,0,2
+NAM,Namibia,Omatako,2012,10,1,10
+NAM,Namibia,Omatako,2017,0,0,6
+NAM,Namibia,Omatako,2020,0,0,3
+NAM,Namibia,Omulonga,2011,9,1,9
+NAM,Namibia,Omulonga,2017,0,0,3
+NAM,Namibia,Omulonga,2020,9,1,9
+NAM,Namibia,Omundaungilo,2009,0,0,3
+NAM,Namibia,Omundaungilo,2011,7,1,7
+NAM,Namibia,Omundaungilo,2017,0,0,2
+NAM,Namibia,Omundaungilo,2020,7,1,7
+NAM,Namibia,Omuntele,2009,21,1,21
+NAM,Namibia,Omuthiyagwipundi,2009,7,1,7
+NAM,Namibia,Omuthiyagwipundi,2020,0,0,2
+NAM,Namibia,Omuthiyagwipundi,2025,13,1,13
+NAM,Namibia,Ondangwa,2009,0,0,4
+NAM,Namibia,Ondangwa,2011,17,1,17
+NAM,Namibia,Ondobe,2011,8,1,8
+NAM,Namibia,Ondobe,2017,0,0,4
+NAM,Namibia,Ondobe,2020,8,1,8
+NAM,Namibia,Onesi,2009,13,1,13
+NAM,Namibia,Ongenga,2011,10,1,10
+NAM,Namibia,Ongenga,2012,10,1,10
+NAM,Namibia,Ongwediva,2011,10,1,10
+NAM,Namibia,Ongwediva,2012,9,1,9
+NAM,Namibia,Oniipa,2009,0,0,4
+NAM,Namibia,Oniipa,2011,11,1,11
+NAM,Namibia,Oniipa,2020,7,1,7
+NAM,Namibia,Onyaanya,2009,0,0,6
+NAM,Namibia,Onyaanya,2011,10,1,10
+NAM,Namibia,Onyaanya,2020,0,0,6
+NAM,Namibia,Oshikango,2011,10,1,10
+NAM,Namibia,Oshikango,2012,0,0,1
+NAM,Namibia,Oshikango,2020,8,1,8
+NAM,Namibia,Otamanzi,2009,22,1,22
+NAM,Namibia,Otavi,2011,0,0,3
+NAM,Namibia,Otavi,2012,10,1,10
+NAM,Namibia,Otavi,2014,0,0,1
+NAM,Namibia,Otavi,2017,0,0,5
+NAM,Namibia,Otavi,2020,0,0,3
+NAM,Namibia,Outapi,2009,22,1,22
+NAM,Namibia,Ruacana,2009,20,1,20
+NAM,Namibia,Ruacana,2012,0,0,2
+NAM,Namibia,Rundu Rural East,2008,8,1,8
+NAM,Namibia,Rundu Rural East,2017,0,0,2
+NAM,Namibia,Rundu Rural East,2020,0,0,2
+NAM,Namibia,Rundu Rural East,2021,0,0,4
+NAM,Namibia,Rundu Rural West,2008,0,0,2
+NAM,Namibia,Rundu Rural West,2014,0,0,2
+NAM,Namibia,Rundu Rural West,2020,0,0,1
+NAM,Namibia,Rundu Rural West,2021,17,1,17
+NAM,Namibia,Steinhausen,2014,7,1,7
+NAM,Namibia,Steinhausen,2017,0,0,5
+NAM,Namibia,Steinhausen,2020,10,1,10
+NAM,Namibia,Tsandi,2009,15,1,15
+NAM,Namibia,Tsandi,2012,0,0,5
+NAM,Namibia,Tsumkwe,2017,0,0,2
+NAM,Namibia,Tsumkwe,2020,0,0,2
+NAM,Namibia,Tsumkwe,2021,9,1,9
+NAM,Namibia,Tsumkwe,2025,7,1,7
+NGA,Nigeria,Abakaliki,2014,10,1,10
+NGA,Nigeria,Abuja,2023,0,0,6
+NGA,Nigeria,Abuja,2024,0,0,5
+NGA,Nigeria,Ado,2018,0,0,1
+NGA,Nigeria,Ado,2019,0,0,2
+NGA,Nigeria,Ado,2023,13,1,13
+NGA,Nigeria,Ado,2024,0,0,6
+NGA,Nigeria,Afijio,2019,0,0,2
+NGA,Nigeria,Afijio,2022,8,1,8
+NGA,Nigeria,Afijio,2023,7,1,7
+NGA,Nigeria,Afijio,2025,7,1,7
+NGA,Nigeria,Agaie,2012,0,0,1
+NGA,Nigeria,Agaie,2013,0,0,3
+NGA,Nigeria,Agatu,2007,0,0,2
+NGA,Nigeria,Agatu,2009,0,0,2
+NGA,Nigeria,Agatu,2013,0,0,1
+NGA,Nigeria,Agatu,2014,0,0,6
+NGA,Nigeria,Agatu,2016,0,0,2
+NGA,Nigeria,Agatu,2017,0,0,2
+NGA,Nigeria,Agatu,2018,0,0,2
+NGA,Nigeria,Agatu,2023,0,0,3
+NGA,Nigeria,Agwara,2007,11,1,11
+NGA,Nigeria,Agwara,2008,0,0,1
+NGA,Nigeria,Ajaokuta,2021,0,0,1
+NGA,Nigeria,Ajaokuta,2022,12,1,12
+NGA,Nigeria,Ajaokuta,2023,8,1,8
+NGA,Nigeria,Ajaokuta,2024,0,0,2
+NGA,Nigeria,Ajingi,2018,0,0,6
+NGA,Nigeria,Ajingi,2019,7,1,7
+NGA,Nigeria,Akko,2007,0,0,1
+NGA,Nigeria,Akko,2008,0,0,2
+NGA,Nigeria,Akko,2017,0,0,3
+NGA,Nigeria,Akko,2020,0,0,3
+NGA,Nigeria,Akko,2023,0,0,5
+NGA,Nigeria,Aleiro,2017,0,0,2
+NGA,Nigeria,Aleiro,2019,7,1,7
+NGA,Nigeria,Alkaleri,2014,0,0,5
+NGA,Nigeria,Alkaleri,2017,0,0,1
+NGA,Nigeria,Alkaleri,2020,0,0,1
+NGA,Nigeria,Alkaleri,2023,7,1,7
+NGA,Nigeria,Anka,2010,0,0,5
+NGA,Nigeria,Anka,2016,0,0,2
+NGA,Nigeria,Anka,2017,0,0,4
+NGA,Nigeria,Anka,2018,0,0,2
+NGA,Nigeria,Apa,2014,0,0,3
+NGA,Nigeria,Apa,2018,0,0,4
+NGA,Nigeria,Apa,2023,9,1,9
+NGA,Nigeria,Apa,2024,0,0,6
+NGA,Nigeria,Ardo-Kola,2008,0,0,5
+NGA,Nigeria,Ardo-Kola,2014,0,0,5
+NGA,Nigeria,Ardo-Kola,2022,0,0,1
+NGA,Nigeria,Arewa Dandi,2017,0,0,3
+NGA,Nigeria,Arewa Dandi,2018,7,1,7
+NGA,Nigeria,Arewa Dandi,2019,0,0,5
+NGA,Nigeria,Argungu,2017,0,0,6
+NGA,Nigeria,Argungu,2019,7,1,7
+NGA,Nigeria,Argungu,2022,0,0,1
+NGA,Nigeria,Argungu,2025,0,0,1
+NGA,Nigeria,Asa,2022,8,1,8
+NGA,Nigeria,Asa,2023,8,1,8
+NGA,Nigeria,Asa,2025,0,0,5
+NGA,Nigeria,Askira/Uba,2007,0,0,2
+NGA,Nigeria,Askira/Uba,2012,0,0,3
+NGA,Nigeria,Askira/Uba,2016,0,0,4
+NGA,Nigeria,Askira/Uba,2019,0,0,6
+NGA,Nigeria,Atiba,2014,0,0,1
+NGA,Nigeria,Atiba,2019,0,0,3
+NGA,Nigeria,Atiba,2022,13,1,13
+NGA,Nigeria,Atiba,2023,0,0,4
+NGA,Nigeria,Atiba,2024,0,0,2
+NGA,Nigeria,Augie,2017,0,0,3
+NGA,Nigeria,Augie,2018,0,0,1
+NGA,Nigeria,Augie,2019,0,0,5
+NGA,Nigeria,Augie,2022,0,0,1
+NGA,Nigeria,Augie,2025,0,0,3
+NGA,Nigeria,Awe,2007,0,0,1
+NGA,Nigeria,Awe,2009,0,0,2
+NGA,Nigeria,Awe,2012,0,0,2
+NGA,Nigeria,Awe,2013,7,1,7
+NGA,Nigeria,Babura,2012,0,0,5
+NGA,Nigeria,Babura,2018,0,0,2
+NGA,Nigeria,Babura,2019,0,0,5
+NGA,Nigeria,Bagudo,2008,7,1,7
+NGA,Nigeria,Bagudo,2012,8,1,8
+NGA,Nigeria,Bagwai,2018,0,0,4
+NGA,Nigeria,Bakura,2012,0,0,2
+NGA,Nigeria,Bakura,2017,0,0,4
+NGA,Nigeria,Bakura,2018,0,0,5
+NGA,Nigeria,Balanga,2009,0,0,4
+NGA,Nigeria,Balanga,2013,0,0,3
+NGA,Nigeria,Balanga,2014,0,0,2
+NGA,Nigeria,Balanga,2017,0,0,3
+NGA,Nigeria,Balanga,2019,0,0,2
+NGA,Nigeria,Bali,2008,0,0,5
+NGA,Nigeria,Bali,2013,0,0,3
+NGA,Nigeria,Bali,2014,0,0,3
+NGA,Nigeria,Bali,2018,0,0,1
+NGA,Nigeria,Bama,2023,15,1,15
+NGA,Nigeria,Baruten,2008,0,0,1
+NGA,Nigeria,Baruten,2012,0,0,3
+NGA,Nigeria,Baruten,2014,0,0,4
+NGA,Nigeria,Baruten,2017,8,1,8
+NGA,Nigeria,Baruten,2019,0,0,3
+NGA,Nigeria,Baruten,2020,0,0,2
+NGA,Nigeria,Baruten,2022,0,0,2
+NGA,Nigeria,Bassa,2019,0,0,4
+NGA,Nigeria,Bassa,2022,0,0,5
+NGA,Nigeria,Bassa,2023,0,0,3
+NGA,Nigeria,Batagarawa,2012,0,0,4
+NGA,Nigeria,Batsari,2012,0,0,4
+NGA,Nigeria,Batsari,2017,0,0,3
+NGA,Nigeria,Batsari,2019,0,0,2
+NGA,Nigeria,Batsari,2020,0,0,2
+NGA,Nigeria,Batsari,2024,0,0,4
+NGA,Nigeria,Bauchi,2007,0,0,2
+NGA,Nigeria,Bauchi,2012,0,0,2
+NGA,Nigeria,Bauchi,2014,0,0,4
+NGA,Nigeria,Bauchi,2017,0,0,3
+NGA,Nigeria,Bauchi,2019,0,0,4
+NGA,Nigeria,Baure,2012,0,0,5
+NGA,Nigeria,Baure,2019,0,0,5
+NGA,Nigeria,Baure,2024,0,0,5
+NGA,Nigeria,Bayo,2007,0,0,2
+NGA,Nigeria,Bayo,2012,0,0,1
+NGA,Nigeria,Bayo,2017,0,0,2
+NGA,Nigeria,Bayo,2019,0,0,3
+NGA,Nigeria,Bayo,2023,0,0,6
+NGA,Nigeria,Bebeji,2018,0,0,4
+NGA,Nigeria,Bebeji,2019,0,0,5
+NGA,Nigeria,Billiri,2009,0,0,3
+NGA,Nigeria,Billiri,2017,0,0,3
+NGA,Nigeria,Billiri,2023,7,1,7
+NGA,Nigeria,Binji,2017,0,0,6
+NGA,Nigeria,Binji,2019,0,0,5
+NGA,Nigeria,Binji,2022,0,0,2
+NGA,Nigeria,Binji,2025,0,0,1
+NGA,Nigeria,Biriniwa,2012,0,0,1
+NGA,Nigeria,Biriniwa,2019,0,0,2
+NGA,Nigeria,Biriniwa,2023,0,0,3
+NGA,Nigeria,Biriniwa,2024,8,1,8
+NGA,Nigeria,Birnin Gwari,2007,0,0,2
+NGA,Nigeria,Birnin Gwari,2017,0,0,4
+NGA,Nigeria,Birnin Gwari,2023,0,0,6
+NGA,Nigeria,Birnin Kebbi,2017,0,0,3
+NGA,Nigeria,Birnin Kebbi,2019,8,1,8
+NGA,Nigeria,Birnin Kebbi,2022,0,0,4
+NGA,Nigeria,Birnin Kudu,2010,0,0,2
+NGA,Nigeria,Birnin Kudu,2013,0,0,1
+NGA,Nigeria,Birnin Kudu,2018,0,0,6
+NGA,Nigeria,Birnin Kudu,2019,0,0,5
+NGA,Nigeria,Birnin-Magaji/Kiyaw,2017,0,0,3
+NGA,Nigeria,Birnin-Magaji/Kiyaw,2022,0,0,4
+NGA,Nigeria,Birnin-Magaji/Kiyaw,2024,0,0,4
+NGA,Nigeria,Bokkos,2018,11,1,11
+NGA,Nigeria,Bokkos,2023,0,0,1
+NGA,Nigeria,Borgu,2007,8,1,8
+NGA,Nigeria,Borgu,2008,0,0,3
+NGA,Nigeria,Borgu,2017,0,0,1
+NGA,Nigeria,Borsari,2012,0,0,4
+NGA,Nigeria,Borsari,2023,7,1,7
+NGA,Nigeria,Borsari,2024,0,0,1
+NGA,Nigeria,Bosso,2019,0,0,6
+NGA,Nigeria,Bosso,2020,0,0,3
+NGA,Nigeria,Buji,2010,0,0,1
+NGA,Nigeria,Buji,2016,0,0,5
+NGA,Nigeria,Buji,2019,0,0,3
+NGA,Nigeria,Buji,2020,0,0,5
+NGA,Nigeria,Buji,2023,0,0,1
+NGA,Nigeria,Bukkuyum,2010,0,0,5
+NGA,Nigeria,Bukkuyum,2012,0,0,2
+NGA,Nigeria,Bukkuyum,2017,0,0,4
+NGA,Nigeria,Bukuru,2014,0,0,2
+NGA,Nigeria,Bukuru,2019,0,0,5
+NGA,Nigeria,Bukuru,2021,0,0,2
+NGA,Nigeria,Bukuru,2023,8,1,8
+NGA,Nigeria,Bukuru,2024,0,0,4
+NGA,Nigeria,Bungudu,2017,0,0,4
+NGA,Nigeria,Bungudu,2024,9,1,9
+NGA,Nigeria,Bunkure,2013,0,0,1
+NGA,Nigeria,Bunkure,2018,12,1,12
+NGA,Nigeria,Bunza,2017,0,0,1
+NGA,Nigeria,Bunza,2018,0,0,4
+NGA,Nigeria,Bunza,2019,8,1,8
+NGA,Nigeria,Chibok,2007,0,0,4
+NGA,Nigeria,Chibok,2011,0,0,1
+NGA,Nigeria,Chibok,2012,0,0,3
+NGA,Nigeria,Chibok,2016,0,0,5
+NGA,Nigeria,Chibok,2019,0,0,2
+NGA,Nigeria,Chikun,2019,0,0,3
+NGA,Nigeria,Chikun,2022,0,0,1
+NGA,Nigeria,Chikun,2023,8,1,8
+NGA,Nigeria,Damaturu,2012,0,0,4
+NGA,Nigeria,Damaturu,2023,0,0,6
+NGA,Nigeria,Damaturu,2025,0,0,1
+NGA,Nigeria,Damban,2012,0,0,6
+NGA,Nigeria,Damban,2017,0,0,2
+NGA,Nigeria,Damban,2020,0,0,4
+NGA,Nigeria,Damban,2024,0,0,1
+NGA,Nigeria,Damban,2025,0,0,2
+NGA,Nigeria,Dambatta,2012,0,0,1
+NGA,Nigeria,Dambatta,2018,10,1,10
+NGA,Nigeria,Dambatta,2019,0,0,2
+NGA,Nigeria,Damboa,2023,15,1,15
+NGA,Nigeria,Dandi,2017,0,0,2
+NGA,Nigeria,Dandi,2018,0,0,4
+NGA,Nigeria,Dandi,2019,8,1,8
+NGA,Nigeria,Danja,2017,0,0,3
+NGA,Nigeria,Danja,2018,0,0,5
+NGA,Nigeria,Danja,2022,0,0,3
+NGA,Nigeria,Danja,2023,0,0,3
+NGA,Nigeria,Danko Wasagu,2007,0,0,1
+NGA,Nigeria,Danko Wasagu,2008,10,1,10
+NGA,Nigeria,Danko Wasagu,2017,0,0,2
+NGA,Nigeria,Danko Wasagu,2020,0,0,1
+NGA,Nigeria,Danmusa,2018,0,0,3
+NGA,Nigeria,Danmusa,2020,0,0,2
+NGA,Nigeria,Danmusa,2023,0,0,3
+NGA,Nigeria,Danmusa,2024,0,0,4
+NGA,Nigeria,Danmusa,2025,0,0,2
+NGA,Nigeria,Darazo,2012,0,0,1
+NGA,Nigeria,Darazo,2014,0,0,4
+NGA,Nigeria,Darazo,2019,0,0,2
+NGA,Nigeria,Darazo,2020,0,0,4
+NGA,Nigeria,Darazo,2024,0,0,4
+NGA,Nigeria,Dawakin Tofa,2018,10,1,10
+NGA,Nigeria,Dawakin Tofa,2019,0,0,5
+NGA,Nigeria,Demsa,2009,0,0,3
+NGA,Nigeria,Demsa,2014,9,1,9
+NGA,Nigeria,Doguwa,2010,0,0,1
+NGA,Nigeria,Doguwa,2018,7,1,7
+NGA,Nigeria,Doguwa,2019,0,0,6
+NGA,Nigeria,Doma,2014,0,0,3
+NGA,Nigeria,Doma,2016,0,0,2
+NGA,Nigeria,Doma,2018,0,0,1
+NGA,Nigeria,Doma,2019,0,0,3
+NGA,Nigeria,Donga,2008,8,1,8
+NGA,Nigeria,Donga,2014,0,0,2
+NGA,Nigeria,Donga,2018,0,0,1
+NGA,Nigeria,Dukku,2007,0,0,1
+NGA,Nigeria,Dukku,2008,0,0,2
+NGA,Nigeria,Dukku,2010,0,0,2
+NGA,Nigeria,Dukku,2012,0,0,4
+NGA,Nigeria,Dukku,2017,0,0,3
+NGA,Nigeria,Dukku,2020,0,0,1
+NGA,Nigeria,Dutse,2016,0,0,3
+NGA,Nigeria,Dutse,2018,10,1,10
+NGA,Nigeria,Dutse,2023,0,0,1
+NGA,Nigeria,Dutsi,2016,0,0,6
+NGA,Nigeria,Dutsi,2023,0,0,1
+NGA,Nigeria,Dutsi,2024,0,0,1
+NGA,Nigeria,Ebonyi,2018,0,0,1
+NGA,Nigeria,Ebonyi,2019,0,0,3
+NGA,Nigeria,Ebonyi,2023,7,1,7
+NGA,Nigeria,Ebonyi,2024,0,0,2
+NGA,Nigeria,Edati,2016,0,0,4
+NGA,Nigeria,Edati,2023,0,0,3
+NGA,Nigeria,Edu,2007,7,1,7
+NGA,Nigeria,Edu,2012,0,0,6
+NGA,Nigeria,Edu,2014,0,0,2
+NGA,Nigeria,Edu,2016,0,0,6
+NGA,Nigeria,Ezza North,2018,0,0,1
+NGA,Nigeria,Ezza North,2023,0,0,4
+NGA,Nigeria,Ezza North,2024,11,1,11
+NGA,Nigeria,Ezza South,2018,0,0,1
+NGA,Nigeria,Ezza South,2023,0,0,5
+NGA,Nigeria,Ezza South,2024,14,1,14
+NGA,Nigeria,Fakai,2008,0,0,1
+NGA,Nigeria,Fakai,2017,0,0,3
+NGA,Nigeria,Fakai,2018,0,0,6
+NGA,Nigeria,Faskari,2017,0,0,5
+NGA,Nigeria,Faskari,2023,0,0,4
+NGA,Nigeria,Fika,2012,0,0,4
+NGA,Nigeria,Fika,2017,0,0,2
+NGA,Nigeria,Fika,2018,0,0,1
+NGA,Nigeria,Fika,2020,0,0,5
+NGA,Nigeria,Fika,2024,0,0,3
+NGA,Nigeria,Fufore,2010,0,0,5
+NGA,Nigeria,Fufore,2014,0,0,6
+NGA,Nigeria,Funakaye,2007,0,0,1
+NGA,Nigeria,Funakaye,2012,0,0,2
+NGA,Nigeria,Funakaye,2016,0,0,3
+NGA,Nigeria,Funakaye,2017,0,0,2
+NGA,Nigeria,Funakaye,2020,0,0,5
+NGA,Nigeria,Funakaye,2023,0,0,1
+NGA,Nigeria,Fune,2012,0,0,1
+NGA,Nigeria,Fune,2017,0,0,4
+NGA,Nigeria,Fune,2023,0,0,3
+NGA,Nigeria,Fune,2024,0,0,2
+NGA,Nigeria,Fune,2025,0,0,1
+NGA,Nigeria,Funtua,2017,9,1,9
+NGA,Nigeria,Funtua,2018,0,0,2
+NGA,Nigeria,Funtua,2023,0,0,4
+NGA,Nigeria,Gabasawa,2018,0,0,4
+NGA,Nigeria,Gabasawa,2019,7,1,7
+NGA,Nigeria,Gada,2016,0,0,4
+NGA,Nigeria,Gada,2017,0,0,6
+NGA,Nigeria,Gada,2018,0,0,2
+NGA,Nigeria,Gada,2019,0,0,2
+NGA,Nigeria,Gada,2025,0,0,1
+NGA,Nigeria,Gagarawa,2012,0,0,1
+NGA,Nigeria,Gagarawa,2019,0,0,6
+NGA,Nigeria,Gagarawa,2023,0,0,4
+NGA,Nigeria,Gagarawa,2024,0,0,1
+NGA,Nigeria,Gagarawa,2025,0,0,2
+NGA,Nigeria,Gamawa,2012,0,0,1
+NGA,Nigeria,Gamawa,2017,7,1,7
+NGA,Nigeria,Gamawa,2023,0,0,3
+NGA,Nigeria,Gamawa,2024,0,0,4
+NGA,Nigeria,Ganjuwa,2007,0,0,2
+NGA,Nigeria,Ganjuwa,2010,0,0,2
+NGA,Nigeria,Ganjuwa,2012,0,0,4
+NGA,Nigeria,Ganjuwa,2014,0,0,5
+NGA,Nigeria,Ganjuwa,2017,0,0,1
+NGA,Nigeria,Ganye,2019,0,0,4
+NGA,Nigeria,Ganye,2023,10,1,10
+NGA,Nigeria,Garki,2018,9,1,9
+NGA,Nigeria,Garki,2019,0,0,5
+NGA,Nigeria,Garum Mallam,2018,11,1,11
+NGA,Nigeria,Garum Mallam,2019,0,0,4
+NGA,Nigeria,Gashaka,2018,0,0,2
+NGA,Nigeria,Gashaka,2023,9,1,9
+NGA,Nigeria,Gassol,2008,0,0,4
+NGA,Nigeria,Gassol,2013,0,0,3
+NGA,Nigeria,Gassol,2018,0,0,1
+NGA,Nigeria,Gassol,2019,0,0,3
+NGA,Nigeria,Gaya,2018,11,1,11
+NGA,Nigeria,Gaya,2019,0,0,2
+NGA,Nigeria,Gaya,2023,0,0,1
+NGA,Nigeria,Gbako,2013,0,0,1
+NGA,Nigeria,Gbako,2016,0,0,3
+NGA,Nigeria,Gbako,2022,0,0,2
+NGA,Nigeria,Gbako,2023,0,0,5
+NGA,Nigeria,Gboko,2014,0,0,1
+NGA,Nigeria,Gboko,2019,0,0,2
+NGA,Nigeria,Gboko,2021,0,0,4
+NGA,Nigeria,Gboko,2023,13,1,13
+NGA,Nigeria,Gboko,2024,0,0,4
+NGA,Nigeria,Geidam,2012,0,0,1
+NGA,Nigeria,Geidam,2016,0,0,3
+NGA,Nigeria,Geidam,2023,0,0,6
+NGA,Nigeria,Geidam,2024,0,0,5
+NGA,Nigeria,Gezawa,2018,0,0,6
+NGA,Nigeria,Gezawa,2019,0,0,6
+NGA,Nigeria,Girie,2007,0,0,4
+NGA,Nigeria,Girie,2009,0,0,3
+NGA,Nigeria,Girie,2011,0,0,1
+NGA,Nigeria,Girie,2019,0,0,3
+NGA,Nigeria,Giwa,2017,0,0,5
+NGA,Nigeria,Giwa,2022,0,0,3
+NGA,Nigeria,Giwa,2023,0,0,4
+NGA,Nigeria,Gombi,2009,0,0,2
+NGA,Nigeria,Gombi,2010,0,0,3
+NGA,Nigeria,Gombi,2014,9,1,9
+NGA,Nigeria,Goronyo,2011,0,0,2
+NGA,Nigeria,Goronyo,2017,7,1,7
+NGA,Nigeria,Goronyo,2022,0,0,1
+NGA,Nigeria,Goronyo,2024,0,0,1
+NGA,Nigeria,Goronyo,2025,0,0,4
+NGA,Nigeria,Gubio,2012,0,0,3
+NGA,Nigeria,Gubio,2018,0,0,2
+NGA,Nigeria,Gubio,2023,0,0,5
+NGA,Nigeria,Gubio,2024,0,0,5
+NGA,Nigeria,Gudu,2008,0,0,4
+NGA,Nigeria,Gudu,2017,0,0,3
+NGA,Nigeria,Gudu,2018,7,1,7
+NGA,Nigeria,Gudu,2025,0,0,1
+NGA,Nigeria,Gujba,2017,0,0,3
+NGA,Nigeria,Gujba,2023,7,1,7
+NGA,Nigeria,Gulani,2007,0,0,3
+NGA,Nigeria,Gulani,2008,0,0,1
+NGA,Nigeria,Gulani,2010,0,0,2
+NGA,Nigeria,Gulani,2012,0,0,4
+NGA,Nigeria,Gulani,2016,0,0,1
+NGA,Nigeria,Gulani,2017,0,0,3
+NGA,Nigeria,Gulani,2020,0,0,1
+NGA,Nigeria,Guma,2019,8,1,8
+NGA,Nigeria,Guma,2023,10,1,10
+NGA,Nigeria,Guma,2024,0,0,5
+NGA,Nigeria,Gummi,2008,0,0,4
+NGA,Nigeria,Gummi,2017,0,0,3
+NGA,Nigeria,Gummi,2018,0,0,6
+NGA,Nigeria,Gurara,2013,0,0,4
+NGA,Nigeria,Gurara,2016,0,0,3
+NGA,Nigeria,Gurara,2023,0,0,1
+NGA,Nigeria,Gusau,2017,0,0,4
+NGA,Nigeria,Gusau,2024,0,0,4
+NGA,Nigeria,Gusau,2025,0,0,1
+NGA,Nigeria,Guyuk,2009,12,1,12
+NGA,Nigeria,Guyuk,2013,0,0,2
+NGA,Nigeria,Gwagwalada,2012,0,0,3
+NGA,Nigeria,Gwagwalada,2016,0,0,1
+NGA,Nigeria,Gwagwalada,2019,0,0,4
+NGA,Nigeria,Gwagwalada,2023,0,0,4
+NGA,Nigeria,Gwandu,2017,0,0,6
+NGA,Nigeria,Gwandu,2019,0,0,5
+NGA,Nigeria,Gwandu,2022,0,0,4
+NGA,Nigeria,Gwaram,2010,0,0,2
+NGA,Nigeria,Gwaram,2012,0,0,1
+NGA,Nigeria,Gwaram,2018,0,0,2
+NGA,Nigeria,Gwaram,2019,0,0,6
+NGA,Nigeria,Gwaram,2020,0,0,1
+NGA,Nigeria,Gwaram,2024,0,0,2
+NGA,Nigeria,Gwer East,2014,0,0,6
+NGA,Nigeria,Gwer East,2021,8,1,8
+NGA,Nigeria,Gwer East,2023,0,0,6
+NGA,Nigeria,Gwer East,2024,0,0,4
+NGA,Nigeria,Gwer West,2014,13,1,13
+NGA,Nigeria,Gwer West,2016,0,0,4
+NGA,Nigeria,Gwer West,2018,0,0,2
+NGA,Nigeria,Gwer West,2023,0,0,5
+NGA,Nigeria,Gwiwa,2012,0,0,4
+NGA,Nigeria,Gwiwa,2016,0,0,6
+NGA,Nigeria,Gwiwa,2023,0,0,4
+NGA,Nigeria,Gwoza,2023,7,1,7
+NGA,Nigeria,Hong,2007,0,0,3
+NGA,Nigeria,Hong,2009,0,0,2
+NGA,Nigeria,Hong,2011,0,0,1
+NGA,Nigeria,Hong,2012,0,0,3
+NGA,Nigeria,Hong,2016,0,0,2
+NGA,Nigeria,Hong,2019,0,0,4
+NGA,Nigeria,Ibarapa Central,2018,0,0,1
+NGA,Nigeria,Ibarapa Central,2019,0,0,3
+NGA,Nigeria,Ibarapa Central,2022,0,0,2
+NGA,Nigeria,Ibarapa Central,2023,8,1,8
+NGA,Nigeria,Ibarapa Central,2024,0,0,6
+NGA,Nigeria,Ibarapa East,2014,0,0,1
+NGA,Nigeria,Ibarapa East,2017,7,1,7
+NGA,Nigeria,Ibarapa East,2018,0,0,1
+NGA,Nigeria,Ibarapa East,2019,0,0,4
+NGA,Nigeria,Ibarapa East,2022,0,0,2
+NGA,Nigeria,Ibarapa East,2023,7,1,7
+NGA,Nigeria,Ibarapa East,2024,0,0,2
+NGA,Nigeria,Ibarapa North,2018,0,0,1
+NGA,Nigeria,Ibarapa North,2019,7,1,7
+NGA,Nigeria,Ibarapa North,2022,0,0,2
+NGA,Nigeria,Ibarapa North,2023,7,1,7
+NGA,Nigeria,Ibarapa North,2024,0,0,6
+NGA,Nigeria,Ibarapa North,2025,0,0,1
+NGA,Nigeria,Ibi,2013,0,0,2
+NGA,Nigeria,Ibi,2018,0,0,2
+NGA,Nigeria,Ibi,2023,0,0,6
+NGA,Nigeria,Ibi,2024,0,0,2
+NGA,Nigeria,Ifelodun,2014,14,1,14
+NGA,Nigeria,Ifelodun,2016,7,1,7
+NGA,Nigeria,Igabi,2022,0,0,4
+NGA,Nigeria,Igabi,2023,8,1,8
+NGA,Nigeria,Ikwo,2018,0,0,1
+NGA,Nigeria,Ikwo,2023,13,1,13
+NGA,Nigeria,Ikwo,2024,9,1,9
+NGA,Nigeria,Ikwo,2025,0,0,1
+NGA,Nigeria,Illela,2017,7,1,7
+NGA,Nigeria,Illela,2018,0,0,2
+NGA,Nigeria,Illela,2019,0,0,5
+NGA,Nigeria,Illela,2022,0,0,1
+NGA,Nigeria,Ingawa,2012,0,0,4
+NGA,Nigeria,Ingawa,2016,0,0,6
+NGA,Nigeria,Ingawa,2017,0,0,2
+NGA,Nigeria,Ingawa,2019,0,0,2
+NGA,Nigeria,Ingawa,2023,0,0,1
+NGA,Nigeria,Irepo,2012,0,0,3
+NGA,Nigeria,Irepo,2014,0,0,3
+NGA,Nigeria,Irepo,2016,0,0,4
+NGA,Nigeria,Irepo,2017,0,0,4
+NGA,Nigeria,Irepo,2019,0,0,3
+NGA,Nigeria,Irepo,2022,0,0,2
+NGA,Nigeria,Isa,2011,0,0,2
+NGA,Nigeria,Isa,2017,0,0,5
+NGA,Nigeria,Isa,2022,0,0,1
+NGA,Nigeria,Isa,2024,0,0,2
+NGA,Nigeria,Isa,2025,0,0,3
+NGA,Nigeria,Iseyin,2014,0,0,4
+NGA,Nigeria,Iseyin,2018,0,0,1
+NGA,Nigeria,Iseyin,2019,0,0,6
+NGA,Nigeria,Iseyin,2022,0,0,6
+NGA,Nigeria,Iseyin,2023,0,0,4
+NGA,Nigeria,Ishielu,2018,0,0,1
+NGA,Nigeria,Ishielu,2023,12,1,12
+NGA,Nigeria,Ishielu,2024,9,1,9
+NGA,Nigeria,Ishielu,2025,0,0,1
+NGA,Nigeria,Itas/Gadau,2012,0,0,1
+NGA,Nigeria,Itas/Gadau,2016,0,0,3
+NGA,Nigeria,Itas/Gadau,2017,7,1,7
+NGA,Nigeria,Itas/Gadau,2023,0,0,3
+NGA,Nigeria,Itas/Gadau,2024,0,0,1
+NGA,Nigeria,Izzi,2018,0,0,1
+NGA,Nigeria,Izzi,2023,13,1,13
+NGA,Nigeria,Izzi,2024,8,1,8
+NGA,Nigeria,Izzi,2025,0,0,1
+NGA,Nigeria,Jada,2014,0,0,1
+NGA,Nigeria,Jada,2019,0,0,3
+NGA,Nigeria,Jada,2023,11,1,11
+NGA,Nigeria,Jahun,2010,0,0,2
+NGA,Nigeria,Jahun,2012,0,0,1
+NGA,Nigeria,Jahun,2016,0,0,1
+NGA,Nigeria,Jahun,2018,0,0,2
+NGA,Nigeria,Jahun,2019,0,0,2
+NGA,Nigeria,Jahun,2023,0,0,3
+NGA,Nigeria,Jakusko,2012,0,0,1
+NGA,Nigeria,Jakusko,2017,0,0,2
+NGA,Nigeria,Jakusko,2023,7,1,7
+NGA,Nigeria,Jakusko,2024,0,0,5
+NGA,Nigeria,Jalingo,2008,0,0,3
+NGA,Nigeria,Jalingo,2018,0,0,1
+NGA,Nigeria,Jalingo,2022,0,0,4
+NGA,Nigeria,Jama'are,2010,0,0,1
+NGA,Nigeria,Jama'are,2012,0,0,1
+NGA,Nigeria,Jama'are,2016,0,0,5
+NGA,Nigeria,Jama'are,2019,0,0,2
+NGA,Nigeria,Jama'are,2020,0,0,3
+NGA,Nigeria,Jama'are,2023,0,0,3
+NGA,Nigeria,Jega,2010,0,0,3
+NGA,Nigeria,Jega,2017,0,0,1
+NGA,Nigeria,Jega,2018,0,0,6
+NGA,Nigeria,Jega,2019,0,0,5
+NGA,Nigeria,Jema'a,2016,0,0,2
+NGA,Nigeria,Jema'a,2018,0,0,6
+NGA,Nigeria,Jema'a,2019,0,0,2
+NGA,Nigeria,Jere,2023,15,1,15
+NGA,Nigeria,Jibia,2012,0,0,3
+NGA,Nigeria,Jibia,2017,0,0,3
+NGA,Nigeria,Jibia,2023,0,0,4
+NGA,Nigeria,Jibia,2024,0,0,4
+NGA,Nigeria,Jibia,2025,0,0,1
+NGA,Nigeria,Kafin Hausa,2012,7,1,7
+NGA,Nigeria,Kafin Hausa,2016,0,0,3
+NGA,Nigeria,Kafin Hausa,2023,0,0,4
+NGA,Nigeria,Kafur,2017,0,0,3
+NGA,Nigeria,Kafur,2018,0,0,2
+NGA,Nigeria,Kafur,2019,0,0,5
+NGA,Nigeria,Kafur,2022,0,0,3
+NGA,Nigeria,Kaga,2023,13,1,13
+NGA,Nigeria,Kagarko,2014,0,0,1
+NGA,Nigeria,Kagarko,2016,0,0,1
+NGA,Nigeria,Kagarko,2018,0,0,2
+NGA,Nigeria,Kagarko,2019,8,1,8
+NGA,Nigeria,Kaiama,2008,0,0,4
+NGA,Nigeria,Kaiama,2012,0,0,4
+NGA,Nigeria,Kaiama,2014,0,0,4
+NGA,Nigeria,Kaiama,2016,0,0,1
+NGA,Nigeria,Kaiama,2017,8,1,8
+NGA,Nigeria,Kaita,2012,0,0,3
+NGA,Nigeria,Kaita,2017,0,0,3
+NGA,Nigeria,Kaita,2023,0,0,3
+NGA,Nigeria,Kaita,2024,0,0,3
+NGA,Nigeria,Kaita,2025,0,0,1
+NGA,Nigeria,Kajuru,2019,0,0,6
+NGA,Nigeria,Kajuru,2022,0,0,1
+NGA,Nigeria,Kajuru,2023,0,0,4
+NGA,Nigeria,Kalgo,2017,0,0,3
+NGA,Nigeria,Kalgo,2018,0,0,4
+NGA,Nigeria,Kalgo,2019,8,1,8
+NGA,Nigeria,Kaltungo,2009,0,0,3
+NGA,Nigeria,Kaltungo,2017,0,0,4
+NGA,Nigeria,Kaltungo,2019,0,0,4
+NGA,Nigeria,Kaltungo,2023,0,0,4
+NGA,Nigeria,Kanam,2013,0,0,3
+NGA,Nigeria,Kanam,2014,0,0,2
+NGA,Nigeria,Kanam,2023,7,1,7
+NGA,Nigeria,Kankara,2012,0,0,2
+NGA,Nigeria,Kankara,2019,0,0,2
+NGA,Nigeria,Kankara,2020,0,0,3
+NGA,Nigeria,Kankara,2023,0,0,3
+NGA,Nigeria,Kankara,2024,0,0,3
+NGA,Nigeria,Kankara,2025,0,0,2
+NGA,Nigeria,Kankia,2012,0,0,5
+NGA,Nigeria,Kankia,2017,0,0,3
+NGA,Nigeria,Kankia,2018,0,0,4
+NGA,Nigeria,Kankia,2019,0,0,2
+NGA,Nigeria,Karasuwa,2012,0,0,1
+NGA,Nigeria,Karasuwa,2017,0,0,1
+NGA,Nigeria,Karasuwa,2019,9,1,9
+NGA,Nigeria,Karasuwa,2023,0,0,4
+NGA,Nigeria,Karaye,2018,9,1,9
+NGA,Nigeria,Karaye,2019,0,0,5
+NGA,Nigeria,Karim Lamido,2009,0,0,4
+NGA,Nigeria,Karim Lamido,2018,0,0,1
+NGA,Nigeria,Karim Lamido,2022,0,0,1
+NGA,Nigeria,Karim Lamido,2023,0,0,6
+NGA,Nigeria,Karu,2016,0,0,2
+NGA,Nigeria,Karu,2018,0,0,3
+NGA,Nigeria,Karu,2019,0,0,5
+NGA,Nigeria,Katagum,2017,0,0,2
+NGA,Nigeria,Katagum,2019,0,0,2
+NGA,Nigeria,Katagum,2020,0,0,2
+NGA,Nigeria,Katagum,2023,0,0,3
+NGA,Nigeria,Katagum,2024,0,0,3
+NGA,Nigeria,Katcha,2007,0,0,2
+NGA,Nigeria,Katcha,2013,0,0,1
+NGA,Nigeria,Katcha,2016,0,0,3
+NGA,Nigeria,Katcha,2019,0,0,1
+NGA,Nigeria,Katcha,2023,0,0,3
+NGA,Nigeria,Katsina-Ala,2019,0,0,2
+NGA,Nigeria,Katsina-Ala,2021,8,1,8
+NGA,Nigeria,Katsina-Ala,2023,7,1,7
+NGA,Nigeria,Katsina-Ala,2024,0,0,4
+NGA,Nigeria,Kaugama,2012,0,0,2
+NGA,Nigeria,Kaugama,2019,0,0,5
+NGA,Nigeria,Kaugama,2023,0,0,3
+NGA,Nigeria,Kaugama,2024,0,0,3
+NGA,Nigeria,Kaugama,2025,0,0,2
+NGA,Nigeria,Kaura Namoda,2017,0,0,3
+NGA,Nigeria,Kaura Namoda,2022,0,0,1
+NGA,Nigeria,Kaura Namoda,2024,9,1,9
+NGA,Nigeria,Kauru,2007,0,0,2
+NGA,Nigeria,Kauru,2013,0,0,3
+NGA,Nigeria,Kauru,2014,0,0,1
+NGA,Nigeria,Kauru,2019,0,0,6
+NGA,Nigeria,Kazaure,2012,7,1,7
+NGA,Nigeria,Kazaure,2016,0,0,3
+NGA,Nigeria,Kazaure,2019,0,0,5
+NGA,Nigeria,Keana,2007,0,0,4
+NGA,Nigeria,Keana,2014,0,0,3
+NGA,Nigeria,Keana,2023,0,0,5
+NGA,Nigeria,Kebbe,2010,0,0,6
+NGA,Nigeria,Kebbe,2017,0,0,3
+NGA,Nigeria,Kebbe,2018,0,0,6
+NGA,Nigeria,Keffi,2016,7,1,7
+NGA,Nigeria,Keffi,2018,0,0,2
+NGA,Nigeria,Kibiya,2013,0,0,4
+NGA,Nigeria,Kibiya,2018,11,1,11
+NGA,Nigeria,Kirfi,2007,0,0,2
+NGA,Nigeria,Kirfi,2008,0,0,2
+NGA,Nigeria,Kirfi,2010,7,1,7
+NGA,Nigeria,Kirfi,2012,0,0,2
+NGA,Nigeria,Kirfi,2017,0,0,1
+NGA,Nigeria,Kiri Kasama,2012,0,0,4
+NGA,Nigeria,Kiri Kasama,2016,0,0,5
+NGA,Nigeria,Kiri Kasama,2019,0,0,6
+NGA,Nigeria,Kiru,2018,9,1,9
+NGA,Nigeria,Kiru,2019,0,0,6
+NGA,Nigeria,Kiyawa,2010,0,0,2
+NGA,Nigeria,Kiyawa,2012,0,0,1
+NGA,Nigeria,Kiyawa,2016,0,0,6
+NGA,Nigeria,Kiyawa,2018,0,0,2
+NGA,Nigeria,Kiyawa,2023,0,0,3
+NGA,Nigeria,Koko/Besse,2008,0,0,1
+NGA,Nigeria,Koko/Besse,2012,0,0,2
+NGA,Nigeria,Koko/Besse,2017,0,0,3
+NGA,Nigeria,Koko/Besse,2019,0,0,3
+NGA,Nigeria,Kokona,2016,0,0,6
+NGA,Nigeria,Kokona,2018,0,0,6
+NGA,Nigeria,Konduga,2023,15,1,15
+NGA,Nigeria,Konshisha,2014,0,0,6
+NGA,Nigeria,Konshisha,2021,0,0,3
+NGA,Nigeria,Konshisha,2023,12,1,12
+NGA,Nigeria,Kontagora,2007,0,0,5
+NGA,Nigeria,Kontagora,2008,0,0,1
+NGA,Nigeria,Kontagora,2023,0,0,2
+NGA,Nigeria,Kubau,2017,0,0,1
+NGA,Nigeria,Kubau,2019,7,1,7
+NGA,Nigeria,Kubau,2023,0,0,3
+NGA,Nigeria,Kudan,2007,0,0,5
+NGA,Nigeria,Kuje,2016,0,0,5
+NGA,Nigeria,Kuje,2018,0,0,2
+NGA,Nigeria,Kuje,2019,0,0,5
+NGA,Nigeria,Kunchi,2018,9,1,9
+NGA,Nigeria,Kunchi,2019,0,0,6
+NGA,Nigeria,Kura,2018,12,1,12
+NGA,Nigeria,Kura,2019,0,0,3
+NGA,Nigeria,Kurfi,2012,0,0,4
+NGA,Nigeria,Kurfi,2017,0,0,3
+NGA,Nigeria,Kurfi,2019,0,0,2
+NGA,Nigeria,Kurfi,2023,0,0,3
+NGA,Nigeria,Kusada,2012,0,0,4
+NGA,Nigeria,Kusada,2016,0,0,3
+NGA,Nigeria,Kusada,2017,0,0,3
+NGA,Nigeria,Kusada,2018,0,0,4
+NGA,Nigeria,Kwali,2016,0,0,4
+NGA,Nigeria,Kwali,2018,0,0,5
+NGA,Nigeria,Kwali,2019,0,0,3
+NGA,Nigeria,Kwami,2007,0,0,2
+NGA,Nigeria,Kwami,2008,0,0,2
+NGA,Nigeria,Kwami,2010,7,1,7
+NGA,Nigeria,Kwami,2012,0,0,1
+NGA,Nigeria,Kwami,2020,0,0,3
+NGA,Nigeria,Kwande,2014,0,0,1
+NGA,Nigeria,Kwande,2018,0,0,1
+NGA,Nigeria,Kwande,2019,0,0,2
+NGA,Nigeria,Kwande,2022,0,0,1
+NGA,Nigeria,Kwande,2023,14,1,14
+NGA,Nigeria,Kwande,2024,0,0,4
+NGA,Nigeria,Kware,2019,7,1,7
+NGA,Nigeria,Kware,2022,0,0,2
+NGA,Nigeria,Kware,2023,0,0,1
+NGA,Nigeria,Kware,2025,0,0,3
+NGA,Nigeria,Lafia,2009,0,0,2
+NGA,Nigeria,Lafia,2013,0,0,6
+NGA,Nigeria,Lafia,2024,0,0,4
+NGA,Nigeria,Lamurde,2009,14,1,14
+NGA,Nigeria,Langtang North,2018,0,0,2
+NGA,Nigeria,Langtang North,2019,0,0,3
+NGA,Nigeria,Langtang North,2023,0,0,6
+NGA,Nigeria,Langtang North,2024,0,0,1
+NGA,Nigeria,Langtang South,2013,0,0,2
+NGA,Nigeria,Langtang South,2017,0,0,2
+NGA,Nigeria,Langtang South,2018,0,0,2
+NGA,Nigeria,Langtang South,2024,0,0,6
+NGA,Nigeria,Lapai,2007,0,0,2
+NGA,Nigeria,Lapai,2013,0,0,3
+NGA,Nigeria,Lapai,2014,0,0,4
+NGA,Nigeria,Lapai,2018,0,0,2
+NGA,Nigeria,Lau,2009,0,0,5
+NGA,Nigeria,Lau,2017,0,0,3
+NGA,Nigeria,Lau,2022,0,0,3
+NGA,Nigeria,Lavun,2012,0,0,5
+NGA,Nigeria,Lavun,2016,0,0,2
+NGA,Nigeria,Lavun,2023,0,0,1
+NGA,Nigeria,Lere,2019,9,1,9
+NGA,Nigeria,Lere,2022,0,0,1
+NGA,Nigeria,Lere,2023,0,0,2
+NGA,Nigeria,Logo,2019,0,0,5
+NGA,Nigeria,Logo,2023,13,1,13
+NGA,Nigeria,Logo,2024,0,0,6
+NGA,Nigeria,Lokoja,2013,0,0,3
+NGA,Nigeria,Lokoja,2014,0,0,4
+NGA,Nigeria,Lokoja,2016,9,1,9
+NGA,Nigeria,Lokoja,2018,0,0,1
+NGA,Nigeria,Lokoja,2019,0,0,4
+NGA,Nigeria,Machina,2012,7,1,7
+NGA,Nigeria,Machina,2023,0,0,3
+NGA,Nigeria,Machina,2024,0,0,5
+NGA,Nigeria,Madagali,2019,0,0,3
+NGA,Nigeria,Madagali,2023,12,1,12
+NGA,Nigeria,Madobi,2018,11,1,11
+NGA,Nigeria,Madobi,2019,0,0,4
+NGA,Nigeria,Magama,2007,0,0,4
+NGA,Nigeria,Magama,2008,0,0,6
+NGA,Nigeria,Magama,2014,0,0,1
+NGA,Nigeria,Magama,2016,0,0,1
+NGA,Nigeria,Magumeri,2023,15,1,15
+NGA,Nigeria,Mai'Adua,2012,0,0,2
+NGA,Nigeria,Mai'Adua,2016,0,0,3
+NGA,Nigeria,Mai'Adua,2019,0,0,2
+NGA,Nigeria,Mai'Adua,2023,0,0,4
+NGA,Nigeria,Mai'Adua,2024,0,0,3
+NGA,Nigeria,Maiduguri,2023,15,1,15
+NGA,Nigeria,Maigatari,2012,0,0,1
+NGA,Nigeria,Maigatari,2019,0,0,2
+NGA,Nigeria,Maigatari,2023,0,0,3
+NGA,Nigeria,Maigatari,2024,0,0,6
+NGA,Nigeria,Maigatari,2025,0,0,2
+NGA,Nigeria,Maiyama,2017,0,0,3
+NGA,Nigeria,Maiyama,2018,0,0,4
+NGA,Nigeria,Maiyama,2019,8,1,8
+NGA,Nigeria,Makarfi,2016,0,0,1
+NGA,Nigeria,Makarfi,2017,0,0,1
+NGA,Nigeria,Makarfi,2019,0,0,3
+NGA,Nigeria,Makarfi,2022,0,0,5
+NGA,Nigeria,Makarfi,2024,0,0,2
+NGA,Nigeria,Makoda,2018,10,1,10
+NGA,Nigeria,Makoda,2019,0,0,5
+NGA,Nigeria,Makurdi,2019,0,0,6
+NGA,Nigeria,Makurdi,2023,7,1,7
+NGA,Nigeria,Makurdi,2024,0,0,4
+NGA,Nigeria,Makurdi,2025,0,0,4
+NGA,Nigeria,Malam Maduri,2012,0,0,1
+NGA,Nigeria,Malam Maduri,2019,0,0,2
+NGA,Nigeria,Malam Maduri,2023,0,0,3
+NGA,Nigeria,Malam Maduri,2024,8,1,8
+NGA,Nigeria,Malam Maduri,2025,0,0,1
+NGA,Nigeria,Malumfashi,2017,0,0,3
+NGA,Nigeria,Malumfashi,2019,8,1,8
+NGA,Nigeria,Malumfashi,2025,0,0,1
+NGA,Nigeria,Mangu,2018,0,0,3
+NGA,Nigeria,Mangu,2019,0,0,2
+NGA,Nigeria,Mangu,2023,0,0,4
+NGA,Nigeria,Mangu,2024,0,0,2
+NGA,Nigeria,Mani,2012,0,0,4
+NGA,Nigeria,Mani,2016,0,0,6
+NGA,Nigeria,Mani,2017,0,0,2
+NGA,Nigeria,Mani,2019,0,0,2
+NGA,Nigeria,Mani,2023,0,0,1
+NGA,Nigeria,Maradun,2022,0,0,6
+NGA,Nigeria,Maradun,2024,7,1,7
+NGA,Nigeria,Maradun,2025,0,0,1
+NGA,Nigeria,Mariga,2007,12,1,12
+NGA,Nigeria,Maru,2012,0,0,1
+NGA,Nigeria,Maru,2017,0,0,4
+NGA,Nigeria,Maru,2018,0,0,3
+NGA,Nigeria,Maru,2020,0,0,1
+NGA,Nigeria,Maru,2023,0,0,4
+NGA,Nigeria,Mashegu,2007,0,0,6
+NGA,Nigeria,Mashegu,2008,0,0,5
+NGA,Nigeria,Mashi,2012,7,1,7
+NGA,Nigeria,Mashi,2017,0,0,3
+NGA,Nigeria,Mashi,2019,0,0,2
+NGA,Nigeria,Mashi,2023,0,0,1
+NGA,Nigeria,Mashi,2024,0,0,1
+NGA,Nigeria,Matazu,2012,7,1,7
+NGA,Nigeria,Matazu,2019,0,0,2
+NGA,Nigeria,Matazu,2025,0,0,2
+NGA,Nigeria,Mayo-Belwa,2010,0,0,3
+NGA,Nigeria,Mayo-Belwa,2012,7,1,7
+NGA,Nigeria,Mayo-Belwa,2014,0,0,1
+NGA,Nigeria,Mayo-Belwa,2017,0,0,2
+NGA,Nigeria,Michika,2012,0,0,2
+NGA,Nigeria,Michika,2019,0,0,6
+NGA,Nigeria,Michika,2023,0,0,4
+NGA,Nigeria,Miga,2012,7,1,7
+NGA,Nigeria,Miga,2016,0,0,3
+NGA,Nigeria,Miga,2019,0,0,2
+NGA,Nigeria,Miga,2023,0,0,3
+NGA,Nigeria,Mikang,2014,8,1,8
+NGA,Nigeria,Mikang,2018,0,0,2
+NGA,Nigeria,Minjibir,2018,10,1,10
+NGA,Nigeria,Minjibir,2019,0,0,5
+NGA,Nigeria,Misau,2012,0,0,1
+NGA,Nigeria,Misau,2016,0,0,1
+NGA,Nigeria,Misau,2018,0,0,1
+NGA,Nigeria,Misau,2019,0,0,6
+NGA,Nigeria,Misau,2020,0,0,1
+NGA,Nigeria,Misau,2024,0,0,5
+NGA,Nigeria,Mobbar,2012,0,0,6
+NGA,Nigeria,Mobbar,2024,8,1,8
+NGA,Nigeria,Mokwa,2007,7,1,7
+NGA,Nigeria,Mokwa,2012,0,0,1
+NGA,Nigeria,Mokwa,2016,0,0,3
+NGA,Nigeria,Moro,2007,0,0,1
+NGA,Nigeria,Moro,2012,0,0,6
+NGA,Nigeria,Moro,2014,0,0,4
+NGA,Nigeria,Moro,2016,9,1,9
+NGA,Nigeria,Moro,2017,0,0,1
+NGA,Nigeria,Mubi North,2012,0,0,4
+NGA,Nigeria,Mubi North,2019,0,0,6
+NGA,Nigeria,Mubi North,2023,0,0,4
+NGA,Nigeria,Mubi North,2024,0,0,1
+NGA,Nigeria,Musawa,2012,7,1,7
+NGA,Nigeria,Musawa,2019,0,0,5
+NGA,Nigeria,Musawa,2025,0,0,3
+NGA,Nigeria,Muya,2018,0,0,1
+NGA,Nigeria,Muya,2019,9,1,9
+NGA,Nigeria,Muya,2020,0,0,1
+NGA,Nigeria,Nafada,2012,0,0,4
+NGA,Nigeria,Nafada,2017,0,0,6
+NGA,Nigeria,Nafada,2020,0,0,5
+NGA,Nigeria,Nangere,2012,0,0,1
+NGA,Nigeria,Nangere,2016,0,0,1
+NGA,Nigeria,Nangere,2017,7,1,7
+NGA,Nigeria,Nangere,2023,0,0,3
+NGA,Nigeria,Nangere,2024,0,0,3
+NGA,Nigeria,Nasarawa,2007,0,0,2
+NGA,Nigeria,Nasarawa,2016,0,0,6
+NGA,Nigeria,Nasarawa,2018,0,0,1
+NGA,Nigeria,Nasarawa,2019,0,0,2
+NGA,Nigeria,Nasarawa Eggon,2013,0,0,4
+NGA,Nigeria,Nasarawa Eggon,2018,0,0,2
+NGA,Nigeria,Nasarawa Eggon,2019,0,0,4
+NGA,Nigeria,Nasarawa Eggon,2024,0,0,2
+NGA,Nigeria,Nganzai,2018,0,0,1
+NGA,Nigeria,Nganzai,2023,10,1,10
+NGA,Nigeria,Nganzai,2024,0,0,3
+NGA,Nigeria,Ngaski,2008,13,1,13
+NGA,Nigeria,Ngaski,2012,0,0,2
+NGA,Nigeria,Nguru,2012,0,0,6
+NGA,Nigeria,Nguru,2016,0,0,3
+NGA,Nigeria,Nguru,2019,0,0,6
+NGA,Nigeria,Ningi,2007,0,0,2
+NGA,Nigeria,Ningi,2010,0,0,2
+NGA,Nigeria,Ningi,2018,0,0,5
+NGA,Nigeria,Ningi,2019,0,0,4
+NGA,Nigeria,Nkanu East,2018,0,0,1
+NGA,Nigeria,Nkanu East,2023,12,1,12
+NGA,Nigeria,Nkanu East,2024,10,1,10
+NGA,Nigeria,Nkanu East,2025,0,0,1
+NGA,Nigeria,Numan,2009,11,1,11
+NGA,Nigeria,Numan,2014,0,0,1
+NGA,Nigeria,Obi,2009,0,0,1
+NGA,Nigeria,Obi,2012,7,1,7
+NGA,Nigeria,Obi,2013,0,0,6
+NGA,Nigeria,Obi,2014,0,0,3
+NGA,Nigeria,Obi,2019,0,0,1
+NGA,Nigeria,Obi,2024,0,0,4
+NGA,Nigeria,Ohaukwu,2018,0,0,1
+NGA,Nigeria,Ohaukwu,2019,0,0,2
+NGA,Nigeria,Ohaukwu,2022,0,0,3
+NGA,Nigeria,Ohaukwu,2023,8,1,8
+NGA,Nigeria,Ohaukwu,2024,7,1,7
+NGA,Nigeria,Ori-Ire,2019,0,0,2
+NGA,Nigeria,Ori-Ire,2022,13,1,13
+NGA,Nigeria,Ori-Ire,2023,8,1,8
+NGA,Nigeria,Ori-Ire,2024,0,0,1
+NGA,Nigeria,Otukpo,2014,0,0,6
+NGA,Nigeria,Otukpo,2022,0,0,2
+NGA,Nigeria,Otukpo,2023,10,1,10
+NGA,Nigeria,Otukpo,2024,0,0,6
+NGA,Nigeria,Oyo East,2022,10,1,10
+NGA,Nigeria,Oyo East,2023,7,1,7
+NGA,Nigeria,Oyo East,2025,7,1,7
+NGA,Nigeria,Oyo West,2014,0,0,4
+NGA,Nigeria,Oyo West,2019,0,0,3
+NGA,Nigeria,Oyo West,2022,10,1,10
+NGA,Nigeria,Oyo West,2023,0,0,4
+NGA,Nigeria,Oyo West,2025,0,0,2
+NGA,Nigeria,Paikoro,2013,0,0,3
+NGA,Nigeria,Paikoro,2014,0,0,1
+NGA,Nigeria,Paikoro,2016,0,0,2
+NGA,Nigeria,Paikoro,2019,0,0,5
+NGA,Nigeria,Pategi,2012,11,1,11
+NGA,Nigeria,Pategi,2014,0,0,4
+NGA,Nigeria,Pategi,2016,9,1,9
+NGA,Nigeria,Potiskum,2012,0,0,2
+NGA,Nigeria,Potiskum,2020,0,0,4
+NGA,Nigeria,Potiskum,2024,0,0,3
+NGA,Nigeria,Potiskum,2025,0,0,6
+NGA,Nigeria,Qua'an Pan,2009,0,0,4
+NGA,Nigeria,Qua'an Pan,2012,0,0,2
+NGA,Nigeria,Qua'an Pan,2013,0,0,4
+NGA,Nigeria,Qua'an Pan,2014,0,0,2
+NGA,Nigeria,Rabah,2019,0,0,1
+NGA,Nigeria,Rabah,2022,0,0,6
+NGA,Nigeria,Rabah,2023,0,0,3
+NGA,Nigeria,Rabah,2024,0,0,1
+NGA,Nigeria,Rabah,2025,0,0,3
+NGA,Nigeria,Rafi,2007,0,0,6
+NGA,Nigeria,Rafi,2010,0,0,2
+NGA,Nigeria,Rano,2013,0,0,4
+NGA,Nigeria,Rano,2018,10,1,10
+NGA,Nigeria,Rano,2019,0,0,1
+NGA,Nigeria,Rijau,2007,0,0,6
+NGA,Nigeria,Rijau,2008,0,0,1
+NGA,Nigeria,Rijau,2016,0,0,2
+NGA,Nigeria,Rijau,2017,0,0,3
+NGA,Nigeria,Rimi,2012,0,0,4
+NGA,Nigeria,Rimi,2017,0,0,3
+NGA,Nigeria,Rimi,2019,0,0,4
+NGA,Nigeria,Rimi,2023,0,0,3
+NGA,Nigeria,Rimi,2024,0,0,1
+NGA,Nigeria,Rimin Gado,2018,11,1,11
+NGA,Nigeria,Rimin Gado,2019,0,0,4
+NGA,Nigeria,Ringim,2018,0,0,4
+NGA,Nigeria,Ringim,2019,7,1,7
+NGA,Nigeria,Ringim,2023,0,0,3
+NGA,Nigeria,Rogo,2018,7,1,7
+NGA,Nigeria,Rogo,2019,8,1,8
+NGA,Nigeria,Roni,2016,0,0,6
+NGA,Nigeria,Roni,2018,0,0,4
+NGA,Nigeria,Roni,2019,0,0,5
+NGA,Nigeria,Sabon Birni,2011,0,0,2
+NGA,Nigeria,Sabon Birni,2017,0,0,5
+NGA,Nigeria,Sabon Birni,2019,0,0,2
+NGA,Nigeria,Sabon Birni,2023,0,0,1
+NGA,Nigeria,Sabon Birni,2024,0,0,1
+NGA,Nigeria,Sabon Birni,2025,0,0,3
+NGA,Nigeria,Sabon Gari,2017,0,0,5
+NGA,Nigeria,Sabon Gari,2022,0,0,4
+NGA,Nigeria,Sabon Gari,2023,0,0,3
+NGA,Nigeria,Sabuwa,2017,8,1,8
+NGA,Nigeria,Sabuwa,2023,7,1,7
+NGA,Nigeria,Safana,2012,0,0,2
+NGA,Nigeria,Safana,2017,0,0,3
+NGA,Nigeria,Safana,2020,0,0,1
+NGA,Nigeria,Safana,2024,8,1,8
+NGA,Nigeria,Safana,2025,0,0,1
+NGA,Nigeria,Sakaba,2007,0,0,1
+NGA,Nigeria,Sakaba,2008,9,1,9
+NGA,Nigeria,Sakaba,2009,0,0,3
+NGA,Nigeria,Sakaba,2017,0,0,2
+NGA,Nigeria,Saki East,2012,0,0,6
+NGA,Nigeria,Saki East,2014,0,0,1
+NGA,Nigeria,Saki East,2016,0,0,3
+NGA,Nigeria,Saki East,2017,0,0,6
+NGA,Nigeria,Saki East,2019,0,0,3
+NGA,Nigeria,Saki East,2022,0,0,2
+NGA,Nigeria,Saki West,2012,0,0,6
+NGA,Nigeria,Saki West,2014,0,0,1
+NGA,Nigeria,Saki West,2016,0,0,1
+NGA,Nigeria,Saki West,2017,0,0,5
+NGA,Nigeria,Saki West,2018,0,0,1
+NGA,Nigeria,Saki West,2019,0,0,6
+NGA,Nigeria,Saki West,2022,0,0,2
+NGA,Nigeria,Saki West,2023,0,0,2
+NGA,Nigeria,Sandamu,2016,0,0,6
+NGA,Nigeria,Sandamu,2023,9,1,9
+NGA,Nigeria,Sanga,2016,0,0,2
+NGA,Nigeria,Sanga,2018,7,1,7
+NGA,Nigeria,Sanga,2019,0,0,2
+NGA,Nigeria,Shagari,2017,0,0,3
+NGA,Nigeria,Shagari,2019,0,0,5
+NGA,Nigeria,Shagari,2022,0,0,1
+NGA,Nigeria,Shagari,2023,0,0,5
+NGA,Nigeria,Shagari,2025,0,0,1
+NGA,Nigeria,Shanga,2007,0,0,1
+NGA,Nigeria,Shanga,2008,0,0,6
+NGA,Nigeria,Shanga,2017,0,0,4
+NGA,Nigeria,Shani,2007,0,0,2
+NGA,Nigeria,Shani,2017,0,0,3
+NGA,Nigeria,Shani,2019,0,0,6
+NGA,Nigeria,Shani,2023,0,0,4
+NGA,Nigeria,Shanono,2012,0,0,2
+NGA,Nigeria,Shanono,2018,0,0,3
+NGA,Nigeria,Shanono,2019,7,1,7
+NGA,Nigeria,Shelleng,2009,8,1,8
+NGA,Nigeria,Shelleng,2013,0,0,5
+NGA,Nigeria,Shelleng,2019,0,0,1
+NGA,Nigeria,Shendam,2013,0,0,2
+NGA,Nigeria,Shendam,2014,8,1,8
+NGA,Nigeria,Shendam,2017,0,0,2
+NGA,Nigeria,Shinkafi,2017,7,1,7
+NGA,Nigeria,Shinkafi,2019,0,0,1
+NGA,Nigeria,Shinkafi,2022,0,0,4
+NGA,Nigeria,Shinkafi,2023,0,0,2
+NGA,Nigeria,Shinkafi,2024,0,0,1
+NGA,Nigeria,Shira,2010,0,0,2
+NGA,Nigeria,Shira,2018,0,0,1
+NGA,Nigeria,Shira,2019,0,0,5
+NGA,Nigeria,Shira,2020,0,0,3
+NGA,Nigeria,Shira,2023,0,0,3
+NGA,Nigeria,Shiroro,2007,0,0,1
+NGA,Nigeria,Shiroro,2010,0,0,5
+NGA,Nigeria,Shiroro,2019,0,0,6
+NGA,Nigeria,Shomgom,2009,0,0,3
+NGA,Nigeria,Shomgom,2014,0,0,2
+NGA,Nigeria,Shomgom,2017,0,0,1
+NGA,Nigeria,Shomgom,2019,0,0,2
+NGA,Nigeria,Shomgom,2023,0,0,5
+NGA,Nigeria,Soba,2017,0,0,1
+NGA,Nigeria,Soba,2019,0,0,5
+NGA,Nigeria,Soba,2022,0,0,3
+NGA,Nigeria,Soba,2023,0,0,2
+NGA,Nigeria,Song,2009,0,0,2
+NGA,Nigeria,Song,2010,0,0,2
+NGA,Nigeria,Song,2012,0,0,2
+NGA,Nigeria,Song,2014,8,1,8
+NGA,Nigeria,Sule Tankarkar,2016,0,0,3
+NGA,Nigeria,Sule Tankarkar,2019,0,0,2
+NGA,Nigeria,Sule Tankarkar,2023,0,0,3
+NGA,Nigeria,Sule Tankarkar,2024,0,0,6
+NGA,Nigeria,Sule Tankarkar,2025,0,0,1
+NGA,Nigeria,Sumaila,2010,0,0,1
+NGA,Nigeria,Sumaila,2013,0,0,1
+NGA,Nigeria,Sumaila,2018,9,1,9
+NGA,Nigeria,Sumaila,2019,0,0,4
+NGA,Nigeria,Suru,2017,0,0,3
+NGA,Nigeria,Suru,2018,0,0,4
+NGA,Nigeria,Suru,2019,8,1,8
+NGA,Nigeria,Tafawa-Balewa,2012,0,0,5
+NGA,Nigeria,Tafawa-Balewa,2017,0,0,4
+NGA,Nigeria,Tafawa-Balewa,2019,0,0,6
+NGA,Nigeria,Takai,2013,0,0,1
+NGA,Nigeria,Takai,2018,10,1,10
+NGA,Nigeria,Takai,2019,0,0,4
+NGA,Nigeria,Takum,2014,0,0,1
+NGA,Nigeria,Takum,2018,0,0,1
+NGA,Nigeria,Takum,2019,0,0,2
+NGA,Nigeria,Takum,2023,7,1,7
+NGA,Nigeria,Talata-Mafara,2010,0,0,1
+NGA,Nigeria,Talata-Mafara,2012,0,0,2
+NGA,Nigeria,Talata-Mafara,2017,10,1,10
+NGA,Nigeria,Talata-Mafara,2024,0,0,1
+NGA,Nigeria,Tambuwal,2017,0,0,3
+NGA,Nigeria,Tambuwal,2018,0,0,6
+NGA,Nigeria,Tambuwal,2019,0,0,5
+NGA,Nigeria,Tambuwal,2022,0,0,1
+NGA,Nigeria,Tangaza,2017,0,0,6
+NGA,Nigeria,Tangaza,2018,7,1,7
+NGA,Nigeria,Tangaza,2022,0,0,1
+NGA,Nigeria,Tangaza,2025,0,0,1
+NGA,Nigeria,Tarka,2021,0,0,2
+NGA,Nigeria,Tarka,2023,14,1,14
+NGA,Nigeria,Tarka,2024,0,0,6
+NGA,Nigeria,Tarka,2025,0,0,2
+NGA,Nigeria,Tarmuwa,2012,0,0,1
+NGA,Nigeria,Tarmuwa,2023,10,1,10
+NGA,Nigeria,Tarmuwa,2024,0,0,3
+NGA,Nigeria,Tarmuwa,2025,0,0,1
+NGA,Nigeria,Taura,2012,0,0,1
+NGA,Nigeria,Taura,2018,0,0,4
+NGA,Nigeria,Taura,2019,7,1,7
+NGA,Nigeria,Taura,2023,0,0,3
+NGA,Nigeria,Teungo,2019,0,0,2
+NGA,Nigeria,Teungo,2023,13,1,13
+NGA,Nigeria,Tofa,2018,11,1,11
+NGA,Nigeria,Tofa,2019,0,0,4
+NGA,Nigeria,Toro,2010,0,0,2
+NGA,Nigeria,Toro,2012,0,0,4
+NGA,Nigeria,Toro,2013,0,0,4
+NGA,Nigeria,Toro,2019,0,0,5
+NGA,Nigeria,Toto,2016,0,0,6
+NGA,Nigeria,Toto,2018,0,0,2
+NGA,Nigeria,Toto,2019,0,0,2
+NGA,Nigeria,Tsafe,2017,0,0,5
+NGA,Nigeria,Tsafe,2018,0,0,2
+NGA,Nigeria,Tsafe,2023,0,0,1
+NGA,Nigeria,Tsafe,2024,0,0,3
+NGA,Nigeria,Tsafe,2025,0,0,1
+NGA,Nigeria,Tsanyawa,2012,0,0,4
+NGA,Nigeria,Tsanyawa,2018,0,0,4
+NGA,Nigeria,Tsanyawa,2019,0,0,5
+NGA,Nigeria,Tudun Wada,2013,0,0,3
+NGA,Nigeria,Tudun Wada,2018,8,1,8
+NGA,Nigeria,Tudun Wada,2019,0,0,4
+NGA,Nigeria,Tureta,2010,0,0,1
+NGA,Nigeria,Tureta,2017,10,1,10
+NGA,Nigeria,Tureta,2019,0,0,2
+NGA,Nigeria,Tureta,2023,0,0,1
+NGA,Nigeria,Tureta,2024,0,0,1
+NGA,Nigeria,Ukum,2019,0,0,4
+NGA,Nigeria,Ukum,2021,0,0,5
+NGA,Nigeria,Ukum,2023,7,1,7
+NGA,Nigeria,Ukum,2024,0,0,6
+NGA,Nigeria,Ushongo,2014,0,0,3
+NGA,Nigeria,Ushongo,2019,0,0,5
+NGA,Nigeria,Ushongo,2022,0,0,3
+NGA,Nigeria,Ushongo,2023,11,1,11
+NGA,Nigeria,Vande Ikya,2022,0,0,5
+NGA,Nigeria,Vande Ikya,2023,11,1,11
+NGA,Nigeria,Vande Ikya,2024,0,0,3
+NGA,Nigeria,Warawa,2018,11,1,11
+NGA,Nigeria,Warawa,2019,0,0,4
+NGA,Nigeria,Warji,2007,0,0,1
+NGA,Nigeria,Warji,2010,0,0,2
+NGA,Nigeria,Warji,2012,0,0,1
+NGA,Nigeria,Warji,2018,0,0,2
+NGA,Nigeria,Warji,2019,0,0,5
+NGA,Nigeria,Warji,2023,0,0,1
+NGA,Nigeria,Warji,2024,0,0,1
+NGA,Nigeria,Wase,2013,0,0,2
+NGA,Nigeria,Wase,2014,0,0,4
+NGA,Nigeria,Wase,2016,0,0,3
+NGA,Nigeria,Wase,2018,0,0,2
+NGA,Nigeria,Wudil,2018,11,1,11
+NGA,Nigeria,Wudil,2019,0,0,4
+NGA,Nigeria,Wukari,2019,0,0,3
+NGA,Nigeria,Wukari,2023,7,1,7
+NGA,Nigeria,Wukari,2024,0,0,2
+NGA,Nigeria,Wushishi,2007,7,1,7
+NGA,Nigeria,Yala,2018,0,0,1
+NGA,Nigeria,Yala,2019,0,0,2
+NGA,Nigeria,Yala,2022,0,0,1
+NGA,Nigeria,Yala,2023,12,1,12
+NGA,Nigeria,Yala,2024,7,1,7
+NGA,Nigeria,Yala,2025,0,0,1
+NGA,Nigeria,Yamaltu/Deba,2007,0,0,1
+NGA,Nigeria,Yamaltu/Deba,2017,0,0,2
+NGA,Nigeria,Yamaltu/Deba,2020,0,0,1
+NGA,Nigeria,Yamaltu/Deba,2023,11,1,11
+NGA,Nigeria,Yankwashi,2012,0,0,5
+NGA,Nigeria,Yankwashi,2016,0,0,5
+NGA,Nigeria,Yankwashi,2019,0,0,5
+NGA,Nigeria,Yauri,2007,0,0,3
+NGA,Nigeria,Yauri,2008,9,1,9
+NGA,Nigeria,Yauri,2012,0,0,1
+NGA,Nigeria,Yauri,2017,0,0,2
+NGA,Nigeria,Yewa North,2012,0,0,3
+NGA,Nigeria,Yewa North,2019,0,0,6
+NGA,Nigeria,Yewa North,2024,0,0,6
+NGA,Nigeria,Yewa North,2025,0,0,5
+NGA,Nigeria,Yola South,2009,0,0,1
+NGA,Nigeria,Yola South,2010,0,0,3
+NGA,Nigeria,Yola South,2014,0,0,6
+NGA,Nigeria,Yorro,2014,0,0,2
+NGA,Nigeria,Yorro,2018,0,0,1
+NGA,Nigeria,Yorro,2022,8,1,8
+NGA,Nigeria,Yunusari,2012,11,1,11
+NGA,Nigeria,Yunusari,2023,0,0,2
+NGA,Nigeria,Yunusari,2024,0,0,2
+NGA,Nigeria,Yusufari,2012,7,1,7
+NGA,Nigeria,Yusufari,2019,0,0,6
+NGA,Nigeria,Yusufari,2024,0,0,1
+NGA,Nigeria,Zaki,2012,0,0,2
+NGA,Nigeria,Zaki,2016,0,0,1
+NGA,Nigeria,Zaki,2017,7,1,7
+NGA,Nigeria,Zaki,2019,0,0,1
+NGA,Nigeria,Zaki,2023,0,0,4
+NGA,Nigeria,Zango,2012,0,0,2
+NGA,Nigeria,Zango,2019,0,0,2
+NGA,Nigeria,Zango,2023,0,0,5
+NGA,Nigeria,Zango,2024,0,0,5
+NGA,Nigeria,Zangon Kataf,2017,0,0,2
+NGA,Nigeria,Zangon Kataf,2018,0,0,2
+NGA,Nigeria,Zangon Kataf,2019,0,0,6
+NGA,Nigeria,Zangon Kataf,2022,0,0,1
+NGA,Nigeria,Zaria,2017,0,0,1
+NGA,Nigeria,Zaria,2019,0,0,3
+NGA,Nigeria,Zaria,2022,0,0,4
+NGA,Nigeria,Zaria,2023,0,0,4
+NGA,Nigeria,Zing,2008,0,0,2
+NGA,Nigeria,Zing,2014,0,0,5
+NGA,Nigeria,Zing,2022,0,0,1
+NGA,Nigeria,Zurmi,2012,0,0,2
+NGA,Nigeria,Zurmi,2017,0,0,3
+NGA,Nigeria,Zurmi,2022,0,0,4
+NGA,Nigeria,Zurmi,2023,0,0,1
+NGA,Nigeria,Zurmi,2024,0,0,4
+NGA,Nigeria,Zurmi,2025,0,0,1
+RWA,Rwanda,Bugesera,2020,0,0,2
+RWA,Rwanda,Bugesera,2021,0,0,4
+RWA,Rwanda,Bugesera,2024,17,1,17
+RWA,Rwanda,Burera,2012,10,1,10
+RWA,Rwanda,Gakenke,2018,14,1,14
+RWA,Rwanda,Gakenke,2020,0,0,2
+RWA,Rwanda,Gakenke,2023,0,0,2
+RWA,Rwanda,Gatsibo,2020,0,0,2
+RWA,Rwanda,Gatsibo,2024,20,1,20
+RWA,Rwanda,Gicumbi,2018,7,1,7
+RWA,Rwanda,Gicumbi,2020,0,0,1
+RWA,Rwanda,Gicumbi,2023,0,0,2
+RWA,Rwanda,Gicumbi,2024,0,0,2
+RWA,Rwanda,Gisagara,2021,0,0,2
+RWA,Rwanda,Gisagara,2023,8,1,8
+RWA,Rwanda,Gisagara,2024,0,0,4
+RWA,Rwanda,Huye,2023,0,0,5
+RWA,Rwanda,Huye,2024,7,1,7
+RWA,Rwanda,Kamonyi,2023,0,0,5
+RWA,Rwanda,Kamonyi,2024,18,1,18
+RWA,Rwanda,Kayonza,2020,7,1,7
+RWA,Rwanda,Kayonza,2021,0,0,2
+RWA,Rwanda,Kayonza,2024,14,1,14
+RWA,Rwanda,Kirehe,2021,0,0,3
+RWA,Rwanda,Kirehe,2023,0,0,3
+RWA,Rwanda,Kirehe,2024,17,1,17
+RWA,Rwanda,Muhanga,2018,0,0,5
+RWA,Rwanda,Muhanga,2020,0,0,2
+RWA,Rwanda,Muhanga,2023,0,0,5
+RWA,Rwanda,Muhanga,2024,7,1,7
+RWA,Rwanda,Musanze,2018,0,0,2
+RWA,Rwanda,Musanze,2023,0,0,2
+RWA,Rwanda,Musanze,2024,0,0,2
+RWA,Rwanda,Musanze,2025,11,1,11
+RWA,Rwanda,Ngororero,2018,0,0,5
+RWA,Rwanda,Ngororero,2020,16,1,16
+RWA,Rwanda,Ngororero,2023,0,0,2
+RWA,Rwanda,Nyabihu,2018,0,0,5
+RWA,Rwanda,Nyabihu,2020,11,1,11
+RWA,Rwanda,Nyabihu,2023,0,0,2
+RWA,Rwanda,Nyabihu,2025,0,0,2
+RWA,Rwanda,Nyagatare,2020,9,1,9
+RWA,Rwanda,Nyagatare,2021,0,0,2
+RWA,Rwanda,Nyagatare,2024,12,1,12
+RWA,Rwanda,Nyamagabe,2020,0,0,1
+RWA,Rwanda,Nyamagabe,2022,0,0,2
+RWA,Rwanda,Nyamagabe,2023,14,1,14
+RWA,Rwanda,Nyamagabe,2024,0,0,2
+RWA,Rwanda,Nyanza,2020,0,0,2
+RWA,Rwanda,Nyanza,2021,0,0,2
+RWA,Rwanda,Nyanza,2023,9,1,9
+RWA,Rwanda,Nyanza,2024,7,1,7
+RWA,Rwanda,Nyaruguru,2023,13,1,13
+RWA,Rwanda,Nyaruguru,2024,9,1,9
+RWA,Rwanda,Rubavu,2020,0,0,3
+RWA,Rwanda,Rubavu,2023,0,0,4
+RWA,Rwanda,Rubavu,2025,9,1,9
+RWA,Rwanda,Ruhango,2020,0,0,2
+RWA,Rwanda,Ruhango,2023,0,0,4
+RWA,Rwanda,Ruhango,2024,7,1,7
+RWA,Rwanda,Rulindo,2018,17,1,17
+RWA,Rwanda,Rulindo,2020,0,0,2
+RWA,Rwanda,Rulindo,2023,0,0,2
+RWA,Rwanda,Rulindo,2024,0,0,2
+RWA,Rwanda,Rwamagana,2021,0,0,5
+RWA,Rwanda,Rwamagana,2024,18,1,18
+SOM,Somalia,Baydhabo,2007,10,1,10
+SOM,Somalia,Baydhabo,2012,9,1,9
+SOM,Somalia,Baydhabo,2016,0,0,2
+SOM,Somalia,Buur Xakaba,2010,0,0,3
+SOM,Somalia,Buur Xakaba,2013,17,1,17
+SOM,Somalia,Diinsoor,2013,18,1,18
+SOM,Somalia,Diinsoor,2016,0,0,1
+SOM,Somalia,Gabiley,2021,7,1,7
+SOM,Somalia,Gabiley,2023,8,1,8
+SOM,Somalia,Jawhar,2020,0,0,5
+SOM,Somalia,Jawhar,2024,14,1,14
+SOM,Somalia,Kuntuwaaray,2008,0,0,2
+SOM,Somalia,Kuntuwaaray,2013,7,1,7
+SOM,Somalia,Kuntuwaaray,2018,7,1,7
+SOM,Somalia,Qansax Dheere,2016,0,0,4
+SOM,Somalia,Qansax Dheere,2024,17,2,10
+SOM,Somalia,Qoryooley,2008,9,1,9
+SOM,Somalia,Qoryooley,2013,0,0,2
+SOM,Somalia,Qoryooley,2018,9,1,9
+SOM,Somalia,Saakow,2008,10,1,10
+SOM,Somalia,Saakow,2013,7,1,7
+SOM,Somalia,Sablale,2008,0,0,2
+SOM,Somalia,Sablale,2013,16,1,16
+SOM,Somalia,Sablale,2018,0,0,2
+SOM,Somalia,Tiyeeglow,2016,0,0,1
+SOM,Somalia,Tiyeeglow,2021,0,0,2
+SOM,Somalia,Tiyeeglow,2024,10,1,10
+SOM,Somalia,Tiyeeglow,2025,0,0,5
+SOM,Somalia,Wanla Weyn,2013,19,1,19
+SOM,Somalia,Wanla Weyn,2018,0,0,2
+SOM,Somalia,Xudur,2018,0,0,2
+SOM,Somalia,Xudur,2020,0,0,5
+SOM,Somalia,Xudur,2024,7,1,7
+SSD,South Sudan,Al Renk,2022,0,0,6
+SSD,South Sudan,Al Renk,2024,18,1,18
+SSD,South Sudan,Aliab,2007,0,0,6
+SSD,South Sudan,Aliab,2016,0,0,3
+SSD,South Sudan,Aliab,2020,22,1,22
+SSD,South Sudan,Amatonge,2019,20,1,20
+SSD,South Sudan,Amatonge,2020,0,0,1
+SSD,South Sudan,Aryat,2008,10,1,10
+SSD,South Sudan,Aryat,2013,0,0,4
+SSD,South Sudan,Aryat,2022,17,1,17
+SSD,South Sudan,Aweil,2022,9,1,9
+SSD,South Sudan,Aweil,2024,16,1,16
+SSD,South Sudan,Bahr al Jabal,2019,21,1,21
+SSD,South Sudan,Fashooda,2022,22,1,22
+SSD,South Sudan,Gogrial,2022,23,1,23
+SSD,South Sudan,Gogrial,2024,8,1,8
+SSD,South Sudan,Kajo Kaii,2014,0,0,3
+SSD,South Sudan,Kajo Kaii,2016,0,0,3
+SSD,South Sudan,Kajo Kaii,2017,0,0,2
+SSD,South Sudan,Kajo Kaii,2021,0,0,5
+SSD,South Sudan,Kajo Kaii,2025,0,0,6
+SSD,South Sudan,Magwi,2019,9,1,9
+SSD,South Sudan,Magwi,2023,0,0,2
+SSD,South Sudan,Magwi,2025,0,0,5
+SSD,South Sudan,Nahr Yei,2024,0,0,6
+SSD,South Sudan,Nahr Yei,2025,13,1,13
+SSD,South Sudan,Raja,2022,10,1,10
+SSD,South Sudan,Raja,2024,20,1,20
+SSD,South Sudan,Rumbek,2020,9,1,9
+SSD,South Sudan,Rumbek,2022,14,1,14
+SSD,South Sudan,Shobet,2013,0,0,2
+SSD,South Sudan,Shobet,2020,8,1,8
+SSD,South Sudan,Shobet,2021,0,0,1
+SSD,South Sudan,Shobet,2022,19,1,19
+SSD,South Sudan,Terkaka,2010,0,0,2
+SSD,South Sudan,Terkaka,2019,18,1,18
+SSD,South Sudan,Tonj,2013,0,0,4
+SSD,South Sudan,Tonj,2022,24,1,24
+SSD,South Sudan,Tonj,2024,0,0,1
+SSD,South Sudan,Wanjuk,2022,31,1,31
+SSD,South Sudan,Warab,2021,0,0,1
+SSD,South Sudan,Warab,2022,17,1,17
+SSD,South Sudan,Warab,2024,8,1,8
+SSD,South Sudan,Yerol,2020,7,1,7
+SSD,South Sudan,Yerol,2022,12,1,12
+SSD,South Sudan,Yerol,2024,9,1,9
+SWZ,Swaziland,Gege,2009,0,0,4
+SWZ,Swaziland,Gege,2010,0,0,2
+SWZ,Swaziland,Gege,2013,10,1,10
+SWZ,Swaziland,Gege,2021,0,0,2
+SWZ,Swaziland,Gege,2022,0,0,5
+SWZ,Swaziland,Hlane,2010,0,0,1
+SWZ,Swaziland,Hlane,2021,0,0,2
+SWZ,Swaziland,Hlane,2023,12,1,12
+SWZ,Swaziland,Hlane,2025,10,1,10
+SWZ,Swaziland,Hosea,2007,0,0,1
+SWZ,Swaziland,Lobamba Lomdzala,2009,0,0,4
+SWZ,Swaziland,Lobamba Lomdzala,2021,0,0,5
+SWZ,Swaziland,Lobamba Lomdzala,2022,0,0,5
+SWZ,Swaziland,Lobamba Lomdzala,2025,0,0,2
+SWZ,Swaziland,Lomahasha,2021,0,0,5
+SWZ,Swaziland,Lomahasha,2023,17,1,17
+SWZ,Swaziland,Lubuli,2021,0,0,4
+SWZ,Swaziland,Lubuli,2023,0,0,5
+SWZ,Swaziland,Lubuli,2025,7,1,7
+SWZ,Swaziland,Lugongolweni,2023,10,1,10
+SWZ,Swaziland,Lugongolweni,2025,0,0,5
+SWZ,Swaziland,Mahlangatja,2009,0,0,4
+SWZ,Swaziland,Mahlangatja,2013,9,1,9
+SWZ,Swaziland,Mahlangatja,2021,0,0,3
+SWZ,Swaziland,Mahlangatja,2022,0,0,5
+SWZ,Swaziland,Maseyisini,2009,0,0,4
+SWZ,Swaziland,Maseyisini,2013,12,1,12
+SWZ,Swaziland,Maseyisini,2021,0,0,4
+SWZ,Swaziland,Maseyisini,2022,0,0,2
+SWZ,Swaziland,Matsanjeni North,2023,12,1,12
+SWZ,Swaziland,Matsanjeni North,2025,9,1,9
+SWZ,Swaziland,Mbangweni,2009,0,0,4
+SWZ,Swaziland,Mbangweni,2013,15,1,15
+SWZ,Swaziland,Mbangweni,2021,0,0,4
+SWZ,Swaziland,Mbangweni,2022,0,0,2
+SWZ,Swaziland,Mhlangatane,2021,0,0,5
+SWZ,Swaziland,Mhlangatane,2023,17,1,17
+SWZ,Swaziland,Mhlangatane,2025,0,0,3
+SWZ,Swaziland,Mhlume,2019,0,0,1
+SWZ,Swaziland,Mhlume,2021,0,0,5
+SWZ,Swaziland,Mhlume,2023,7,1,7
+SWZ,Swaziland,Mhlume,2025,0,0,6
+SWZ,Swaziland,Mkhiweni,2010,0,0,2
+SWZ,Swaziland,Mkhiweni,2021,0,0,2
+SWZ,Swaziland,Mkhiweni,2022,0,0,1
+SWZ,Swaziland,Mkhiweni,2023,12,1,12
+SWZ,Swaziland,Mkhiweni,2025,7,1,7
+SWZ,Swaziland,Motjane,2009,0,0,4
+SWZ,Swaziland,Motjane,2013,0,0,2
+SWZ,Swaziland,Motjane,2021,0,0,6
+SWZ,Swaziland,Motjane,2022,0,0,2
+SWZ,Swaziland,Motjane,2023,0,0,2
+SWZ,Swaziland,Motjane,2025,10,1,10
+SWZ,Swaziland,Mphalaleni,2010,0,0,1
+SWZ,Swaziland,Mphalaleni,2021,0,0,4
+SWZ,Swaziland,Mphalaleni,2022,0,0,3
+SWZ,Swaziland,Mphalaleni,2023,10,1,10
+SWZ,Swaziland,Mphalaleni,2025,0,0,2
+SWZ,Swaziland,Mpholonjeni,2023,10,1,10
+SWZ,Swaziland,Mpholonjeni,2025,10,1,10
+SWZ,Swaziland,Mtsambama,2009,0,0,4
+SWZ,Swaziland,Mtsambama,2013,7,1,7
+SWZ,Swaziland,Mtsambama,2021,0,0,4
+SWZ,Swaziland,Mtsambama,2022,0,0,4
+SWZ,Swaziland,Ndzingeni,2010,0,0,2
+SWZ,Swaziland,Ndzingeni,2021,0,0,3
+SWZ,Swaziland,Ndzingeni,2022,0,0,2
+SWZ,Swaziland,Ndzingeni,2023,14,1,14
+SWZ,Swaziland,Ndzingeni,2025,0,0,3
+SWZ,Swaziland,Ngwenpisi,2009,0,0,5
+SWZ,Swaziland,Ngwenpisi,2010,0,0,2
+SWZ,Swaziland,Ngwenpisi,2013,7,1,7
+SWZ,Swaziland,Ngwenpisi,2021,0,0,3
+SWZ,Swaziland,Ngwenpisi,2022,0,0,3
+SWZ,Swaziland,Ngwenpisi,2025,0,0,2
+SWZ,Swaziland,Nhlambeni,2010,0,0,1
+SWZ,Swaziland,Nhlambeni,2021,0,0,3
+SWZ,Swaziland,Nhlambeni,2022,0,0,3
+SWZ,Swaziland,Nhlambeni,2023,12,1,12
+SWZ,Swaziland,Nhlambeni,2025,0,0,2
+SWZ,Swaziland,Nkilongo,2021,0,0,2
+SWZ,Swaziland,Nkilongo,2023,10,1,10
+SWZ,Swaziland,Nkilongo,2025,7,1,7
+SWZ,Swaziland,Ntfonjeni,2010,0,0,2
+SWZ,Swaziland,Ntfonjeni,2011,0,0,4
+SWZ,Swaziland,Ntfonjeni,2013,0,0,2
+SWZ,Swaziland,Ntfonjeni,2021,0,0,4
+SWZ,Swaziland,Ntfonjeni,2023,10,1,10
+SWZ,Swaziland,Ntondozi,2009,0,0,2
+SWZ,Swaziland,Ntondozi,2010,0,0,1
+SWZ,Swaziland,Ntondozi,2013,0,0,5
+SWZ,Swaziland,Ntondozi,2021,0,0,5
+SWZ,Swaziland,Ntondozi,2022,0,0,5
+SWZ,Swaziland,Ntondozi,2023,0,0,2
+SWZ,Swaziland,Sandleni,2009,0,0,2
+SWZ,Swaziland,Sandleni,2013,7,1,7
+SWZ,Swaziland,Sandleni,2021,0,0,4
+SWZ,Swaziland,Sandleni,2022,0,0,3
+SWZ,Swaziland,Sandleni,2023,0,0,2
+SWZ,Swaziland,Shiselweni,2013,10,1,10
+SWZ,Swaziland,Shiselweni,2021,0,0,2
+SWZ,Swaziland,Shiselweni,2022,0,0,2
+SWZ,Swaziland,Shiselweni,2023,0,0,5
+SWZ,Swaziland,Shiselweni,2025,0,0,2
+SWZ,Swaziland,Sigwe,2013,0,0,4
+SWZ,Swaziland,Sigwe,2021,0,0,2
+SWZ,Swaziland,Sigwe,2022,0,0,2
+SWZ,Swaziland,Sigwe,2023,10,1,10
+SWZ,Swaziland,Sigwe,2025,0,0,6
+SWZ,Swaziland,Siphofaneni,2021,0,0,2
+SWZ,Swaziland,Siphofaneni,2023,12,1,12
+SWZ,Swaziland,Siphofaneni,2025,12,1,12
+SWZ,Swaziland,Sithobela,2021,0,0,2
+SWZ,Swaziland,Sithobela,2023,12,1,12
+SWZ,Swaziland,Sithobela,2025,11,1,11
+SWZ,Swaziland,Timpisini,2021,7,1,7
+SWZ,Swaziland,Timpisini,2023,14,1,14
+SWZ,Swaziland,Zombodze,2009,0,0,4
+SWZ,Swaziland,Zombodze,2013,10,1,10
+SWZ,Swaziland,Zombodze,2021,0,0,4
+SWZ,Swaziland,Zombodze,2022,0,0,4
+TCD,Chad,Baguirmi,2022,11,1,11
+TCD,Chad,Baguirmi,2024,7,1,7
+TCD,Chad,Barh Köh,2012,0,0,4
+TCD,Chad,Barh Köh,2021,0,0,2
+TCD,Chad,Barh Köh,2022,9,1,9
+TCD,Chad,Barh Köh,2024,0,0,3
+TCD,Chad,Barh Sara,2012,13,1,13
+TCD,Chad,Barh Sara,2017,0,0,3
+TCD,Chad,Barh Sara,2022,0,0,2
+TCD,Chad,Batha Est,2020,0,0,2
+TCD,Chad,Batha Est,2024,16,1,16
+TCD,Chad,Batha Oues,2022,10,1,10
+TCD,Chad,Batha Oues,2024,7,1,7
+TCD,Chad,Béré,2010,7,1,7
+TCD,Chad,Béré,2013,0,0,2
+TCD,Chad,Béré,2023,0,0,1
+TCD,Chad,Béré,2024,0,0,6
+TCD,Chad,Dababa,2022,0,0,5
+TCD,Chad,Dababa,2024,13,1,13
+TCD,Chad,Djourf Al Ahmar,2012,0,0,2
+TCD,Chad,Djourf Al Ahmar,2013,0,0,2
+TCD,Chad,Djourf Al Ahmar,2020,0,0,1
+TCD,Chad,Djourf Al Ahmar,2022,0,0,5
+TCD,Chad,Djourf Al Ahmar,2024,7,1,7
+TCD,Chad,Dodjé,2007,0,0,6
+TCD,Chad,Dodjé,2010,0,0,2
+TCD,Chad,Dodjé,2012,0,0,3
+TCD,Chad,Dodjé,2014,0,0,6
+TCD,Chad,Grande Sido,2010,0,0,1
+TCD,Chad,Grande Sido,2012,0,0,5
+TCD,Chad,Grande Sido,2022,0,0,1
+TCD,Chad,Grande Sido,2024,7,1,7
+TCD,Chad,Kabbia,2007,0,0,2
+TCD,Chad,Kabbia,2012,0,0,5
+TCD,Chad,Kabbia,2013,7,1,7
+TCD,Chad,Lac Iro,2012,0,0,3
+TCD,Chad,Lac Iro,2016,0,0,4
+TCD,Chad,Lac Iro,2020,0,0,4
+TCD,Chad,Lac Iro,2022,0,0,2
+TCD,Chad,Lac Iro,2024,0,0,5
+TCD,Chad,Lac Wey,2007,12,1,12
+TCD,Chad,Lac Wey,2013,0,0,5
+TCD,Chad,Lanya,2007,0,0,1
+TCD,Chad,Lanya,2010,7,1,7
+TCD,Chad,Lanya,2013,8,1,8
+TCD,Chad,Loug Chari,2022,14,1,14
+TCD,Chad,Loug Chari,2024,0,0,4
+TCD,Chad,Mandoul Occidental,2012,0,0,3
+TCD,Chad,Mandoul Occidental,2013,7,1,7
+TCD,Chad,Mandoul Occidental,2017,7,1,7
+TCD,Chad,Mandoul Oriental,2007,0,0,2
+TCD,Chad,Mandoul Oriental,2008,0,0,2
+TCD,Chad,Mandoul Oriental,2012,14,1,14
+TCD,Chad,Mayo-Boneye,2012,13,1,13
+TCD,Chad,Mayo-Boneye,2024,0,0,5
+TCD,Chad,Mayo-Dallah,2007,0,0,1
+TCD,Chad,Mayo-Dallah,2014,0,0,5
+TCD,Chad,Mayo-Dallah,2023,7,1,7
+TCD,Chad,Mont Illi,2007,0,0,5
+TCD,Chad,Mont Illi,2012,7,1,7
+TCD,Chad,Mont Illi,2013,0,0,5
+TCD,Chad,Monts de Lam,2022,0,0,5
+TCD,Chad,Monts de Lam,2023,12,1,12
+TCD,Chad,Ngourkosso,2010,0,0,3
+TCD,Chad,Ngourkosso,2013,0,0,5
+TCD,Chad,Ngourkosso,2019,0,0,1
+TCD,Chad,Ngourkosso,2023,0,0,5
+TCD,Chad,Nya Pendé,2010,0,0,4
+TCD,Chad,Nya Pendé,2012,0,0,6
+TCD,Chad,Nya Pendé,2016,0,0,3
+TCD,Chad,Nya Pendé,2023,0,0,2
+TCD,Chad,Ouara,2020,0,0,1
+TCD,Chad,Ouara,2022,0,0,2
+TCD,Chad,Ouara,2024,15,1,15
+TCD,Chad,Pendé,2012,0,0,3
+TCD,Chad,Pendé,2013,7,1,7
+TCD,Chad,Pendé,2017,8,1,8
+TCD,Chad,Sila,2012,0,0,2
+TCD,Chad,Sila,2022,7,1,7
+TCD,Chad,Sila,2024,7,1,7
+TCD,Chad,Tandjilé Est,2010,8,1,8
+TCD,Chad,Tandjilé Est,2012,0,0,5
+TCD,Chad,Tandjilé Est,2013,0,0,1
+TCD,Chad,Tandjilé Est,2019,0,0,3
+TCD,Chad,Tandjilé Est,2022,0,0,1
+TCD,Chad,Tandjilé Ouest,2010,0,0,4
+TCD,Chad,Tandjilé Ouest,2012,0,0,4
+TCD,Chad,Tandjilé Ouest,2013,7,1,7
+TCD,Chad,Tandjilé Ouest,2019,0,0,1
+TCD,Chad,Tandjilé Ouest,2022,0,0,1
+TGO,Togo,Amou,2017,0,0,6
+TGO,Togo,Amou,2022,8,1,8
+TGO,Togo,Amou,2023,9,1,9
+TGO,Togo,Amou,2024,0,0,2
+TGO,Togo,Anié,2012,0,0,2
+TGO,Togo,Anié,2017,7,1,7
+TGO,Togo,Anié,2018,0,0,3
+TGO,Togo,Anié,2022,0,0,3
+TGO,Togo,Anié,2023,0,0,4
+TGO,Togo,Bas-Mono,2017,0,0,3
+TGO,Togo,Bas-Mono,2024,11,1,11
+TGO,Togo,Bas-Mono,2025,0,0,6
+TGO,Togo,Bassar,2017,0,0,5
+TGO,Togo,Bassar,2020,0,0,3
+TGO,Togo,Bassar,2023,0,0,4
+TGO,Togo,Blitta,2022,7,1,7
+TGO,Togo,Blitta,2023,19,1,19
+TGO,Togo,Blitta,2024,0,0,1
+TGO,Togo,Dankpen,2008,0,0,2
+TGO,Togo,Dankpen,2012,0,0,6
+TGO,Togo,Dankpen,2016,0,0,4
+TGO,Togo,Dankpen,2017,0,0,6
+TGO,Togo,Doufelgou,2012,0,0,1
+TGO,Togo,Doufelgou,2017,8,1,8
+TGO,Togo,Doufelgou,2023,0,0,4
+TGO,Togo,Est-Mono,2012,9,1,9
+TGO,Togo,Est-Mono,2017,0,0,1
+TGO,Togo,Est-Mono,2018,0,0,2
+TGO,Togo,Est-Mono,2022,0,0,6
+TGO,Togo,Est-Mono,2023,0,0,6
+TGO,Togo,Haho,2022,0,0,5
+TGO,Togo,Haho,2023,7,1,7
+TGO,Togo,Haho,2024,14,1,14
+TGO,Togo,Kozah,2020,0,0,4
+TGO,Togo,Kozah,2023,9,1,9
+TGO,Togo,Kpendjal,2012,0,0,3
+TGO,Togo,Kpendjal,2017,0,0,5
+TGO,Togo,Kpendjal,2024,0,0,3
+TGO,Togo,Kéran,2012,0,0,6
+TGO,Togo,Kéran,2017,8,1,8
+TGO,Togo,Kéran,2023,0,0,2
+TGO,Togo,Mô,2017,0,0,1
+TGO,Togo,Mô,2020,7,1,7
+TGO,Togo,Mô,2023,0,0,6
+TGO,Togo,Mô,2024,0,0,4
+TGO,Togo,Mô,2025,0,0,3
+TGO,Togo,Naki-Ouest,2008,0,0,2
+TGO,Togo,Naki-Ouest,2012,0,0,3
+TGO,Togo,Naki-Ouest,2017,13,1,13
+TGO,Togo,Ogou,2012,0,0,2
+TGO,Togo,Ogou,2017,0,0,6
+TGO,Togo,Ogou,2018,0,0,3
+TGO,Togo,Ogou,2022,0,0,3
+TGO,Togo,Ogou,2023,8,1,8
+TGO,Togo,Ogou,2024,0,0,4
+TGO,Togo,Oti,2008,8,1,8
+TGO,Togo,Oti,2009,0,0,1
+TGO,Togo,Oti,2012,7,1,7
+TGO,Togo,Oti,2017,0,0,1
+TGO,Togo,Oti-Sud,2008,8,1,8
+TGO,Togo,Oti-Sud,2009,0,0,1
+TGO,Togo,Oti-Sud,2012,0,0,3
+TGO,Togo,Oti-Sud,2017,0,0,1
+TGO,Togo,Sotouboua,2017,0,0,2
+TGO,Togo,Sotouboua,2022,7,1,7
+TGO,Togo,Sotouboua,2023,8,1,8
+TGO,Togo,Sotouboua,2024,8,1,8
+TGO,Togo,Tandjouaré,2008,9,1,9
+TGO,Togo,Tandjouaré,2012,7,1,7
+TGO,Togo,Tandjouaré,2017,0,0,2
+TGO,Togo,Tchamba,2012,9,1,9
+TGO,Togo,Tchamba,2013,0,0,4
+TGO,Togo,Tchamba,2017,0,0,2
+TGO,Togo,Tchamba,2018,0,0,3
+TGO,Togo,Tchamba,2019,0,0,2
+TGO,Togo,Tchamba,2020,0,0,2
+TGO,Togo,Tchamba,2022,0,0,3
+TGO,Togo,Tchaudjo,2021,0,0,1
+TGO,Togo,Tchaudjo,2022,9,1,9
+TGO,Togo,Tchaudjo,2023,8,1,8
+TGO,Togo,Tchaudjo,2024,8,1,8
+TGO,Togo,Tône,2008,0,0,4
+TGO,Togo,Tône,2017,8,1,8
+TGO,Togo,Tône,2018,0,0,1
+TGO,Togo,Tône,2019,0,0,3
+TZA,Tanzania,Babati,2020,26,2,19
+TZA,Tanzania,Babati,2024,0,0,3
+TZA,Tanzania,Bahi,2007,21,1,21
+TZA,Tanzania,Bahi,2016,7,1,7
+TZA,Tanzania,Bahi,2020,0,0,4
+TZA,Tanzania,Bariadi,2018,7,1,7
+TZA,Tanzania,Bariadi,2020,0,0,2
+TZA,Tanzania,Bariadi,2024,12,1,12
+TZA,Tanzania,Biharamulo,2018,0,0,5
+TZA,Tanzania,Biharamulo,2024,10,1,10
+TZA,Tanzania,Bukombe,2024,22,1,22
+TZA,Tanzania,Chamwino,2007,7,1,7
+TZA,Tanzania,Chamwino,2020,24,2,14
+TZA,Tanzania,Chamwino,2024,0,0,2
+TZA,Tanzania,Chato,2018,17,1,17
+TZA,Tanzania,Chato,2023,0,0,5
+TZA,Tanzania,Chato,2024,0,0,2
+TZA,Tanzania,Chemba,2020,25,2,17
+TZA,Tanzania,Chunya,2020,9,1,9
+TZA,Tanzania,Chunya,2024,7,1,7
+TZA,Tanzania,Dodoma Urban,2020,18,2,11
+TZA,Tanzania,Dodoma Urban,2024,7,1,7
+TZA,Tanzania,Gairo,2020,0,0,3
+TZA,Tanzania,Gairo,2024,13,1,13
+TZA,Tanzania,Gairo,2025,0,0,2
+TZA,Tanzania,Hanang,2020,17,2,10
+TZA,Tanzania,Hanang,2024,12,1,12
+TZA,Tanzania,Handeni,2020,18,1,18
+TZA,Tanzania,Handeni,2025,8,1,8
+TZA,Tanzania,Igunga,2018,7,1,7
+TZA,Tanzania,Igunga,2020,10,1,10
+TZA,Tanzania,Igunga,2024,7,1,7
+TZA,Tanzania,Igunga,2025,0,0,2
+TZA,Tanzania,Ikungi,2007,0,0,5
+TZA,Tanzania,Ikungi,2013,0,0,5
+TZA,Tanzania,Ikungi,2020,11,1,11
+TZA,Tanzania,Iramba,2013,10,1,10
+TZA,Tanzania,Iramba,2018,7,1,7
+TZA,Tanzania,Iramba,2020,7,1,7
+TZA,Tanzania,Iramba,2024,7,1,7
+TZA,Tanzania,Iringa Rural,2020,20,2,12
+TZA,Tanzania,Iringa Rural,2024,12,1,12
+TZA,Tanzania,Itilima,2018,0,0,2
+TZA,Tanzania,Itilima,2020,11,1,11
+TZA,Tanzania,Itilima,2024,13,1,13
+TZA,Tanzania,Kahama,2018,15,1,15
+TZA,Tanzania,Kahama,2024,0,0,5
+TZA,Tanzania,Kahama Town,2018,15,1,15
+TZA,Tanzania,Kahama Town,2020,0,0,5
+TZA,Tanzania,Kahama Town,2024,0,0,5
+TZA,Tanzania,Kaliua,2018,12,1,12
+TZA,Tanzania,Kaliua,2024,14,1,14
+TZA,Tanzania,Karagwe,2024,25,1,25
+TZA,Tanzania,Kasulu,2024,34,4,12
+TZA,Tanzania,Kilindi,2020,22,1,22
+TZA,Tanzania,Kilindi,2024,0,0,4
+TZA,Tanzania,Kilolo,2020,0,0,5
+TZA,Tanzania,Kilolo,2024,27,3,12
+TZA,Tanzania,Kilombero,2014,0,0,5
+TZA,Tanzania,Kilombero,2017,10,1,10
+TZA,Tanzania,Kilombero,2020,0,0,1
+TZA,Tanzania,Kilombero,2021,10,1,10
+TZA,Tanzania,Kilombero,2024,0,0,2
+TZA,Tanzania,Kilombero,2025,0,0,6
+TZA,Tanzania,Kilosa,2017,0,0,2
+TZA,Tanzania,Kilosa,2020,12,1,12
+TZA,Tanzania,Kilosa,2024,10,1,10
+TZA,Tanzania,Kilosa,2025,0,0,3
+TZA,Tanzania,Kishapu,2020,7,1,7
+TZA,Tanzania,Kishapu,2024,0,0,5
+TZA,Tanzania,Kiteto,2020,31,1,31
+TZA,Tanzania,Kondoa,2020,24,2,15
+TZA,Tanzania,Kongwa,2020,10,1,10
+TZA,Tanzania,Kongwa,2024,0,0,4
+TZA,Tanzania,Korogwe,2020,18,1,18
+TZA,Tanzania,Korogwe,2025,7,1,7
+TZA,Tanzania,Kwimba,2018,22,1,22
+TZA,Tanzania,Kwimba,2020,0,0,1
+TZA,Tanzania,Kwimba,2024,0,0,3
+TZA,Tanzania,Manyoni,2016,0,0,5
+TZA,Tanzania,Manyoni,2020,23,2,12
+TZA,Tanzania,Manyoni,2024,0,0,2
+TZA,Tanzania,Masasi,2016,13,1,13
+TZA,Tanzania,Masasi,2017,0,0,2
+TZA,Tanzania,Masasi,2018,0,0,2
+TZA,Tanzania,Masasi,2024,7,1,7
+TZA,Tanzania,Masasi Town,2017,7,1,7
+TZA,Tanzania,Masasi Town,2024,21,1,21
+TZA,Tanzania,Masasi Town,2025,0,0,1
+TZA,Tanzania,Maswa,2018,17,1,17
+TZA,Tanzania,Maswa,2024,0,0,3
+TZA,Tanzania,Mbarali,2020,17,1,17
+TZA,Tanzania,Mbarali,2021,0,0,5
+TZA,Tanzania,Mbarali,2024,0,0,5
+TZA,Tanzania,Mbeya Rural,2020,0,0,5
+TZA,Tanzania,Mbeya Rural,2022,0,0,4
+TZA,Tanzania,Mbeya Rural,2024,17,1,17
+TZA,Tanzania,Mbinga,2022,16,2,9
+TZA,Tanzania,Mbinga,2024,12,1,12
+TZA,Tanzania,Mbinga,2025,0,0,2
+TZA,Tanzania,Mbogwe,2018,22,1,22
+TZA,Tanzania,Mbogwe,2023,0,0,1
+TZA,Tanzania,Mbogwe,2024,0,0,3
+TZA,Tanzania,Mbozi,2020,8,1,8
+TZA,Tanzania,Mbozi,2021,0,0,2
+TZA,Tanzania,Mbozi,2022,0,0,5
+TZA,Tanzania,Mbozi,2024,15,1,15
+TZA,Tanzania,Mbulu,2020,7,1,7
+TZA,Tanzania,Mbulu,2024,17,1,17
+TZA,Tanzania,Misungwi,2018,15,1,15
+TZA,Tanzania,Misungwi,2023,0,0,2
+TZA,Tanzania,Misungwi,2024,9,1,9
+TZA,Tanzania,Mkalama,2013,0,0,4
+TZA,Tanzania,Mkalama,2020,9,1,9
+TZA,Tanzania,Mkalama,2023,12,1,12
+TZA,Tanzania,Mlele,2020,16,2,8
+TZA,Tanzania,Mlele,2024,7,1,7
+TZA,Tanzania,Momba,2020,33,2,17
+TZA,Tanzania,Momba,2021,0,0,1
+TZA,Tanzania,Monduli,2020,21,1,21
+TZA,Tanzania,Monduli,2024,0,0,4
+TZA,Tanzania,Morogoro Rural,2017,0,0,5
+TZA,Tanzania,Morogoro Rural,2020,13,1,13
+TZA,Tanzania,Morogoro Rural,2024,8,1,8
+TZA,Tanzania,Morogoro Rural,2025,0,0,6
+TZA,Tanzania,Moshi Rural,2018,12,1,12
+TZA,Tanzania,Moshi Rural,2020,0,0,3
+TZA,Tanzania,Moshi Rural,2024,0,0,4
+TZA,Tanzania,Moshi Rural,2025,0,0,3
+TZA,Tanzania,Mpanda Urban,2018,7,1,7
+TZA,Tanzania,Mpanda Urban,2020,0,0,3
+TZA,Tanzania,Mpanda Urban,2024,10,1,10
+TZA,Tanzania,Mpanda Urban,2025,0,0,5
+TZA,Tanzania,Mpwapwa,2020,20,2,13
+TZA,Tanzania,Mpwapwa,2024,8,1,8
+TZA,Tanzania,Mvomero,2017,0,0,1
+TZA,Tanzania,Mvomero,2020,7,1,7
+TZA,Tanzania,Mvomero,2024,15,1,15
+TZA,Tanzania,Mvomero,2025,0,0,5
+TZA,Tanzania,Nachingwea,2016,0,0,1
+TZA,Tanzania,Nachingwea,2022,0,0,1
+TZA,Tanzania,Nachingwea,2024,29,2,22
+TZA,Tanzania,Nachingwea,2025,0,0,3
+TZA,Tanzania,Namtumbo,2022,0,0,5
+TZA,Tanzania,Namtumbo,2024,23,2,13
+TZA,Tanzania,Nanyumbu,2016,0,0,2
+TZA,Tanzania,Nanyumbu,2017,0,0,5
+TZA,Tanzania,Nanyumbu,2022,0,0,5
+TZA,Tanzania,Nanyumbu,2024,10,1,10
+TZA,Tanzania,Newala,2016,0,0,5
+TZA,Tanzania,Newala,2017,0,0,4
+TZA,Tanzania,Newala,2018,8,1,8
+TZA,Tanzania,Newala,2024,0,0,5
+TZA,Tanzania,Newala,2025,0,0,1
+TZA,Tanzania,Nyang'hwale,2018,19,1,19
+TZA,Tanzania,Nyang'hwale,2023,7,1,7
+TZA,Tanzania,Nzega,2018,19,1,19
+TZA,Tanzania,Nzega,2024,7,1,7
+TZA,Tanzania,Serengeti,2020,0,0,6
+TZA,Tanzania,Serengeti,2024,14,1,14
+TZA,Tanzania,Shinyanga Rural,2018,19,1,19
+TZA,Tanzania,Shinyanga Rural,2020,0,0,3
+TZA,Tanzania,Shinyanga Rural,2024,0,0,3
+TZA,Tanzania,Shinyanga Urban,2024,22,1,22
+TZA,Tanzania,Sikonge,2020,20,2,11
+TZA,Tanzania,Sikonge,2024,14,1,14
+TZA,Tanzania,Simanjiro,2020,24,1,24
+TZA,Tanzania,Simanjiro,2024,0,0,6
+TZA,Tanzania,Singida Rural,2020,20,2,13
+TZA,Tanzania,Singida Urban,2013,0,0,5
+TZA,Tanzania,Singida Urban,2016,0,0,2
+TZA,Tanzania,Singida Urban,2020,12,1,12
+TZA,Tanzania,Singida Urban,2021,0,0,5
+TZA,Tanzania,Singida Urban,2024,0,0,2
+TZA,Tanzania,Sumbawanga Urban,2020,0,0,2
+TZA,Tanzania,Sumbawanga Urban,2024,27,1,27
+TZA,Tanzania,Tabora,2018,0,0,5
+TZA,Tanzania,Tabora,2024,12,1,12
+TZA,Tanzania,Tarime,2020,15,1,15
+TZA,Tanzania,Tarime,2024,11,1,11
+TZA,Tanzania,Tunduru,2022,8,1,8
+TZA,Tanzania,Tunduru,2024,26,1,26
+TZA,Tanzania,Ulanga,2017,0,0,2
+TZA,Tanzania,Ulanga,2024,22,2,12
+TZA,Tanzania,Ulanga,2025,10,1,10
+TZA,Tanzania,Urambo,2020,0,0,6
+TZA,Tanzania,Urambo,2024,17,2,10
+TZA,Tanzania,Uyui,2007,7,1,7
+TZA,Tanzania,Uyui,2018,0,0,3
+TZA,Tanzania,Uyui,2020,12,1,12
+TZA,Tanzania,Wanging'ombe,2020,8,1,8
+TZA,Tanzania,Wanging'ombe,2024,13,1,13
+UGA,Uganda,Agago,2019,0,0,3
+UGA,Uganda,Agago,2020,9,1,9
+UGA,Uganda,Agago,2023,0,0,2
+UGA,Uganda,Agago,2025,0,0,6
+UGA,Uganda,Amuria,2010,8,1,8
+UGA,Uganda,Amuria,2018,11,1,11
+UGA,Uganda,Aringa,2014,0,0,2
+UGA,Uganda,Aringa,2017,0,0,5
+UGA,Uganda,Aringa,2020,8,1,8
+UGA,Uganda,Aringa,2024,7,1,7
+UGA,Uganda,Aruu,2012,0,0,2
+UGA,Uganda,Aruu,2019,7,1,7
+UGA,Uganda,Aruu,2020,9,1,9
+UGA,Uganda,Aruu,2025,0,0,5
+UGA,Uganda,Aswa,2012,7,1,7
+UGA,Uganda,Aswa,2018,0,0,2
+UGA,Uganda,Aswa,2019,0,0,5
+UGA,Uganda,Aswa,2020,0,0,6
+UGA,Uganda,Ayivu,2020,7,1,7
+UGA,Uganda,Ayivu,2023,0,0,4
+UGA,Uganda,Ayivu,2024,9,1,9
+UGA,Uganda,Bamunanika,2010,14,1,14
+UGA,Uganda,Bamunanika,2021,0,0,5
+UGA,Uganda,Bbaale,2010,19,1,19
+UGA,Uganda,Bokora,2018,17,2,10
+UGA,Uganda,Bubulo,2018,0,0,3
+UGA,Uganda,Bubulo,2020,0,0,4
+UGA,Uganda,Bubulo,2024,8,1,8
+UGA,Uganda,Budaka,2007,0,0,1
+UGA,Uganda,Budiope,2010,20,1,20
+UGA,Uganda,Budiope,2020,0,0,2
+UGA,Uganda,Bugabula,2010,22,1,22
+UGA,Uganda,Bugangaizi,2010,23,1,23
+UGA,Uganda,Buhweju,2023,0,0,2
+UGA,Uganda,Buhweju,2024,20,1,20
+UGA,Uganda,Bujenje,2010,16,1,16
+UGA,Uganda,Bujenje,2018,0,0,2
+UGA,Uganda,Bujenje,2021,0,0,3
+UGA,Uganda,Bukanga,2020,12,1,12
+UGA,Uganda,Bukanga,2021,8,1,8
+UGA,Uganda,Bukanga,2024,0,0,1
+UGA,Uganda,Bukedea,2018,7,1,7
+UGA,Uganda,Bukedea,2024,10,1,10
+UGA,Uganda,Bulamogi,2018,13,1,13
+UGA,Uganda,Bulamogi,2020,0,0,2
+UGA,Uganda,Bungokho,2024,20,2,12
+UGA,Uganda,Bungokho,2025,0,0,2
+UGA,Uganda,Bunyole,2010,0,0,2
+UGA,Uganda,Bunyole,2013,0,0,2
+UGA,Uganda,Bunyole,2018,0,0,5
+UGA,Uganda,Bunyole,2024,0,0,4
+UGA,Uganda,Buruli,2010,22,1,22
+UGA,Uganda,Busiki,2010,0,0,3
+UGA,Uganda,Busiki,2018,14,1,14
+UGA,Uganda,Busiki,2021,0,0,2
+UGA,Uganda,Butebo,2024,13,1,13
+UGA,Uganda,Butebo,2025,0,0,1
+UGA,Uganda,Buwekula,2008,7,1,7
+UGA,Uganda,Buwekula,2010,15,1,15
+UGA,Uganda,Buyanja,2010,23,1,23
+UGA,Uganda,Buzaaya,2010,19,1,19
+UGA,Uganda,Buzaaya,2014,0,0,2
+UGA,Uganda,Chekwii,2012,11,1,11
+UGA,Uganda,Chekwii,2018,10,1,10
+UGA,Uganda,Chua,2019,0,0,2
+UGA,Uganda,Chua,2020,19,1,19
+UGA,Uganda,Chua,2025,0,0,1
+UGA,Uganda,Dodoth,2017,0,0,1
+UGA,Uganda,Dodoth,2018,0,0,4
+UGA,Uganda,Dodoth,2020,9,1,9
+UGA,Uganda,Dodoth,2021,0,0,1
+UGA,Uganda,Dodoth,2022,0,0,1
+UGA,Uganda,Dodoth,2024,0,0,6
+UGA,Uganda,Dokolo,2018,0,0,3
+UGA,Uganda,Dokolo,2020,13,1,13
+UGA,Uganda,East Moyo,2018,0,0,1
+UGA,Uganda,East Moyo,2019,0,0,2
+UGA,Uganda,East Moyo,2020,20,1,20
+UGA,Uganda,Erute,2017,0,0,2
+UGA,Uganda,Erute,2020,0,0,2
+UGA,Uganda,Erute,2023,0,0,5
+UGA,Uganda,Erute,2024,0,0,3
+UGA,Uganda,Erute,2025,7,1,7
+UGA,Uganda,Gomba,2008,0,0,2
+UGA,Uganda,Gomba,2021,8,1,8
+UGA,Uganda,Gomba,2023,0,0,1
+UGA,Uganda,Gomba,2024,10,1,10
+UGA,Uganda,Gulu,2020,0,0,6
+UGA,Uganda,Gulu,2024,0,0,5
+UGA,Uganda,Gulu,2025,0,0,4
+UGA,Uganda,Ibanda,2023,0,0,2
+UGA,Uganda,Ibanda,2024,21,1,21
+UGA,Uganda,Isingiro,2020,0,0,3
+UGA,Uganda,Isingiro,2021,7,1,7
+UGA,Uganda,Isingiro,2024,8,1,8
+UGA,Uganda,Jie,2018,0,0,5
+UGA,Uganda,Jie,2019,0,0,5
+UGA,Uganda,Jie,2020,0,0,4
+UGA,Uganda,Jie,2024,0,0,4
+UGA,Uganda,Kaberamaido,2018,0,0,1
+UGA,Uganda,Kaberamaido,2020,13,1,13
+UGA,Uganda,Kabula,2008,0,0,5
+UGA,Uganda,Kabula,2010,14,1,14
+UGA,Uganda,Kagoma,2023,22,1,22
+UGA,Uganda,Kalaki,2010,12,1,12
+UGA,Uganda,Kalaki,2018,0,0,1
+UGA,Uganda,Kalaki,2020,8,1,8
+UGA,Uganda,Kapelebyong,2010,0,0,5
+UGA,Uganda,Kapelebyong,2018,18,2,11
+UGA,Uganda,Kassanda,2008,7,1,7
+UGA,Uganda,Kassanda,2010,0,0,2
+UGA,Uganda,Kassanda,2021,0,0,6
+UGA,Uganda,Kassanda,2023,0,0,2
+UGA,Uganda,Kassanda,2024,0,0,3
+UGA,Uganda,Katikamu,2010,17,1,17
+UGA,Uganda,Katikamu,2021,0,0,2
+UGA,Uganda,Kibanda,2018,0,0,5
+UGA,Uganda,Kibanda,2024,10,1,10
+UGA,Uganda,Kiboga,2010,20,1,20
+UGA,Uganda,Kiboga,2013,0,0,2
+UGA,Uganda,Kibuku,2018,12,1,12
+UGA,Uganda,Kibuku,2020,0,0,3
+UGA,Uganda,Kibuku,2024,0,0,3
+UGA,Uganda,Kigulu,2010,7,1,7
+UGA,Uganda,Kigulu,2018,0,0,6
+UGA,Uganda,Kigulu,2023,0,0,5
+UGA,Uganda,Kigulu,2024,0,0,1
+UGA,Uganda,Kilak,2018,0,0,2
+UGA,Uganda,Kilak,2020,19,1,19
+UGA,Uganda,Kilak,2021,0,0,2
+UGA,Uganda,Kisoko (West Budama),2018,0,0,5
+UGA,Uganda,Kisoko (West Budama),2020,0,0,3
+UGA,Uganda,Kisoko (West Budama),2021,0,0,5
+UGA,Uganda,Kisoko (West Budama),2023,0,0,3
+UGA,Uganda,Kisoko (West Budama),2024,0,0,4
+UGA,Uganda,Kisoro,2024,0,0,5
+UGA,Uganda,Kisoro,2025,11,1,11
+UGA,Uganda,Koboko,2017,0,0,2
+UGA,Uganda,Koboko,2020,9,1,9
+UGA,Uganda,Koboko,2021,0,0,2
+UGA,Uganda,Koboko,2023,0,0,1
+UGA,Uganda,Koboko,2024,0,0,6
+UGA,Uganda,Kole,2023,8,1,8
+UGA,Uganda,Kole,2024,0,0,3
+UGA,Uganda,Kole,2025,8,1,8
+UGA,Uganda,Kongasis,2010,0,0,1
+UGA,Uganda,Kongasis,2012,0,0,2
+UGA,Uganda,Kongasis,2018,0,0,5
+UGA,Uganda,Kongasis,2020,9,1,9
+UGA,Uganda,Kongasis,2024,0,0,1
+UGA,Uganda,Kooki,2020,10,1,10
+UGA,Uganda,Kooki,2021,7,1,7
+UGA,Uganda,Kooki,2024,0,0,5
+UGA,Uganda,Kumi,2010,0,0,5
+UGA,Uganda,Kumi,2018,12,1,12
+UGA,Uganda,Kumi,2024,0,0,4
+UGA,Uganda,Kwania,2010,0,0,2
+UGA,Uganda,Kwania,2017,0,0,2
+UGA,Uganda,Kwania,2018,0,0,5
+UGA,Uganda,Kwania,2020,0,0,6
+UGA,Uganda,Kwania,2024,0,0,2
+UGA,Uganda,Kween,2012,0,0,2
+UGA,Uganda,Kween,2018,8,1,8
+UGA,Uganda,Kween,2020,0,0,1
+UGA,Uganda,Kween,2024,9,1,9
+UGA,Uganda,Kyaka,2010,22,1,22
+UGA,Uganda,Labwor,2018,7,1,7
+UGA,Uganda,Labwor,2020,0,0,3
+UGA,Uganda,Labwor,2023,0,0,2
+UGA,Uganda,Labwor,2024,0,0,4
+UGA,Uganda,Lamwo,2019,0,0,4
+UGA,Uganda,Lamwo,2020,15,1,15
+UGA,Uganda,Lamwo,2023,0,0,1
+UGA,Uganda,Lamwo,2024,0,0,2
+UGA,Uganda,Lira,2017,0,0,1
+UGA,Uganda,Lira,2023,8,1,8
+UGA,Uganda,Lira,2024,0,0,2
+UGA,Uganda,Lira,2025,8,1,8
+UGA,Uganda,Luuka,2010,10,1,10
+UGA,Uganda,Luuka,2023,0,0,6
+UGA,Uganda,Madi-Okollo,2007,0,0,4
+UGA,Uganda,Madi-Okollo,2018,0,0,1
+UGA,Uganda,Madi-Okollo,2020,9,1,9
+UGA,Uganda,Madi-Okollo,2021,0,0,3
+UGA,Uganda,Madi-Okollo,2023,0,0,1
+UGA,Uganda,Madi-Okollo,2024,0,0,3
+UGA,Uganda,Maracha,2017,8,1,8
+UGA,Uganda,Maracha,2020,7,1,7
+UGA,Uganda,Maracha,2023,0,0,1
+UGA,Uganda,Maracha,2024,7,1,7
+UGA,Uganda,Maruzi,2010,24,1,24
+UGA,Uganda,Mawogola,2008,0,0,3
+UGA,Uganda,Mawogola,2010,7,1,7
+UGA,Uganda,Mawogola,2018,0,0,5
+UGA,Uganda,Mawogola,2021,0,0,3
+UGA,Uganda,Mawogola,2024,0,0,2
+UGA,Uganda,Moroto,2018,0,0,5
+UGA,Uganda,Moroto,2020,0,0,4
+UGA,Uganda,Moroto,2025,0,0,5
+UGA,Uganda,Mwenge,2021,10,1,10
+UGA,Uganda,Mwenge,2023,0,0,2
+UGA,Uganda,Mwenge,2024,10,1,10
+UGA,Uganda,Nakaseke,2010,20,1,20
+UGA,Uganda,Nakaseke,2013,0,0,2
+UGA,Uganda,Nakifuma,2023,20,1,20
+UGA,Uganda,Nakifuma,2024,0,0,3
+UGA,Uganda,Ndorwa,2018,10,1,10
+UGA,Uganda,Ndorwa,2023,0,0,4
+UGA,Uganda,Ndorwa,2024,0,0,2
+UGA,Uganda,Ngora,2010,0,0,6
+UGA,Uganda,Ngora,2018,11,1,11
+UGA,Uganda,Ntenjeru,2010,12,1,12
+UGA,Uganda,Ntenjeru,2018,0,0,1
+UGA,Uganda,Ntenjeru,2023,0,0,5
+UGA,Uganda,Nwoya,2018,0,0,4
+UGA,Uganda,Nwoya,2019,0,0,4
+UGA,Uganda,Nwoya,2020,0,0,4
+UGA,Uganda,Nwoya,2024,0,0,2
+UGA,Uganda,Nwoya,2025,0,0,3
+UGA,Uganda,Nyabushozi,2010,14,2,7
+UGA,Uganda,Nyabushozi,2018,0,0,2
+UGA,Uganda,Nyabushozi,2024,7,1,7
+UGA,Uganda,Okoro,2019,0,0,5
+UGA,Uganda,Okoro,2020,8,1,8
+UGA,Uganda,Okoro,2024,7,1,7
+UGA,Uganda,Okoro,2025,0,0,3
+UGA,Uganda,Omoro,2007,0,0,1
+UGA,Uganda,Omoro,2017,0,0,1
+UGA,Uganda,Omoro,2020,0,0,6
+UGA,Uganda,Omoro,2023,0,0,3
+UGA,Uganda,Omoro,2025,7,1,7
+UGA,Uganda,Oyam,2020,0,0,3
+UGA,Uganda,Oyam,2023,13,1,13
+UGA,Uganda,Oyam,2025,8,1,8
+UGA,Uganda,Padyere,2007,0,0,1
+UGA,Uganda,Padyere,2019,0,0,6
+UGA,Uganda,Padyere,2020,0,0,6
+UGA,Uganda,Padyere,2021,0,0,2
+UGA,Uganda,Padyere,2024,0,0,5
+UGA,Uganda,Padyere,2025,0,0,2
+UGA,Uganda,Pallisa,2013,0,0,1
+UGA,Uganda,Pallisa,2018,10,1,10
+UGA,Uganda,Pallisa,2020,9,1,9
+UGA,Uganda,Rubabo,2023,0,0,2
+UGA,Uganda,Rubabo,2024,14,1,14
+UGA,Uganda,Rubabo,2025,0,0,6
+UGA,Uganda,Rubanda,2018,0,0,2
+UGA,Uganda,Rubanda,2023,7,1,7
+UGA,Uganda,Rubanda,2024,11,1,11
+UGA,Uganda,Rubanda,2025,0,0,2
+UGA,Uganda,Ruhaama,2020,8,1,8
+UGA,Uganda,Ruhaama,2021,0,0,2
+UGA,Uganda,Ruhaama,2024,12,1,12
+UGA,Uganda,Rukiga,2023,9,1,9
+UGA,Uganda,Rukiga,2024,12,1,12
+UGA,Uganda,Rushenyi,2020,7,1,7
+UGA,Uganda,Rushenyi,2023,0,0,2
+UGA,Uganda,Rushenyi,2024,12,1,12
+UGA,Uganda,Rushenyi,2025,0,0,2
+UGA,Uganda,Rwampara,2020,0,0,2
+UGA,Uganda,Rwampara,2021,0,0,5
+UGA,Uganda,Rwampara,2023,0,0,2
+UGA,Uganda,Rwampara,2024,14,1,14
+UGA,Uganda,Samia-Bugwe,2021,7,1,7
+UGA,Uganda,Samia-Bugwe,2023,9,1,9
+UGA,Uganda,Samia-Bugwe,2024,7,1,7
+UGA,Uganda,Serere,2010,0,0,3
+UGA,Uganda,Serere,2018,7,1,7
+UGA,Uganda,Serere,2020,7,1,7
+UGA,Uganda,Soroti,2010,12,1,12
+UGA,Uganda,Soroti,2018,11,1,11
+UGA,Uganda,Soroti (Municipality),2010,0,0,6
+UGA,Uganda,Soroti (Municipality),2018,12,1,12
+UGA,Uganda,Terego,2017,10,1,10
+UGA,Uganda,Terego,2020,9,1,9
+UGA,Uganda,Terego,2024,0,0,5
+UGA,Uganda,Tororo,2024,20,2,10
+UGA,Uganda,Tororo,2025,0,0,2
+UGA,Uganda,Tororo (Municipality),2024,10,1,10
+UGA,Uganda,Tororo (Municipality),2025,0,0,2
+UGA,Uganda,Usuk,2012,10,1,10
+UGA,Uganda,Usuk,2018,11,1,11
+UGA,Uganda,Vurra,2017,0,0,1
+UGA,Uganda,Vurra,2020,9,1,9
+UGA,Uganda,Vurra,2024,9,1,9
+UGA,Uganda,Vurra,2025,0,0,3
+UGA,Uganda,West Moyo,2014,0,0,2
+UGA,Uganda,West Moyo,2017,0,0,1
+UGA,Uganda,West Moyo,2019,0,0,3
+UGA,Uganda,West Moyo,2020,8,1,8
+UGA,Uganda,West Moyo,2021,0,0,2
+UGA,Uganda,West Moyo,2022,0,0,1
+UGA,Uganda,West Moyo,2024,0,0,5
+ZAF,South Africa,Bojanala,2017,0,0,1
+ZAF,South Africa,Bojanala,2025,20,2,10
+ZAF,South Africa,Capricorn,2021,0,0,2
+ZAF,South Africa,Capricorn,2025,14,1,14
+ZAF,South Africa,Chris Hani,2007,0,0,3
+ZAF,South Africa,Chris Hani,2009,0,0,4
+ZAF,South Africa,Chris Hani,2011,0,0,6
+ZAF,South Africa,Chris Hani,2017,0,0,2
+ZAF,South Africa,Chris Hani,2021,0,0,3
+ZAF,South Africa,Chris Hani,2023,0,0,1
+ZAF,South Africa,Dr Kenneth Kaunda,2010,0,0,2
+ZAF,South Africa,Dr Kenneth Kaunda,2017,9,1,9
+ZAF,South Africa,Dr Kenneth Kaunda,2021,0,0,3
+ZAF,South Africa,Dr Kenneth Kaunda,2022,0,0,2
+ZAF,South Africa,Dr Kenneth Kaunda,2023,0,0,2
+ZAF,South Africa,Dr Kenneth Kaunda,2025,0,0,2
+ZAF,South Africa,Dr Ruth Segomotsi Mompati,2017,10,1,10
+ZAF,South Africa,Dr Ruth Segomotsi Mompati,2021,11,1,11
+ZAF,South Africa,Ehlanzeni,2011,0,0,2
+ZAF,South Africa,Ehlanzeni,2017,0,0,5
+ZAF,South Africa,Ehlanzeni,2021,7,1,7
+ZAF,South Africa,Ehlanzeni,2023,9,1,9
+ZAF,South Africa,Ekurhuleni,2021,0,0,3
+ZAF,South Africa,Ekurhuleni,2022,0,0,3
+ZAF,South Africa,Ekurhuleni,2023,0,0,2
+ZAF,South Africa,Ekurhuleni,2025,7,1,7
+ZAF,South Africa,Fezile Dabi,2010,7,1,7
+ZAF,South Africa,Fezile Dabi,2017,0,0,3
+ZAF,South Africa,Fezile Dabi,2022,0,0,3
+ZAF,South Africa,Fezile Dabi,2023,0,0,4
+ZAF,South Africa,Fezile Dabi,2025,0,0,3
+ZAF,South Africa,Frances Baard,2011,10,1,10
+ZAF,South Africa,Frances Baard,2017,7,1,7
+ZAF,South Africa,Frances Baard,2021,0,0,2
+ZAF,South Africa,Gert Sibande,2013,0,0,5
+ZAF,South Africa,Gert Sibande,2021,0,0,3
+ZAF,South Africa,Gert Sibande,2022,0,0,5
+ZAF,South Africa,Gert Sibande,2025,10,1,10
+ZAF,South Africa,Joe Gqabi,2011,0,0,2
+ZAF,South Africa,Joe Gqabi,2017,0,0,2
+ZAF,South Africa,Joe Gqabi,2021,0,0,3
+ZAF,South Africa,Joe Gqabi,2022,12,1,12
+ZAF,South Africa,Lejweleputswa,2017,8,1,8
+ZAF,South Africa,Lejweleputswa,2021,0,0,5
+ZAF,South Africa,Lejweleputswa,2022,7,1,7
+ZAF,South Africa,Mangaung,2017,7,1,7
+ZAF,South Africa,Mangaung,2021,0,0,3
+ZAF,South Africa,Mangaung,2022,0,0,5
+ZAF,South Africa,Mangaung,2023,0,0,3
+ZAF,South Africa,Mopani,2021,0,0,6
+ZAF,South Africa,Mopani,2023,0,0,2
+ZAF,South Africa,Mopani,2025,8,1,8
+ZAF,South Africa,Ngaka Modiri Molema,2017,9,1,9
+ZAF,South Africa,Ngaka Modiri Molema,2021,0,0,5
+ZAF,South Africa,Ngaka Modiri Molema,2025,8,1,8
+ZAF,South Africa,Nkangala,2008,0,0,3
+ZAF,South Africa,Nkangala,2021,0,0,3
+ZAF,South Africa,Nkangala,2022,0,0,5
+ZAF,South Africa,Nkangala,2025,13,1,13
+ZAF,South Africa,Pixley ka Seme,2009,0,0,1
+ZAF,South Africa,Pixley ka Seme,2011,19,1,19
+ZAF,South Africa,Sekhukhune,2021,0,0,1
+ZAF,South Africa,Sekhukhune,2022,0,0,1
+ZAF,South Africa,Sekhukhune,2024,0,0,3
+ZAF,South Africa,Sekhukhune,2025,16,1,16
+ZAF,South Africa,Sisonke,2022,0,0,6
+ZAF,South Africa,Sisonke,2023,0,0,1
+ZAF,South Africa,Sisonke,2024,10,1,10
+ZAF,South Africa,Thabo Mofutsanyane,2011,0,0,4
+ZAF,South Africa,Thabo Mofutsanyane,2021,7,1,7
+ZAF,South Africa,Thabo Mofutsanyane,2022,0,0,5
+ZAF,South Africa,Thabo Mofutsanyane,2023,0,0,3
+ZAF,South Africa,Umgungundlovu,2022,0,0,4
+ZAF,South Africa,Umgungundlovu,2023,0,0,4
+ZAF,South Africa,Umgungundlovu,2024,8,1,8
+ZAF,South Africa,Uthukela,2011,0,0,2
+ZAF,South Africa,Uthukela,2022,19,2,12
+ZAF,South Africa,Uthukela,2023,0,0,2
+ZAF,South Africa,Vhembe,2021,0,0,5
+ZAF,South Africa,Vhembe,2025,0,0,6
+ZAF,South Africa,Waterberg,2025,22,2,11
+ZAF,South Africa,West Rand,2022,0,0,4
+ZAF,South Africa,West Rand,2025,18,2,10
+ZAF,South Africa,Xhariep,2011,0,0,5
+ZAF,South Africa,Xhariep,2017,9,1,9
+ZAF,South Africa,Xhariep,2021,0,0,2
+ZAF,South Africa,Zululand,2013,0,0,2
+ZAF,South Africa,Zululand,2021,0,0,4
+ZAF,South Africa,Zululand,2022,0,0,3
+ZAF,South Africa,Zululand,2023,0,0,5
+ZAF,South Africa,Zululand,2025,0,0,6
+ZMB,Zambia,Chadiza,2007,0,0,3
+ZMB,Zambia,Chadiza,2017,0,0,3
+ZMB,Zambia,Chadiza,2021,0,0,3
+ZMB,Zambia,Chadiza,2022,0,0,2
+ZMB,Zambia,Chadiza,2023,0,0,3
+ZMB,Zambia,Chama,2007,15,1,15
+ZMB,Zambia,Chama,2020,0,0,1
+ZMB,Zambia,Chama,2022,13,1,13
+ZMB,Zambia,Chama,2024,0,0,2
+ZMB,Zambia,Chasefu,2007,16,1,16
+ZMB,Zambia,Chasefu,2022,0,0,5
+ZMB,Zambia,Chasefu,2024,0,0,2
+ZMB,Zambia,Chibombo,2021,31,2,22
+ZMB,Zambia,Chikankanta,2007,0,0,2
+ZMB,Zambia,Chikankanta,2008,26,1,26
+ZMB,Zambia,Chilanga,2021,15,1,15
+ZMB,Zambia,Chilanga,2022,0,0,3
+ZMB,Zambia,Chilanga,2023,0,0,4
+ZMB,Zambia,Chinsali,2007,0,0,1
+ZMB,Zambia,Chinsali,2020,12,1,12
+ZMB,Zambia,Chinsali,2021,0,0,5
+ZMB,Zambia,Chinsali,2024,0,0,2
+ZMB,Zambia,Chipangali,2007,0,0,4
+ZMB,Zambia,Chipangali,2022,0,0,6
+ZMB,Zambia,Chipangali,2023,0,0,5
+ZMB,Zambia,Chipata,2007,0,0,3
+ZMB,Zambia,Chipata,2021,0,0,1
+ZMB,Zambia,Chipata,2022,9,1,9
+ZMB,Zambia,Chipata,2023,14,1,14
+ZMB,Zambia,Chirundu,2007,0,0,1
+ZMB,Zambia,Chirundu,2008,26,1,26
+ZMB,Zambia,Chirundu,2014,0,0,3
+ZMB,Zambia,Chisamba,2007,0,0,5
+ZMB,Zambia,Chisamba,2008,20,2,12
+ZMB,Zambia,Chisamba,2021,0,0,1
+ZMB,Zambia,Chitambo,2008,22,1,22
+ZMB,Zambia,Chitambo,2022,8,1,8
+ZMB,Zambia,Choma,2007,0,0,4
+ZMB,Zambia,Choma,2008,10,1,10
+ZMB,Zambia,Choma,2023,0,0,6
+ZMB,Zambia,Chongwe,2021,11,1,11
+ZMB,Zambia,Chongwe,2023,10,1,10
+ZMB,Zambia,Gwembe,2007,0,0,4
+ZMB,Zambia,Gwembe,2008,25,1,25
+ZMB,Zambia,Isoka,2016,0,0,2
+ZMB,Zambia,Isoka,2020,10,1,10
+ZMB,Zambia,Isoka,2024,14,1,14
+ZMB,Zambia,Itezhi-tezhi,2007,0,0,2
+ZMB,Zambia,Itezhi-tezhi,2008,28,1,28
+ZMB,Zambia,Itezhi-tezhi,2021,0,0,1
+ZMB,Zambia,Kabompo,2007,10,1,10
+ZMB,Zambia,Kabompo,2010,13,1,13
+ZMB,Zambia,Kabompo,2013,0,0,2
+ZMB,Zambia,Kabwe,2007,0,0,5
+ZMB,Zambia,Kabwe,2008,8,1,8
+ZMB,Zambia,Kabwe,2021,0,0,5
+ZMB,Zambia,Kafue,2008,26,1,26
+ZMB,Zambia,Kalomo,2007,0,0,2
+ZMB,Zambia,Kalomo,2008,18,1,18
+ZMB,Zambia,Kalomo,2017,0,0,3
+ZMB,Zambia,Kalomo,2023,0,0,6
+ZMB,Zambia,Kalulushi,2007,0,0,3
+ZMB,Zambia,Kalulushi,2019,0,0,3
+ZMB,Zambia,Kalulushi,2021,0,0,5
+ZMB,Zambia,Kalulushi,2023,15,1,15
+ZMB,Zambia,Kanchibiya,2007,20,1,20
+ZMB,Zambia,Kanchibiya,2019,0,0,5
+ZMB,Zambia,Kanchibiya,2020,0,0,3
+ZMB,Zambia,Kaoma,2013,12,1,12
+ZMB,Zambia,Kaoma,2017,0,0,1
+ZMB,Zambia,Kaoma,2021,0,0,6
+ZMB,Zambia,Kaoma,2023,10,1,10
+ZMB,Zambia,Kapiri Mposhi,2007,0,0,4
+ZMB,Zambia,Kapiri Mposhi,2008,0,0,1
+ZMB,Zambia,Kapiri Mposhi,2021,18,2,11
+ZMB,Zambia,Kasama,2007,0,0,3
+ZMB,Zambia,Kasama,2020,17,1,17
+ZMB,Zambia,Kasama,2024,0,0,5
+ZMB,Zambia,Kasempa,2007,7,1,7
+ZMB,Zambia,Kasempa,2021,22,1,22
+ZMB,Zambia,Kasempa,2024,0,0,1
+ZMB,Zambia,Kasenengwa,2007,0,0,5
+ZMB,Zambia,Kasenengwa,2021,0,0,3
+ZMB,Zambia,Kasenengwa,2022,9,1,9
+ZMB,Zambia,Kasenengwa,2023,7,1,7
+ZMB,Zambia,Katete,2007,10,1,10
+ZMB,Zambia,Katete,2017,7,1,7
+ZMB,Zambia,Katete,2021,0,0,1
+ZMB,Zambia,Katete,2023,0,0,2
+ZMB,Zambia,Kazungula,2007,0,0,2
+ZMB,Zambia,Kazungula,2008,28,1,28
+ZMB,Zambia,Kitwe,2007,0,0,1
+ZMB,Zambia,Kitwe,2021,0,0,2
+ZMB,Zambia,Kitwe,2022,0,0,4
+ZMB,Zambia,Kitwe,2023,16,1,16
+ZMB,Zambia,Kitwe,2024,0,0,5
+ZMB,Zambia,Luano,2007,0,0,1
+ZMB,Zambia,Luano,2008,25,1,25
+ZMB,Zambia,Luanshya,2007,0,0,3
+ZMB,Zambia,Luanshya,2021,0,0,6
+ZMB,Zambia,Luanshya,2023,10,1,10
+ZMB,Zambia,Luanshya,2024,8,1,8
+ZMB,Zambia,Lufwanyama,2007,0,0,4
+ZMB,Zambia,Lufwanyama,2014,0,0,6
+ZMB,Zambia,Lufwanyama,2021,0,0,5
+ZMB,Zambia,Lufwanyama,2023,0,0,2
+ZMB,Zambia,Lumezi,2007,15,1,15
+ZMB,Zambia,Lumezi,2022,12,1,12
+ZMB,Zambia,Lundazi,2007,23,2,14
+ZMB,Zambia,Lundazi,2022,0,0,4
+ZMB,Zambia,Mafinga,2007,0,0,4
+ZMB,Zambia,Mafinga,2020,8,1,8
+ZMB,Zambia,Mafinga,2024,17,1,17
+ZMB,Zambia,Mambwe,2007,0,0,5
+ZMB,Zambia,Mambwe,2022,10,1,10
+ZMB,Zambia,Mambwe,2023,8,1,8
+ZMB,Zambia,Mansa,2007,0,0,1
+ZMB,Zambia,Manyinga,2007,0,0,6
+ZMB,Zambia,Manyinga,2021,7,1,7
+ZMB,Zambia,Manyinga,2023,8,1,8
+ZMB,Zambia,Masaiti,2007,9,1,9
+ZMB,Zambia,Masaiti,2021,0,0,4
+ZMB,Zambia,Masaiti,2023,10,1,10
+ZMB,Zambia,Masaiti,2024,0,0,1
+ZMB,Zambia,Mazabuka,2021,20,2,13
+ZMB,Zambia,Mbala,2018,0,0,2
+ZMB,Zambia,Mbala,2020,7,1,7
+ZMB,Zambia,Mbala,2021,0,0,5
+ZMB,Zambia,Mbala,2022,0,0,4
+ZMB,Zambia,Mbala,2024,0,0,5
+ZMB,Zambia,Mkushi,2007,9,1,9
+ZMB,Zambia,Mkushi,2021,0,0,2
+ZMB,Zambia,Mkushi,2023,7,1,7
+ZMB,Zambia,Monze,2007,0,0,1
+ZMB,Zambia,Monze,2008,16,1,16
+ZMB,Zambia,Mpika,2007,21,1,21
+ZMB,Zambia,Mpika,2008,0,0,1
+ZMB,Zambia,Mpika,2024,0,0,2
+ZMB,Zambia,Mpongwe,2007,7,1,7
+ZMB,Zambia,Mpongwe,2021,9,1,9
+ZMB,Zambia,Mufumbwe,2008,0,0,5
+ZMB,Zambia,Mufumbwe,2021,18,1,18
+ZMB,Zambia,Mufumbwe,2023,0,0,2
+ZMB,Zambia,Mumbwa,2008,14,1,14
+ZMB,Zambia,Mumbwa,2021,0,0,5
+ZMB,Zambia,Mungwi,2020,23,1,23
+ZMB,Zambia,Mungwi,2024,0,0,5
+ZMB,Zambia,Nakonde,2020,17,1,17
+ZMB,Zambia,Nakonde,2021,0,0,2
+ZMB,Zambia,Nakonde,2024,8,1,8
+ZMB,Zambia,Namwala,2008,30,1,30
+ZMB,Zambia,Namwala,2013,0,0,1
+ZMB,Zambia,Ndola,2007,0,0,1
+ZMB,Zambia,Ndola,2021,0,0,4
+ZMB,Zambia,Ndola,2022,0,0,1
+ZMB,Zambia,Ndola,2023,16,1,16
+ZMB,Zambia,Ndola,2024,8,1,8
+ZMB,Zambia,Nkeyema,2008,14,1,14
+ZMB,Zambia,Nkeyema,2021,12,1,12
+ZMB,Zambia,Nkeyema,2023,0,0,3
+ZMB,Zambia,Nyimba,2007,0,0,5
+ZMB,Zambia,Nyimba,2008,18,1,18
+ZMB,Zambia,Nyimba,2023,0,0,3
+ZMB,Zambia,Pemba,2007,0,0,2
+ZMB,Zambia,Pemba,2008,25,2,14
+ZMB,Zambia,Pemba,2023,0,0,2
+ZMB,Zambia,Petauke,2007,18,2,10
+ZMB,Zambia,Petauke,2021,0,0,3
+ZMB,Zambia,Petauke,2023,0,0,4
+ZMB,Zambia,Rufunsa,2008,14,1,14
+ZMB,Zambia,Senga Hill,2020,18,1,18
+ZMB,Zambia,Senga Hill,2021,0,0,5
+ZMB,Zambia,Senga Hill,2024,0,0,4
+ZMB,Zambia,Serenje,2007,8,1,8
+ZMB,Zambia,Serenje,2008,8,1,8
+ZMB,Zambia,Serenje,2022,0,0,6
+ZMB,Zambia,Serenje,2023,0,0,3
+ZMB,Zambia,Serenje,2024,0,0,5
+ZMB,Zambia,Shibuyunji,2008,0,0,6
+ZMB,Zambia,Shibuyunji,2021,9,1,9
+ZMB,Zambia,Siavonga,2007,0,0,4
+ZMB,Zambia,Siavonga,2008,24,1,24
+ZMB,Zambia,Sinazongwe,2007,0,0,1
+ZMB,Zambia,Sinazongwe,2008,7,1,7
+ZMB,Zambia,Sinda,2007,10,1,10
+ZMB,Zambia,Sinda,2008,0,0,6
+ZMB,Zambia,Sinda,2017,7,1,7
+ZMB,Zambia,Solwezi,2007,0,0,4
+ZMB,Zambia,Solwezi,2017,0,0,3
+ZMB,Zambia,Solwezi,2018,0,0,1
+ZMB,Zambia,Solwezi,2021,12,1,12
+ZMB,Zambia,Solwezi,2023,0,0,5
+ZMB,Zambia,Solwezi,2024,0,0,2
+ZMB,Zambia,Vubwi,2007,0,0,5
+ZMB,Zambia,Vubwi,2020,0,0,1
+ZMB,Zambia,Vubwi,2022,0,0,3
+ZMB,Zambia,Vubwi,2023,20,1,20
+ZMB,Zambia,Zambezi,2007,0,0,2
+ZMB,Zambia,Zambezi,2013,14,1,14
+ZMB,Zambia,Zambezi,2021,0,0,2
+ZMB,Zambia,Zambezi,2023,10,1,10
+ZMB,Zambia,Zimba,2007,0,0,1
+ZMB,Zambia,Zimba,2008,27,3,13
+ZWE,Zimbabwe,Bikita,2021,12,1,12
+ZWE,Zimbabwe,Bindura,2008,0,0,2
+ZWE,Zimbabwe,Bindura,2017,7,1,7
+ZWE,Zimbabwe,Bindura,2021,7,1,7
+ZWE,Zimbabwe,Bindura,2022,7,1,7
+ZWE,Zimbabwe,Binga,2008,16,2,8
+ZWE,Zimbabwe,Binga,2023,0,0,3
+ZWE,Zimbabwe,Buhera,2008,0,0,1
+ZWE,Zimbabwe,Buhera,2018,0,0,4
+ZWE,Zimbabwe,Buhera,2021,15,1,15
+ZWE,Zimbabwe,Buhera,2025,0,0,4
+ZWE,Zimbabwe,Bulilima,2021,18,2,10
+ZWE,Zimbabwe,Centenary/ Muzarabani,2008,10,1,10
+ZWE,Zimbabwe,Centenary/ Muzarabani,2017,0,0,6
+ZWE,Zimbabwe,Chegutu,2008,7,1,7
+ZWE,Zimbabwe,Chegutu,2017,19,1,19
+ZWE,Zimbabwe,Chikomba,2008,0,0,6
+ZWE,Zimbabwe,Chikomba,2021,18,1,18
+ZWE,Zimbabwe,Chipinge,2021,25,2,15
+ZWE,Zimbabwe,Chiredzi,2021,10,1,10
+ZWE,Zimbabwe,Chirumhanzu,2008,0,0,5
+ZWE,Zimbabwe,Chirumhanzu,2021,7,1,7
+ZWE,Zimbabwe,Chivi,2021,8,1,8
+ZWE,Zimbabwe,Chivi,2025,0,0,6
+ZWE,Zimbabwe,Gokwe North,2021,15,1,15
+ZWE,Zimbabwe,Gokwe South,2008,0,0,6
+ZWE,Zimbabwe,Gokwe South,2021,10,1,10
+ZWE,Zimbabwe,Goromonzi,2017,0,0,3
+ZWE,Zimbabwe,Goromonzi,2021,0,0,5
+ZWE,Zimbabwe,Goromonzi,2022,0,0,4
+ZWE,Zimbabwe,Goromonzi,2025,7,1,7
+ZWE,Zimbabwe,Guruve,2017,12,1,12
+ZWE,Zimbabwe,Guruve,2022,0,0,5
+ZWE,Zimbabwe,Guruve,2024,0,0,2
+ZWE,Zimbabwe,Guruve,2025,0,0,4
+ZWE,Zimbabwe,Gutu,2021,17,1,17
+ZWE,Zimbabwe,Gutu,2025,0,0,2
+ZWE,Zimbabwe,Gwanda,2021,0,0,6
+ZWE,Zimbabwe,Gwanda,2025,7,1,7
+ZWE,Zimbabwe,Gweru,2008,0,0,4
+ZWE,Zimbabwe,Gweru,2021,10,1,10
+ZWE,Zimbabwe,Hurungwe,2007,0,0,1
+ZWE,Zimbabwe,Hurungwe,2008,18,1,18
+ZWE,Zimbabwe,Hurungwe,2017,0,0,4
+ZWE,Zimbabwe,Hwange,2008,10,1,10
+ZWE,Zimbabwe,Insiza,2021,0,0,5
+ZWE,Zimbabwe,Insiza,2025,0,0,6
+ZWE,Zimbabwe,Kwekwe,2021,13,1,13
+ZWE,Zimbabwe,Lupane,2008,8,1,8
+ZWE,Zimbabwe,Lupane,2021,0,0,5
+ZWE,Zimbabwe,Makonde,2008,0,0,2
+ZWE,Zimbabwe,Makonde,2017,0,0,4
+ZWE,Zimbabwe,Makonde,2021,15,1,15
+ZWE,Zimbabwe,Makonde,2022,0,0,5
+ZWE,Zimbabwe,Makoni,2017,10,1,10
+ZWE,Zimbabwe,Makoni,2021,12,1,12
+ZWE,Zimbabwe,Makoni,2025,0,0,4
+ZWE,Zimbabwe,Mangwe,2021,0,0,2
+ZWE,Zimbabwe,Mangwe,2025,17,2,10
+ZWE,Zimbabwe,Marondera,2008,0,0,2
+ZWE,Zimbabwe,Marondera,2017,15,1,15
+ZWE,Zimbabwe,Marondera,2021,0,0,3
+ZWE,Zimbabwe,Marondera,2022,0,0,2
+ZWE,Zimbabwe,Masvingo,2021,10,1,10
+ZWE,Zimbabwe,Masvingo,2025,0,0,3
+ZWE,Zimbabwe,Matobo,2021,0,0,1
+ZWE,Zimbabwe,Matobo,2025,18,2,10
+ZWE,Zimbabwe,Mazowe,2017,10,1,10
+ZWE,Zimbabwe,Mazowe,2021,7,1,7
+ZWE,Zimbabwe,Mazowe,2022,0,0,5
+ZWE,Zimbabwe,Mazowe,2023,0,0,1
+ZWE,Zimbabwe,Mberengwa,2021,9,1,9
+ZWE,Zimbabwe,Mberengwa,2025,9,1,9
+ZWE,Zimbabwe,Mhondoro-Ngezi,2008,0,0,4
+ZWE,Zimbabwe,Mhondoro-Ngezi,2021,12,1,12
+ZWE,Zimbabwe,Mount Darwin,2008,8,1,8
+ZWE,Zimbabwe,Mount Darwin,2017,0,0,5
+ZWE,Zimbabwe,Mount Darwin,2023,7,1,7
+ZWE,Zimbabwe,Mount Darwin,2025,0,0,1
+ZWE,Zimbabwe,Mudzi,2008,0,0,2
+ZWE,Zimbabwe,Mudzi,2021,0,0,5
+ZWE,Zimbabwe,Mudzi,2023,0,0,6
+ZWE,Zimbabwe,Mudzi,2025,13,1,13
+ZWE,Zimbabwe,Murehwa,2017,13,1,13
+ZWE,Zimbabwe,Murehwa,2021,9,1,9
+ZWE,Zimbabwe,Murehwa,2025,0,0,5
+ZWE,Zimbabwe,Mutare,2008,0,0,1
+ZWE,Zimbabwe,Mutare,2017,0,0,3
+ZWE,Zimbabwe,Mutare,2018,0,0,3
+ZWE,Zimbabwe,Mutare,2021,15,1,15
+ZWE,Zimbabwe,Mutare,2025,0,0,3
+ZWE,Zimbabwe,Mutoko,2014,0,0,3
+ZWE,Zimbabwe,Mutoko,2017,10,1,10
+ZWE,Zimbabwe,Mutoko,2021,0,0,6
+ZWE,Zimbabwe,Mutoko,2025,9,1,9
+ZWE,Zimbabwe,Mwenezi,2021,0,0,5
+ZWE,Zimbabwe,Mwenezi,2025,0,0,6
+ZWE,Zimbabwe,Nkayi,2008,0,0,5
+ZWE,Zimbabwe,Nkayi,2011,0,0,3
+ZWE,Zimbabwe,Nkayi,2017,0,0,4
+ZWE,Zimbabwe,Nkayi,2021,0,0,4
+ZWE,Zimbabwe,Nyanga,2014,0,0,3
+ZWE,Zimbabwe,Nyanga,2017,13,1,13
+ZWE,Zimbabwe,Nyanga,2021,11,1,11
+ZWE,Zimbabwe,Rushinga,2008,0,0,6
+ZWE,Zimbabwe,Rushinga,2013,0,0,2
+ZWE,Zimbabwe,Rushinga,2017,0,0,4
+ZWE,Zimbabwe,Rushinga,2023,0,0,3
+ZWE,Zimbabwe,Rushinga,2025,9,1,9
+ZWE,Zimbabwe,Sanyati,2008,9,1,9
+ZWE,Zimbabwe,Sanyati,2021,0,0,6
+ZWE,Zimbabwe,Seke,2008,0,0,4
+ZWE,Zimbabwe,Seke,2017,10,1,10
+ZWE,Zimbabwe,Seke,2021,8,1,8
+ZWE,Zimbabwe,Seke,2022,0,0,2
+ZWE,Zimbabwe,Shamva,2008,0,0,6
+ZWE,Zimbabwe,Shamva,2017,0,0,5
+ZWE,Zimbabwe,Shamva,2022,0,0,4
+ZWE,Zimbabwe,Shamva,2023,0,0,1
+ZWE,Zimbabwe,Shamva,2025,0,0,3
+ZWE,Zimbabwe,Shurugwi,2021,9,1,9
+ZWE,Zimbabwe,Shurugwi,2025,0,0,2
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2008,0,0,5
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2017,11,1,11
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2023,0,0,2
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2025,9,1,9
+ZWE,Zimbabwe,Zaka,2021,7,1,7
+ZWE,Zimbabwe,Zaka,2025,0,0,5
+ZWE,Zimbabwe,Zvimba,2017,14,1,14
+ZWE,Zimbabwe,Zvimba,2021,7,1,7
+ZWE,Zimbabwe,Zvishavane,2021,0,0,4
+ZWE,Zimbabwe,Zvishavane,2025,8,1,8

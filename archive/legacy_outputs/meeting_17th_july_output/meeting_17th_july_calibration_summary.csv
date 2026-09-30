@@ -1,0 +1,4 @@
+Meeting Option,Mean_Days_Per_Year,Median_Days_Per_Year,90th_Percentile_Bad_Year,95th_Percentile_Severe_Year,99th_Percentile_Worst_Disaster,Absolute_Max_Days
+Option 1: 99th Percentile (>=7 Consec Days),0.67,0.0,0.0,7.0,16.0,34
+Option 2: 95th %ile + SWI>=85% (>=7 Consec Days),2.1,0.0,7.0,18.0,37.0,84
+Option 3: Pure Absolute SWI>=85% (>=7 Consec Days),8.21,0.0,33.0,53.0,99.0,155

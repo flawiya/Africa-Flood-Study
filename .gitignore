@@ -1,0 +1,89 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary / scratch
+*.tmp
+*.log
+
+# ================================================================
+# Large data files exceeding GitHub 100MB limit
+# These are raw satellite data / shapefiles that are too large for
+# GitHub. They can be downloaded from their original sources:
+#   - GADM: https://gadm.org/download_world.html
+#   - GEOGLAM: https://cropmonitor.org/tools/calendars/
+#   - Copernicus SWI: https://land.copernicus.eu/global/products/swi
+# ================================================================
+
+# GADM/GAUL shapefiles (multi-GB)
+data/gadm_410-levels/gadm_410-levels.gpkg
+data/gadm_410-levels/gadm_410-levels_AFRICA_ADM2.gpkg
+data/gadm_410-levels/gadm_410-levels_AFRICA_ADMx.gpkg
+
+# GEOGLAM crop calendar shapefile (806 MB)
+data/GEOGLAM_CM4EW_Calendars_V1.4/GEOGLAM_CM4EW_Calendars_V1.4.shp
+
+# Large SWI time series CSVs (>100MB each)
+data/SWI_T_10_T_40/Africa_SWI_Maize_2007_2024.csv
+data/SWI_T_10_T_40/Africa_SWI_Maize_2007_2025.csv
+
+# Archive — large intermediate outputs
+archive/output/Zambia_Districts_GADM.shp
+archive/output/Zambia_ERA5_Daily_Soil_Moisture_2000_2025.csv
+archive/output/agricultural/Africa_SWI_Maize_AreaWeighted_2007_2025.csv
+archive/output/agricultural/Africa_SWI_Maize_Full_2007_2025.csv
+archive/output/agricultural/Africa_SWI_Maize_Missing_2015_2025.csv
+archive/output/agricultural/Africa_and_Zambia_SWI_Maize_Merged_Long.csv
+archive/output/agricultural/Zambia_Custom_Daily_SWI_2000_2025.csv
+archive/output/agricultural/Zambia_ERA5_Daily_Soil_Moisture_2000_2025.csv
+archive/output/agricultural/Zambia_SSI_7_28cm_Daily_2000_2025.csv
+archive/output/agricultural/Zambia_SSI_7_28cm_Trigger_Model_TripleLock.csv
+archive/output/agricultural/backup_archive/CHIRPS_DAILY_2000_2025_timeseries.csv
+archive/output/agricultural/indices/Zambia_SPI3_SRI3_CropCalendar_2000_2025.csv
+archive/output/agricultural/Zambia_ERA5_Computed_SWI_T10_2000_2025.csv
+archive/output/agricultural/Zambia_ERA5_Daily_Runoff_2000_2025.csv
+archive/output/agricultural/CHIRPS_Standardized_Master.csv
+
+# Large HTML dashboards (>100MB)
+archive/legacy_outputs/meeting_30th_july_output/MultiMethod_Clustering_Dashboard.html
+outputs/MultiMethod_Clustering_Dashboard.html
+
+# Large shapefile
+data/africa_agricultural_domain_2019.shp

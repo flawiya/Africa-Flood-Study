@@ -1,0 +1,326 @@
+ISO3,COUNTRY,ADM_NAME,triggered_years,total_triggered_years,total_flood_days,max_streak
+KEN,Kenya,Ainabkoi,[np.int64(2024)],1,6,6
+KEN,Kenya,Ainamoi,"[np.int64(2020), np.int64(2024)]",2,33,19
+KEN,Kenya,Aldai,"[np.int64(2020), np.int64(2024)]",2,69,33
+KEN,Kenya,Awendo,"[np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,110,38
+KEN,Kenya,Bahati,"[np.int64(2020), np.int64(2021), np.int64(2024)]",3,61,22
+KEN,Kenya,Belgut,"[np.int64(2020), np.int64(2021), np.int64(2024)]",3,87,33
+KEN,Kenya,Bobasi,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,110,46
+KEN,Kenya,Bomachoge Borabu,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,93,45
+KEN,Kenya,Bomachoge Chache,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,114,41
+KEN,Kenya,Bomet Central,"[np.int64(2020), np.int64(2024)]",2,82,30
+KEN,Kenya,Bomet East,"[np.int64(2020), np.int64(2024)]",2,83,30
+KEN,Kenya,Bonchari,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,110,37
+KEN,Kenya,Borabu,"[np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",4,108,61
+KEN,Kenya,Bumula,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,106,46
+KEN,Kenya,Bureti,"[np.int64(2020), np.int64(2021), np.int64(2024)]",3,87,41
+KEN,Kenya,Butere,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,111,31
+KEN,Kenya,Butula,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,111,22
+KEN,Kenya,Buuri,[np.int64(2024)],1,6,6
+KEN,Kenya,Central Imenti,"[np.int64(2020), np.int64(2024)]",2,19,11
+KEN,Kenya,Chepalungu,"[np.int64(2020), np.int64(2024)]",2,79,30
+KEN,Kenya,Chesumei,"[np.int64(2020), np.int64(2021), np.int64(2024)]",3,65,26
+KEN,Kenya,Eldama Ravine,"[np.int64(2020), np.int64(2024)]",2,12,7
+KEN,Kenya,Emgwen,"[np.int64(2020), np.int64(2024)]",2,60,26
+KEN,Kenya,Emurua Dikirr,"[np.int64(2020), np.int64(2024)]",2,61,23
+KEN,Kenya,Funyula,"[np.int64(2021), np.int64(2023), np.int64(2024)]",3,41,19
+KEN,Kenya,Gatanga,"[np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",4,80,39
+KEN,Kenya,Gem,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,110,21
+KEN,Kenya,Gilgil,"[np.int64(2020), np.int64(2024)]",2,30,15
+KEN,Kenya,Hamisi,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,110,56
+KEN,Kenya,Igembe Central,[np.int64(2024)],1,5,5
+KEN,Kenya,Igembe North,[np.int64(2024)],1,6,6
+KEN,Kenya,Ikolomani,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,111,52
+KEN,Kenya,Kabondo Kasipul,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",5,104,41
+KEN,Kenya,Kabuchai,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2024)]",5,103,43
+KEN,Kenya,Kajiado Central,"[np.int64(2020), np.int64(2024)]",2,23,9
+KEN,Kenya,Kajiado East,"[np.int64(2020), np.int64(2024)]",2,33,12
+KEN,Kenya,Kajiado South,"[np.int64(2020), np.int64(2024)]",2,29,14
+KEN,Kenya,Kandara,"[np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",4,80,39
+KEN,Kenya,Kanduyi,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,108,45
+KEN,Kenya,Kapseret,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2024)]",4,61,22
+KEN,Kenya,Karachuonyo,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,107,41
+KEN,Kenya,Kasipul,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,104,41
+KEN,Kenya,Keiyo South,[np.int64(2024)],1,6,6
+KEN,Kenya,Kesses,"[np.int64(2020), np.int64(2024)]",2,23,10
+KEN,Kenya,Khwisero,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,115,40
+KEN,Kenya,Kibwezi East,[np.int64(2020)],1,32,26
+KEN,Kenya,Kibwezi West,"[np.int64(2018), np.int64(2020)]",2,16,9
+KEN,Kenya,Kieni,"[np.int64(2020), np.int64(2024)]",2,33,20
+KEN,Kenya,Kigumo,"[np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",4,82,39
+KEN,Kenya,Kiharu,"[np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",4,76,34
+KEN,Kenya,Kilgoris,[np.int64(2020)],1,15,15
+KEN,Kenya,Kilome,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,48,29
+KEN,Kenya,Kimilili,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2024)]",5,98,38
+KEN,Kenya,Kiminini,"[np.int64(2018), np.int64(2020)]",2,28,10
+KEN,Kenya,Kinangop,"[np.int64(2012), np.int64(2018), np.int64(2020), np.int64(2024)]",4,80,39
+KEN,Kenya,Kipipiri,"[np.int64(2012), np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",5,79,30
+KEN,Kenya,Kipkelion East,"[np.int64(2020), np.int64(2024)]",2,20,10
+KEN,Kenya,Kipkelion West,"[np.int64(2020), np.int64(2024)]",2,15,10
+KEN,Kenya,Kirinyaga Central,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,57,27
+KEN,Kenya,Kitui Central,"[np.int64(2020), np.int64(2024)]",2,23,13
+KEN,Kenya,Kitui Rural,"[np.int64(2020), np.int64(2024)]",2,22,13
+KEN,Kenya,Kitui West,"[np.int64(2020), np.int64(2024)]",2,23,13
+KEN,Kenya,Kitutu Chache North,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,104,39
+KEN,Kenya,Kitutu Masaba,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,114,45
+KEN,Kenya,Konoin,"[np.int64(2020), np.int64(2022), np.int64(2024)]",3,93,31
+KEN,Kenya,Kuresoi North,"[np.int64(2020), np.int64(2024)]",2,17,9
+KEN,Kenya,Kuresoi South,[np.int64(2020)],1,9,9
+KEN,Kenya,Kuria East,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,101,42
+KEN,Kenya,Kuria West,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,103,40
+KEN,Kenya,Laikipia East,"[np.int64(2020), np.int64(2024)]",2,36,21
+KEN,Kenya,Lari,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,80,45
+KEN,Kenya,Likuyani,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,91,29
+KEN,Kenya,Limuru,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,84,42
+KEN,Kenya,Lugari,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,109,46
+KEN,Kenya,Lurambi,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,105,52
+KEN,Kenya,Machakos Town,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,51,34
+KEN,Kenya,Makueni,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,32,15
+KEN,Kenya,Malava,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,112,48
+KEN,Kenya,Maragwa,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,83,36
+KEN,Kenya,Masinga,"[np.int64(2020), np.int64(2024)]",2,22,13
+KEN,Kenya,Matayos,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,112,41
+KEN,Kenya,Mathira,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,58,29
+KEN,Kenya,Matungu,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,111,47
+KEN,Kenya,Matungulu,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,72,41
+KEN,Kenya,Mavoko,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,78,42
+KEN,Kenya,Mbeere North,"[np.int64(2020), np.int64(2024)]",2,24,15
+KEN,Kenya,Mbeere South,"[np.int64(2020), np.int64(2024)]",2,23,14
+KEN,Kenya,Mbooni,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,49,30
+KEN,Kenya,Molo,[np.int64(2024)],1,5,5
+KEN,Kenya,Mosop,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2024)]",4,81,17
+KEN,Kenya,Mt. Elgon,"[np.int64(2012), np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",7,103,26
+KEN,Kenya,Muhoroni,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,108,41
+KEN,Kenya,Mumias East,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,103,48
+KEN,Kenya,Mumias West,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,114,31
+KEN,Kenya,Mwala,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,52,31
+KEN,Kenya,Mwea,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,81,29
+KEN,Kenya,Mwingi West,"[np.int64(2020), np.int64(2024)]",2,25,13
+KEN,Kenya,Naivasha,"[np.int64(2020), np.int64(2024)]",2,29,15
+KEN,Kenya,Nambale,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,112,45
+KEN,Kenya,Nandi Hills,"[np.int64(2020), np.int64(2024)]",2,45,24
+KEN,Kenya,Narok East,"[np.int64(2020), np.int64(2024)]",2,18,9
+KEN,Kenya,Narok North,[np.int64(2024)],1,6,6
+KEN,Kenya,Narok South,"[np.int64(2020), np.int64(2024)]",2,27,17
+KEN,Kenya,Narok West,"[np.int64(2020), np.int64(2024)]",2,17,10
+KEN,Kenya,Navakholo,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,107,45
+KEN,Kenya,Ndaragwa,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,52,28
+KEN,Kenya,Ndhiwa,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",5,73,20
+KEN,Kenya,Ndia,"[np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",4,66,29
+KEN,Kenya,North Mugirango,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,105,41
+KEN,Kenya,Nyakach,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,106,41
+KEN,Kenya,Nyando,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,102,42
+KEN,Kenya,Nyaribari Chache,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,110,41
+KEN,Kenya,Nyaribari Masaba,"[np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",4,100,31
+KEN,Kenya,Ol Jorok,"[np.int64(2010), np.int64(2018), np.int64(2020), np.int64(2024)]",4,82,25
+KEN,Kenya,Ol Kalou,"[np.int64(2012), np.int64(2018), np.int64(2020), np.int64(2023), np.int64(2024)]",5,79,24
+KEN,Kenya,Rangwe,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,105,33
+KEN,Kenya,Rarieda,"[np.int64(2021), np.int64(2023)]",2,12,7
+KEN,Kenya,Rongai,[np.int64(2020)],1,7,7
+KEN,Kenya,Rongo,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,115,39
+KEN,Kenya,Sabatia,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,114,56
+KEN,Kenya,Saboti,"[np.int64(2018), np.int64(2020), np.int64(2021)]",3,28,7
+KEN,Kenya,Seme,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,108,42
+KEN,Kenya,Shinyalu,"[np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",4,103,51
+KEN,Kenya,Sigowet/Soin,"[np.int64(2020), np.int64(2024)]",2,45,25
+KEN,Kenya,Sirisia,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2024)]",5,107,42
+KEN,Kenya,Sotik,"[np.int64(2020), np.int64(2024)]",2,78,30
+KEN,Kenya,South Imenti,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,34,15
+KEN,Kenya,South Mugirango,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,115,42
+KEN,Kenya,Subukia,[np.int64(2020)],1,8,8
+KEN,Kenya,Suna East,"[np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,111,40
+KEN,Kenya,Suna West,"[np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,89,28
+KEN,Kenya,Taveta,"[np.int64(2020), np.int64(2024)]",2,70,47
+KEN,Kenya,Teso North,"[np.int64(2013), np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",6,109,45
+KEN,Kenya,Teso South,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,109,37
+KEN,Kenya,Tigania East,[np.int64(2024)],1,5,5
+KEN,Kenya,Tigania West,"[np.int64(2018), np.int64(2020), np.int64(2024)]",3,25,10
+KEN,Kenya,Tinderet,"[np.int64(2020), np.int64(2024)]",2,34,12
+KEN,Kenya,Tongaren,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2024)]",5,103,38
+KEN,Kenya,Turbo,"[np.int64(2018), np.int64(2020), np.int64(2021)]",3,24,12
+KEN,Kenya,Ugenya,"[np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",5,99,23
+KEN,Kenya,Ugunja,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",6,109,20
+KEN,Kenya,Uriri,"[np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,109,34
+KEN,Kenya,Voi,[np.int64(2024)],1,30,30
+KEN,Kenya,Webute West,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,107,43
+KEN,Kenya,Webuye East,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,109,43
+KEN,Kenya,West Mugirango,"[np.int64(2018), np.int64(2020), np.int64(2021), np.int64(2023), np.int64(2024)]",5,105,43
+KEN,Kenya,Yatta,"[np.int64(2020), np.int64(2024)]",2,31,20
+MWI,Malawi,Blantyre City,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2015), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",9,135,25
+MWI,Malawi,Lilongwe City,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,133,44
+MWI,Malawi,Mwanza Boma,"[np.int64(2008), np.int64(2019)]",2,12,7
+MWI,Malawi,Ntchisi Boma,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,118,19
+MWI,Malawi,Rumphi Boma,"[np.int64(2008), np.int64(2014), np.int64(2016), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",8,131,30
+MWI,Malawi,SC Chakhaza,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,123,20
+MWI,Malawi,SC Chamba,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",6,109,42
+MWI,Malawi,SC Chikweo,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2020), np.int64(2021), np.int64(2023)]",8,132,32
+MWI,Malawi,SC Chilikumwendo,"[np.int64(2008), np.int64(2009), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",8,133,35
+MWI,Malawi,SC Chilooko,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,130,19
+MWI,Malawi,SC Chilowamatambe,"[np.int64(2008), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",8,120,16
+MWI,Malawi,SC Chitekwele,"[np.int64(2008), np.int64(2014), np.int64(2019), np.int64(2020)]",4,60,21
+MWI,Malawi,SC Chiwalo,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2020), np.int64(2021), np.int64(2023)]",7,120,36
+MWI,Malawi,SC Chowe,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2017), np.int64(2023)]",5,72,26
+MWI,Malawi,SC Dambe,"[np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",6,133,31
+MWI,Malawi,SC Goodson Ganya,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",8,123,31
+MWI,Malawi,SC Juma,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,133,25
+MWI,Malawi,SC Kamenya Gwaza,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,127,32
+MWI,Malawi,SC Kampingo Sibande,"[np.int64(2020), np.int64(2022), np.int64(2024)]",3,70,37
+MWI,Malawi,SC Kawamba,"[np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",6,130,22
+MWI,Malawi,SC Kayembe,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,134,24
+MWI,Malawi,SC Khosolo Gwaza Jere,[np.int64(2022)],1,11,6
+MWI,Malawi,SC Lukwa,"[np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",7,135,27
+MWI,Malawi,SC M'nyanja,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,111,26
+MWI,Malawi,SC Makwangwala,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",6,119,24
+MWI,Malawi,SC Mavwere,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,132,26
+MWI,Malawi,SC Mbiza,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,134,25
+MWI,Malawi,SC Mbwana Nyambi,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2020), np.int64(2021), np.int64(2023)]",7,122,34
+MWI,Malawi,SC Mduwa,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,138,29
+MWI,Malawi,SC Mkukula,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,132,22
+MWI,Malawi,SC Mlomba,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2015), np.int64(2020), np.int64(2023)]",6,113,36
+MWI,Malawi,SC Mponela,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,135,18
+MWI,Malawi,SC Mposa,"[np.int64(2008), np.int64(2009), np.int64(2015), np.int64(2020), np.int64(2023)]",5,130,38
+MWI,Malawi,SC Mtema,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,136,29
+MWI,Malawi,SC Mwahenga,"[np.int64(2016), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",5,95,28
+MWI,Malawi,SC Namabvi,"[np.int64(2008), np.int64(2010), np.int64(2012), np.int64(2017), np.int64(2020)]",5,65,35
+MWI,Malawi,SC Ngokwe,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023)]",8,138,33
+MWI,Malawi,SC Njewa,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,127,32
+MWI,Malawi,SC Njombwa,"[np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",8,138,20
+MWI,Malawi,SC Simlemba,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,119,27
+MWI,Malawi,SC Sitola,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023)]",7,114,26
+MWI,Malawi,TA Bvumbwe,"[np.int64(2008), np.int64(2013), np.int64(2015), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",7,120,28
+MWI,Malawi,TA Chadza,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",9,139,34
+MWI,Malawi,TA Chigaru,"[np.int64(2008), np.int64(2019), np.int64(2023)]",3,24,10
+MWI,Malawi,TA Chikowi,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,132,25
+MWI,Malawi,TA Chikulamayembe,"[np.int64(2008), np.int64(2016), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",6,130,31
+MWI,Malawi,TA Chikumbu,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",7,120,37
+MWI,Malawi,TA Chimaliro,"[np.int64(2008), np.int64(2013), np.int64(2015), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",8,135,38
+MWI,Malawi,TA Chimutu,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,132,26
+MWI,Malawi,TA Chimwala,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2017), np.int64(2020), np.int64(2023)]",6,74,29
+MWI,Malawi,TA Chindi,"[np.int64(2008), np.int64(2012), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",8,128,21
+MWI,Malawi,TA Chiseka,"[np.int64(2008), np.int64(2009), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,131,26
+MWI,Malawi,TA Chitera,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",7,121,26
+MWI,Malawi,TA Chitukula,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,134,19
+MWI,Malawi,TA Chiwere,"[np.int64(2008), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2022)]",5,74,22
+MWI,Malawi,TA Chulu,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",10,137,24
+MWI,Malawi,TA Dzoole,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,141,20
+MWI,Malawi,TA Jalasi,"[np.int64(2008), np.int64(2010), np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2020), np.int64(2023)]",7,118,26
+MWI,Malawi,TA Kabudula,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,116,29
+MWI,Malawi,TA Kachindamoto,"[np.int64(2008), np.int64(2017), np.int64(2020), np.int64(2023)]",4,44,25
+MWI,Malawi,TA Kadewere,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,107,25
+MWI,Malawi,TA Kalembo,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",7,116,25
+MWI,Malawi,TA Kalolo,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,129,23
+MWI,Malawi,TA Kaluluma,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",10,121,24
+MWI,Malawi,TA Kalumba,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",9,144,46
+MWI,Malawi,TA Kalumbu,"[np.int64(2008), np.int64(2009), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",9,136,31
+MWI,Malawi,TA Kalumo,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,132,19
+MWI,Malawi,TA Kameme,"[np.int64(2014), np.int64(2016), np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2024)]",6,130,25
+MWI,Malawi,TA Kanduku,[np.int64(2008)],1,7,7
+MWI,Malawi,TA Kaomba,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,134,18
+MWI,Malawi,TA Kapelula,"[np.int64(2008), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",6,61,14
+MWI,Malawi,TA Kapeni,"[np.int64(2008), np.int64(2012), np.int64(2015), np.int64(2019), np.int64(2023)]",5,91,24
+MWI,Malawi,TA Kaphuka,"[np.int64(2008), np.int64(2009), np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",10,140,31
+MWI,Malawi,TA Kasumbu,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,138,31
+MWI,Malawi,TA Katuli,"[np.int64(2008), np.int64(2009), np.int64(2010), np.int64(2012), np.int64(2017), np.int64(2020), np.int64(2021), np.int64(2023)]",8,103,35
+MWI,Malawi,TA Kawinga,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2020), np.int64(2021), np.int64(2023)]",8,140,35
+MWI,Malawi,TA Khongoni,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",8,137,29
+MWI,Malawi,TA Kilupula,"[np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,129,20
+MWI,Malawi,TA Kuntaja,"[np.int64(2008), np.int64(2023)]",2,16,9
+MWI,Malawi,TA Kuntumanji,"[np.int64(2008), np.int64(2019), np.int64(2020), np.int64(2023)]",4,139,41
+MWI,Malawi,TA Likoswe,"[np.int64(2008), np.int64(2013), np.int64(2015), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",8,122,27
+MWI,Malawi,TA Liwonde,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023)]",7,113,38
+MWI,Malawi,TA Lundu,[np.int64(2008)],1,7,7
+MWI,Malawi,TA M'Mbelwa,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,129,19
+MWI,Malawi,TA Mabuka,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",7,128,39
+MWI,Malawi,TA Mabulabo,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,137,22
+MWI,Malawi,TA Machinjili,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2015), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",9,137,25
+MWI,Malawi,TA Makata,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",6,115,25
+MWI,Malawi,TA Malemia,"[np.int64(2008), np.int64(2013), np.int64(2023)]",3,29,13
+MWI,Malawi,TA Malili,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,123,32
+MWI,Malawi,TA Masasa,"[np.int64(2008), np.int64(2010), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2020), np.int64(2023)]",7,114,32
+MWI,Malawi,TA Mazengera,"[np.int64(2008), np.int64(2009), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,138,29
+MWI,Malawi,TA Mkanda,"[np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",6,122,27
+MWI,Malawi,TA Mkhumba,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023)]",6,142,28
+MWI,Malawi,TA Mlonyeni,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,140,27
+MWI,Malawi,TA Mlumbe,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2023)]",7,122,26
+MWI,Malawi,TA Mpama,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023), np.int64(2024)]",8,121,26
+MWI,Malawi,TA Mpando,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,134,41
+MWI,Malawi,TA Mpherembe,"[np.int64(2008), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",5,95,27
+MWI,Malawi,TA Mponda,[np.int64(2008)],1,20,12
+MWI,Malawi,TA Msakambewa,"[np.int64(2008), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",7,140,22
+MWI,Malawi,TA Mtwalo,"[np.int64(2008), np.int64(2020), np.int64(2022), np.int64(2024)]",4,78,33
+MWI,Malawi,TA Mwabulambya,"[np.int64(2014), np.int64(2016), np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2024)]",6,137,25
+MWI,Malawi,TA Mwambo,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,142,29
+MWI,Malawi,TA Mwase,"[np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",7,122,18
+MWI,Malawi,TA Mzikubola,"[np.int64(2020), np.int64(2022), np.int64(2024)]",3,47,23
+MWI,Malawi,TA Mzukuzuku,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",7,110,22
+MWI,Malawi,TA Nankumba,[np.int64(2008)],1,5,5
+MWI,Malawi,TA Nazombe,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2023)]",6,137,28
+MWI,Malawi,TA Nchema,"[np.int64(2008), np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2023)]",7,124,25
+MWI,Malawi,TA Njolomole,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",8,129,34
+MWI,Malawi,TA Nkalo,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",6,126,26
+MWI,Malawi,TA Nkanda,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",6,131,27
+MWI,Malawi,TA Nsamala,"[np.int64(2008), np.int64(2013), np.int64(2019), np.int64(2020), np.int64(2023)]",5,99,25
+MWI,Malawi,TA Nthache,[np.int64(2008)],1,7,7
+MWI,Malawi,TA Nthalire,"[np.int64(2016), np.int64(2018), np.int64(2020), np.int64(2022), np.int64(2024)]",5,128,45
+MWI,Malawi,TA Nthiramanja,"[np.int64(2008), np.int64(2013), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2023)]",6,113,29
+MWI,Malawi,TA Nyambi,"[np.int64(2008), np.int64(2009), np.int64(2013), np.int64(2014), np.int64(2020), np.int64(2021), np.int64(2023)]",7,126,29
+MWI,Malawi,TA Pemba,"[np.int64(2008), np.int64(2009), np.int64(2012), np.int64(2013), np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",10,139,34
+MWI,Malawi,TA Phambala,"[np.int64(2008), np.int64(2013), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2023)]",6,130,34
+MWI,Malawi,TA Santhe,"[np.int64(2014), np.int64(2017), np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023)]",6,128,32
+MWI,Malawi,TA Symon,"[np.int64(2008), np.int64(2019)]",2,18,13
+MWI,Malawi,TA Tambala,"[np.int64(2008), np.int64(2019), np.int64(2020), np.int64(2023)]",4,47,21
+MWI,Malawi,TA Tengani,[np.int64(2013)],1,7,7
+MWI,Malawi,TA Wimbe,"[np.int64(2008), np.int64(2012), np.int64(2014), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023), np.int64(2024)]",9,129,16
+MWI,Malawi,TA Zulu,"[np.int64(2008), np.int64(2017), np.int64(2019), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2023)]",7,140,25
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,"[np.int64(2008), np.int64(2016), np.int64(2020), np.int64(2021), np.int64(2022), np.int64(2024)]",6,129,32
+NGA,Nigeria,Abakaliki,"[np.int64(2023), np.int64(2024)]",2,48,13
+NGA,Nigeria,Ado,"[np.int64(2020), np.int64(2023), np.int64(2024)]",3,57,19
+NGA,Nigeria,Afijio,"[np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023)]",4,55,20
+NGA,Nigeria,Agatu,"[np.int64(2010), np.int64(2011), np.int64(2012), np.int64(2014), np.int64(2016), np.int64(2018)]",6,67,21
+NGA,Nigeria,Ajaokuta,"[np.int64(2015), np.int64(2018), np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023)]",6,68,23
+NGA,Nigeria,Apa,"[np.int64(2012), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2018)]",5,49,12
+NGA,Nigeria,Asa,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",6,72,15
+NGA,Nigeria,Atiba,"[np.int64(2019), np.int64(2022), np.int64(2023), np.int64(2024)]",4,67,36
+NGA,Nigeria,Baruten,"[np.int64(2018), np.int64(2019), np.int64(2022)]",3,62,32
+NGA,Nigeria,Bukuru,"[np.int64(2019), np.int64(2022), np.int64(2023), np.int64(2024)]",4,62,20
+NGA,Nigeria,Ebonyi,"[np.int64(2023), np.int64(2024)]",2,55,25
+NGA,Nigeria,Edu,"[np.int64(2008), np.int64(2010), np.int64(2014), np.int64(2016)]",4,64,42
+NGA,Nigeria,Ezza North,"[np.int64(2023), np.int64(2024)]",2,71,26
+NGA,Nigeria,Ezza South,"[np.int64(2022), np.int64(2023), np.int64(2024)]",3,68,17
+NGA,Nigeria,Gboko,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,63,23
+NGA,Nigeria,Guma,"[np.int64(2014), np.int64(2016), np.int64(2020), np.int64(2022), np.int64(2023)]",5,50,16
+NGA,Nigeria,Gwer East,"[np.int64(2015), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,69,26
+NGA,Nigeria,Gwer West,"[np.int64(2011), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2020), np.int64(2023)]",6,69,14
+NGA,Nigeria,Ibarapa Central,"[np.int64(2019), np.int64(2022), np.int64(2023), np.int64(2024)]",4,72,30
+NGA,Nigeria,Ibarapa East,"[np.int64(2019), np.int64(2022), np.int64(2023)]",3,57,32
+NGA,Nigeria,Ibarapa North,"[np.int64(2019), np.int64(2022), np.int64(2023), np.int64(2024)]",4,67,32
+NGA,Nigeria,Ifelodun,"[np.int64(2010), np.int64(2014), np.int64(2016), np.int64(2018)]",4,60,17
+NGA,Nigeria,Ikwo,"[np.int64(2023), np.int64(2024)]",2,41,10
+NGA,Nigeria,Irepo,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023)]",5,64,20
+NGA,Nigeria,Iseyin,"[np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023)]",4,65,22
+NGA,Nigeria,Ishielu,"[np.int64(2023), np.int64(2024)]",2,58,28
+NGA,Nigeria,Izzi,"[np.int64(2023), np.int64(2024)]",2,43,12
+NGA,Nigeria,Kaiama,"[np.int64(2011), np.int64(2018), np.int64(2019), np.int64(2022)]",4,62,19
+NGA,Nigeria,Katsina-Ala,"[np.int64(2019), np.int64(2022), np.int64(2023), np.int64(2024)]",4,58,25
+NGA,Nigeria,Konshisha,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,67,18
+NGA,Nigeria,Kwande,"[np.int64(2022), np.int64(2023), np.int64(2024)]",3,61,30
+NGA,Nigeria,Logo,"[np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2024)]",4,63,18
+NGA,Nigeria,Lokoja,"[np.int64(2012), np.int64(2015), np.int64(2016), np.int64(2018), np.int64(2019)]",5,65,28
+NGA,Nigeria,Makurdi,"[np.int64(2014), np.int64(2016), np.int64(2020), np.int64(2023)]",4,60,33
+NGA,Nigeria,Moro,"[np.int64(2014), np.int64(2016), np.int64(2018), np.int64(2019)]",4,57,20
+NGA,Nigeria,Nkanu East,"[np.int64(2023), np.int64(2024)]",2,71,26
+NGA,Nigeria,Obi,"[np.int64(2011), np.int64(2013), np.int64(2014), np.int64(2015), np.int64(2016), np.int64(2022)]",6,55,9
+NGA,Nigeria,Ohaukwu,"[np.int64(2023), np.int64(2024)]",2,52,28
+NGA,Nigeria,Ori-Ire,"[np.int64(2018), np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",6,70,24
+NGA,Nigeria,Otukpo,"[np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",4,65,22
+NGA,Nigeria,Oyo East,"[np.int64(2019), np.int64(2021), np.int64(2022), np.int64(2023)]",4,56,15
+NGA,Nigeria,Oyo West,"[np.int64(2019), np.int64(2021), np.int64(2022)]",3,48,17
+NGA,Nigeria,Pategi,"[np.int64(2008), np.int64(2010), np.int64(2012)]",3,62,17
+NGA,Nigeria,Saki East,"[np.int64(2018), np.int64(2019), np.int64(2022), np.int64(2023)]",4,63,20
+NGA,Nigeria,Saki West,"[np.int64(2019), np.int64(2022), np.int64(2023)]",3,69,25
+NGA,Nigeria,Tarka,"[np.int64(2014), np.int64(2020), np.int64(2022), np.int64(2023), np.int64(2024)]",5,64,22
+NGA,Nigeria,Ukum,"[np.int64(2019), np.int64(2020), np.int64(2022), np.int64(2024)]",4,75,35
+NGA,Nigeria,Ushongo,"[np.int64(2022), np.int64(2023), np.int64(2024)]",3,52,17
+NGA,Nigeria,Vande Ikya,"[np.int64(2022), np.int64(2024)]",2,61,18
+NGA,Nigeria,Yala,"[np.int64(2016), np.int64(2022), np.int64(2023), np.int64(2024)]",4,50,10
+NGA,Nigeria,Yewa North,"[np.int64(2019), np.int64(2023)]",2,29,23

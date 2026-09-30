@@ -1,0 +1,1107 @@
+ISO3,COUNTRY,ADM_NAME,crop_year,max_consecutive_flood_days,total_flood_streak_days,num_waterlogging_events,num_high_risk_events,num_severe_events,p95_threshold
+AGO,Angola,Amboim,2007,7,7,1,0,0,34.6815
+AGO,Angola,Bailundo,2006,16,16,0,0,1,37.8
+AGO,Angola,Caconda,2006,13,13,0,1,0,35.383
+AGO,Angola,Caluquembe,2006,11,11,0,1,0,36.04349999999999
+AGO,Angola,Camacupa,2006,29,29,0,0,1,39.98199999999999
+AGO,Angola,Cassongue,2006,10,10,0,1,0,36.350500000000004
+AGO,Angola,Catabola,2006,16,16,0,0,1,39.17
+AGO,Angola,Catchiungo,2006,16,16,0,0,1,37.0505
+AGO,Angola,Caála,2006,15,15,0,0,1,35.1425
+AGO,Angola,Chicomba,2006,13,13,0,1,0,35.65
+AGO,Angola,Chinguar,2006,23,23,0,0,1,37.1735
+AGO,Angola,Chipindo,2006,13,13,0,1,0,34.034
+AGO,Angola,Chitembo,2006,16,16,0,0,1,34.92
+AGO,Angola,Cuangar,2008,23,23,0,0,1,25.667499999999993
+AGO,Angola,Cuango,2007,12,12,0,1,0,36.44
+AGO,Angola,Cuanhama,2008,17,17,0,0,1,25.866499999999995
+AGO,Angola,Cuchi,2006,7,7,1,0,0,32.55
+AGO,Angola,Cuito Cuanavale,2008,18,18,0,0,1,28.493499999999994
+AGO,Angola,Cuvelai,2008,12,12,0,1,0,29.47
+AGO,Angola,Ebo,2007,10,10,0,1,0,35.31
+AGO,Angola,Ekunha,2006,15,15,0,0,1,35.0505
+AGO,Angola,Ganda,2006,11,11,0,1,0,36.0115
+AGO,Angola,Huambo,2006,15,15,0,0,1,35.64
+AGO,Angola,Jamba,2006,10,10,0,1,0,32.62
+AGO,Angola,Kuito,2006,16,27,0,1,1,37.4625
+AGO,Angola,Kuvango,2006,13,13,0,1,0,33.37
+AGO,Angola,Londuimbale,2006,15,15,0,0,1,35.8435
+AGO,Angola,Longonjo,2006,15,15,0,0,1,35.951
+AGO,Angola,Lumbala-Nguimbo,2006,19,27,1,0,1,34.3605
+AGO,Angola,Matala,2006,9,9,1,0,0,32.041
+AGO,Angola,Menongue,2008,17,17,0,0,1,28.976499999999994
+AGO,Angola,Mungo,2006,29,29,0,0,1,37.1205
+AGO,Angola,Namakunde,2008,23,23,0,0,1,24.894499999999997
+AGO,Angola,Ombadja,2008,10,10,0,1,0,25.458999999999993
+AGO,Angola,Quibala,2007,24,24,0,0,1,36.3215
+AGO,Angola,Seles,2007,9,9,1,0,0,33.271
+AGO,Angola,Tchicala-Tcholoanga,2006,15,15,0,0,1,35.592
+AGO,Angola,Tchipungo,2006,10,10,0,1,0,33.05199999999999
+AGO,Angola,Ukuma,2006,16,16,0,0,1,35.44
+AGO,Angola,Waku Kungo,2007,24,24,0,0,1,36.771
+BDI,Burundi,Bisoro,2007,23,23,0,0,1,39.0
+BDI,Burundi,Bisoro,2008,12,12,0,1,0,39.0
+BDI,Burundi,Bubanza,2007,20,20,0,0,1,39.29
+BDI,Burundi,Bubanza,2008,16,16,0,0,1,39.29
+BDI,Burundi,Bugabira,2007,7,7,1,0,0,35.35
+BDI,Burundi,Bugabira,2008,27,27,0,0,1,35.35
+BDI,Burundi,Buganda,2007,18,18,0,0,1,34.62
+BDI,Burundi,Buganda,2008,19,19,0,0,1,34.62
+BDI,Burundi,Bugendana,2007,9,9,1,0,0,41.384
+BDI,Burundi,Bugendana,2008,22,29,1,0,1,41.384
+BDI,Burundi,Bugenyuzi,2008,21,28,1,0,1,40.254
+BDI,Burundi,Buhiga,2007,14,14,0,0,1,39.823499999999996
+BDI,Burundi,Buhiga,2008,19,19,0,0,1,39.823499999999996
+BDI,Burundi,Bukemba,2007,33,33,0,0,1,39.256499999999996
+BDI,Burundi,Bukeye,2007,15,15,0,0,1,41.19
+BDI,Burundi,Bukeye,2008,19,19,0,0,1,41.19
+BDI,Burundi,Bukinanyana,2007,23,23,0,0,1,41.832499999999996
+BDI,Burundi,Bukinanyana,2008,15,15,0,0,1,41.832499999999996
+BDI,Burundi,Bukirasazi,2007,25,25,0,0,1,40.5
+BDI,Burundi,Bukirasazi,2008,12,12,0,1,0,40.5
+BDI,Burundi,Burambi,2007,9,9,1,0,0,42.29
+BDI,Burundi,Burambi,2008,10,10,0,1,0,42.29
+BDI,Burundi,Buraza,2007,26,26,0,0,1,40.12
+BDI,Burundi,Bururi,2007,23,23,0,0,1,40.53
+BDI,Burundi,Busiga,2007,19,19,0,0,1,39.25
+BDI,Burundi,Busiga,2008,16,16,0,0,1,39.25
+BDI,Burundi,Busoni,2007,7,7,1,0,0,33.30499999999999
+BDI,Burundi,Busoni,2008,28,28,0,0,1,33.30499999999999
+BDI,Burundi,Butaganzwa1,2007,9,9,1,0,0,41.55
+BDI,Burundi,Butaganzwa1,2008,22,22,0,0,1,41.55
+BDI,Burundi,Butaganzwa2,2007,23,23,0,0,1,38.38
+BDI,Burundi,Butaganzwa2,2008,14,14,0,0,1,38.38
+BDI,Burundi,Butihinda,2008,36,36,0,0,1,37.073499999999996
+BDI,Burundi,Buyengero,2007,21,21,0,0,1,42.09
+BDI,Burundi,Bweru,2007,17,17,0,0,1,37.19
+BDI,Burundi,Bweru,2008,16,16,0,0,1,37.19
+BDI,Burundi,Cankuzo,2007,14,14,0,0,1,36.431
+BDI,Burundi,Cankuzo,2008,19,19,0,0,1,36.431
+BDI,Burundi,Gahombo,2008,24,24,0,0,1,40.56
+BDI,Burundi,Gashikanwa,2008,27,37,0,1,1,40.12
+BDI,Burundi,Gashoho,2008,34,34,0,0,1,38.17
+BDI,Burundi,Gasorwe,2008,32,32,0,0,1,38.31
+BDI,Burundi,Gatara,2007,12,12,0,1,0,41.12
+BDI,Burundi,Gatara,2008,21,21,0,0,1,41.12
+BDI,Burundi,Gihanga,2007,20,20,0,0,1,32.5315
+BDI,Burundi,Gihanga,2008,17,17,0,0,1,32.5315
+BDI,Burundi,Giharo,2007,35,35,0,0,1,38.5
+BDI,Burundi,Giheta,2007,14,14,0,0,1,41.25
+BDI,Burundi,Giheta,2008,16,16,0,0,1,41.25
+BDI,Burundi,Gisagara,2007,23,23,0,0,1,35.54
+BDI,Burundi,Gisagara,2008,12,12,0,1,0,35.54
+BDI,Burundi,Gishubi,2007,23,23,0,0,1,39.75
+BDI,Burundi,Gishubi,2008,14,14,0,0,1,39.75
+BDI,Burundi,Gisozi,2007,23,23,0,0,1,39.5
+BDI,Burundi,Gisozi,2008,7,7,1,0,0,39.5
+BDI,Burundi,Gisuru,2007,21,21,0,0,1,36.88
+BDI,Burundi,Gisuru,2008,16,16,0,0,1,36.88
+BDI,Burundi,Gitanga,2007,33,33,0,0,1,39.2515
+BDI,Burundi,Gitaramuka,2008,26,35,1,0,1,39.11
+BDI,Burundi,Gitega,2007,21,21,0,0,1,40.08
+BDI,Burundi,Gitega,2008,16,16,0,0,1,40.08
+BDI,Burundi,Giteranyi,2008,36,36,0,0,1,32.714
+BDI,Burundi,Gitobe,2008,30,30,0,0,1,36.00749999999999
+BDI,Burundi,Isale,2007,20,20,0,0,1,37.3135
+BDI,Burundi,Isale,2008,14,14,0,0,1,37.3135
+BDI,Burundi,Itaba,2007,23,23,0,0,1,39.75
+BDI,Burundi,Itaba,2008,14,14,0,0,1,39.75
+BDI,Burundi,Kayanza,2007,19,19,0,0,1,40.756499999999996
+BDI,Burundi,Kayanza,2008,19,19,0,0,1,40.756499999999996
+BDI,Burundi,Kayogoro,2007,23,23,0,0,1,39.58
+BDI,Burundi,Kayogoro,2008,14,14,0,0,1,39.58
+BDI,Burundi,Kayokwe,2007,23,23,0,0,1,39.56
+BDI,Burundi,Kayokwe,2008,12,12,0,1,0,39.56
+BDI,Burundi,Kibago,2007,21,21,0,0,1,38.91749999999999
+BDI,Burundi,Kibago,2008,14,14,0,0,1,38.91749999999999
+BDI,Burundi,Kiganda,2007,21,21,0,0,1,40.62
+BDI,Burundi,Kiganda,2008,16,16,0,0,1,40.62
+BDI,Burundi,Kinyinya,2007,23,23,0,0,1,37.61
+BDI,Burundi,Kinyinya,2008,14,14,0,0,1,37.61
+BDI,Burundi,Kiremba,2008,26,33,1,0,1,39.9
+BDI,Burundi,Mabanda,2007,10,10,0,1,0,35.251999999999995
+BDI,Burundi,Mabanda,2008,14,24,0,1,1,35.251999999999995
+BDI,Burundi,Mabayi,2007,20,20,0,0,1,41.71
+BDI,Burundi,Mabayi,2008,17,17,0,0,1,41.71
+BDI,Burundi,Makamba,2007,23,23,0,0,1,38.39
+BDI,Burundi,Makamba,2008,12,12,0,1,0,38.39
+BDI,Burundi,Makebuko,2007,23,23,0,0,1,40.46
+BDI,Burundi,Makebuko,2008,14,14,0,0,1,40.46
+BDI,Burundi,Matana,2007,25,25,0,0,1,39.96
+BDI,Burundi,Matongo,2007,14,14,0,0,1,42.25
+BDI,Burundi,Matongo,2008,21,21,0,0,1,42.25
+BDI,Burundi,Mbuye,2007,9,9,1,0,0,41.6
+BDI,Burundi,Mbuye,2008,22,22,0,0,1,41.6
+BDI,Burundi,Mishiha,2007,23,23,0,0,1,34.43
+BDI,Burundi,Mpanda,2007,21,21,0,0,1,37.291999999999994
+BDI,Burundi,Mpanda,2008,16,16,0,0,1,37.291999999999994
+BDI,Burundi,Mpinga-Kayove,2007,38,38,0,0,1,38.332499999999996
+BDI,Burundi,Mugamba,2007,23,23,0,0,1,40.5
+BDI,Burundi,Mugamba,2008,9,9,1,0,0,40.5
+BDI,Burundi,Mugina,2007,20,20,0,0,1,41.82
+BDI,Burundi,Mugina,2008,17,17,0,0,1,41.82
+BDI,Burundi,Mugongomanga,2007,21,21,0,0,1,40.15
+BDI,Burundi,Mugongomanga,2008,14,14,0,0,1,40.15
+BDI,Burundi,Muhanga,2008,24,31,1,0,1,40.83
+BDI,Burundi,Muhuta,2007,21,21,0,0,1,40.5
+BDI,Burundi,Mukike,2007,21,21,0,0,1,40.42
+BDI,Burundi,Mukike,2008,9,16,2,0,0,40.42
+BDI,Burundi,Muramvya,2007,21,21,0,0,1,40.3
+BDI,Burundi,Muramvya,2008,16,16,0,0,1,40.3
+BDI,Burundi,Muruta,2007,23,23,0,0,1,41.75
+BDI,Burundi,Muruta,2008,14,14,0,0,1,41.75
+BDI,Burundi,Murwi,2007,18,18,0,0,1,38.46
+BDI,Burundi,Murwi,2008,19,19,0,0,1,38.46
+BDI,Burundi,Musongati,2007,35,35,0,0,1,39.25
+BDI,Burundi,Mutambu,2007,21,21,0,0,1,39.62
+BDI,Burundi,Mutimbuzi,2007,23,23,0,0,1,30.924
+BDI,Burundi,Mutimbuzi,2008,14,14,0,0,1,30.924
+BDI,Burundi,Muyinga,2008,32,32,0,0,1,37.17
+BDI,Burundi,Mwumba,2008,26,26,0,0,1,39.75
+BDI,Burundi,Ndava,2007,21,21,0,0,1,40.44
+BDI,Burundi,Ndava,2008,16,16,0,0,1,40.44
+BDI,Burundi,Ngozi,2008,27,37,0,1,1,40.5
+BDI,Burundi,Ntega,2007,9,9,1,0,0,38.143499999999996
+BDI,Burundi,Ntega,2008,29,29,0,0,1,38.143499999999996
+BDI,Burundi,Nyabihanga,2007,21,21,0,0,1,40.1
+BDI,Burundi,Nyabihanga,2008,16,16,0,0,1,40.1
+BDI,Burundi,Nyabiraba,2007,20,20,0,0,1,38.69
+BDI,Burundi,Nyabiraba,2008,7,7,1,0,0,38.69
+BDI,Burundi,Nyanrusange,2007,23,23,0,0,1,40.0
+BDI,Burundi,Nyanrusange,2008,14,14,0,0,1,40.0
+BDI,Burundi,Rango,2008,24,31,1,0,1,41.3
+BDI,Burundi,Rugombo,2007,20,20,0,0,1,39.21
+BDI,Burundi,Rugombo,2008,16,16,0,0,1,39.21
+BDI,Burundi,Ruhororo,2008,23,32,1,0,1,40.69
+BDI,Burundi,Rusaka,2007,21,21,0,0,1,39.9525
+BDI,Burundi,Rusaka,2008,14,14,0,0,1,39.9525
+BDI,Burundi,Rutana,2007,38,38,0,0,1,39.016499999999986
+BDI,Burundi,Rutegama,2007,17,17,0,0,1,40.943
+BDI,Burundi,Rutegama,2008,16,16,0,0,1,40.943
+BDI,Burundi,Rutovu,2007,33,33,0,0,1,39.2255
+BDI,Burundi,Ruyigi,2007,23,23,0,0,1,37.58
+BDI,Burundi,Ruyigi,2008,14,14,0,0,1,37.58
+BDI,Burundi,Ryansoro,2007,25,25,0,0,1,39.08
+BDI,Burundi,Ryansoro,2008,12,12,0,1,0,39.08
+BDI,Burundi,Songa,2007,25,25,0,0,1,41.7
+BDI,Burundi,Tangara,2008,26,38,0,1,1,39.882
+BDI,Burundi,Vumbi,2008,32,32,0,0,1,38.21
+BWA,Botswana,Barolong,2007,14,14,0,0,1,23.866999999999994
+BWA,Botswana,Bobonong,2007,33,33,0,0,1,16.610999999999997
+BWA,Botswana,Chobe,2007,32,32,0,0,1,35.3305
+BWA,Botswana,Kgatleng,2007,9,9,1,0,0,27.91
+BWA,Botswana,Machaneng,2007,37,37,0,0,1,20.026499999999995
+BWA,Botswana,Mahalapye,2007,27,27,0,0,1,25.7305
+BWA,Botswana,Mahalapye,2008,11,11,0,1,0,25.7305
+BWA,Botswana,Masungu,2007,35,35,0,0,1,23.64
+BWA,Botswana,Ngwaketse South,2007,7,7,1,0,0,27.8905
+BWA,Botswana,Palapye,2007,33,33,0,0,1,17.88
+BWA,Botswana,Serowe,2007,34,34,0,0,1,26.031
+BWA,Botswana,Tutume,2007,38,38,0,0,1,26.7305
+CAF,Central African Republic,Ndélé,2007,9,9,1,0,0,40.1505
+CAF,Central African Republic,Nola,2007,8,15,2,0,0,27.924
+CMR,Cameroon,Diamaré,2007,9,9,1,0,0,32.68
+CMR,Cameroon,Faro,2007,7,7,1,0,0,32.482499999999995
+CMR,Cameroon,Mayo Kani,2007,9,9,1,0,0,35.22
+CMR,Cameroon,Mayo Tsanaga,2007,11,11,0,1,0,29.130499999999998
+COD,Democratic Republic of the Congo,Aketi,2007,23,23,0,0,1,31.3115
+COD,Democratic Republic of the Congo,Banalia,2007,30,30,0,0,1,36.27
+COD,Democratic Republic of the Congo,Basoko,2007,29,29,0,0,1,33.43
+COD,Democratic Republic of the Congo,Bongandanga,2007,24,24,0,0,1,31.1105
+COD,Democratic Republic of the Congo,Budjala,2008,24,24,0,0,1,32.1
+COD,Democratic Republic of the Congo,Bumba,2007,7,7,1,0,0,30.993499999999994
+COD,Democratic Republic of the Congo,Businga,2007,13,13,0,1,0,32.711
+COD,Democratic Republic of the Congo,Isangi,2007,25,35,0,1,1,29.9605
+COD,Democratic Republic of the Congo,Kabalo,2006,16,16,0,0,1,38.53
+COD,Democratic Republic of the Congo,Kambove,2006,16,16,0,0,1,40.63
+COD,Democratic Republic of the Congo,Kipushi,2006,16,16,0,0,1,38.544
+COD,Democratic Republic of the Congo,Kisangani,2007,22,38,0,0,2,30.791999999999998
+COD,Democratic Republic of the Congo,Kungu,2007,12,12,0,1,0,31.39
+COD,Democratic Republic of the Congo,Likasi,2006,16,16,0,0,1,38.4525
+COD,Democratic Republic of the Congo,Lisala,2007,20,33,0,1,1,31.69
+COD,Democratic Republic of the Congo,Lubudi,2006,16,16,0,0,1,40.37
+COD,Democratic Republic of the Congo,Lubumbashi,2006,16,16,0,0,1,36.580999999999996
+COD,Democratic Republic of the Congo,Mahagi (ville),2007,24,24,0,0,1,37.75
+COD,Democratic Republic of the Congo,Manono,2006,16,16,0,0,1,38.2605
+COD,Democratic Republic of the Congo,Masisi,2007,8,8,1,0,0,36.2215
+COD,Democratic Republic of the Congo,Mbanza-Ngungu,2007,11,11,0,1,0,31.572499999999998
+COD,Democratic Republic of the Congo,Mutshatsha,2006,16,16,0,0,1,41.9215
+COD,Democratic Republic of the Congo,Oicha,2007,22,31,1,0,1,31.330499999999997
+COD,Democratic Republic of the Congo,Oshwe,2007,32,32,0,0,1,27.72
+COD,Democratic Republic of the Congo,Sakania,2006,16,16,0,0,1,40.327999999999996
+COD,Democratic Republic of the Congo,Songololo,2007,23,23,0,0,1,28.987999999999992
+COD,Democratic Republic of the Congo,Yakoma,2007,9,17,2,0,0,31.56
+EGY,Egypt,Abnub,2007,17,17,0,0,1,15.3
+EGY,Egypt,Abnub,2008,9,16,2,0,0,15.3
+EGY,Egypt,Abu Qurqas,2008,36,36,0,0,1,13.96
+EGY,Egypt,Abu Tij,2007,21,21,0,0,1,14.0
+EGY,Egypt,Abu Tij,2008,7,7,1,0,0,14.0
+EGY,Egypt,Abu Tisht,2007,37,37,0,0,1,9.62
+EGY,Egypt,Akhmim,2007,36,36,0,0,1,12.581999999999999
+EGY,Egypt,Al-'Usayrat,2007,36,36,0,0,1,11.31
+EGY,Egypt,Al-Badari,2007,21,21,0,0,1,15.05
+EGY,Egypt,Al-Badari,2008,12,12,0,1,0,15.05
+EGY,Egypt,Al-Baliyana,2007,33,33,0,0,1,10.75
+EGY,Egypt,Al-Fath,2007,21,21,0,0,1,13.25
+EGY,Egypt,Al-Fath,2008,10,10,0,1,0,13.25
+EGY,Egypt,Al-Ghanayim,2007,8,8,1,0,0,14.92
+EGY,Egypt,Al-Manshah,2007,36,36,0,0,1,11.56
+EGY,Egypt,Al-Maraghah,2007,17,17,0,0,1,14.6
+EGY,Egypt,Al-Maraghah,2008,7,7,1,0,0,14.6
+EGY,Egypt,Al-Minya,2008,10,10,0,1,0,12.97
+EGY,Egypt,Al-Qusiyah,2007,17,17,0,0,1,15.59
+EGY,Egypt,Al-Qusiyah,2008,12,12,0,1,0,15.59
+EGY,Egypt,Al-Waqf,2007,10,10,0,1,0,6.92
+EGY,Egypt,Al-Waqf,2008,20,20,0,0,1,6.92
+EGY,Egypt,Armant,2007,17,17,0,0,1,7.0
+EGY,Egypt,Asyut,2007,21,21,0,0,1,13.54
+EGY,Egypt,Bani Mazar,2007,8,8,1,0,0,15.64
+EGY,Egypt,Dar as-Salam,2007,33,33,0,0,1,10.45
+EGY,Egypt,Dayr Mawas,2008,34,34,0,0,1,12.92
+EGY,Egypt,Dayrut,2008,30,30,0,0,1,14.12
+EGY,Egypt,Dishna,2007,10,10,0,1,0,8.32
+EGY,Egypt,Dishna,2008,19,19,0,0,1,8.32
+EGY,Egypt,Farshut,2007,17,25,1,0,1,9.0
+EGY,Egypt,Idfu,2008,28,28,0,0,1,3.05
+EGY,Egypt,Isna,2007,25,32,1,0,1,5.5
+EGY,Egypt,Jirja,2007,36,36,0,0,1,10.852499999999997
+EGY,Egypt,Juhaynah al-Gharbiyah,2007,21,21,0,0,1,14.94
+EGY,Egypt,Juhaynah al-Gharbiyah,2008,9,16,2,0,0,14.94
+EGY,Egypt,Kawm Umbu,2008,34,34,0,0,1,2.071999999999998
+EGY,Egypt,Luxor,2007,27,27,0,0,1,7.66
+EGY,Egypt,Mallawi,2008,38,38,0,0,1,12.341999999999999
+EGY,Egypt,Mallawi City,2008,34,34,0,0,1,13.5
+EGY,Egypt,Manfalut,2007,19,19,0,0,1,16.14
+EGY,Egypt,Manfalut,2008,12,12,0,1,0,16.14
+EGY,Egypt,Naj' Hammadi,2007,37,37,0,0,1,8.29
+EGY,Egypt,Naqadah,2007,21,21,0,0,1,5.55
+EGY,Egypt,Nasr,2008,34,34,0,0,1,2.94
+EGY,Egypt,Qift,2007,17,17,0,0,1,5.75
+EGY,Egypt,Qina,2008,20,20,0,0,1,6.56
+EGY,Egypt,Qus,2007,19,19,0,0,1,5.71
+EGY,Egypt,Sahil Salim,2007,24,24,0,0,1,12.942999999999996
+EGY,Egypt,Sahil Salim,2008,14,14,0,0,1,12.942999999999996
+EGY,Egypt,Saqultah,2007,26,26,0,0,1,14.05
+EGY,Egypt,Saqultah,2008,9,9,1,0,0,14.05
+EGY,Egypt,Sawhaj,2007,33,33,0,0,1,12.71
+EGY,Egypt,Sidfa,2007,8,8,1,0,0,15.0
+EGY,Egypt,Tahta,2007,23,23,0,0,1,15.251999999999999
+EGY,Egypt,Tahta,2008,10,10,0,1,0,15.251999999999999
+EGY,Egypt,Tibah Police Dept.,2007,20,20,0,0,1,5.42
+EGY,Egypt,Tima,2007,19,19,0,0,1,15.12
+EGY,Egypt,Tima,2008,10,10,0,1,0,15.12
+EGY,Egypt,Unorganized in Al Jizah,2008,37,37,0,0,1,6.82
+EGY,Egypt,Unorganized in Al Minya,2008,22,22,0,0,1,9.190499999999998
+EGY,Egypt,Unorganized in Aswan,2007,7,7,1,0,0,4.29
+EGY,Egypt,Unorganized in Aswan,2008,29,29,0,0,1,4.29
+EGY,Egypt,Unorganized in Asyut,2007,12,19,1,1,0,11.590499999999999
+EGY,Egypt,Unorganized in Asyut,2008,11,18,1,1,0,11.590499999999999
+EGY,Egypt,Unorganized in Bani Suwayf,2008,37,37,0,0,1,9.81
+EGY,Egypt,Unorganized in Qina,2007,22,22,0,0,1,6.31
+EGY,Egypt,Unorganized in Qina,2008,7,7,1,0,0,6.31
+EGY,Egypt,Unorganized in Suhaj,2007,19,31,0,1,1,10.58
+EGY,Egypt,West Nubariyah,2008,9,9,1,0,0,3.73
+ETH,Ethiopia,Agew Awi,2007,35,35,0,0,1,39.8
+ETH,Ethiopia,Alaba,2007,33,33,0,0,1,39.081999999999994
+ETH,Ethiopia,Debub Mirab Shewa,2007,38,38,0,0,1,37.891999999999996
+ETH,Ethiopia,Debub Wollo,2007,24,24,0,0,1,29.73
+ETH,Ethiopia,Debub Wollo,2008,11,11,0,1,0,29.73
+ETH,Ethiopia,Debubawi,2007,38,38,0,0,1,24.784
+ETH,Ethiopia,Gurage,2007,26,26,0,0,1,38.8315
+ETH,Ethiopia,Hadiya,2007,31,31,0,0,1,40.7205
+ETH,Ethiopia,Horo Guduru,2007,38,38,0,0,1,38.0405
+ETH,Ethiopia,Ilubabor,2007,27,27,0,0,1,40.54
+ETH,Ethiopia,Jimma,2007,37,37,0,0,1,41.7
+ETH,Ethiopia,Kelem Wellega,2007,9,9,1,0,0,40.85
+ETH,Ethiopia,Mehakelegnaw,2007,38,38,0,0,1,13.822
+ETH,Ethiopia,Mirab Hararghe,2007,17,17,0,0,1,14.2
+ETH,Ethiopia,Mirab Shewa,2007,38,38,0,0,1,38.437999999999995
+ETH,Ethiopia,Mirab Welega,2007,17,17,0,0,1,42.520500000000006
+ETH,Ethiopia,Misraq Gojjam,2007,36,36,0,0,1,34.6205
+ETH,Ethiopia,Misraq Harerge,2007,14,14,0,0,1,10.440499999999998
+ETH,Ethiopia,Misraq Wellega,2007,38,38,0,0,1,41.153499999999994
+ETH,Ethiopia,Misraqawi,2007,38,38,0,0,1,8.931499999999998
+ETH,Ethiopia,North Shewa,2007,37,37,0,0,1,30.7305
+ETH,Ethiopia,Semen Wello,2007,26,26,0,0,1,30.122
+ETH,Ethiopia,Silti,2007,35,35,0,0,1,38.2255
+ETH,Ethiopia,Wag Himra,2007,24,31,1,0,1,32.7415
+GHA,Ghana,South Tongu,2008,9,9,1,0,0,27.941
+GIN,Guinea,Beyla,2007,21,21,0,0,1,39.92
+GIN,Guinea,Dabola,2007,26,26,0,0,1,37.3
+GIN,Guinea,Dinguiraye,2007,29,29,0,0,1,33.76
+GIN,Guinea,Kankan,2008,14,14,0,0,1,38.950500000000005
+GIN,Guinea,Kindia,2007,24,24,0,0,1,37.3315
+GIN,Guinea,Kouroussa,2007,25,25,0,0,1,37.702
+GIN,Guinea,Mandiana,2008,21,21,0,0,1,37.537499999999994
+GIN,Guinea,Siguiri,2007,18,18,0,0,1,35.1
+KEN,Kenya,Ainabkoi,2007,21,36,0,0,2,35.75
+KEN,Kenya,Ainamoi,2007,20,35,0,0,2,34.842
+KEN,Kenya,Aldai,2007,25,37,0,1,1,34.42
+KEN,Kenya,Awendo,2007,21,21,0,0,1,30.6115
+KEN,Kenya,Bahati,2007,18,27,1,0,1,39.33
+KEN,Kenya,Baringo North,2007,27,27,0,0,1,34.983999999999995
+KEN,Kenya,Baringo South,2007,26,38,0,1,1,33.3705
+KEN,Kenya,Belgut,2007,24,37,0,1,1,36.06
+KEN,Kenya,Bobasi,2007,10,10,0,1,0,35.07
+KEN,Kenya,Bomachoge Borabu,2007,10,10,0,1,0,34.38
+KEN,Kenya,Bomachoge Chache,2007,7,7,1,0,0,34.65
+KEN,Kenya,Bomet Central,2007,17,17,0,0,1,33.43
+KEN,Kenya,Borabu,2007,22,22,0,0,1,35.78
+KEN,Kenya,Bumula,2007,23,23,0,0,1,36.18699999999999
+KEN,Kenya,Bureti,2007,24,24,0,0,1,35.0
+KEN,Kenya,Cherangany,2007,19,38,0,0,2,38.3625
+KEN,Kenya,Chesumei,2007,23,36,0,1,1,39.16
+KEN,Kenya,Eldama Ravine,2007,26,35,1,0,1,37.96
+KEN,Kenya,Emgwen,2007,25,37,0,1,1,37.45
+KEN,Kenya,Emurua Dikirr,2007,7,7,1,0,0,31.93
+KEN,Kenya,Endebess,2007,28,28,0,0,1,37.003
+KEN,Kenya,Ganze,2007,24,24,0,0,1,29.94
+KEN,Kenya,Gatanga,2007,38,38,0,0,1,28.326499999999996
+KEN,Kenya,Gilgil,2007,12,21,1,1,0,35.89
+KEN,Kenya,Hamisi,2007,23,23,0,0,1,35.61
+KEN,Kenya,Igembe Central,2007,10,10,0,1,0,24.612999999999996
+KEN,Kenya,Igembe South,2007,7,7,1,0,0,29.162
+KEN,Kenya,Igembe South,2008,14,14,0,0,1,29.162
+KEN,Kenya,Ikolomani,2007,21,21,0,0,1,36.5025
+KEN,Kenya,Kabondo Kasipul,2007,12,31,1,2,0,33.254
+KEN,Kenya,Kabuchai,2007,28,28,0,0,1,38.57
+KEN,Kenya,Kacheliba,2007,27,27,0,0,1,24.48
+KEN,Kenya,Kaloleni,2007,27,27,0,0,1,31.44
+KEN,Kenya,Kandara,2007,36,36,0,0,1,31.53
+KEN,Kenya,Kanduyi,2007,23,23,0,0,1,36.961999999999996
+KEN,Kenya,Kapenguria,2007,28,28,0,0,1,32.872499999999995
+KEN,Kenya,Kapseret,2007,19,36,0,0,2,37.193
+KEN,Kenya,Kasipul,2007,13,23,0,2,0,34.25
+KEN,Kenya,Keiyo North,2007,24,35,0,1,1,35.52
+KEN,Kenya,Keiyo South,2007,26,37,0,1,1,37.45
+KEN,Kenya,Kesses,2007,19,36,0,0,2,36.95
+KEN,Kenya,Khwisero,2007,12,12,0,1,0,36.08
+KEN,Kenya,Kibwezi East,2007,9,9,1,0,0,33.66
+KEN,Kenya,Kibwezi West,2007,9,9,1,0,0,33.98
+KEN,Kenya,Kieni,2007,19,35,0,0,2,27.59
+KEN,Kenya,Kigumo,2007,24,24,0,0,1,31.64
+KEN,Kenya,Kiharu,2007,38,38,0,0,1,32.031
+KEN,Kenya,Kilome,2007,9,9,1,0,0,28.1615
+KEN,Kenya,Kilome,2008,14,14,0,0,1,28.1615
+KEN,Kenya,Kimilili,2007,28,28,0,0,1,38.96
+KEN,Kenya,Kiminini,2007,22,32,0,1,1,38.271
+KEN,Kenya,Kinango,2007,19,19,0,0,1,30.25
+KEN,Kenya,Kinangop,2007,15,15,0,0,1,28.39
+KEN,Kenya,Kipkelion East,2007,26,36,0,1,1,37.3615
+KEN,Kenya,Kipkelion West,2007,19,34,0,0,2,37.461999999999996
+KEN,Kenya,Kirinyaga Central,2007,24,24,0,0,1,29.734999999999996
+KEN,Kenya,Kitui East,2007,9,9,1,0,0,25.06
+KEN,Kenya,Kitui South,2007,9,9,1,0,0,29.9
+KEN,Kenya,Kitutu Chache North,2007,13,28,2,1,0,36.45
+KEN,Kenya,Kitutu Masaba,2007,16,16,0,0,1,36.961999999999996
+KEN,Kenya,Konoin,2007,22,37,0,0,2,37.77
+KEN,Kenya,Kuresoi North,2007,26,35,1,0,1,36.92
+KEN,Kenya,Kuresoi South,2007,22,38,2,0,1,38.4525
+KEN,Kenya,Kuria East,2007,7,7,1,0,0,31.04
+KEN,Kenya,Kuria West,2007,19,19,0,0,1,31.89199999999999
+KEN,Kenya,Kwanza,2007,30,30,0,0,1,37.7215
+KEN,Kenya,Laikipia East,2007,21,38,0,0,2,29.543499999999995
+KEN,Kenya,Laikipia North,2007,24,38,0,0,2,28.594999999999995
+KEN,Kenya,Laikipia West,2007,24,38,0,0,2,35.015499999999996
+KEN,Kenya,Lari,2007,28,28,0,0,1,28.560999999999996
+KEN,Kenya,Likuyani,2007,18,32,0,0,2,38.03
+KEN,Kenya,Limuru,2007,27,27,0,0,1,25.9
+KEN,Kenya,Lugari,2007,26,26,0,0,1,37.65
+KEN,Kenya,Lungalunga,2007,29,29,0,0,1,31.79
+KEN,Kenya,Lurambi,2007,18,18,0,0,1,36.461999999999996
+KEN,Kenya,Machakos Town,2007,7,7,1,0,0,26.83
+KEN,Kenya,Machakos Town,2008,23,23,0,0,1,26.83
+KEN,Kenya,Makueni,2007,7,7,1,0,0,30.89
+KEN,Kenya,Malava,2007,23,23,0,0,1,37.318
+KEN,Kenya,Malindi,2007,21,21,0,0,1,30.270999999999997
+KEN,Kenya,Maragwa,2007,36,36,0,0,1,29.17
+KEN,Kenya,Marakwet East,2007,28,28,0,0,1,36.45
+KEN,Kenya,Marakwet West,2007,20,35,0,0,2,37.35
+KEN,Kenya,Masinga,2007,17,17,0,0,1,26.292499999999997
+KEN,Kenya,Masinga,2008,21,21,0,0,1,26.292499999999997
+KEN,Kenya,Mathira,2007,7,7,1,0,0,28.06
+KEN,Kenya,Matuga,2007,32,32,0,0,1,30.82
+KEN,Kenya,Matungu,2007,7,7,1,0,0,35.64
+KEN,Kenya,Matungulu,2007,17,17,0,0,1,23.833499999999994
+KEN,Kenya,Matungulu,2008,21,21,0,0,1,23.833499999999994
+KEN,Kenya,Mavoko,2007,17,17,0,0,1,21.1
+KEN,Kenya,Mavoko,2008,8,8,1,0,0,21.1
+KEN,Kenya,Mbeere North,2008,24,24,0,0,1,29.34
+KEN,Kenya,Mbeere South,2007,17,17,0,0,1,27.680999999999997
+KEN,Kenya,Mbeere South,2008,21,21,0,0,1,27.680999999999997
+KEN,Kenya,Mbooni,2008,21,21,0,0,1,29.83
+KEN,Kenya,Mogotio,2007,20,37,0,0,2,37.54
+KEN,Kenya,Moiben,2007,17,36,1,1,1,34.8705
+KEN,Kenya,Molo,2007,22,31,1,0,1,36.75
+KEN,Kenya,Mosop,2007,22,37,0,0,2,38.55
+KEN,Kenya,Mt. Elgon,2007,28,28,0,0,1,39.1215
+KEN,Kenya,Muhoroni,2007,19,38,0,0,2,32.022
+KEN,Kenya,Mumias East,2007,16,16,0,0,1,35.65
+KEN,Kenya,Mwala,2008,19,19,0,0,1,29.79
+KEN,Kenya,Mwea,2007,36,36,0,0,1,28.85
+KEN,Kenya,Mwingi Central,2007,9,9,1,0,0,27.2
+KEN,Kenya,Mwingi North,2007,9,9,1,0,0,28.08
+KEN,Kenya,Mwingi North,2008,17,17,0,0,1,28.08
+KEN,Kenya,Mwingi West,2007,9,9,1,0,0,29.45
+KEN,Kenya,Naivasha,2007,24,24,0,0,1,30.335499999999993
+KEN,Kenya,Nambale,2008,7,7,1,0,0,35.93
+KEN,Kenya,Nandi Hills,2007,22,35,0,1,1,38.22
+KEN,Kenya,Narok North,2007,26,33,1,0,1,35.2425
+KEN,Kenya,Navakholo,2007,18,18,0,0,1,36.5365
+KEN,Kenya,Ndhiwa,2007,10,19,1,1,0,28.47
+KEN,Kenya,Ndhiwa,2008,13,13,0,1,0,28.47
+KEN,Kenya,Ndia,2007,24,24,0,0,1,28.9715
+KEN,Kenya,Njoro,2007,17,35,2,0,1,37.5
+KEN,Kenya,North Mugirango,2007,12,29,1,2,0,36.75
+KEN,Kenya,Nyaribari Chache,2007,9,9,1,0,0,36.05
+KEN,Kenya,Nyaribari Masaba,2007,17,17,0,0,1,35.0
+KEN,Kenya,Pokot South,2007,28,37,1,0,1,35.01349999999999
+KEN,Kenya,Rongai,2007,20,38,0,0,2,37.7035
+KEN,Kenya,Rongo,2007,16,16,0,0,1,31.502
+KEN,Kenya,Sabatia,2007,21,21,0,0,1,36.42
+KEN,Kenya,Saboti,2007,28,28,0,0,1,37.97
+KEN,Kenya,Samburu West,2007,25,34,1,0,1,27.87
+KEN,Kenya,Shinyalu,2007,23,23,0,0,1,38.17699999999999
+KEN,Kenya,Sigor,2007,28,28,0,0,1,29.331999999999997
+KEN,Kenya,Sigowet/Soin,2007,23,36,0,1,1,32.681
+KEN,Kenya,Sirisia,2007,24,24,0,0,1,40.54
+KEN,Kenya,Sotik,2007,19,19,0,0,1,32.63299999999998
+KEN,Kenya,South Mugirango,2007,10,10,0,1,0,33.114999999999995
+KEN,Kenya,Soy,2007,25,35,0,1,1,36.44
+KEN,Kenya,Subukia,2007,22,37,0,0,2,39.97
+KEN,Kenya,Suna East,2007,19,19,0,0,1,30.675999999999995
+KEN,Kenya,Suna West,2007,19,19,0,0,1,30.4715
+KEN,Kenya,Teso North,2007,21,21,0,0,1,37.16
+KEN,Kenya,Teso South,2007,14,14,0,0,1,35.55
+KEN,Kenya,Tharaka,2008,20,20,0,0,1,28.551
+KEN,Kenya,Tinderet,2007,20,37,0,0,2,35.46
+KEN,Kenya,Tongaren,2007,18,25,1,0,1,38.31
+KEN,Kenya,Turbo,2007,21,28,1,0,1,37.86
+KEN,Kenya,Ugunja,2007,7,7,1,0,0,35.28
+KEN,Kenya,Uriri,2007,23,23,0,0,1,29.92
+KEN,Kenya,Voi,2007,7,7,1,0,0,30.9
+KEN,Kenya,Webute West,2007,24,24,0,0,1,37.83
+KEN,Kenya,Webuye East,2007,26,26,0,0,1,38.2
+KEN,Kenya,West Mugirango,2007,12,22,0,2,0,37.5
+KEN,Kenya,Yatta,2007,7,7,1,0,0,28.637499999999992
+KEN,Kenya,Yatta,2008,19,19,0,0,1,28.637499999999992
+KEN,Kenya,unknown 4,2007,30,30,0,0,1,37.7
+MDG,Madagascar,Alaotra-Mangoro,2006,29,29,0,0,1,34.48
+MDG,Madagascar,Amoron'i mania,2006,29,29,0,0,1,37.030499999999975
+MDG,Madagascar,Analamanga,2006,29,29,0,0,1,38.34799999999997
+MDG,Madagascar,Betsiboka,2006,29,29,0,0,1,40.18199999999996
+MDG,Madagascar,Bongolava,2006,29,29,0,0,1,39.29399999999997
+MDG,Madagascar,Haute matsiatra,2006,29,29,0,0,1,34.76749999999996
+MDG,Madagascar,Itasy,2006,29,29,0,0,1,38.03499999999997
+MDG,Madagascar,Vakinankaratra,2006,29,29,0,0,1,38.41699999999997
+MOZ,Mozambique,Alto Molocue,2006,32,32,0,0,1,40.133
+MOZ,Mozambique,Angónia,2006,38,38,0,0,1,43.709999999999994
+MOZ,Mozambique,Balama,2006,36,36,0,0,1,41.94
+MOZ,Mozambique,Barue,2006,19,37,0,0,2,32.6515
+MOZ,Mozambique,Bilene,2007,12,12,0,1,0,18.171
+MOZ,Mozambique,Bilene,2008,26,26,0,0,1,18.171
+MOZ,Mozambique,Boane,2007,12,12,0,1,0,20.22
+MOZ,Mozambique,Boane,2008,23,23,0,0,1,20.22
+MOZ,Mozambique,Cahora Bassa,2006,23,32,1,0,1,27.0505
+MOZ,Mozambique,Caia,2006,32,32,0,0,1,36.7115
+MOZ,Mozambique,Changara,2006,32,32,0,0,1,28.621
+MOZ,Mozambique,Chemba,2006,19,28,1,0,1,30.3215
+MOZ,Mozambique,Chibuto,2007,37,37,0,0,1,19.85
+MOZ,Mozambique,Chicualacuala,2007,33,33,0,0,1,19.011
+MOZ,Mozambique,Chifunde,2006,38,38,0,0,1,37.184999999999995
+MOZ,Mozambique,Chiuta,2006,33,33,0,0,1,32.58449999999999
+MOZ,Mozambique,Chiúre,2006,24,24,0,0,1,40.14
+MOZ,Mozambique,Chókwè,2007,21,21,0,0,1,21.283499999999997
+MOZ,Mozambique,Chókwè,2008,17,17,0,0,1,21.283499999999997
+MOZ,Mozambique,Cuamba,2006,37,37,0,0,1,40.8605
+MOZ,Mozambique,Erati,2006,31,31,0,0,1,39.57
+MOZ,Mozambique,Funhalouro,2007,38,38,0,0,1,25.630999999999997
+MOZ,Mozambique,Gile,2006,34,34,0,0,1,39.37349999999999
+MOZ,Mozambique,Gondola,2006,18,18,0,0,1,33.641
+MOZ,Mozambique,Gondola,2007,9,9,1,0,0,33.641
+MOZ,Mozambique,Gorongosa,2006,19,26,1,0,1,33.45
+MOZ,Mozambique,Guijá,2007,37,37,0,0,1,22.400999999999996
+MOZ,Mozambique,Guro,2006,27,34,1,0,1,29.46
+MOZ,Mozambique,Gurue,2006,32,32,0,0,1,40.16
+MOZ,Mozambique,Ile,2006,32,32,0,0,1,38.733999999999995
+MOZ,Mozambique,Lalaua,2006,30,37,1,0,1,41.34
+MOZ,Mozambique,Mabote,2007,38,38,0,0,1,26.208999999999993
+MOZ,Mozambique,Macanga,2006,38,38,0,0,1,39.08399999999999
+MOZ,Mozambique,Magoe,2006,36,36,0,0,1,29.69
+MOZ,Mozambique,Magude,2007,24,24,0,0,1,22.2
+MOZ,Mozambique,Magude,2008,13,13,0,1,0,22.2
+MOZ,Mozambique,Malema,2006,37,37,0,0,1,41.05
+MOZ,Mozambique,Mandimba,2006,37,37,0,0,1,41.494
+MOZ,Mozambique,Manhiça,2007,22,22,0,0,1,20.85
+MOZ,Mozambique,Manhiça,2008,15,15,0,0,1,20.85
+MOZ,Mozambique,Manica,2007,34,34,0,0,1,32.5925
+MOZ,Mozambique,Maravia,2006,38,38,0,0,1,35.04599999999999
+MOZ,Mozambique,Maringue,2006,19,28,1,0,1,32.782
+MOZ,Mozambique,Marrupa,2006,37,37,0,0,1,40.3
+MOZ,Mozambique,Maúa,2006,37,37,0,0,1,40.84
+MOZ,Mozambique,Meconta,2006,24,38,0,0,2,38.0215
+MOZ,Mozambique,Mecuburi,2006,30,38,1,0,1,41.0415
+MOZ,Mozambique,Meluco,2006,7,7,1,0,0,37.95
+MOZ,Mozambique,Metarica,2006,37,37,0,0,1,40.900999999999996
+MOZ,Mozambique,Milange,2006,32,32,0,0,1,38.4955
+MOZ,Mozambique,Moatize,2006,23,23,0,0,1,31.1025
+MOZ,Mozambique,Moatize,2007,7,7,1,0,0,31.1025
+MOZ,Mozambique,Mogovolas,2006,34,34,0,0,1,39.181999999999995
+MOZ,Mozambique,Montepuez,2006,36,36,0,0,1,40.83699999999999
+MOZ,Mozambique,Mopeia,2006,25,32,1,0,1,38.5325
+MOZ,Mozambique,Morrumbala,2006,21,38,2,0,1,36.5805
+MOZ,Mozambique,Mossurize,2007,38,38,0,0,1,29.054999999999996
+MOZ,Mozambique,Muecate,2006,13,35,0,3,0,39.38
+MOZ,Mozambique,Mueda,2006,9,9,1,0,0,39.73
+MOZ,Mozambique,Muembe,2006,34,34,0,0,1,43.0
+MOZ,Mozambique,Murrupula,2006,34,34,0,0,1,38.993
+MOZ,Mozambique,Mutarara,2006,9,35,4,0,0,31.73
+MOZ,Mozambique,N'gauma,2006,38,38,0,0,1,40.971
+MOZ,Mozambique,Namapa,2006,26,26,0,0,1,38.360499999999995
+MOZ,Mozambique,Namarroi,2006,30,37,1,0,1,39.49
+MOZ,Mozambique,Nampula,2006,18,30,0,1,1,38.24
+MOZ,Mozambique,Namuno,2006,36,36,0,0,1,42.37
+MOZ,Mozambique,Nhamatanda,2006,18,18,0,0,1,35.47
+MOZ,Mozambique,Nicoadala,2006,32,32,0,0,1,36.79
+MOZ,Mozambique,Nipepe,2006,38,38,0,0,1,40.313999999999986
+MOZ,Mozambique,Ribaue,2006,32,32,0,0,1,39.471
+MOZ,Mozambique,Sanga,2006,33,33,0,0,1,41.861999999999995
+MOZ,Mozambique,Sussundenga,2007,38,38,0,0,1,31.065499999999993
+MOZ,Mozambique,Tsangano,2006,38,38,0,0,1,39.774499999999996
+MOZ,Mozambique,Zumbu,2006,35,35,0,0,1,34.91
+MWI,Malawi,Blantyre City,2006,32,32,0,0,1,36.832499999999996
+MWI,Malawi,Lilongwe City,2006,38,38,0,0,1,43.75949999999999
+MWI,Malawi,Mwanza Boma,2006,33,33,0,0,1,36.0
+MWI,Malawi,Ntchisi Boma,2006,38,38,0,0,1,41.76249999999999
+MWI,Malawi,Rumphi Boma,2006,38,38,0,0,1,42.256499999999996
+MWI,Malawi,SC Chakhaza,2006,38,38,0,0,1,42.277499999999996
+MWI,Malawi,SC Chamba,2006,33,33,0,0,1,39.883
+MWI,Malawi,SC Chikweo,2006,32,32,0,0,1,45.12
+MWI,Malawi,SC Chilikumwendo,2006,38,38,0,0,1,44.06299999999998
+MWI,Malawi,SC Chilooko,2006,38,38,0,0,1,39.922499999999985
+MWI,Malawi,SC Chilowamatambe,2006,38,38,0,0,1,41.68249999999999
+MWI,Malawi,SC Chitekwele,2006,38,38,0,0,1,39.28699999999999
+MWI,Malawi,SC Chiwalo,2006,33,33,0,0,1,39.756499999999996
+MWI,Malawi,SC Dambe,2006,38,38,0,0,1,45.3125
+MWI,Malawi,SC Goodson Ganya,2006,38,38,0,0,1,42.49999999999998
+MWI,Malawi,SC Juma,2006,38,38,0,0,1,39.818
+MWI,Malawi,SC Kamenya Gwaza,2006,38,38,0,0,1,43.00699999999999
+MWI,Malawi,SC Kampingo Sibande,2006,38,38,0,0,1,40.455999999999996
+MWI,Malawi,SC Kawamba,2006,38,38,0,0,1,43.60849999999999
+MWI,Malawi,SC Kayembe,2006,38,38,0,0,1,43.6125
+MWI,Malawi,SC Khosolo Gwaza Jere,2006,36,36,0,0,1,39.821
+MWI,Malawi,SC Lukwa,2006,38,38,0,0,1,42.674
+MWI,Malawi,SC M'nyanja,2006,38,38,0,0,1,41.8165
+MWI,Malawi,SC Makwangwala,2006,38,38,0,0,1,41.91949999999998
+MWI,Malawi,SC Mavwere,2006,38,38,0,0,1,44.86599999999999
+MWI,Malawi,SC Mbenje,2006,10,34,3,1,0,32.25
+MWI,Malawi,SC Mbiza,2006,38,38,0,0,1,40.39449999999999
+MWI,Malawi,SC Mbwana Nyambi,2006,33,33,0,0,1,40.421
+MWI,Malawi,SC Mduwa,2006,38,38,0,0,1,44.943
+MWI,Malawi,SC Mkukula,2006,38,38,0,0,1,41.788
+MWI,Malawi,SC Mlomba,2006,12,27,2,1,0,41.07
+MWI,Malawi,SC Mponela,2006,38,38,0,0,1,42.79849999999999
+MWI,Malawi,SC Mposa,2007,22,22,0,0,1,41.21
+MWI,Malawi,SC Mtema,2006,38,38,0,0,1,44.62849999999999
+MWI,Malawi,SC Mwahenga,2006,38,38,0,0,1,37.812499999999986
+MWI,Malawi,SC Mwankhunikira,2006,38,38,0,0,1,36.907999999999994
+MWI,Malawi,SC Mwirang'ombe,2006,31,31,0,0,1,28.08
+MWI,Malawi,SC Ngokwe,2006,32,32,0,0,1,44.0
+MWI,Malawi,SC Njewa,2006,38,38,0,0,1,44.63899999999998
+MWI,Malawi,SC Njombwa,2006,38,38,0,0,1,42.75849999999999
+MWI,Malawi,SC Simlemba,2006,38,38,0,0,1,41.504
+MWI,Malawi,SC Sitola,2006,38,38,0,0,1,39.422
+MWI,Malawi,TA Bvumbwe,2006,20,20,0,0,1,37.04
+MWI,Malawi,TA Bvumbwe,2007,12,12,0,1,0,37.04
+MWI,Malawi,TA Chadza,2006,38,38,0,0,1,43.58799999999999
+MWI,Malawi,TA Chapananga,2006,33,33,0,0,1,33.482499999999995
+MWI,Malawi,TA Chigaru,2006,38,38,0,0,1,35.20849999999998
+MWI,Malawi,TA Chikowi,2006,38,38,0,0,1,41.202499999999986
+MWI,Malawi,TA Chikulamayembe,2006,38,38,0,0,1,41.75899999999999
+MWI,Malawi,TA Chikumbu,2006,30,30,0,0,1,38.44
+MWI,Malawi,TA Chimaliro,2006,21,28,1,0,1,37.6025
+MWI,Malawi,TA Chimaliro,2007,10,10,0,1,0,37.6025
+MWI,Malawi,TA Chimutu,2006,38,38,0,0,1,41.294999999999995
+MWI,Malawi,TA Chimwala,2006,38,38,0,0,1,39.50499999999999
+MWI,Malawi,TA Chindi,2006,38,38,0,0,1,41.32449999999999
+MWI,Malawi,TA Chiseka,2006,38,38,0,0,1,43.78649999999999
+MWI,Malawi,TA Chitera,2006,38,38,0,0,1,38.074999999999974
+MWI,Malawi,TA Chitukula,2006,38,38,0,0,1,43.756499999999996
+MWI,Malawi,TA Chiwere,2006,38,38,0,0,1,40.80149999999999
+MWI,Malawi,TA Chulu,2006,38,38,0,0,1,42.25949999999999
+MWI,Malawi,TA Dzoole,2006,38,38,0,0,1,42.83849999999999
+MWI,Malawi,TA Kabudula,2006,38,38,0,0,1,45.01149999999999
+MWI,Malawi,TA Kadewere,2006,38,38,0,0,1,39.306499999999986
+MWI,Malawi,TA Kalembo,2006,38,38,0,0,1,39.80899999999999
+MWI,Malawi,TA Kalolo,2006,38,38,0,0,1,44.93249999999999
+MWI,Malawi,TA Kaluluma,2006,38,38,0,0,1,42.50699999999999
+MWI,Malawi,TA Kalumba,2006,38,38,0,0,1,43.76249999999999
+MWI,Malawi,TA Kalumbu,2006,38,38,0,0,1,43.18849999999998
+MWI,Malawi,TA Kalumo,2006,38,38,0,0,1,41.48249999999999
+MWI,Malawi,TA Kameme,2006,38,38,0,0,1,42.208999999999996
+MWI,Malawi,TA Kanduku,2006,33,33,0,0,1,36.3115
+MWI,Malawi,TA Kaomba,2006,38,38,0,0,1,42.41249999999999
+MWI,Malawi,TA Kapelula,2006,38,38,0,0,1,39.07249999999999
+MWI,Malawi,TA Kapeni,2006,33,33,0,0,1,36.141999999999996
+MWI,Malawi,TA Kaphuka,2006,38,38,0,0,1,43.86499999999999
+MWI,Malawi,TA Kasumbu,2006,38,38,0,0,1,39.943499999999986
+MWI,Malawi,TA Katunga,2006,10,26,2,1,0,32.42
+MWI,Malawi,TA Kawinga,2006,19,29,0,1,1,42.7105
+MWI,Malawi,TA Khongoni,2006,38,38,0,0,1,44.80599999999999
+MWI,Malawi,TA Kilupula,2006,31,31,0,0,1,38.75849999999999
+MWI,Malawi,TA Kuntaja,2006,33,33,0,0,1,34.044999999999995
+MWI,Malawi,TA Kunthembwe,2006,21,30,1,0,1,32.53
+MWI,Malawi,TA Kuntumanji,2006,8,8,1,0,0,40.8615
+MWI,Malawi,TA Kuntumanji,2007,8,8,1,0,0,40.8615
+MWI,Malawi,TA Likoswe,2006,33,33,0,0,1,37.902499999999996
+MWI,Malawi,TA Liwonde,2006,33,33,0,0,1,39.681
+MWI,Malawi,TA Lundu,2006,38,38,0,0,1,35.6005
+MWI,Malawi,TA M'Mbelwa,2006,38,38,0,0,1,43.05349999999999
+MWI,Malawi,TA Mabuka,2006,30,30,0,0,1,38.9515
+MWI,Malawi,TA Mabulabo,2006,38,38,0,0,1,42.3215
+MWI,Malawi,TA Machinjili,2006,33,33,0,0,1,36.69
+MWI,Malawi,TA Makata,2006,38,38,0,0,1,36.25999999999999
+MWI,Malawi,TA Makhwira,2006,21,37,2,0,1,35.69
+MWI,Malawi,TA Malemia,2006,21,37,2,0,1,37.21
+MWI,Malawi,TA Malili,2006,38,38,0,0,1,44.68949999999998
+MWI,Malawi,TA Masasa,2006,38,38,0,0,1,41.53249999999999
+MWI,Malawi,TA Maseya,2006,21,29,1,0,1,32.92
+MWI,Malawi,TA Mazengera,2006,38,38,0,0,1,41.7555
+MWI,Malawi,TA Mkanda,2006,38,38,0,0,1,45.1455
+MWI,Malawi,TA Mkhumba,2006,38,38,0,0,1,41.375499999999995
+MWI,Malawi,TA Mlauli,2006,34,34,0,0,1,35.35
+MWI,Malawi,TA Mlolo,2006,20,27,1,0,1,35.21
+MWI,Malawi,TA Mlonyeni,2006,38,38,0,0,1,44.47899999999999
+MWI,Malawi,TA Mlumbe,2006,38,38,0,0,1,38.55949999999998
+MWI,Malawi,TA Mpama,2006,38,38,0,0,1,38.574999999999974
+MWI,Malawi,TA Mpando,2006,38,38,0,0,1,41.49099999999998
+MWI,Malawi,TA Mpherembe,2006,38,38,0,0,1,40.614999999999995
+MWI,Malawi,TA Msakambewa,2006,38,38,0,0,1,42.69149999999999
+MWI,Malawi,TA Mtwalo,2006,38,38,0,0,1,40.404999999999994
+MWI,Malawi,TA Mwabulambya,2006,38,38,0,0,1,40.61599999999999
+MWI,Malawi,TA Mwadzama,2006,38,38,0,0,1,36.028
+MWI,Malawi,TA Mwase,2006,38,38,0,0,1,42.355
+MWI,Malawi,TA Mzikubola,2006,38,38,0,0,1,41.086499999999994
+MWI,Malawi,TA Mzukuzuku,2006,38,38,0,0,1,43.29449999999999
+MWI,Malawi,TA Nazombe,2006,38,38,0,0,1,41.5955
+MWI,Malawi,TA Nchema,2006,38,38,0,0,1,39.58199999999998
+MWI,Malawi,TA Ndindi,2006,38,38,0,0,1,35.43849999999998
+MWI,Malawi,TA Ngabu,2006,20,36,2,0,1,32.870999999999995
+MWI,Malawi,TA Njolomole,2006,38,38,0,0,1,44.45549999999999
+MWI,Malawi,TA Nkalo,2006,33,33,0,0,1,38.7525
+MWI,Malawi,TA Nkanda,2006,33,33,0,0,1,39.7215
+MWI,Malawi,TA Nsamala,2006,38,38,0,0,1,39.38849999999998
+MWI,Malawi,TA Nthache,2006,33,33,0,0,1,36.6115
+MWI,Malawi,TA Nthalire,2006,36,36,0,0,1,40.61
+MWI,Malawi,TA Nthiramanja,2006,33,33,0,0,1,37.955
+MWI,Malawi,TA Nyambi,2006,33,33,0,0,1,42.183499999999995
+MWI,Malawi,TA Phambala,2006,38,38,0,0,1,39.46949999999998
+MWI,Malawi,TA Santhe,2006,38,38,0,0,1,44.30649999999999
+MWI,Malawi,TA Symon,2006,38,38,0,0,1,35.82249999999999
+MWI,Malawi,TA Tambala,2006,38,38,0,0,1,39.43249999999999
+MWI,Malawi,TA Tengani,2006,9,32,4,0,0,31.97
+MWI,Malawi,TA Wimbe,2006,38,38,0,0,1,41.04099999999999
+MWI,Malawi,TA Zulu,2006,38,38,0,0,1,45.173
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2006,38,38,0,0,1,40.86099999999999
+NAM,Namibia,Anamulenge,2008,15,15,0,0,1,24.726999999999993
+NAM,Namibia,Eenhana,2008,19,19,0,0,1,22.934499999999996
+NAM,Namibia,Endola,2008,16,16,0,0,1,21.895499999999995
+NAM,Namibia,Engela,2008,20,20,0,0,1,20.891
+NAM,Namibia,Engodi,2008,34,34,0,0,1,23.84
+NAM,Namibia,Epembe,2008,27,27,0,0,1,22.65
+NAM,Namibia,Etayi,2008,20,20,0,0,1,21.795499999999993
+NAM,Namibia,Grootfontein,2008,16,16,0,0,1,25.015499999999996
+NAM,Namibia,Guinas,2008,20,20,0,0,1,25.03
+NAM,Namibia,Kahenge,2008,23,23,0,0,1,26.772499999999997
+NAM,Namibia,Kapako,2008,24,24,0,0,1,26.063499999999987
+NAM,Namibia,Mashare,2008,9,9,1,0,0,25.7705
+NAM,Namibia,Mpungu,2008,23,23,0,0,1,26.627999999999993
+NAM,Namibia,Mukwe,2007,18,18,0,0,1,27.54
+NAM,Namibia,Ndiyona,2007,7,7,1,0,0,27.555499999999995
+NAM,Namibia,Ndiyona,2008,9,9,1,0,0,27.555499999999995
+NAM,Namibia,Ogongo,2008,15,15,0,0,1,24.69049999999999
+NAM,Namibia,Ohangwena,2008,17,17,0,0,1,21.1
+NAM,Namibia,Okahao,2008,13,13,0,1,0,22.582499999999996
+NAM,Namibia,Okaku,2008,16,16,0,0,1,24.4315
+NAM,Namibia,Okalongo,2008,17,17,0,0,1,23.1225
+NAM,Namibia,Okankolo,2008,36,36,0,0,1,22.644999999999996
+NAM,Namibia,Okongo,2008,26,26,0,0,1,26.562499999999996
+NAM,Namibia,Omatako,2008,8,8,1,0,0,19.753999999999998
+NAM,Namibia,Omulonga,2008,15,15,0,0,1,22.980999999999998
+NAM,Namibia,Omundaungilo,2008,23,23,0,0,1,24.424
+NAM,Namibia,Omuntele,2008,19,19,0,0,1,23.54
+NAM,Namibia,Omuthiyagwipundi,2008,30,30,0,0,1,18.720499999999998
+NAM,Namibia,Ondangwa,2008,17,17,0,0,1,25.5525
+NAM,Namibia,Ondobe,2008,16,16,0,0,1,22.42
+NAM,Namibia,Onesi,2008,9,9,1,0,0,22.217499999999994
+NAM,Namibia,Ongenga,2008,21,21,0,0,1,20.562499999999996
+NAM,Namibia,Ongwediva,2008,16,16,0,0,1,24.5315
+NAM,Namibia,Oniipa,2008,16,16,0,0,1,25.11
+NAM,Namibia,Onyaanya,2008,21,21,0,0,1,23.95
+NAM,Namibia,Oshikango,2008,16,16,0,0,1,21.895499999999995
+NAM,Namibia,Otamanzi,2008,10,10,0,1,0,24.752
+NAM,Namibia,Otavi,2008,17,17,0,0,1,21.334499999999995
+NAM,Namibia,Outapi,2008,12,12,0,1,0,25.22
+NAM,Namibia,Ruacana,2008,8,8,1,0,0,20.772
+NAM,Namibia,Rundu Rural East,2007,7,7,1,0,0,26.302999999999997
+NAM,Namibia,Rundu Rural East,2008,12,12,0,1,0,26.302999999999997
+NAM,Namibia,Rundu Rural West,2008,11,11,0,1,0,25.2515
+NAM,Namibia,Tsandi,2008,10,10,0,1,0,24.062499999999996
+RWA,Rwanda,Bugesera,2007,12,12,0,1,0,32.97
+RWA,Rwanda,Bugesera,2008,24,24,0,0,1,32.97
+RWA,Rwanda,Burera,2008,14,14,0,0,1,33.82449999999999
+RWA,Rwanda,Gakenke,2007,22,22,0,0,1,39.06
+RWA,Rwanda,Gasabo,2007,17,17,0,0,1,35.97
+RWA,Rwanda,Gasabo,2008,12,12,0,1,0,35.97
+RWA,Rwanda,Gatsibo,2008,35,35,0,0,1,30.5105
+RWA,Rwanda,Gicumbi,2007,19,19,0,0,1,34.253
+RWA,Rwanda,Gicumbi,2008,17,17,0,0,1,34.253
+RWA,Rwanda,Gisagara,2007,7,7,1,0,0,37.33
+RWA,Rwanda,Gisagara,2008,24,24,0,0,1,37.33
+RWA,Rwanda,Huye,2007,14,14,0,0,1,37.321
+RWA,Rwanda,Huye,2008,19,19,0,0,1,37.321
+RWA,Rwanda,Kamonyi,2007,17,17,0,0,1,35.91
+RWA,Rwanda,Kamonyi,2008,14,14,0,0,1,35.91
+RWA,Rwanda,Kayonza,2008,37,37,0,0,1,28.69
+RWA,Rwanda,Kirehe,2007,12,12,0,1,0,31.29849999999999
+RWA,Rwanda,Kirehe,2008,26,26,0,0,1,31.29849999999999
+RWA,Rwanda,Muhanga,2007,19,19,0,0,1,40.006499999999996
+RWA,Rwanda,Muhanga,2008,14,14,0,0,1,40.006499999999996
+RWA,Rwanda,Ngororero,2007,17,25,1,0,1,40.92
+RWA,Rwanda,Nyabihu,2007,8,15,2,0,0,39.59
+RWA,Rwanda,Nyagatare,2008,14,14,0,0,1,31.026499999999995
+RWA,Rwanda,Nyamagabe,2007,25,25,0,0,1,38.07
+RWA,Rwanda,Nyamagabe,2008,12,12,0,1,0,38.07
+RWA,Rwanda,Nyanza,2007,14,14,0,0,1,35.593499999999985
+RWA,Rwanda,Nyanza,2008,24,24,0,0,1,35.593499999999985
+RWA,Rwanda,Nyaruguru,2007,23,23,0,0,1,38.19
+RWA,Rwanda,Nyaruguru,2008,14,14,0,0,1,38.19
+RWA,Rwanda,Ruhango,2007,14,14,0,0,1,36.650999999999996
+RWA,Rwanda,Ruhango,2008,22,22,0,0,1,36.650999999999996
+RWA,Rwanda,Rulindo,2007,19,19,0,0,1,36.30199999999999
+RWA,Rwanda,Rulindo,2008,12,12,0,1,0,36.30199999999999
+RWA,Rwanda,Rwamagana,2008,29,29,0,0,1,33.3135
+SOM,Somalia,Aadan,2007,22,22,0,0,1,10.9705
+SOM,Somalia,Afgooye,2008,14,14,0,0,1,15.461
+SOM,Somalia,Baydhabo,2007,11,20,1,1,0,5.7405
+SOM,Somalia,Buur Xakaba,2008,8,8,1,0,0,8.17
+SOM,Somalia,Jawhar,2007,8,8,1,0,0,11.9
+SOM,Somalia,Kuntuwaaray,2008,22,22,0,0,1,12.0
+SOM,Somalia,Qansax Dheere,2007,7,7,1,0,0,5.52
+SOM,Somalia,Qoryooley,2008,22,22,0,0,1,12.040499999999998
+SOM,Somalia,Sablale,2008,18,18,0,0,1,10.61
+SOM,Somalia,Tiyeeglow,2007,8,8,1,0,0,4.8405
+SOM,Somalia,Wanla Weyn,2007,12,12,0,1,0,9.851499999999998
+SOM,Somalia,Xudur,2007,9,9,1,0,0,5.02
+SSD,South Sudan,Al Renk,2007,24,24,0,0,1,30.3205
+SSD,South Sudan,Aliab,2007,12,12,0,1,0,39.33
+SSD,South Sudan,Aryat,2008,7,7,1,0,0,35.2
+SSD,South Sudan,Aweil,2008,15,15,0,0,1,38.841
+SSD,South Sudan,Fashooda,2007,18,18,0,0,1,32.925
+SSD,South Sudan,Raja,2007,8,8,1,0,0,39.954
+SSD,South Sudan,Raja,2008,11,11,0,1,0,39.954
+SSD,South Sudan,Tonj,2007,7,7,1,0,0,37.653
+SWZ,Swaziland,Gege,2007,17,17,0,0,1,28.77
+SWZ,Swaziland,Gege,2008,17,17,0,0,1,28.77
+SWZ,Swaziland,Hlane,2007,28,28,0,0,1,24.885999999999992
+SWZ,Swaziland,Hlane,2008,9,9,1,0,0,24.885999999999992
+SWZ,Swaziland,Hosea,2007,25,25,0,0,1,24.002999999999997
+SWZ,Swaziland,Hosea,2008,13,13,0,1,0,24.002999999999997
+SWZ,Swaziland,Lobamba Lomdzala,2007,7,7,1,0,0,29.81
+SWZ,Swaziland,Lobamba Lomdzala,2008,30,30,0,0,1,29.81
+SWZ,Swaziland,Lomahasha,2007,31,31,0,0,1,23.42
+SWZ,Swaziland,Lubuli,2007,26,26,0,0,1,21.65
+SWZ,Swaziland,Lubuli,2008,10,10,0,1,0,21.65
+SWZ,Swaziland,Lugongolweni,2007,31,31,0,0,1,22.820999999999998
+SWZ,Swaziland,Madlangempisi,2007,17,17,0,0,1,28.79
+SWZ,Swaziland,Madlangempisi,2008,17,17,0,0,1,28.79
+SWZ,Swaziland,Mahlangatja,2008,28,28,0,0,1,28.230999999999998
+SWZ,Swaziland,Maseyisini,2007,22,22,0,0,1,26.942999999999998
+SWZ,Swaziland,Maseyisini,2008,13,13,0,1,0,26.942999999999998
+SWZ,Swaziland,Matsanjeni North,2007,17,17,0,0,1,22.4115
+SWZ,Swaziland,Matsanjeni North,2008,17,17,0,0,1,22.4115
+SWZ,Swaziland,Mayiwane,2007,11,11,0,1,0,28.8
+SWZ,Swaziland,Mayiwane,2008,25,25,0,0,1,28.8
+SWZ,Swaziland,Mbangweni,2007,17,17,0,0,1,27.28
+SWZ,Swaziland,Mbangweni,2008,13,13,0,1,0,27.28
+SWZ,Swaziland,Mhlangatane,2007,26,26,0,0,1,27.080999999999996
+SWZ,Swaziland,Mhlangatane,2008,9,9,1,0,0,27.080999999999996
+SWZ,Swaziland,Mhlume,2007,34,34,0,0,1,25.005999999999993
+SWZ,Swaziland,Mkhiweni,2007,13,13,0,1,0,28.095499999999983
+SWZ,Swaziland,Mkhiweni,2008,25,25,0,0,1,28.095499999999983
+SWZ,Swaziland,Motjane,2007,9,9,1,0,0,26.36
+SWZ,Swaziland,Motjane,2008,24,24,0,0,1,26.36
+SWZ,Swaziland,Mphalaleni,2007,13,13,0,1,0,29.737999999999992
+SWZ,Swaziland,Mphalaleni,2008,22,22,0,0,1,29.737999999999992
+SWZ,Swaziland,Mpholonjeni,2007,12,12,0,1,0,23.590999999999998
+SWZ,Swaziland,Mpholonjeni,2008,25,25,0,0,1,23.590999999999998
+SWZ,Swaziland,Mtsambama,2007,10,10,0,1,0,27.084499999999995
+SWZ,Swaziland,Mtsambama,2008,25,25,0,0,1,27.084499999999995
+SWZ,Swaziland,Ndzingeni,2007,10,10,0,1,0,30.6615
+SWZ,Swaziland,Ndzingeni,2008,22,22,0,0,1,30.6615
+SWZ,Swaziland,Ngwenpisi,2008,30,30,0,0,1,28.5
+SWZ,Swaziland,Nhlambeni,2008,32,32,0,0,1,27.75
+SWZ,Swaziland,Nkilongo,2007,25,25,0,0,1,21.929999999999993
+SWZ,Swaziland,Nkilongo,2008,13,13,0,1,0,21.929999999999993
+SWZ,Swaziland,Ntfonjeni,2007,9,9,1,0,0,29.25
+SWZ,Swaziland,Ntfonjeni,2008,22,22,0,0,1,29.25
+SWZ,Swaziland,Ntondozi,2008,30,30,0,0,1,28.32
+SWZ,Swaziland,Sandleni,2007,8,8,1,0,0,25.92
+SWZ,Swaziland,Sandleni,2008,18,18,0,0,1,25.92
+SWZ,Swaziland,Shiselweni,2007,24,24,0,0,1,23.67
+SWZ,Swaziland,Shiselweni,2008,10,10,0,1,0,23.67
+SWZ,Swaziland,Sigwe,2007,17,25,1,0,1,22.6225
+SWZ,Swaziland,Sigwe,2008,13,13,0,1,0,22.6225
+SWZ,Swaziland,Siphofaneni,2008,30,30,0,0,1,24.56
+SWZ,Swaziland,Sithobela,2007,15,15,0,0,1,23.864499999999996
+SWZ,Swaziland,Sithobela,2008,23,23,0,0,1,23.864499999999996
+SWZ,Swaziland,Timpisini,2007,10,10,0,1,0,29.76249999999999
+SWZ,Swaziland,Timpisini,2008,28,28,0,0,1,29.76249999999999
+SWZ,Swaziland,Zombodze,2007,17,17,0,0,1,25.46
+SWZ,Swaziland,Zombodze,2008,10,10,0,1,0,25.46
+TZA,Tanzania,Bahi,2006,35,35,0,0,1,38.61
+TZA,Tanzania,Bariadi,2007,21,21,0,0,1,34.25699999999999
+TZA,Tanzania,Biharamulo,2007,15,23,1,0,1,33.97599999999999
+TZA,Tanzania,Bukombe,2007,23,23,0,0,1,37.76799999999998
+TZA,Tanzania,Chamwino,2006,31,31,0,0,1,38.48
+TZA,Tanzania,Chemba,2006,32,32,0,0,1,37.16
+TZA,Tanzania,Chunya,2006,38,38,0,0,1,37.858499999999985
+TZA,Tanzania,Dodoma Urban,2006,26,38,0,1,1,38.46099999999999
+TZA,Tanzania,Gairo,2006,9,9,1,0,0,36.384
+TZA,Tanzania,Hanang,2006,34,34,0,0,1,38.3
+TZA,Tanzania,Handeni,2007,38,38,0,0,1,36.14249999999999
+TZA,Tanzania,Igunga,2006,38,38,0,0,1,39.31749999999998
+TZA,Tanzania,Ikungi,2006,36,36,0,0,1,39.72
+TZA,Tanzania,Iramba,2006,36,36,0,0,1,38.81
+TZA,Tanzania,Iringa Rural,2006,38,38,0,0,1,36.966499999999996
+TZA,Tanzania,Itilima,2007,21,21,0,0,1,35.44349999999999
+TZA,Tanzania,Kahama,2007,18,18,0,0,1,38.591
+TZA,Tanzania,Kahama Town,2008,20,20,0,0,1,38.52
+TZA,Tanzania,Kaliua,2006,38,38,0,0,1,37.818999999999974
+TZA,Tanzania,Karagwe,2008,24,24,0,0,1,29.892
+TZA,Tanzania,Kasulu,2006,38,38,0,0,1,37.98749999999999
+TZA,Tanzania,Kilindi,2007,36,36,0,0,1,35.120999999999995
+TZA,Tanzania,Kilolo,2006,21,21,0,0,1,35.080999999999996
+TZA,Tanzania,Kilolo,2007,8,8,1,0,0,35.080999999999996
+TZA,Tanzania,Kilombero,2007,17,17,0,0,1,36.41599999999998
+TZA,Tanzania,Kilosa,2007,12,12,0,1,0,34.51
+TZA,Tanzania,Kishapu,2007,23,23,0,0,1,39.39849999999999
+TZA,Tanzania,Kiteto,2006,24,24,0,0,1,37.74
+TZA,Tanzania,Kondoa,2006,32,32,0,0,1,37.91
+TZA,Tanzania,Kongwa,2006,29,29,0,0,1,37.99
+TZA,Tanzania,Korogwe,2007,37,37,0,0,1,33.65
+TZA,Tanzania,Kwimba,2007,23,23,0,0,1,38.99799999999998
+TZA,Tanzania,Manyoni,2006,38,38,0,0,1,38.07849999999999
+TZA,Tanzania,Masasi,2006,21,29,1,0,1,39.0805
+TZA,Tanzania,Masasi Town,2006,22,30,1,0,1,38.91
+TZA,Tanzania,Maswa,2007,23,23,0,0,1,40.09099999999999
+TZA,Tanzania,Mbarali,2006,36,36,0,0,1,39.3305
+TZA,Tanzania,Mbeya Rural,2006,38,38,0,0,1,39.276999999999994
+TZA,Tanzania,Mbogwe,2008,17,17,0,0,1,38.170500000000004
+TZA,Tanzania,Mbozi,2006,38,38,0,0,1,39.64149999999999
+TZA,Tanzania,Meatu,2007,19,19,0,0,1,35.19199999999999
+TZA,Tanzania,Misungwi,2007,23,23,0,0,1,35.91799999999999
+TZA,Tanzania,Mkalama,2006,34,34,0,0,1,33.97
+TZA,Tanzania,Mlele,2006,24,24,0,0,1,38.200999999999986
+TZA,Tanzania,Mlele,2007,14,14,0,0,1,38.200999999999986
+TZA,Tanzania,Momba,2006,38,38,0,0,1,38.648999999999994
+TZA,Tanzania,Monduli,2007,19,19,0,0,1,28.61
+TZA,Tanzania,Moshi Rural,2007,17,17,0,0,1,31.252999999999997
+TZA,Tanzania,Moshi Rural,2008,17,17,0,0,1,31.252999999999997
+TZA,Tanzania,Mpanda Urban,2006,19,19,0,0,1,37.0
+TZA,Tanzania,Mpanda Urban,2007,17,17,0,0,1,37.0
+TZA,Tanzania,Mpwapwa,2006,26,38,0,1,1,34.520500000000006
+TZA,Tanzania,Nachingwea,2006,19,38,1,1,1,39.361
+TZA,Tanzania,Namtumbo,2006,34,34,0,0,1,40.5315
+TZA,Tanzania,Nanyumbu,2006,17,25,1,0,1,38.73
+TZA,Tanzania,Newala,2006,22,22,0,0,1,38.05
+TZA,Tanzania,Nyang'hwale,2007,11,11,0,1,0,39.3
+TZA,Tanzania,Nyang'hwale,2008,10,10,0,1,0,39.3
+TZA,Tanzania,Nzega,2006,38,38,0,0,1,39.26799999999998
+TZA,Tanzania,Serengeti,2007,19,19,0,0,1,29.898999999999994
+TZA,Tanzania,Shinyanga Rural,2007,16,16,0,0,1,40.144
+TZA,Tanzania,Shinyanga Rural,2008,7,7,1,0,0,40.144
+TZA,Tanzania,Shinyanga Urban,2007,21,21,0,0,1,38.5025
+TZA,Tanzania,Sikonge,2006,38,38,0,0,1,40.13299999999998
+TZA,Tanzania,Simanjiro,2006,24,24,0,0,1,32.41
+TZA,Tanzania,Singida Rural,2006,36,36,0,0,1,37.641999999999996
+TZA,Tanzania,Singida Urban,2006,36,36,0,0,1,37.043
+TZA,Tanzania,Sumbawanga Urban,2006,33,33,0,0,1,37.561
+TZA,Tanzania,Tabora,2006,38,38,0,0,1,39.348999999999975
+TZA,Tanzania,Tarime,2007,19,19,0,0,1,29.08
+TZA,Tanzania,Tunduru,2006,26,38,0,1,1,39.0305
+TZA,Tanzania,Ulanga,2006,13,13,0,1,0,37.04
+TZA,Tanzania,Ulanga,2007,13,13,0,1,0,37.04
+TZA,Tanzania,Urambo,2006,38,38,0,0,1,37.91849999999997
+TZA,Tanzania,Uyui,2006,38,38,0,0,1,39.567999999999984
+TZA,Tanzania,Wanging'ombe,2006,31,38,1,0,1,39.98599999999999
+UGA,Uganda,Bukanga,2008,38,38,0,0,1,30.310499999999998
+UGA,Uganda,Kooki,2008,37,37,0,0,1,32.788999999999994
+UGA,Uganda,Mawokota,2008,10,10,0,1,0,33.45
+UGA,Uganda,Ndorwa,2008,7,7,1,0,0,31.38
+ZAF,South Africa,Bojanala,2007,26,26,0,0,1,24.4105
+ZAF,South Africa,Capricorn,2007,8,8,1,0,0,19.52
+ZAF,South Africa,Capricorn,2008,23,23,0,0,1,19.52
+ZAF,South Africa,Chris Hani,2007,10,17,1,1,0,19.0515
+ZAF,South Africa,Dr Kenneth Kaunda,2008,11,11,0,1,0,25.6605
+ZAF,South Africa,Dr Ruth Segomotsi Mompati,2007,14,14,0,0,1,20.49
+ZAF,South Africa,Ehlanzeni,2008,30,30,0,0,1,24.9805
+ZAF,South Africa,Ekurhuleni,2007,27,27,0,0,1,23.08
+ZAF,South Africa,Fezile Dabi,2008,18,18,0,0,1,25.4805
+ZAF,South Africa,Frances Baard,2007,24,24,0,0,1,15.261
+ZAF,South Africa,Frances Baard,2008,9,9,1,0,0,15.261
+ZAF,South Africa,Gert Sibande,2007,17,17,0,0,1,27.5005
+ZAF,South Africa,Gert Sibande,2008,12,12,0,1,0,27.5005
+ZAF,South Africa,Lejweleputswa,2007,8,15,2,0,0,22.0505
+ZAF,South Africa,Mangaung,2008,7,7,1,0,0,19.1005
+ZAF,South Africa,Mopani,2007,37,37,0,0,1,23.51
+ZAF,South Africa,Ngaka Modiri Molema,2007,12,12,0,1,0,24.542999999999996
+ZAF,South Africa,Nkangala,2007,29,29,0,0,1,27.35
+ZAF,South Africa,Sekhukhune,2007,29,37,1,0,1,22.34
+ZAF,South Africa,Sisonke,2007,22,22,0,0,1,30.46199999999999
+ZAF,South Africa,Sisonke,2008,16,16,0,0,1,30.46199999999999
+ZAF,South Africa,Thabo Mofutsanyane,2007,7,7,1,0,0,25.91
+ZAF,South Africa,Thabo Mofutsanyane,2008,9,9,1,0,0,25.91
+ZAF,South Africa,Umgungundlovu,2007,22,22,0,0,1,30.71
+ZAF,South Africa,Umgungundlovu,2008,10,10,0,1,0,30.71
+ZAF,South Africa,Uthukela,2007,20,32,0,1,1,27.22
+ZAF,South Africa,Vhembe,2007,38,38,0,0,1,17.3415
+ZAF,South Africa,Waterberg,2007,27,27,0,0,1,23.310499999999998
+ZAF,South Africa,Waterberg,2008,10,10,0,1,0,23.310499999999998
+ZAF,South Africa,West Rand,2007,9,9,1,0,0,22.093499999999995
+ZAF,South Africa,Zululand,2007,38,38,0,0,1,24.52399999999999
+ZMB,Zambia,Chadiza,2006,38,38,0,0,1,40.94699999999999
+ZMB,Zambia,Chama,2006,38,38,0,0,1,40.571
+ZMB,Zambia,Chasefu,2006,24,34,0,1,1,42.51
+ZMB,Zambia,Chibombo,2006,18,18,0,0,1,37.9005
+ZMB,Zambia,Chikankanta,2006,15,15,0,0,1,34.07
+ZMB,Zambia,Chikankanta,2007,22,22,0,0,1,34.07
+ZMB,Zambia,Chilanga,2006,12,12,0,1,0,35.762499999999996
+ZMB,Zambia,Chilanga,2007,21,21,0,0,1,35.762499999999996
+ZMB,Zambia,Chinsali,2006,16,16,0,0,1,40.19299999999997
+ZMB,Zambia,Chipangali,2006,38,38,0,0,1,42.62649999999999
+ZMB,Zambia,Chipata,2006,38,38,0,0,1,42.33549999999999
+ZMB,Zambia,Chirundu,2006,11,11,0,1,0,31.202499999999997
+ZMB,Zambia,Chirundu,2007,27,27,0,0,1,31.202499999999997
+ZMB,Zambia,Chisamba,2006,21,21,0,0,1,38.61
+ZMB,Zambia,Chitambo,2006,29,29,0,0,1,38.68349999999999
+ZMB,Zambia,Choma,2006,17,17,0,0,1,36.463499999999996
+ZMB,Zambia,Choma,2007,21,21,0,0,1,36.463499999999996
+ZMB,Zambia,Chongwe,2006,23,38,0,0,2,35.524499999999996
+ZMB,Zambia,Gwembe,2006,11,11,0,1,0,32.03
+ZMB,Zambia,Gwembe,2007,26,26,0,0,1,32.03
+ZMB,Zambia,Isoka,2006,16,16,0,0,1,42.44249999999999
+ZMB,Zambia,Itezhi-tezhi,2006,23,23,0,0,1,37.22
+ZMB,Zambia,Kabompo,2006,16,16,0,0,1,36.98749999999999
+ZMB,Zambia,Kabwe,2006,21,21,0,0,1,40.11449999999999
+ZMB,Zambia,Kafue,2006,7,7,1,0,0,34.58449999999999
+ZMB,Zambia,Kafue,2007,31,31,0,0,1,34.58449999999999
+ZMB,Zambia,Kalomo,2006,18,18,0,0,1,37.60699999999999
+ZMB,Zambia,Kalomo,2007,20,20,0,0,1,37.60699999999999
+ZMB,Zambia,Kalulushi,2006,29,29,0,0,1,38.19699999999999
+ZMB,Zambia,Kanchibiya,2006,16,16,0,0,1,42.10749999999999
+ZMB,Zambia,Kaoma,2006,20,20,0,0,1,35.66
+ZMB,Zambia,Kapiri Mposhi,2006,23,23,0,0,1,39.74
+ZMB,Zambia,Kasama,2006,16,16,0,0,1,42.857499999999995
+ZMB,Zambia,Kasempa,2006,16,16,0,0,1,38.69
+ZMB,Zambia,Kasenengwa,2006,38,38,0,0,1,41.69899999999999
+ZMB,Zambia,Katete,2006,38,38,0,0,1,40.56199999999998
+ZMB,Zambia,Kazungula,2007,27,27,0,0,1,36.971
+ZMB,Zambia,Kitwe,2006,29,29,0,0,1,38.690999999999995
+ZMB,Zambia,Luano,2006,29,29,0,0,1,36.0925
+ZMB,Zambia,Luanshya,2006,29,29,0,0,1,39.037499999999994
+ZMB,Zambia,Lufwanyama,2006,29,29,0,0,1,37.942499999999995
+ZMB,Zambia,Lumezi,2006,38,38,0,0,1,40.940999999999995
+ZMB,Zambia,Lundazi,2006,38,38,0,0,1,42.94449999999999
+ZMB,Zambia,Mafinga,2006,16,16,0,0,1,41.2825
+ZMB,Zambia,Mambwe,2006,23,32,1,0,1,40.0945
+ZMB,Zambia,Mansa,2006,16,16,0,0,1,39.6065
+ZMB,Zambia,Manyinga,2006,16,16,0,0,1,41.15
+ZMB,Zambia,Masaiti,2006,23,23,0,0,1,40.22
+ZMB,Zambia,Mazabuka,2007,17,17,0,0,1,37.291
+ZMB,Zambia,Mkushi,2006,25,25,0,0,1,39.63
+ZMB,Zambia,Monze,2007,28,28,0,0,1,35.602
+ZMB,Zambia,Mpika,2006,16,16,0,0,1,41.231999999999985
+ZMB,Zambia,Mpongwe,2006,29,29,0,0,1,40.620999999999995
+ZMB,Zambia,Mufumbwe,2006,16,16,0,0,1,39.263999999999996
+ZMB,Zambia,Mumbwa,2006,25,25,0,0,1,39.51499999999999
+ZMB,Zambia,Mungwi,2006,16,16,0,0,1,42.834999999999994
+ZMB,Zambia,Nakonde,2006,16,16,0,0,1,44.40149999999999
+ZMB,Zambia,Namwala,2006,11,11,0,1,0,35.6105
+ZMB,Zambia,Namwala,2007,12,12,0,1,0,35.6105
+ZMB,Zambia,Ndola,2006,25,25,0,0,1,39.31
+ZMB,Zambia,Nkeyema,2006,20,20,0,0,1,39.12
+ZMB,Zambia,Nyimba,2006,33,33,0,0,1,34.6615
+ZMB,Zambia,Pemba,2006,17,17,0,0,1,36.3155
+ZMB,Zambia,Pemba,2007,21,21,0,0,1,36.3155
+ZMB,Zambia,Petauke,2006,38,38,0,0,1,39.187499999999986
+ZMB,Zambia,Rufunsa,2006,20,20,0,0,1,32.71
+ZMB,Zambia,Rufunsa,2007,15,15,0,0,1,32.71
+ZMB,Zambia,Senga Hill,2006,16,16,0,0,1,41.7505
+ZMB,Zambia,Serenje,2006,25,25,0,0,1,39.63
+ZMB,Zambia,Shibuyunji,2007,23,23,0,0,1,39.29
+ZMB,Zambia,Siavonga,2006,7,7,1,0,0,28.514999999999997
+ZMB,Zambia,Siavonga,2007,31,31,0,0,1,28.514999999999997
+ZMB,Zambia,Sinazongwe,2007,34,34,0,0,1,30.9115
+ZMB,Zambia,Sinda,2006,38,38,0,0,1,39.61099999999997
+ZMB,Zambia,Solwezi,2006,16,16,0,0,1,37.68
+ZMB,Zambia,Vubwi,2006,38,38,0,0,1,43.422499999999985
+ZMB,Zambia,Zambezi,2006,16,16,0,0,1,35.897499999999994
+ZMB,Zambia,Zimba,2007,34,34,0,0,1,33.971999999999994
+ZWE,Zimbabwe,Bikita,2007,38,38,0,0,1,28.3915
+ZWE,Zimbabwe,Bindura,2006,23,37,0,0,2,37.01
+ZWE,Zimbabwe,Binga,2007,35,35,0,0,1,29.2215
+ZWE,Zimbabwe,Buhera,2007,36,36,0,0,1,28.82
+ZWE,Zimbabwe,Bulilima,2007,31,31,0,0,1,28.590999999999998
+ZWE,Zimbabwe,Centenary/ Muzarabani,2006,38,38,0,0,1,34.59249999999999
+ZWE,Zimbabwe,Chegutu,2007,35,35,0,0,1,32.75
+ZWE,Zimbabwe,Chikomba,2007,37,37,0,0,1,32.26
+ZWE,Zimbabwe,Chipinge,2007,38,38,0,0,1,28.732499999999998
+ZWE,Zimbabwe,Chiredzi,2007,38,38,0,0,1,25.232499999999998
+ZWE,Zimbabwe,Chirumhanzu,2007,38,38,0,0,1,31.192999999999987
+ZWE,Zimbabwe,Chivi,2007,38,38,0,0,1,27.20999999999999
+ZWE,Zimbabwe,Gokwe North,2006,9,9,1,0,0,32.7455
+ZWE,Zimbabwe,Gokwe North,2007,29,29,0,0,1,32.7455
+ZWE,Zimbabwe,Gokwe South,2007,35,35,0,0,1,31.092999999999996
+ZWE,Zimbabwe,Goromonzi,2006,8,8,1,0,0,33.99
+ZWE,Zimbabwe,Goromonzi,2007,24,24,0,0,1,33.99
+ZWE,Zimbabwe,Guruve,2006,38,38,0,0,1,38.48749999999999
+ZWE,Zimbabwe,Gutu,2007,38,38,0,0,1,29.454999999999995
+ZWE,Zimbabwe,Gwanda,2007,33,33,0,0,1,22.56
+ZWE,Zimbabwe,Gweru,2007,38,38,0,0,1,30.336499999999987
+ZWE,Zimbabwe,Hurungwe,2006,15,15,0,0,1,32.270500000000006
+ZWE,Zimbabwe,Hurungwe,2007,23,23,0,0,1,32.270500000000006
+ZWE,Zimbabwe,Hwange,2007,34,34,0,0,1,32.833499999999994
+ZWE,Zimbabwe,Insiza,2007,38,38,0,0,1,29.017999999999994
+ZWE,Zimbabwe,Kwekwe,2007,34,34,0,0,1,30.891
+ZWE,Zimbabwe,Lupane,2007,33,33,0,0,1,30.5705
+ZWE,Zimbabwe,Makonde,2006,33,33,0,0,1,35.4
+ZWE,Zimbabwe,Makoni,2006,10,17,1,1,0,31.004999999999995
+ZWE,Zimbabwe,Makoni,2007,18,18,0,0,1,31.004999999999995
+ZWE,Zimbabwe,Mangwe,2007,27,27,0,0,1,24.520999999999997
+ZWE,Zimbabwe,Mangwe,2008,7,7,1,0,0,24.520999999999997
+ZWE,Zimbabwe,Marondera,2007,37,37,0,0,1,31.76
+ZWE,Zimbabwe,Masvingo,2007,38,38,0,0,1,28.855499999999985
+ZWE,Zimbabwe,Matobo,2007,24,24,0,0,1,24.220499999999998
+ZWE,Zimbabwe,Mazowe,2006,38,38,0,0,1,35.456499999999984
+ZWE,Zimbabwe,Mberengwa,2007,38,38,0,0,1,26.066999999999993
+ZWE,Zimbabwe,Mhondoro-Ngezi,2007,38,38,0,0,1,33.043
+ZWE,Zimbabwe,Mount Darwin,2006,38,38,0,0,1,33.3715
+ZWE,Zimbabwe,Mudzi,2006,25,34,1,0,1,29.403999999999996
+ZWE,Zimbabwe,Murehwa,2006,15,32,1,1,1,33.973499999999994
+ZWE,Zimbabwe,Mutare,2007,37,37,0,0,1,28.6715
+ZWE,Zimbabwe,Mutoko,2006,28,38,0,1,1,31.489499999999992
+ZWE,Zimbabwe,Mwenezi,2007,37,37,0,0,1,25.89
+ZWE,Zimbabwe,Nkayi,2007,22,22,0,0,1,30.651999999999997
+ZWE,Zimbabwe,Nkayi,2008,13,13,0,1,0,30.651999999999997
+ZWE,Zimbabwe,Nyanga,2006,21,32,0,1,1,30.98
+ZWE,Zimbabwe,Rushinga,2006,23,32,1,0,1,29.6805
+ZWE,Zimbabwe,Sanyati,2007,36,36,0,0,1,33.18
+ZWE,Zimbabwe,Seke,2007,38,38,0,0,1,31.500999999999987
+ZWE,Zimbabwe,Shamva,2006,28,35,1,0,1,34.8835
+ZWE,Zimbabwe,Shurugwi,2007,37,37,0,0,1,30.93
+ZWE,Zimbabwe,Uzumba Maramba Pfungwe,2006,27,27,0,0,1,31.8905
+ZWE,Zimbabwe,Zaka,2007,37,37,0,0,1,30.24
+ZWE,Zimbabwe,Zvimba,2006,23,23,0,0,1,34.921
+ZWE,Zimbabwe,Zvimba,2007,7,7,1,0,0,34.921
+ZWE,Zimbabwe,Zvishavane,2007,38,38,0,0,1,27.113999999999997

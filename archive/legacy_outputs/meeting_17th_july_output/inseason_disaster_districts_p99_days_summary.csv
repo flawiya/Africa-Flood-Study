@@ -1,0 +1,23 @@
+Country,District,Disaster Year,In-Season Crop Calendar,Per-District P99 Threshold,Date Range of SWI >= P99,Raw Days SWI >= P99,Days in >=7-Day Streaks (Option 1 Trigger),Peak In-Season SWI (%),Historical Context
+Nigeria,Makurdi,2012,DOY 197.0–305.0,95.8%,None,0,0,91.3%,Riverine overflow & Benue confluence flood
+Nigeria,Makurdi,2017,DOY 197.0–305.0,95.8%,None,0,0,95.7%,Riverine overflow & Benue confluence flood
+Nigeria,Makurdi,2022,DOY 197.0–305.0,95.8%,None,0,0,95.0%,Riverine overflow & Benue confluence flood
+Nigeria,Agatu,2012,DOY 197.0–305.0,93.4%,None,0,0,93.3%,Niger-Benue river overflow submerged maize
+Nigeria,Agatu,2017,DOY 197.0–305.0,93.4%,None,0,0,92.6%,Niger-Benue river overflow submerged maize
+Nigeria,Agatu,2022,DOY 197.0–305.0,93.4%,None,0,0,83.7%,Niger-Benue river overflow submerged maize
+Malawi,TA Tengani,2015,DOY 319.0–135.0,82.5%,None,0,0,68.3%,Cyclone Idai / Freddy / Bansi lower Shire floods
+Malawi,TA Tengani,2019,DOY 319.0–135.0,82.5%,None,0,0,77.3%,Cyclone Idai / Freddy / Bansi lower Shire floods
+Malawi,TA Tengani,2023,DOY 319.0–135.0,82.5%,None,0,0,78.9%,Cyclone Idai / Freddy / Bansi lower Shire floods
+Malawi,TA Chapananga,2015,DOY 319.0–135.0,80.7%,None,0,0,75.9%,Lower Shire valley standing water and root rot
+Malawi,TA Chapananga,2019,DOY 319.0–135.0,80.7%,None,0,0,72.0%,Lower Shire valley standing water and root rot
+Malawi,TA Chapananga,2023,DOY 319.0–135.0,80.7%,None,0,0,77.8%,Lower Shire valley standing water and root rot
+Kenya,Budalangi,2020,DOY 91.0–274.0,65.8%,Apr 01 – May 03,5,0,67.2%,Lake Victoria backflow & Nzoia River burst
+Kenya,Budalangi,2024,DOY 91.0–274.0,65.8%,Apr 11 – May 06,16,0,70.8%,Lake Victoria backflow & Nzoia River burst
+Kenya,Nyando,2020,DOY 91.0–274.0,92.3%,None,0,0,90.8%,Long rains flood during maize silking stage
+Zambia,Namwala,2022,DOY 305.0–60.0,88.6%,None,0,0,75.3%,La Niña rains submerged Maize Belt
+Zambia,Namwala,2023,DOY 305.0–60.0,88.6%,None,0,0,83.4%,La Niña rains submerged Maize Belt
+Zambia,Monze,2022,DOY 305.0–60.0,87.3%,None,0,0,83.3%,La Niña heavy rainfall drowned young maize
+Zambia,Monze,2023,DOY 305.0–60.0,87.3%,None,0,0,84.7%,La Niña heavy rainfall drowned young maize
+South Sudan,Bahr al Jabal,2019,DOY 213.0–335.0,91.6%,Oct 14 – Nov 05,9,0,93.9%,Catastrophic multi-month Sudd wetlands standing water
+South Sudan,Bahr al Jabal,2020,DOY 213.0–335.0,91.6%,Oct 24 – Oct 27,2,0,92.1%,Catastrophic multi-month Sudd wetlands standing water
+South Sudan,Bahr al Jabal,2021,DOY 213.0–335.0,91.6%,None,0,0,85.5%,Catastrophic multi-month Sudd wetlands standing water

@@ -1,0 +1,19 @@
+REFERENCES
+
+1. Albergel, C., Rüdiger, C., Pellarin, L., Calvet, J. C., Fritz, N., Froissard, F., ... & Martin, E. (2008). From near-surface to root-zone soil moisture using an exponential filter: an assessment of the algorithm distance-to-land. Hydrology and Earth System Sciences, 12(6), 1323-1337.
+
+2. Brocca, L., Hasenauer, S., Lacava, T., Melone, F., Moramarco, T., Wagner, W., ... & Bittelli, M. (2010). Soil moisture estimation through ASCAT and AMSR-E sensors: An intercomparison and validation study across Europe. Remote Sensing of Environment, 114(11), 2542-2555.
+
+3. Cammalleri, C., Vogt, J. V., & Salamon, P. (2016). Development of a combined drought indicator for agricultural monitoring in Europe. Natural Hazards and Earth System Sciences, 16(6), 1399-1413.
+
+4. Copernicus Global Land Service (CGLS). (2021). Product User Manual: Soil Water Index (SWI) 1km Version 3. European Commission Joint Research Centre (JRC).
+
+5. Farahmand, A., & AghaKouchak, A. (2015). A generalized framework for deriving nonparametric standardized drought indicators. Advances in Water Resources, 76, 140-145.
+
+6. Hao, Z., & AghaKouchak, A. (2013). Multivariate Standardized Drought Index: A multi-index approach for complementary drought and flood monitoring. Environmental Research Letters, 8(3), 034030.
+
+7. Kauffeldt, A., Wetterhall, F., Pappenberger, F., Salamon, P., & Thielen, J. (2016). Technical review of large-scale hydrological models for implementation in operational flood forecasting. Hydrological Processes, 30(16), 2820-2835.
+
+8. Ren, B., Zhang, J., Dong, S., Liu, P., & Zhao, B. (2014). Effects of waterlogging on leaf photosynthetic characteristics and grain yield of summer maize at different growth stages. Agricultural Water Management, 144, 134-143.
+
+9. Wagner, W., Lemoine, G., & Stoffelen, A. (1999). A method for estimating soil moisture from ERS scatterometer and soil data. Remote Sensing of Environment, 70(2), 191-207.

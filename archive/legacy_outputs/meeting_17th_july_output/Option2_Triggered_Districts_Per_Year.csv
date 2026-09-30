@@ -1,0 +1,2925 @@
+ISO3,COUNTRY,ADM_NAME,crop_year,flood_days_7plus
+AGO,Angola,Amboim,2008,18
+AGO,Angola,Ebo,2008,10
+AGO,Angola,Quibala,2008,15
+AGO,Angola,Seles,2008,8
+AGO,Angola,Waku Kungo,2008,15
+COD,Democratic Republic of the Congo,Sakania,2008,17
+GHA,Ghana,Pru East,2008,8
+MWI,Malawi,Blantyre City,2008,24
+MWI,Malawi,Lilongwe City,2008,16
+MWI,Malawi,Mwanza Boma,2008,7
+MWI,Malawi,Ntchisi Boma,2008,19
+MWI,Malawi,Rumphi Boma,2008,16
+MWI,Malawi,SC Chakhaza,2008,8
+MWI,Malawi,SC Chamba,2008,42
+MWI,Malawi,SC Chikweo,2008,20
+MWI,Malawi,SC Chilikumwendo,2008,19
+MWI,Malawi,SC Chilooko,2008,19
+MWI,Malawi,SC Chilowamatambe,2008,8
+MWI,Malawi,SC Chitekwele,2008,21
+MWI,Malawi,SC Chiwalo,2008,36
+MWI,Malawi,SC Chowe,2008,26
+MWI,Malawi,SC Goodson Ganya,2008,31
+MWI,Malawi,SC Juma,2008,25
+MWI,Malawi,SC Kamenya Gwaza,2008,18
+MWI,Malawi,SC M'nyanja,2008,12
+MWI,Malawi,SC Makwangwala,2008,24
+MWI,Malawi,SC Mbiza,2008,25
+MWI,Malawi,SC Mbwana Nyambi,2008,34
+MWI,Malawi,SC Mkukula,2008,22
+MWI,Malawi,SC Mlomba,2008,36
+MWI,Malawi,SC Mponela,2008,13
+MWI,Malawi,SC Mposa,2008,38
+MWI,Malawi,SC Mtema,2008,14
+MWI,Malawi,SC Namabvi,2008,35
+MWI,Malawi,SC Ngokwe,2008,17
+MWI,Malawi,SC Njewa,2008,15
+MWI,Malawi,SC Simlemba,2008,14
+MWI,Malawi,SC Sitola,2008,26
+MWI,Malawi,TA Bvumbwe,2008,40
+MWI,Malawi,TA Chadza,2008,19
+MWI,Malawi,TA Chigaru,2008,7
+MWI,Malawi,TA Chikowi,2008,25
+MWI,Malawi,TA Chikulamayembe,2008,16
+MWI,Malawi,TA Chikumbu,2008,37
+MWI,Malawi,TA Chimaliro,2008,38
+MWI,Malawi,TA Chimutu,2008,22
+MWI,Malawi,TA Chimwala,2008,29
+MWI,Malawi,TA Chindi,2008,19
+MWI,Malawi,TA Chiseka,2008,19
+MWI,Malawi,TA Chitera,2008,26
+MWI,Malawi,TA Chitukula,2008,16
+MWI,Malawi,TA Chiwere,2008,22
+MWI,Malawi,TA Chulu,2008,9
+MWI,Malawi,TA Dzoole,2008,13
+MWI,Malawi,TA Jalasi,2008,33
+MWI,Malawi,TA Kabudula,2008,7
+MWI,Malawi,TA Kachindamoto,2008,25
+MWI,Malawi,TA Kadewere,2008,25
+MWI,Malawi,TA Kalembo,2008,25
+MWI,Malawi,TA Kalolo,2008,7
+MWI,Malawi,TA Kaluluma,2008,9
+MWI,Malawi,TA Kalumba,2008,17
+MWI,Malawi,TA Kalumbu,2008,21
+MWI,Malawi,TA Kalumo,2008,17
+MWI,Malawi,TA Kanduku,2008,7
+MWI,Malawi,TA Kapelula,2008,7
+MWI,Malawi,TA Kapeni,2008,24
+MWI,Malawi,TA Kaphuka,2008,21
+MWI,Malawi,TA Kasumbu,2008,31
+MWI,Malawi,TA Katuli,2008,35
+MWI,Malawi,TA Kawinga,2008,28
+MWI,Malawi,TA Kuntaja,2008,7
+MWI,Malawi,TA Kuntumanji,2008,32
+MWI,Malawi,TA Likoswe,2008,24
+MWI,Malawi,TA Liwonde,2008,38
+MWI,Malawi,TA Lundu,2008,7
+MWI,Malawi,TA M'Mbelwa,2008,10
+MWI,Malawi,TA Mabuka,2008,39
+MWI,Malawi,TA Mabulabo,2008,9
+MWI,Malawi,TA Machinjili,2008,24
+MWI,Malawi,TA Makata,2008,25
+MWI,Malawi,TA Malemia,2008,11
+MWI,Malawi,TA Malili,2008,15
+MWI,Malawi,TA Masasa,2008,32
+MWI,Malawi,TA Mazengera,2008,22
+MWI,Malawi,TA Mkhumba,2008,28
+MWI,Malawi,TA Mlumbe,2008,25
+MWI,Malawi,TA Mpama,2008,24
+MWI,Malawi,TA Mpando,2008,21
+MWI,Malawi,TA Mpherembe,2008,15
+MWI,Malawi,TA Mponda,2008,20
+MWI,Malawi,TA Msakambewa,2008,22
+MWI,Malawi,TA Mwambo,2008,24
+MWI,Malawi,TA Mzukuzuku,2008,22
+MWI,Malawi,TA Nazombe,2008,28
+MWI,Malawi,TA Nchema,2008,25
+MWI,Malawi,TA Njolomole,2008,21
+MWI,Malawi,TA Nkalo,2008,26
+MWI,Malawi,TA Nkanda,2008,27
+MWI,Malawi,TA Nsamala,2008,24
+MWI,Malawi,TA Nthache,2008,7
+MWI,Malawi,TA Nthiramanja,2008,29
+MWI,Malawi,TA Nyambi,2008,29
+MWI,Malawi,TA Pemba,2008,25
+MWI,Malawi,TA Phambala,2008,24
+MWI,Malawi,TA Tambala,2008,21
+MWI,Malawi,TA Wimbe,2008,16
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2008,25
+MOZ,Mozambique,Angónia,2008,13
+MOZ,Mozambique,Cuamba,2008,20
+MOZ,Mozambique,Gurue,2008,21
+MOZ,Mozambique,Lichinga,2008,12
+MOZ,Mozambique,Macanga,2008,15
+MOZ,Mozambique,Malema,2008,13
+MOZ,Mozambique,Mecanhelas,2008,13
+MOZ,Mozambique,Milange,2008,25
+MOZ,Mozambique,Muembe,2008,13
+MOZ,Mozambique,N'gauma,2008,34
+MOZ,Mozambique,Sanga,2008,9
+MOZ,Mozambique,Tsangano,2008,13
+NGA,Nigeria,Edu,2008,42
+NGA,Nigeria,Pategi,2008,15
+SSD,South Sudan,Aryat,2008,20
+SSD,South Sudan,Aweil,2008,8
+TZA,Tanzania,Kilombero,2008,7
+UGA,Uganda,Bugangaizi,2008,17
+UGA,Uganda,Buwekula,2008,16
+UGA,Uganda,Buyanja,2008,14
+UGA,Uganda,Kassanda,2008,18
+UGA,Uganda,Katikamu,2008,19
+UGA,Uganda,Kiboga,2008,20
+UGA,Uganda,Kyaka,2008,14
+UGA,Uganda,Nakaseke,2008,20
+ZMB,Zambia,Chibombo,2008,29
+ZMB,Zambia,Chikankanta,2008,11
+ZMB,Zambia,Chisamba,2008,39
+ZMB,Zambia,Chitambo,2008,28
+ZMB,Zambia,Choma,2008,37
+ZMB,Zambia,Itezhi-tezhi,2008,23
+ZMB,Zambia,Kabwe,2008,41
+ZMB,Zambia,Kalomo,2008,38
+ZMB,Zambia,Kapiri Mposhi,2008,16
+ZMB,Zambia,Kazungula,2008,39
+ZMB,Zambia,Mazabuka,2008,21
+ZMB,Zambia,Monze,2008,32
+ZMB,Zambia,Mufumbwe,2008,12
+ZMB,Zambia,Mumbwa,2008,34
+ZMB,Zambia,Namwala,2008,24
+ZMB,Zambia,Pemba,2008,38
+ZMB,Zambia,Serenje,2008,12
+ZMB,Zambia,Shibuyunji,2008,31
+ZMB,Zambia,Zimba,2008,35
+ZWE,Zimbabwe,Chegutu,2008,26
+ZWE,Zimbabwe,Chikomba,2008,15
+ZWE,Zimbabwe,Goromonzi,2008,7
+ZWE,Zimbabwe,Makonde,2008,13
+ZWE,Zimbabwe,Mhondoro-Ngezi,2008,13
+ZWE,Zimbabwe,Sanyati,2008,28
+ZWE,Zimbabwe,Zvimba,2008,9
+CAF,Central African Republic,Birao,2009,24
+MWI,Malawi,SC Chamba,2009,14
+MWI,Malawi,SC Chikweo,2009,12
+MWI,Malawi,SC Chilikumwendo,2009,12
+MWI,Malawi,SC Mkukula,2009,7
+MWI,Malawi,SC Mlomba,2009,13
+MWI,Malawi,SC Mposa,2009,13
+MWI,Malawi,TA Chadza,2009,8
+MWI,Malawi,TA Chimutu,2009,7
+MWI,Malawi,TA Chiseka,2009,10
+MWI,Malawi,TA Kalumbu,2009,9
+MWI,Malawi,TA Kawinga,2009,9
+MWI,Malawi,TA Mazengera,2009,7
+MWI,Malawi,TA Mlumbe,2009,7
+MWI,Malawi,TA Pemba,2009,10
+MOZ,Mozambique,Gurue,2009,8
+NAM,Namibia,Ondangwa,2009,10
+CAF,Central African Republic,Kaga-Bandoro,2010,11
+ETH,Ethiopia,Gamo Gofa,2010,8
+GHA,Ghana,Sekyere Central,2010,26
+GNB,Guinea-Bissau,Piche,2010,11
+GNB,Guinea-Bissau,Pirada,2010,10
+KEN,Kenya,Ol Jorok,2010,7
+MWI,Malawi,SC Namabvi,2010,9
+MWI,Malawi,TA Jalasi,2010,7
+MWI,Malawi,TA Katuli,2010,12
+MOZ,Mozambique,Cuamba,2010,7
+MOZ,Mozambique,Gurue,2010,7
+MOZ,Mozambique,Mandimba,2010,7
+MOZ,Mozambique,Muembe,2010,8
+MOZ,Mozambique,N'gauma,2010,13
+NGA,Nigeria,Agatu,2010,15
+NGA,Nigeria,Edu,2010,12
+NGA,Nigeria,Pategi,2010,25
+TZA,Tanzania,Masasi,2010,8
+TZA,Tanzania,Masasi Town,2010,12
+TZA,Tanzania,Nyang'hwale,2010,7
+UGA,Uganda,Amuria,2010,17
+UGA,Uganda,Budaka,2010,10
+UGA,Uganda,Bugabula,2010,29
+UGA,Uganda,Bugweri,2010,9
+UGA,Uganda,Bukedea,2010,12
+UGA,Uganda,Bulamogi,2010,10
+UGA,Uganda,Bungokho,2010,7
+UGA,Uganda,Bunyole,2010,9
+UGA,Uganda,Busiki,2010,19
+UGA,Uganda,Butebo,2010,23
+UGA,Uganda,Buzaaya,2010,27
+UGA,Uganda,Kalaki,2010,7
+UGA,Uganda,Kapelebyong,2010,13
+UGA,Uganda,Kibanda,2010,12
+UGA,Uganda,Kibuku,2010,17
+UGA,Uganda,Kigulu,2010,22
+UGA,Uganda,Kongasis,2010,10
+UGA,Uganda,Luuka,2010,24
+AGO,Angola,Bailundo,2011,17
+AGO,Angola,Camacupa,2011,7
+AGO,Angola,Catabola,2011,16
+AGO,Angola,Catchiungo,2011,18
+AGO,Angola,Chinguar,2011,17
+AGO,Angola,Kuito,2011,14
+AGO,Angola,Mungo,2011,21
+NAM,Namibia,Ondangwa,2011,16
+NAM,Namibia,Ongwediva,2011,10
+NGA,Nigeria,Agatu,2011,21
+NGA,Nigeria,Gwer West,2011,10
+NGA,Nigeria,Kaiama,2011,10
+SSD,South Sudan,Shobet,2011,9
+UGA,Uganda,Buwekula,2011,10
+UGA,Uganda,Kabula,2011,10
+UGA,Uganda,Kiboga,2011,15
+UGA,Uganda,Mawogola,2011,7
+UGA,Uganda,Nakaseke,2011,15
+BDI,Burundi,Bugabira,2012,10
+BDI,Burundi,Gashoho,2012,7
+BDI,Burundi,Gitobe,2012,7
+BDI,Burundi,Mwumba,2012,7
+BDI,Burundi,Ntega,2012,20
+BDI,Burundi,Vumbi,2012,10
+TCD,Chad,Kabbia,2012,17
+TCD,Chad,Mayo-Boneye,2012,10
+TCD,Chad,Mont Illi,2012,12
+ETH,Ethiopia,Alaba,2012,17
+ETH,Ethiopia,Silti,2012,13
+GNB,Guinea-Bissau,Bambadinca,2012,13
+GNB,Guinea-Bissau,Bula,2012,8
+GNB,Guinea-Bissau,Contuboel,2012,12
+GNB,Guinea-Bissau,Farim,2012,11
+GNB,Guinea-Bissau,Galomaro,2012,7
+GNB,Guinea-Bissau,Gamamundo,2012,21
+GNB,Guinea-Bissau,Mansoa,2012,13
+GNB,Guinea-Bissau,Pirada,2012,12
+GNB,Guinea-Bissau,Sonaco,2012,11
+KEN,Kenya,Kinangop,2012,7
+KEN,Kenya,Kipipiri,2012,14
+KEN,Kenya,Mt. Elgon,2012,7
+KEN,Kenya,Ol Kalou,2012,8
+MWI,Malawi,SC Goodson Ganya,2012,7
+MWI,Malawi,SC Kamenya Gwaza,2012,7
+MWI,Malawi,SC M'nyanja,2012,8
+MWI,Malawi,SC Namabvi,2012,8
+MWI,Malawi,SC Simlemba,2012,8
+MWI,Malawi,TA Chitera,2012,7
+MWI,Malawi,TA Chulu,2012,7
+MWI,Malawi,TA Jalasi,2012,9
+MWI,Malawi,TA Kaluluma,2012,8
+MWI,Malawi,TA Kaphuka,2012,7
+MWI,Malawi,TA Kasumbu,2012,9
+MWI,Malawi,TA Katuli,2012,10
+MWI,Malawi,TA M'Mbelwa,2012,13
+MWI,Malawi,TA Mabulabo,2012,8
+MWI,Malawi,TA Makata,2012,7
+MWI,Malawi,TA Masasa,2012,7
+MWI,Malawi,TA Mzukuzuku,2012,12
+NGA,Nigeria,Lokoja,2012,28
+NGA,Nigeria,Pategi,2012,10
+RWA,Rwanda,Gisagara,2012,22
+RWA,Rwanda,Huye,2012,22
+RWA,Rwanda,Karongi,2012,7
+RWA,Rwanda,Muhanga,2012,7
+RWA,Rwanda,Nyamagabe,2012,7
+RWA,Rwanda,Nyanza,2012,19
+RWA,Rwanda,Nyaruguru,2012,7
+RWA,Rwanda,Ruhango,2012,17
+UGA,Uganda,Chekwii,2012,12
+UGA,Uganda,Kongasis,2012,24
+UGA,Uganda,Kween,2012,21
+UGA,Uganda,Usuk,2012,7
+AGO,Angola,Bailundo,2013,17
+AGO,Angola,Cassongue,2013,25
+AGO,Angola,Chinguar,2013,10
+AGO,Angola,Ebo,2013,25
+AGO,Angola,Ekunha,2013,12
+AGO,Angola,Londuimbale,2013,14
+AGO,Angola,Mungo,2013,17
+AGO,Angola,Quibala,2013,17
+AGO,Angola,Ukuma,2013,8
+AGO,Angola,Waku Kungo,2013,29
+BDI,Burundi,Gitobe,2013,8
+CAF,Central African Republic,Bozoum,2013,8
+TCD,Chad,Kabbia,2013,9
+TCD,Chad,Mont Illi,2013,7
+ETH,Ethiopia,Alaba,2013,9
+ETH,Ethiopia,Debub Wollo,2013,12
+ETH,Ethiopia,Silti,2013,7
+KEN,Kenya,Kabondo Kasipul,2013,18
+KEN,Kenya,Karachuonyo,2013,10
+KEN,Kenya,Kasipul,2013,9
+KEN,Kenya,Mt. Elgon,2013,8
+KEN,Kenya,Ndhiwa,2013,7
+KEN,Kenya,Nyakach,2013,10
+KEN,Kenya,Rangwe,2013,9
+KEN,Kenya,Sirisia,2013,10
+MWI,Malawi,SC Chamba,2013,11
+MWI,Malawi,SC Chiwalo,2013,13
+MWI,Malawi,SC Juma,2013,16
+MWI,Malawi,SC Mbiza,2013,14
+MWI,Malawi,SC Mbwana Nyambi,2013,11
+MWI,Malawi,SC Ngokwe,2013,7
+MWI,Malawi,SC Sitola,2013,13
+MWI,Malawi,TA Chikowi,2013,13
+MWI,Malawi,TA Chikumbu,2013,13
+MWI,Malawi,TA Chimaliro,2013,7
+MWI,Malawi,TA Chitera,2013,11
+MWI,Malawi,TA Kadewere,2013,12
+MWI,Malawi,TA Kalembo,2013,12
+MWI,Malawi,TA Liwonde,2013,13
+MWI,Malawi,TA Mabuka,2013,13
+MWI,Malawi,TA Makata,2013,10
+MWI,Malawi,TA Malemia,2013,13
+MWI,Malawi,TA Mkhumba,2013,19
+MWI,Malawi,TA Mlumbe,2013,13
+MWI,Malawi,TA Mpama,2013,10
+MWI,Malawi,TA Mwambo,2013,13
+MWI,Malawi,TA Nazombe,2013,17
+MWI,Malawi,TA Nchema,2013,12
+MWI,Malawi,TA Nkalo,2013,11
+MWI,Malawi,TA Nkanda,2013,17
+MWI,Malawi,TA Nsamala,2013,13
+MWI,Malawi,TA Nthiramanja,2013,13
+MWI,Malawi,TA Nyambi,2013,11
+MWI,Malawi,TA Phambala,2013,13
+MWI,Malawi,TA Tengani,2013,7
+MOZ,Mozambique,Alto Molocue,2013,10
+MOZ,Mozambique,Caia,2013,7
+MOZ,Mozambique,Cuamba,2013,8
+MOZ,Mozambique,Gile,2013,9
+MOZ,Mozambique,Gurue,2013,14
+MOZ,Mozambique,Ile,2013,10
+MOZ,Mozambique,Lalaua,2013,7
+MOZ,Mozambique,Malema,2013,10
+MOZ,Mozambique,Mecanhelas,2013,10
+MOZ,Mozambique,Milange,2013,11
+MOZ,Mozambique,Mogovolas,2013,14
+MOZ,Mozambique,Mopeia,2013,9
+MOZ,Mozambique,Morrumbala,2013,8
+MOZ,Mozambique,Nicoadala,2013,11
+MOZ,Mozambique,Nipepe,2013,7
+SSD,South Sudan,Gogrial,2013,18
+SSD,South Sudan,Rumbek,2013,14
+SSD,South Sudan,Shobet,2013,14
+SSD,South Sudan,Tonj,2013,19
+SSD,South Sudan,Warab,2013,19
+TZA,Tanzania,Busega,2013,9
+TZA,Tanzania,Kahama Town,2013,12
+TZA,Tanzania,Kwimba,2013,9
+UGA,Uganda,Budaka,2013,12
+UGA,Uganda,Bugabula,2013,10
+UGA,Uganda,Bulamogi,2013,7
+UGA,Uganda,Bungokho,2013,7
+UGA,Uganda,Bunyole,2013,8
+UGA,Uganda,Busiki,2013,12
+UGA,Uganda,Butebo,2013,12
+UGA,Uganda,Buzaaya,2013,9
+UGA,Uganda,Kibuku,2013,12
+UGA,Uganda,Luuka,2013,10
+ZMB,Zambia,Mazabuka,2013,11
+ZMB,Zambia,Mufumbwe,2013,12
+ZMB,Zambia,Mumbwa,2013,22
+ZMB,Zambia,Namwala,2013,13
+AGO,Angola,Cassongue,2014,7
+AGO,Angola,Waku Kungo,2014,13
+CAF,Central African Republic,Birao,2014,22
+TCD,Chad,Mayo-Dallah,2014,9
+GHA,Ghana,Krachi East,2014,23
+GHA,Ghana,Krachi Nchumuru,2014,19
+GHA,Ghana,Krachi West,2014,23
+GHA,Ghana,Kwahu South,2014,9
+GHA,Ghana,Pru East,2014,10
+GHA,Ghana,Sene East,2014,18
+MWI,Malawi,Lilongwe City,2014,13
+MWI,Malawi,Ntchisi Boma,2014,7
+MWI,Malawi,Rumphi Boma,2014,7
+MWI,Malawi,SC Chakhaza,2014,8
+MWI,Malawi,SC Chikweo,2014,22
+MWI,Malawi,SC Chilikumwendo,2014,7
+MWI,Malawi,SC Chilowamatambe,2014,8
+MWI,Malawi,SC Chitekwele,2014,13
+MWI,Malawi,SC Chiwalo,2014,17
+MWI,Malawi,SC Kamenya Gwaza,2014,14
+MWI,Malawi,SC Kayembe,2014,18
+MWI,Malawi,SC M'nyanja,2014,8
+MWI,Malawi,SC Mbwana Nyambi,2014,21
+MWI,Malawi,SC Mkukula,2014,22
+MWI,Malawi,SC Mponela,2014,23
+MWI,Malawi,SC Mtema,2014,10
+MWI,Malawi,SC Ngokwe,2014,18
+MWI,Malawi,SC Njewa,2014,7
+MWI,Malawi,SC Njombwa,2014,7
+MWI,Malawi,SC Simlemba,2014,8
+MWI,Malawi,SC Sitola,2014,10
+MWI,Malawi,TA Chadza,2014,13
+MWI,Malawi,TA Chimutu,2014,22
+MWI,Malawi,TA Chitukula,2014,12
+MWI,Malawi,TA Chulu,2014,8
+MWI,Malawi,TA Dzoole,2014,23
+MWI,Malawi,TA Jalasi,2014,18
+MWI,Malawi,TA Kaluluma,2014,8
+MWI,Malawi,TA Kalumba,2014,12
+MWI,Malawi,TA Kalumbu,2014,15
+MWI,Malawi,TA Kalumo,2014,7
+MWI,Malawi,TA Kameme,2014,11
+MWI,Malawi,TA Kaomba,2014,7
+MWI,Malawi,TA Kaphuka,2014,18
+MWI,Malawi,TA Kasumbu,2014,19
+MWI,Malawi,TA Kawinga,2014,16
+MWI,Malawi,TA Liwonde,2014,13
+MWI,Malawi,TA M'Mbelwa,2014,8
+MWI,Malawi,TA Mabulabo,2014,7
+MWI,Malawi,TA Mazengera,2014,23
+MWI,Malawi,TA Msakambewa,2014,29
+MWI,Malawi,TA Mwase,2014,7
+MWI,Malawi,TA Mzukuzuku,2014,8
+MWI,Malawi,TA Njolomole,2014,7
+MWI,Malawi,TA Nyambi,2014,19
+MWI,Malawi,TA Wimbe,2014,8
+MOZ,Mozambique,Alto Molocue,2014,7
+MOZ,Mozambique,Angónia,2014,12
+MOZ,Mozambique,Cuamba,2014,31
+MOZ,Mozambique,Gurue,2014,7
+MOZ,Mozambique,Lalaua,2014,7
+MOZ,Mozambique,Malema,2014,26
+MOZ,Mozambique,Mandimba,2014,28
+MOZ,Mozambique,Marrupa,2014,7
+MOZ,Mozambique,Mecanhelas,2014,29
+MOZ,Mozambique,Metarica,2014,20
+NGA,Nigeria,Apa,2014,9
+NGA,Nigeria,Guma,2014,11
+NGA,Nigeria,Gwer West,2014,8
+NGA,Nigeria,Ifelodun,2014,17
+NGA,Nigeria,Moro,2014,9
+NGA,Nigeria,Obi,2014,9
+NGA,Nigeria,Tarka,2014,9
+UGA,Uganda,Kibanda,2014,7
+MDG,Madagascar,Analamanga,2015,7
+MDG,Madagascar,Betsiboka,2015,18
+MDG,Madagascar,Bongolava,2015,44
+MDG,Madagascar,Itasy,2015,22
+MDG,Madagascar,Vakinankaratra,2015,14
+MWI,Malawi,Blantyre City,2015,9
+MWI,Malawi,SC Chikweo,2015,7
+MWI,Malawi,SC Mlomba,2015,7
+MWI,Malawi,SC Mposa,2015,8
+MWI,Malawi,TA Bvumbwe,2015,10
+MWI,Malawi,TA Chimaliro,2015,9
+MWI,Malawi,TA Kapeni,2015,9
+MWI,Malawi,TA Kawinga,2015,7
+MWI,Malawi,TA Machinjili,2015,9
+MOZ,Mozambique,Meconta,2015,11
+MOZ,Mozambique,Mogovolas,2015,20
+MOZ,Mozambique,Monapo,2015,8
+MOZ,Mozambique,Murrupula,2015,8
+MOZ,Mozambique,Nampula,2015,10
+NGA,Nigeria,Apa,2015,8
+NGA,Nigeria,Gwer West,2015,14
+NGA,Nigeria,Lokoja,2015,10
+AGO,Angola,Bailundo,2016,8
+AGO,Angola,Cassongue,2016,11
+AGO,Angola,Ebo,2016,15
+AGO,Angola,Ekunha,2016,19
+AGO,Angola,Ganda,2016,12
+AGO,Angola,Huambo,2016,8
+AGO,Angola,Londuimbale,2016,15
+AGO,Angola,Longonjo,2016,14
+AGO,Angola,Ukuma,2016,19
+AGO,Angola,Waku Kungo,2016,8
+BEN,Benin,Kalalé,2016,14
+BEN,Benin,Sinendé,2016,8
+BDI,Burundi,Giharo,2016,10
+BDI,Burundi,Kinyinya,2016,8
+BDI,Burundi,Mpinga-Kayove,2016,10
+BDI,Burundi,Musongati,2016,7
+CMR,Cameroon,Vina,2016,9
+ETH,Ethiopia,Wag Himra,2016,8
+GHA,Ghana,Atebubu-Amantin,2016,12
+GHA,Ghana,Krachi East,2016,39
+GHA,Ghana,Krachi Nchumuru,2016,36
+GHA,Ghana,Krachi West,2016,32
+GHA,Ghana,Kwahu Afram Plains South,2016,18
+GHA,Ghana,Kwahu South,2016,17
+GHA,Ghana,Nkwanta North,2016,8
+GHA,Ghana,Pru East,2016,32
+GHA,Ghana,Sekyere Afram Plains North,2016,14
+GHA,Ghana,Sene East,2016,36
+GHA,Ghana,Sene West,2016,24
+GNB,Guinea-Bissau,Contuboel,2016,11
+GNB,Guinea-Bissau,Gamamundo,2016,8
+MWI,Malawi,Rumphi Boma,2016,13
+MWI,Malawi,SC Mwahenga,2016,7
+MWI,Malawi,TA Chikulamayembe,2016,21
+MWI,Malawi,TA Kameme,2016,14
+MWI,Malawi,TA Mwabulambya,2016,19
+MWI,Malawi,TA Nthalire,2016,13
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2016,7
+NGA,Nigeria,Agatu,2016,9
+NGA,Nigeria,Apa,2016,10
+NGA,Nigeria,Guma,2016,9
+NGA,Nigeria,Gwer West,2016,10
+NGA,Nigeria,Ifelodun,2016,16
+NGA,Nigeria,Lokoja,2016,9
+NGA,Nigeria,Makurdi,2016,12
+NGA,Nigeria,Moro,2016,9
+NGA,Nigeria,Yala,2016,7
+SSD,South Sudan,Aliab,2016,11
+SSD,South Sudan,Rumbek,2016,21
+SSD,South Sudan,Shobet,2016,21
+TZA,Tanzania,Kilombero,2016,11
+TZA,Tanzania,Masasi,2016,9
+TZA,Tanzania,Masasi Town,2016,10
+TZA,Tanzania,Mbarali,2016,16
+TZA,Tanzania,Mbeya Rural,2016,9
+TZA,Tanzania,Mbozi,2016,13
+TZA,Tanzania,Momba,2016,29
+TZA,Tanzania,Namtumbo,2016,10
+TZA,Tanzania,Newala,2016,10
+TZA,Tanzania,Tunduru,2016,10
+TZA,Tanzania,Ulanga,2016,7
+TZA,Tanzania,Wanging'ombe,2016,9
+TGO,Togo,Haho,2016,19
+GHA,Ghana,Krachi East,2017,9
+GHA,Ghana,Krachi Nchumuru,2017,8
+GHA,Ghana,Krachi West,2017,9
+GHA,Ghana,Kwahu South,2017,13
+MWI,Malawi,Lilongwe City,2017,10
+MWI,Malawi,SC Chakhaza,2017,20
+MWI,Malawi,SC Chilikumwendo,2017,17
+MWI,Malawi,SC Chowe,2017,9
+MWI,Malawi,SC Dambe,2017,31
+MWI,Malawi,SC Goodson Ganya,2017,26
+MWI,Malawi,SC Kamenya Gwaza,2017,13
+MWI,Malawi,SC Kawamba,2017,33
+MWI,Malawi,SC Kayembe,2017,24
+MWI,Malawi,SC Lukwa,2017,15
+MWI,Malawi,SC Makwangwala,2017,16
+MWI,Malawi,SC Mavwere,2017,25
+MWI,Malawi,SC Mduwa,2017,24
+MWI,Malawi,SC Mkukula,2017,7
+MWI,Malawi,SC Mponela,2017,15
+MWI,Malawi,SC Mtema,2017,19
+MWI,Malawi,SC Njewa,2017,17
+MWI,Malawi,SC Njombwa,2017,28
+MWI,Malawi,TA Chadza,2017,14
+MWI,Malawi,TA Chikumbu,2017,7
+MWI,Malawi,TA Chimaliro,2017,9
+MWI,Malawi,TA Chimutu,2017,7
+MWI,Malawi,TA Chimwala,2017,12
+MWI,Malawi,TA Chiseka,2017,21
+MWI,Malawi,TA Chitukula,2017,19
+MWI,Malawi,TA Dzoole,2017,20
+MWI,Malawi,TA Kabudula,2017,22
+MWI,Malawi,TA Kachindamoto,2017,9
+MWI,Malawi,TA Kalembo,2017,11
+MWI,Malawi,TA Kalolo,2017,23
+MWI,Malawi,TA Kalumba,2017,10
+MWI,Malawi,TA Kalumbu,2017,10
+MWI,Malawi,TA Kalumo,2017,7
+MWI,Malawi,TA Kaphuka,2017,12
+MWI,Malawi,TA Kasumbu,2017,11
+MWI,Malawi,TA Katuli,2017,7
+MWI,Malawi,TA Khongoni,2017,26
+MWI,Malawi,TA Mabuka,2017,8
+MWI,Malawi,TA Malili,2017,17
+MWI,Malawi,TA Masasa,2017,15
+MWI,Malawi,TA Mazengera,2017,7
+MWI,Malawi,TA Mkanda,2017,18
+MWI,Malawi,TA Mlonyeni,2017,22
+MWI,Malawi,TA Msakambewa,2017,7
+MWI,Malawi,TA Njolomole,2017,14
+MWI,Malawi,TA Nkalo,2017,8
+MWI,Malawi,TA Nthiramanja,2017,8
+MWI,Malawi,TA Pemba,2017,15
+MWI,Malawi,TA Santhe,2017,32
+MWI,Malawi,TA Zulu,2017,25
+MOZ,Mozambique,Angónia,2017,13
+MOZ,Mozambique,Chifunde,2017,16
+MOZ,Mozambique,Macanga,2017,24
+SSD,South Sudan,Amatonge,2017,20
+SSD,South Sudan,Terkaka,2017,10
+TZA,Tanzania,Kilombero,2017,9
+TZA,Tanzania,Ulanga,2017,7
+ZMB,Zambia,Choma,2017,9
+ZMB,Zambia,Kalomo,2017,17
+ZMB,Zambia,Kazungula,2017,9
+ZMB,Zambia,Mazabuka,2017,10
+ZMB,Zambia,Pemba,2017,8
+ZMB,Zambia,Shibuyunji,2017,18
+ZWE,Zimbabwe,Chegutu,2017,23
+ZWE,Zimbabwe,Goromonzi,2017,29
+ZWE,Zimbabwe,Makonde,2017,22
+ZWE,Zimbabwe,Makoni,2017,10
+ZWE,Zimbabwe,Marondera,2017,14
+ZWE,Zimbabwe,Murehwa,2017,19
+ZWE,Zimbabwe,Nyanga,2017,13
+ZWE,Zimbabwe,Seke,2017,25
+ZWE,Zimbabwe,Zvimba,2017,25
+AGO,Angola,Camacupa,2018,17
+AGO,Angola,Catabola,2018,10
+AGO,Angola,Catchiungo,2018,7
+AGO,Angola,Chinguar,2018,20
+AGO,Angola,Ekunha,2018,7
+AGO,Angola,Kuito,2018,7
+AGO,Angola,Londuimbale,2018,9
+AGO,Angola,Mungo,2018,16
+BEN,Benin,Tchaourou,2018,7
+BDI,Burundi,Buganda,2018,7
+BDI,Burundi,Gihanga,2018,8
+COD,Democratic Republic of the Congo,Kambove,2018,45
+COD,Democratic Republic of the Congo,Likasi,2018,24
+COD,Democratic Republic of the Congo,Lubudi,2018,27
+COD,Democratic Republic of the Congo,Lubumbashi,2018,26
+COD,Democratic Republic of the Congo,Mutshatsha,2018,27
+GHA,Ghana,Adaklu,2018,13
+GHA,Ghana,Agotime Ziope,2018,12
+GHA,Ghana,Asante-Akim North,2018,22
+GHA,Ghana,Atebubu-Amantin,2018,25
+GHA,Ghana,Krachi East,2018,10
+GHA,Ghana,Krachi Nchumuru,2018,12
+GHA,Ghana,Krachi West,2018,9
+GHA,Ghana,Mampong,2018,7
+GHA,Ghana,Nkoranza North,2018,14
+GHA,Ghana,Pru East,2018,22
+GHA,Ghana,Pru West,2018,17
+GHA,Ghana,Sekyere Afram Plains North,2018,21
+GHA,Ghana,Sekyere Central,2018,20
+GHA,Ghana,Sene East,2018,10
+GHA,Ghana,Sene West,2018,25
+KEN,Kenya,Awendo,2018,11
+KEN,Kenya,Bomachoge Chache,2018,9
+KEN,Kenya,Bonchari,2018,11
+KEN,Kenya,Bumula,2018,11
+KEN,Kenya,Butere,2018,9
+KEN,Kenya,Gatanga,2018,11
+KEN,Kenya,Gem,2018,11
+KEN,Kenya,Kabondo Kasipul,2018,16
+KEN,Kenya,Kabuchai,2018,12
+KEN,Kenya,Kandara,2018,11
+KEN,Kenya,Kanduyi,2018,12
+KEN,Kenya,Karachuonyo,2018,16
+KEN,Kenya,Kasipul,2018,16
+KEN,Kenya,Kibwezi West,2018,7
+KEN,Kenya,Kigumo,2018,11
+KEN,Kenya,Kiharu,2018,11
+KEN,Kenya,Kilome,2018,7
+KEN,Kenya,Kimilili,2018,14
+KEN,Kenya,Kiminini,2018,7
+KEN,Kenya,Kinangop,2018,11
+KEN,Kenya,Kipipiri,2018,11
+KEN,Kenya,Kirinyaga Central,2018,11
+KEN,Kenya,Kitutu Chache North,2018,16
+KEN,Kenya,Lari,2018,11
+KEN,Kenya,Limuru,2018,16
+KEN,Kenya,Lugari,2018,14
+KEN,Kenya,Lurambi,2018,8
+KEN,Kenya,Makueni,2018,7
+KEN,Kenya,Malava,2018,16
+KEN,Kenya,Maragwa,2018,11
+KEN,Kenya,Mathira,2018,10
+KEN,Kenya,Matungu,2018,11
+KEN,Kenya,Mavoko,2018,8
+KEN,Kenya,Mosop,2018,8
+KEN,Kenya,Mt. Elgon,2018,16
+KEN,Kenya,Muhoroni,2018,11
+KEN,Kenya,Mumias East,2018,12
+KEN,Kenya,Mumias West,2018,11
+KEN,Kenya,Mwea,2018,10
+KEN,Kenya,Nambale,2018,11
+KEN,Kenya,Navakholo,2018,12
+KEN,Kenya,Ndaragwa,2018,12
+KEN,Kenya,Ndhiwa,2018,11
+KEN,Kenya,Ndia,2018,11
+KEN,Kenya,North Mugirango,2018,16
+KEN,Kenya,Nyakach,2018,11
+KEN,Kenya,Ol Jorok,2018,23
+KEN,Kenya,Ol Kalou,2018,17
+KEN,Kenya,Rangwe,2018,16
+KEN,Kenya,Rongo,2018,11
+KEN,Kenya,Sirisia,2018,11
+KEN,Kenya,South Imenti,2018,7
+KEN,Kenya,South Mugirango,2018,9
+KEN,Kenya,Suna East,2018,11
+KEN,Kenya,Suna West,2018,11
+KEN,Kenya,Teso North,2018,11
+KEN,Kenya,Teso South,2018,9
+KEN,Kenya,Tigania West,2018,7
+KEN,Kenya,Turbo,2018,7
+KEN,Kenya,Ugunja,2018,9
+KEN,Kenya,Uriri,2018,11
+KEN,Kenya,Webute West,2018,12
+KEN,Kenya,Webuye East,2018,14
+KEN,Kenya,West Mugirango,2018,16
+MDG,Madagascar,Bongolava,2018,9
+MWI,Malawi,TA Kameme,2018,12
+MWI,Malawi,TA Kilupula,2018,13
+MWI,Malawi,TA Mwabulambya,2018,12
+MWI,Malawi,TA Nthalire,2018,18
+NGA,Nigeria,Agatu,2018,11
+NGA,Nigeria,Ajaokuta,2018,9
+NGA,Nigeria,Apa,2018,12
+NGA,Nigeria,Asa,2018,14
+NGA,Nigeria,Baruten,2018,12
+NGA,Nigeria,Ifelodun,2018,22
+NGA,Nigeria,Irepo,2018,16
+NGA,Nigeria,Kaiama,2018,11
+NGA,Nigeria,Moro,2018,13
+NGA,Nigeria,Ori-Ire,2018,7
+NGA,Nigeria,Saki East,2018,11
+RWA,Rwanda,Rubavu,2018,8
+TZA,Tanzania,Busega,2018,7
+TZA,Tanzania,Mbozi,2018,10
+TZA,Tanzania,Momba,2018,17
+TZA,Tanzania,Nyang'hwale,2018,7
+TZA,Tanzania,Sumbawanga Urban,2018,7
+UGA,Uganda,Bubulo,2018,11
+UGA,Uganda,Bugweri,2018,9
+UGA,Uganda,Bunyole,2018,11
+UGA,Uganda,Busiki,2018,11
+UGA,Uganda,Buzaaya,2018,9
+UGA,Uganda,Kibuku,2018,7
+UGA,Uganda,Kigulu,2018,11
+UGA,Uganda,Luuka,2018,11
+UGA,Uganda,Moroto,2018,17
+BEN,Benin,Glazoué,2019,11
+BEN,Benin,Nikki,2019,8
+BEN,Benin,Ouèssè,2019,19
+BEN,Benin,Parakou,2019,14
+BEN,Benin,Pèrèrè,2019,15
+BEN,Benin,Savalou,2019,11
+BEN,Benin,Savè,2019,28
+BEN,Benin,Tchaourou,2019,12
+CMR,Cameroon,Noun,2019,7
+CAF,Central African Republic,Kabo,2019,8
+CAF,Central African Republic,Kaga-Bandoro,2019,7
+COD,Democratic Republic of the Congo,Kambove,2019,9
+COD,Democratic Republic of the Congo,Kipushi,2019,8
+COD,Democratic Republic of the Congo,Likasi,2019,9
+COD,Democratic Republic of the Congo,Lubudi,2019,14
+COD,Democratic Republic of the Congo,Lubumbashi,2019,21
+COD,Democratic Republic of the Congo,Sakania,2019,9
+GHA,Ghana,Adaklu,2019,17
+GHA,Ghana,Agotime Ziope,2019,14
+GHA,Ghana,Asante-Akim North,2019,29
+GHA,Ghana,Fanteakwa North,2019,21
+GHA,Ghana,Krachi East,2019,7
+GHA,Ghana,Krachi West,2019,7
+GHA,Ghana,Kwahu Afram Plains South,2019,30
+GHA,Ghana,Kwahu South,2019,28
+GHA,Ghana,Sekyere Afram Plains North,2019,19
+GHA,Ghana,Sekyere Central,2019,17
+GHA,Ghana,Sene East,2019,18
+MWI,Malawi,Blantyre City,2019,14
+MWI,Malawi,Lilongwe City,2019,17
+MWI,Malawi,Ntchisi Boma,2019,19
+MWI,Malawi,SC Chakhaza,2019,17
+MWI,Malawi,SC Chamba,2019,14
+MWI,Malawi,SC Chilikumwendo,2019,21
+MWI,Malawi,SC Chilooko,2019,17
+MWI,Malawi,SC Chilowamatambe,2019,16
+MWI,Malawi,SC Chitekwele,2019,14
+MWI,Malawi,SC Dambe,2019,22
+MWI,Malawi,SC Juma,2019,13
+MWI,Malawi,SC Kamenya Gwaza,2019,19
+MWI,Malawi,SC Kawamba,2019,18
+MWI,Malawi,SC Kayembe,2019,17
+MWI,Malawi,SC Lukwa,2019,18
+MWI,Malawi,SC M'nyanja,2019,12
+MWI,Malawi,SC Makwangwala,2019,25
+MWI,Malawi,SC Mavwere,2019,26
+MWI,Malawi,SC Mbiza,2019,12
+MWI,Malawi,SC Mduwa,2019,24
+MWI,Malawi,SC Mkukula,2019,20
+MWI,Malawi,SC Mponela,2019,18
+MWI,Malawi,SC Mtema,2019,17
+MWI,Malawi,SC Njewa,2019,17
+MWI,Malawi,SC Njombwa,2019,17
+MWI,Malawi,SC Simlemba,2019,12
+MWI,Malawi,SC Sitola,2019,21
+MWI,Malawi,TA Bvumbwe,2019,16
+MWI,Malawi,TA Chadza,2019,20
+MWI,Malawi,TA Chigaru,2019,10
+MWI,Malawi,TA Chikowi,2019,12
+MWI,Malawi,TA Chikumbu,2019,9
+MWI,Malawi,TA Chimaliro,2019,15
+MWI,Malawi,TA Chimutu,2019,20
+MWI,Malawi,TA Chiseka,2019,19
+MWI,Malawi,TA Chitera,2019,13
+MWI,Malawi,TA Chitukula,2019,18
+MWI,Malawi,TA Chiwere,2019,18
+MWI,Malawi,TA Chulu,2019,18
+MWI,Malawi,TA Dzoole,2019,19
+MWI,Malawi,TA Kabudula,2019,18
+MWI,Malawi,TA Kadewere,2019,10
+MWI,Malawi,TA Kalembo,2019,20
+MWI,Malawi,TA Kalolo,2019,20
+MWI,Malawi,TA Kaluluma,2019,9
+MWI,Malawi,TA Kalumba,2019,19
+MWI,Malawi,TA Kalumbu,2019,19
+MWI,Malawi,TA Kalumo,2019,19
+MWI,Malawi,TA Kaomba,2019,17
+MWI,Malawi,TA Kapelula,2019,14
+MWI,Malawi,TA Kapeni,2019,7
+MWI,Malawi,TA Kaphuka,2019,19
+MWI,Malawi,TA Kasumbu,2019,17
+MWI,Malawi,TA Khongoni,2019,25
+MWI,Malawi,TA Kuntumanji,2019,14
+MWI,Malawi,TA Likoswe,2019,7
+MWI,Malawi,TA Mabuka,2019,9
+MWI,Malawi,TA Mabulabo,2019,9
+MWI,Malawi,TA Machinjili,2019,7
+MWI,Malawi,TA Makata,2019,14
+MWI,Malawi,TA Malili,2019,18
+MWI,Malawi,TA Mazengera,2019,19
+MWI,Malawi,TA Mkanda,2019,16
+MWI,Malawi,TA Mkhumba,2019,16
+MWI,Malawi,TA Mlonyeni,2019,18
+MWI,Malawi,TA Mlumbe,2019,26
+MWI,Malawi,TA Mpama,2019,10
+MWI,Malawi,TA Mpando,2019,34
+MWI,Malawi,TA Msakambewa,2019,20
+MWI,Malawi,TA Mwambo,2019,13
+MWI,Malawi,TA Mwase,2019,18
+MWI,Malawi,TA Nazombe,2019,21
+MWI,Malawi,TA Nchema,2019,10
+MWI,Malawi,TA Njolomole,2019,20
+MWI,Malawi,TA Nkalo,2019,10
+MWI,Malawi,TA Nkanda,2019,14
+MWI,Malawi,TA Nsamala,2019,25
+MWI,Malawi,TA Nthiramanja,2019,10
+MWI,Malawi,TA Pemba,2019,20
+MWI,Malawi,TA Phambala,2019,34
+MWI,Malawi,TA Santhe,2019,22
+MWI,Malawi,TA Symon,2019,13
+MWI,Malawi,TA Tambala,2019,14
+MWI,Malawi,TA Wimbe,2019,15
+MWI,Malawi,TA Zulu,2019,25
+MOZ,Mozambique,Angónia,2019,20
+MOZ,Mozambique,Macanga,2019,20
+MOZ,Mozambique,Mandimba,2019,15
+MOZ,Mozambique,Muembe,2019,9
+MOZ,Mozambique,N'gauma,2019,7
+MOZ,Mozambique,Tsangano,2019,27
+NGA,Nigeria,Afijio,2019,20
+NGA,Nigeria,Ajaokuta,2019,13
+NGA,Nigeria,Asa,2019,15
+NGA,Nigeria,Atiba,2019,17
+NGA,Nigeria,Baruten,2019,18
+NGA,Nigeria,Bukuru,2019,13
+NGA,Nigeria,Ibarapa Central,2019,30
+NGA,Nigeria,Ibarapa East,2019,32
+NGA,Nigeria,Ibarapa North,2019,32
+NGA,Nigeria,Irepo,2019,20
+NGA,Nigeria,Iseyin,2019,29
+NGA,Nigeria,Kaiama,2019,19
+NGA,Nigeria,Katsina-Ala,2019,8
+NGA,Nigeria,Logo,2019,15
+NGA,Nigeria,Moro,2019,20
+NGA,Nigeria,Ori-Ire,2019,14
+NGA,Nigeria,Oyo East,2019,15
+NGA,Nigeria,Oyo West,2019,17
+NGA,Nigeria,Saki East,2019,17
+NGA,Nigeria,Saki West,2019,21
+NGA,Nigeria,Ukum,2019,14
+SSD,South Sudan,Amatonge,2019,44
+SSD,South Sudan,Bahr al Jabal,2019,42
+SSD,South Sudan,Kajo Kaii,2019,9
+SSD,South Sudan,Nahr Yei,2019,7
+SSD,South Sudan,Terkaka,2019,41
+TGO,Togo,Amou,2019,7
+TGO,Togo,Anié,2019,19
+TGO,Togo,Haho,2019,18
+TGO,Togo,Ogou,2019,15
+TGO,Togo,Zio,2019,17
+UGA,Uganda,Bamunanika,2019,7
+UGA,Uganda,Bukanga,2019,18
+UGA,Uganda,Busongora,2019,9
+UGA,Uganda,Buyaga,2019,8
+UGA,Uganda,Buyanja,2019,7
+UGA,Uganda,Isingiro,2019,29
+UGA,Uganda,Kabale,2019,8
+UGA,Uganda,Kassanda,2019,8
+UGA,Uganda,Kibale,2019,12
+UGA,Uganda,Kibanda,2019,12
+UGA,Uganda,Kisoro,2019,7
+UGA,Uganda,Kooki,2019,8
+UGA,Uganda,Mwenge,2019,32
+UGA,Uganda,Ndorwa,2019,11
+UGA,Uganda,Ntenjeru,2019,14
+UGA,Uganda,Rubanda,2019,7
+UGA,Uganda,Rukiga,2019,7
+ZMB,Zambia,Chitambo,2019,17
+AGO,Angola,Camacupa,2020,53
+AGO,Angola,Catabola,2020,20
+AGO,Angola,Huambo,2020,8
+AGO,Angola,Kuito,2020,26
+AGO,Angola,Longonjo,2020,8
+AGO,Angola,Quibala,2020,7
+AGO,Angola,Waku Kungo,2020,8
+BEN,Benin,Nikki,2020,9
+BDI,Burundi,Bisoro,2020,7
+BDI,Burundi,Bubanza,2020,11
+BDI,Burundi,Bugabira,2020,16
+BDI,Burundi,Buganda,2020,11
+BDI,Burundi,Bugendana,2020,10
+BDI,Burundi,Bugenyuzi,2020,33
+BDI,Burundi,Buhiga,2020,33
+BDI,Burundi,Bukemba,2020,28
+BDI,Burundi,Bukeye,2020,10
+BDI,Burundi,Bukinanyana,2020,9
+BDI,Burundi,Bukirasazi,2020,8
+BDI,Burundi,Buraza,2020,18
+BDI,Burundi,Busiga,2020,21
+BDI,Burundi,Butaganzwa1,2020,10
+BDI,Burundi,Butaganzwa2,2020,33
+BDI,Burundi,Butihinda,2020,26
+BDI,Burundi,Bweru,2020,30
+BDI,Burundi,Cankuzo,2020,30
+BDI,Burundi,Gahombo,2020,11
+BDI,Burundi,Gashikanwa,2020,32
+BDI,Burundi,Gashoho,2020,24
+BDI,Burundi,Gasorwe,2020,32
+BDI,Burundi,Gatara,2020,11
+BDI,Burundi,Gihanga,2020,11
+BDI,Burundi,Giharo,2020,31
+BDI,Burundi,Giheta,2020,10
+BDI,Burundi,Gisagara,2020,30
+BDI,Burundi,Gishubi,2020,16
+BDI,Burundi,Gisuru,2020,30
+BDI,Burundi,Gitanga,2020,28
+BDI,Burundi,Gitaramuka,2020,32
+BDI,Burundi,Gitega,2020,10
+BDI,Burundi,Giteranyi,2020,19
+BDI,Burundi,Gitobe,2020,19
+BDI,Burundi,Isale,2020,10
+BDI,Burundi,Itaba,2020,8
+BDI,Burundi,Kabarore,2020,11
+BDI,Burundi,Kayanza,2020,11
+BDI,Burundi,Kayogoro,2020,10
+BDI,Burundi,Kayokwe,2020,7
+BDI,Burundi,Kibago,2020,11
+BDI,Burundi,Kiganda,2020,10
+BDI,Burundi,Kinyinya,2020,30
+BDI,Burundi,Kiremba,2020,31
+BDI,Burundi,Makamba,2020,10
+BDI,Burundi,Makebuko,2020,8
+BDI,Burundi,Matana,2020,7
+BDI,Burundi,Matongo,2020,10
+BDI,Burundi,Mbuye,2020,10
+BDI,Burundi,Mishiha,2020,33
+BDI,Burundi,Mpanda,2020,17
+BDI,Burundi,Mpinga-Kayove,2020,33
+BDI,Burundi,Muhanga,2020,11
+BDI,Burundi,Muramvya,2020,10
+BDI,Burundi,Muruta,2020,10
+BDI,Burundi,Murwi,2020,11
+BDI,Burundi,Musongati,2020,33
+BDI,Burundi,Mutimbuzi,2020,11
+BDI,Burundi,Muyinga,2020,33
+BDI,Burundi,Mwumba,2020,21
+BDI,Burundi,Ndava,2020,10
+BDI,Burundi,Ngozi,2020,32
+BDI,Burundi,Ntega,2020,20
+BDI,Burundi,Nyabihanga,2020,10
+BDI,Burundi,Nyanrusange,2020,7
+BDI,Burundi,Rango,2020,10
+BDI,Burundi,Rugombo,2020,8
+BDI,Burundi,Ruhororo,2020,32
+BDI,Burundi,Rusaka,2020,10
+BDI,Burundi,Rutana,2020,30
+BDI,Burundi,Rutegama,2020,10
+BDI,Burundi,Ruyigi,2020,30
+BDI,Burundi,Ryansoro,2020,7
+BDI,Burundi,Tangara,2020,31
+BDI,Burundi,Vumbi,2020,20
+CMR,Cameroon,Faro et Déo,2020,13
+CMR,Cameroon,Noun,2020,13
+CMR,Cameroon,Vina,2020,9
+CAF,Central African Republic,Birao,2020,12
+CAF,Central African Republic,Ndélé,2020,23
+COD,Democratic Republic of the Congo,Bukama,2020,21
+COD,Democratic Republic of the Congo,Kabalo,2020,21
+COD,Democratic Republic of the Congo,Kambove,2020,37
+COD,Democratic Republic of the Congo,Kasenga,2020,29
+COD,Democratic Republic of the Congo,Likasi,2020,44
+COD,Democratic Republic of the Congo,Lubudi,2020,36
+COD,Democratic Republic of the Congo,Malemba-Nkulu,2020,33
+COD,Democratic Republic of the Congo,Manono,2020,23
+COD,Democratic Republic of the Congo,Mutshatsha,2020,20
+COD,Democratic Republic of the Congo,Pweto,2020,50
+COD,Democratic Republic of the Congo,Sakania,2020,8
+ETH,Ethiopia,Agew Awi,2020,12
+ETH,Ethiopia,Alaba,2020,16
+ETH,Ethiopia,Debub Mirab Shewa,2020,28
+ETH,Ethiopia,Debub Wollo,2020,15
+ETH,Ethiopia,Gurage,2020,24
+ETH,Ethiopia,Hadiya,2020,21
+ETH,Ethiopia,Horo Guduru,2020,27
+ETH,Ethiopia,Ilubabor,2020,12
+ETH,Ethiopia,Jimma,2020,18
+ETH,Ethiopia,Keffa,2020,38
+ETH,Ethiopia,Kelem Wellega,2020,19
+ETH,Ethiopia,Mirab Gojjam,2020,21
+ETH,Ethiopia,Mirab Shewa,2020,24
+ETH,Ethiopia,Misraq Gojjam,2020,20
+ETH,Ethiopia,Misraq Wellega,2020,29
+ETH,Ethiopia,Semen Wello,2020,10
+ETH,Ethiopia,Sidama,2020,32
+ETH,Ethiopia,Silti,2020,15
+ETH,Ethiopia,Wag Himra,2020,13
+GIN,Guinea,Kindia,2020,22
+KEN,Kenya,Ainamoi,2020,14
+KEN,Kenya,Aldai,2020,14
+KEN,Kenya,Awendo,2020,15
+KEN,Kenya,Bahati,2020,25
+KEN,Kenya,Belgut,2020,18
+KEN,Kenya,Bobasi,2020,17
+KEN,Kenya,Bomachoge Borabu,2020,18
+KEN,Kenya,Bomachoge Chache,2020,18
+KEN,Kenya,Bomet Central,2020,28
+KEN,Kenya,Bomet East,2020,39
+KEN,Kenya,Bonchari,2020,20
+KEN,Kenya,Borabu,2020,10
+KEN,Kenya,Bumula,2020,28
+KEN,Kenya,Bureti,2020,18
+KEN,Kenya,Butere,2020,13
+KEN,Kenya,Butula,2020,20
+KEN,Kenya,Central Imenti,2020,8
+KEN,Kenya,Chepalungu,2020,40
+KEN,Kenya,Chesumei,2020,11
+KEN,Kenya,Eldama Ravine,2020,7
+KEN,Kenya,Emgwen,2020,13
+KEN,Kenya,Emurua Dikirr,2020,27
+KEN,Kenya,Gatanga,2020,17
+KEN,Kenya,Gem,2020,14
+KEN,Kenya,Gilgil,2020,15
+KEN,Kenya,Hamisi,2020,7
+KEN,Kenya,Ikolomani,2020,10
+KEN,Kenya,Kabondo Kasipul,2020,21
+KEN,Kenya,Kabuchai,2020,30
+KEN,Kenya,Kajiado Central,2020,8
+KEN,Kenya,Kajiado East,2020,12
+KEN,Kenya,Kajiado South,2020,15
+KEN,Kenya,Kandara,2020,17
+KEN,Kenya,Kanduyi,2020,32
+KEN,Kenya,Kapseret,2020,11
+KEN,Kenya,Karachuonyo,2020,21
+KEN,Kenya,Kasipul,2020,23
+KEN,Kenya,Kesses,2020,10
+KEN,Kenya,Khwisero,2020,12
+KEN,Kenya,Kibwezi East,2020,26
+KEN,Kenya,Kibwezi West,2020,9
+KEN,Kenya,Kieni,2020,13
+KEN,Kenya,Kigumo,2020,20
+KEN,Kenya,Kiharu,2020,18
+KEN,Kenya,Kilgoris,2020,15
+KEN,Kenya,Kilome,2020,12
+KEN,Kenya,Kimilili,2020,31
+KEN,Kenya,Kiminini,2020,10
+KEN,Kenya,Kinangop,2020,23
+KEN,Kenya,Kipipiri,2020,17
+KEN,Kenya,Kipkelion East,2020,10
+KEN,Kenya,Kipkelion West,2020,10
+KEN,Kenya,Kirinyaga Central,2020,19
+KEN,Kenya,Kitui Central,2020,10
+KEN,Kenya,Kitui Rural,2020,9
+KEN,Kenya,Kitui West,2020,10
+KEN,Kenya,Kitutu Chache North,2020,21
+KEN,Kenya,Kitutu Masaba,2020,14
+KEN,Kenya,Konoin,2020,18
+KEN,Kenya,Kuresoi North,2020,9
+KEN,Kenya,Kuresoi South,2020,9
+KEN,Kenya,Kuria East,2020,17
+KEN,Kenya,Kuria West,2020,17
+KEN,Kenya,Laikipia East,2020,15
+KEN,Kenya,Lari,2020,24
+KEN,Kenya,Likuyani,2020,26
+KEN,Kenya,Limuru,2020,26
+KEN,Kenya,Lugari,2020,30
+KEN,Kenya,Lurambi,2020,15
+KEN,Kenya,Machakos Town,2020,9
+KEN,Kenya,Makueni,2020,10
+KEN,Kenya,Malava,2020,30
+KEN,Kenya,Maragwa,2020,12
+KEN,Kenya,Masinga,2020,9
+KEN,Kenya,Matayos,2020,22
+KEN,Kenya,Mathira,2020,19
+KEN,Kenya,Matungu,2020,21
+KEN,Kenya,Matungulu,2020,12
+KEN,Kenya,Mavoko,2020,13
+KEN,Kenya,Mbeere North,2020,9
+KEN,Kenya,Mbeere South,2020,9
+KEN,Kenya,Mbooni,2020,10
+KEN,Kenya,Mosop,2020,29
+KEN,Kenya,Mt. Elgon,2020,21
+KEN,Kenya,Muhoroni,2020,21
+KEN,Kenya,Mumias East,2020,17
+KEN,Kenya,Mumias West,2020,18
+KEN,Kenya,Mwala,2020,13
+KEN,Kenya,Mwea,2020,13
+KEN,Kenya,Mwingi West,2020,12
+KEN,Kenya,Naivasha,2020,15
+KEN,Kenya,Nambale,2020,25
+KEN,Kenya,Nandi Hills,2020,10
+KEN,Kenya,Narok East,2020,9
+KEN,Kenya,Narok South,2020,10
+KEN,Kenya,Narok West,2020,7
+KEN,Kenya,Navakholo,2020,17
+KEN,Kenya,Ndaragwa,2020,12
+KEN,Kenya,Ndhiwa,2020,17
+KEN,Kenya,Ndia,2020,20
+KEN,Kenya,North Mugirango,2020,24
+KEN,Kenya,Nyakach,2020,22
+KEN,Kenya,Nyando,2020,19
+KEN,Kenya,Nyaribari Chache,2020,16
+KEN,Kenya,Nyaribari Masaba,2020,14
+KEN,Kenya,Ol Jorok,2020,21
+KEN,Kenya,Ol Kalou,2020,25
+KEN,Kenya,Rangwe,2020,21
+KEN,Kenya,Rongai,2020,7
+KEN,Kenya,Rongo,2020,17
+KEN,Kenya,Sabatia,2020,7
+KEN,Kenya,Saboti,2020,7
+KEN,Kenya,Seme,2020,17
+KEN,Kenya,Shinyalu,2020,16
+KEN,Kenya,Sigowet/Soin,2020,14
+KEN,Kenya,Sirisia,2020,29
+KEN,Kenya,Sotik,2020,25
+KEN,Kenya,South Imenti,2020,12
+KEN,Kenya,South Mugirango,2020,15
+KEN,Kenya,Subukia,2020,8
+KEN,Kenya,Suna East,2020,16
+KEN,Kenya,Suna West,2020,18
+KEN,Kenya,Taveta,2020,23
+KEN,Kenya,Teso North,2020,25
+KEN,Kenya,Teso South,2020,25
+KEN,Kenya,Tigania West,2020,8
+KEN,Kenya,Tinderet,2020,12
+KEN,Kenya,Tongaren,2020,35
+KEN,Kenya,Turbo,2020,12
+KEN,Kenya,Ugenya,2020,15
+KEN,Kenya,Ugunja,2020,14
+KEN,Kenya,Uriri,2020,15
+KEN,Kenya,Webute West,2020,30
+KEN,Kenya,Webuye East,2020,31
+KEN,Kenya,West Mugirango,2020,21
+KEN,Kenya,Yatta,2020,11
+MWI,Malawi,Lilongwe City,2020,13
+MWI,Malawi,Ntchisi Boma,2020,20
+MWI,Malawi,Rumphi Boma,2020,30
+MWI,Malawi,SC Chakhaza,2020,10
+MWI,Malawi,SC Chikweo,2020,32
+MWI,Malawi,SC Chilikumwendo,2020,12
+MWI,Malawi,SC Chilooko,2020,12
+MWI,Malawi,SC Chilowamatambe,2020,12
+MWI,Malawi,SC Chitekwele,2020,7
+MWI,Malawi,SC Chiwalo,2020,10
+MWI,Malawi,SC Dambe,2020,9
+MWI,Malawi,SC Goodson Ganya,2020,8
+MWI,Malawi,SC Juma,2020,33
+MWI,Malawi,SC Kamenya Gwaza,2020,12
+MWI,Malawi,SC Kampingo Sibande,2020,37
+MWI,Malawi,SC Kayembe,2020,9
+MWI,Malawi,SC M'nyanja,2020,9
+MWI,Malawi,SC Makwangwala,2020,18
+MWI,Malawi,SC Mavwere,2020,21
+MWI,Malawi,SC Mbiza,2020,33
+MWI,Malawi,SC Mbwana Nyambi,2020,7
+MWI,Malawi,SC Mduwa,2020,15
+MWI,Malawi,SC Mkukula,2020,14
+MWI,Malawi,SC Mlomba,2020,26
+MWI,Malawi,SC Mponela,2020,18
+MWI,Malawi,SC Mposa,2020,24
+MWI,Malawi,SC Mtema,2020,19
+MWI,Malawi,SC Mwahenga,2020,15
+MWI,Malawi,SC Namabvi,2020,7
+MWI,Malawi,SC Ngokwe,2020,32
+MWI,Malawi,SC Njewa,2020,18
+MWI,Malawi,SC Njombwa,2020,10
+MWI,Malawi,SC Simlemba,2020,15
+MWI,Malawi,TA Bvumbwe,2020,8
+MWI,Malawi,TA Chadza,2020,14
+MWI,Malawi,TA Chikowi,2020,35
+MWI,Malawi,TA Chikulamayembe,2020,31
+MWI,Malawi,TA Chikumbu,2020,17
+MWI,Malawi,TA Chimaliro,2020,11
+MWI,Malawi,TA Chimutu,2020,16
+MWI,Malawi,TA Chindi,2020,32
+MWI,Malawi,TA Chiseka,2020,19
+MWI,Malawi,TA Chitera,2020,9
+MWI,Malawi,TA Chitukula,2020,19
+MWI,Malawi,TA Chiwere,2020,8
+MWI,Malawi,TA Dzoole,2020,18
+MWI,Malawi,TA Kabudula,2020,19
+MWI,Malawi,TA Kadewere,2020,11
+MWI,Malawi,TA Kalembo,2020,9
+MWI,Malawi,TA Kalolo,2020,20
+MWI,Malawi,TA Kaluluma,2020,19
+MWI,Malawi,TA Kalumba,2020,13
+MWI,Malawi,TA Kalumbu,2020,13
+MWI,Malawi,TA Kalumo,2020,19
+MWI,Malawi,TA Kameme,2020,24
+MWI,Malawi,TA Kaomba,2020,9
+MWI,Malawi,TA Kapelula,2020,11
+MWI,Malawi,TA Kaphuka,2020,13
+MWI,Malawi,TA Kasumbu,2020,12
+MWI,Malawi,TA Kawinga,2020,35
+MWI,Malawi,TA Khongoni,2020,8
+MWI,Malawi,TA Kilupula,2020,11
+MWI,Malawi,TA Kuntumanji,2020,36
+MWI,Malawi,TA Likoswe,2020,9
+MWI,Malawi,TA Liwonde,2020,8
+MWI,Malawi,TA M'Mbelwa,2020,20
+MWI,Malawi,TA Mabuka,2020,16
+MWI,Malawi,TA Mabulabo,2020,32
+MWI,Malawi,TA Machinjili,2020,7
+MWI,Malawi,TA Malili,2020,20
+MWI,Malawi,TA Mazengera,2020,14
+MWI,Malawi,TA Mkanda,2020,10
+MWI,Malawi,TA Mkhumba,2020,29
+MWI,Malawi,TA Mlonyeni,2020,22
+MWI,Malawi,TA Mpama,2020,10
+MWI,Malawi,TA Mpando,2020,12
+MWI,Malawi,TA Mpherembe,2020,27
+MWI,Malawi,TA Msakambewa,2020,21
+MWI,Malawi,TA Mtwalo,2020,33
+MWI,Malawi,TA Mwabulambya,2020,34
+MWI,Malawi,TA Mwambo,2020,37
+MWI,Malawi,TA Mzikubola,2020,23
+MWI,Malawi,TA Mzukuzuku,2020,8
+MWI,Malawi,TA Nazombe,2020,18
+MWI,Malawi,TA Nchema,2020,19
+MWI,Malawi,TA Njolomole,2020,10
+MWI,Malawi,TA Nkalo,2020,19
+MWI,Malawi,TA Nkanda,2020,23
+MWI,Malawi,TA Nthalire,2020,13
+MWI,Malawi,TA Nthiramanja,2020,17
+MWI,Malawi,TA Nyambi,2020,13
+MWI,Malawi,TA Pemba,2020,11
+MWI,Malawi,TA Phambala,2020,9
+MWI,Malawi,TA Tambala,2020,7
+MWI,Malawi,TA Wimbe,2020,12
+MWI,Malawi,TA Zulu,2020,19
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2020,32
+MOZ,Mozambique,Alto Molocue,2020,9
+MOZ,Mozambique,Angónia,2020,7
+MOZ,Mozambique,Gurue,2020,8
+MOZ,Mozambique,Muembe,2020,16
+MOZ,Mozambique,N'gauma,2020,8
+MOZ,Mozambique,Sanga,2020,25
+MOZ,Mozambique,Tsangano,2020,8
+NGA,Nigeria,Ado,2020,13
+NGA,Nigeria,Asa,2020,10
+NGA,Nigeria,Guma,2020,7
+NGA,Nigeria,Gwer East,2020,11
+NGA,Nigeria,Gwer West,2020,8
+NGA,Nigeria,Irepo,2020,10
+NGA,Nigeria,Logo,2020,9
+NGA,Nigeria,Makurdi,2020,9
+NGA,Nigeria,Otukpo,2020,10
+NGA,Nigeria,Tarka,2020,12
+NGA,Nigeria,Ukum,2020,8
+RWA,Rwanda,Bugesera,2020,10
+RWA,Rwanda,Burera,2020,24
+RWA,Rwanda,Gakenke,2020,31
+RWA,Rwanda,Gasabo,2020,14
+RWA,Rwanda,Gatsibo,2020,15
+RWA,Rwanda,Gicumbi,2020,27
+RWA,Rwanda,Gisagara,2020,21
+RWA,Rwanda,Huye,2020,20
+RWA,Rwanda,Kamonyi,2020,22
+RWA,Rwanda,Karongi,2020,20
+RWA,Rwanda,Kayonza,2020,14
+RWA,Rwanda,Kirehe,2020,11
+RWA,Rwanda,Muhanga,2020,22
+RWA,Rwanda,Musanze,2020,15
+RWA,Rwanda,Ngororero,2020,27
+RWA,Rwanda,Nyabihu,2020,24
+RWA,Rwanda,Nyagatare,2020,18
+RWA,Rwanda,Nyamagabe,2020,20
+RWA,Rwanda,Nyanza,2020,20
+RWA,Rwanda,Nyaruguru,2020,19
+RWA,Rwanda,Rubavu,2020,8
+RWA,Rwanda,Ruhango,2020,20
+RWA,Rwanda,Rulindo,2020,31
+RWA,Rwanda,Rutsiro,2020,25
+RWA,Rwanda,Rwamagana,2020,10
+SSD,South Sudan,Aliab,2020,21
+SSD,South Sudan,Amatonge,2020,17
+SSD,South Sudan,Bahr al Jabal,2020,20
+SSD,South Sudan,Kajo Kaii,2020,16
+SSD,South Sudan,Magwi,2020,14
+SSD,South Sudan,Nahr Yei,2020,13
+SSD,South Sudan,Raja,2020,14
+SSD,South Sudan,Rumbek,2020,10
+SSD,South Sudan,Shobet,2020,7
+SSD,South Sudan,Yerol,2020,21
+TZA,Tanzania,Biharamulo,2020,11
+TZA,Tanzania,Bukombe,2020,12
+TZA,Tanzania,Busega,2020,25
+TZA,Tanzania,Chato,2020,11
+TZA,Tanzania,Chunya,2020,59
+TZA,Tanzania,Geita,2020,8
+TZA,Tanzania,Iringa Rural,2020,35
+TZA,Tanzania,Itilima,2020,10
+TZA,Tanzania,Kahama,2020,31
+TZA,Tanzania,Kahama Town,2020,40
+TZA,Tanzania,Kalambo,2020,35
+TZA,Tanzania,Karagwe,2020,20
+TZA,Tanzania,Kasulu,2020,10
+TZA,Tanzania,Kilolo,2020,11
+TZA,Tanzania,Kilombero,2020,27
+TZA,Tanzania,Kilwa,2020,9
+TZA,Tanzania,Kishapu,2020,47
+TZA,Tanzania,Kwimba,2020,24
+TZA,Tanzania,Maswa,2020,33
+TZA,Tanzania,Mbarali,2020,63
+TZA,Tanzania,Mbeya Rural,2020,33
+TZA,Tanzania,Mbogwe,2020,8
+TZA,Tanzania,Mbozi,2020,46
+TZA,Tanzania,Meatu,2020,7
+TZA,Tanzania,Missenyi,2020,13
+TZA,Tanzania,Mlele,2020,66
+TZA,Tanzania,Momba,2020,63
+TZA,Tanzania,Moshi Rural,2020,24
+TZA,Tanzania,Mpanda Urban,2020,22
+TZA,Tanzania,Namtumbo,2020,9
+TZA,Tanzania,Shinyanga Rural,2020,45
+TZA,Tanzania,Shinyanga Urban,2020,33
+TZA,Tanzania,Songwe,2020,66
+TZA,Tanzania,Sumbawanga Rural,2020,25
+TZA,Tanzania,Sumbawanga Urban,2020,34
+TZA,Tanzania,Tarime,2020,20
+TZA,Tanzania,Tunduru,2020,8
+TZA,Tanzania,Ulanga,2020,10
+TZA,Tanzania,Wanging'ombe,2020,56
+UGA,Uganda,Agago,2020,14
+UGA,Uganda,Ayivu,2020,8
+UGA,Uganda,Bamunanika,2020,10
+UGA,Uganda,Bubulo,2020,21
+UGA,Uganda,Budaka,2020,8
+UGA,Uganda,Buhweju,2020,26
+UGA,Uganda,Bukanga,2020,26
+UGA,Uganda,Bukoto,2020,14
+UGA,Uganda,Bungokho,2020,20
+UGA,Uganda,Bunyole,2020,7
+UGA,Uganda,Busiiro,2020,9
+UGA,Uganda,Busongora,2020,33
+UGA,Uganda,Butebo,2020,20
+UGA,Uganda,Chua,2020,18
+UGA,Uganda,Dokolo,2020,8
+UGA,Uganda,Erute,2020,8
+UGA,Uganda,Ibanda,2020,12
+UGA,Uganda,Isingiro,2020,31
+UGA,Uganda,Jinja,2020,14
+UGA,Uganda,Kabale,2020,34
+UGA,Uganda,Kibale,2020,34
+UGA,Uganda,Kibanda,2020,21
+UGA,Uganda,Kibuku,2020,7
+UGA,Uganda,Kinkiizi,2020,36
+UGA,Uganda,Kisoko (West Budama),2020,13
+UGA,Uganda,Kisoro,2020,33
+UGA,Uganda,Koboko,2020,14
+UGA,Uganda,Kongasis,2020,7
+UGA,Uganda,Kooki,2020,19
+UGA,Uganda,Maracha,2020,13
+UGA,Uganda,Mawokota,2020,11
+UGA,Uganda,Moroto,2020,14
+UGA,Uganda,Mwenge,2020,12
+UGA,Uganda,Nakifuma,2020,10
+UGA,Uganda,Ndorwa,2020,34
+UGA,Uganda,Rubabo,2020,34
+UGA,Uganda,Rubanda,2020,37
+UGA,Uganda,Ruhaama,2020,29
+UGA,Uganda,Rukiga,2020,26
+UGA,Uganda,Rushenyi,2020,26
+UGA,Uganda,Rwampara,2020,29
+UGA,Uganda,Samia-Bugwe,2020,7
+UGA,Uganda,Tororo,2020,18
+UGA,Uganda,Tororo (Municipality),2020,20
+ZMB,Zambia,Chitambo,2020,9
+ZMB,Zambia,Serenje,2020,8
+AGO,Angola,Mungo,2021,12
+BEN,Benin,Bantè,2021,7
+BEN,Benin,Bassila,2021,25
+BEN,Benin,Bembèrèkè,2021,19
+BEN,Benin,Djougou Rural,2021,9
+BEN,Benin,N'Dali,2021,21
+BEN,Benin,Sinendé,2021,20
+BDI,Burundi,Buganda,2021,7
+BDI,Burundi,Bukemba,2021,19
+BDI,Burundi,Bukeye,2021,11
+BDI,Burundi,Bukinanyana,2021,9
+BDI,Burundi,Butaganzwa1,2021,13
+BDI,Burundi,Cankuzo,2021,7
+BDI,Burundi,Gahombo,2021,15
+BDI,Burundi,Gatara,2021,15
+BDI,Burundi,Gitanga,2021,15
+BDI,Burundi,Kabarore,2021,13
+BDI,Burundi,Kayanza,2021,15
+BDI,Burundi,Matongo,2021,13
+BDI,Burundi,Mbuye,2021,11
+BDI,Burundi,Mugina,2021,7
+BDI,Burundi,Muhanga,2021,15
+BDI,Burundi,Muramvya,2021,7
+BDI,Burundi,Muruta,2021,15
+BDI,Burundi,Murwi,2021,7
+BDI,Burundi,Rango,2021,12
+BDI,Burundi,Rugombo,2021,7
+BDI,Burundi,Rutana,2021,10
+CMR,Cameroon,Vina,2021,7
+CAF,Central African Republic,Batangafo,2021,7
+CAF,Central African Republic,Bocaranga,2021,25
+CAF,Central African Republic,Bouar,2021,13
+CAF,Central African Republic,Bozoum,2021,18
+CAF,Central African Republic,Kabo,2021,18
+CAF,Central African Republic,Paoua,2021,11
+TCD,Chad,Monts de Lam,2021,12
+COD,Democratic Republic of the Congo,Kambove,2021,7
+COD,Democratic Republic of the Congo,Likasi,2021,14
+COD,Democratic Republic of the Congo,Lubumbashi,2021,14
+COD,Democratic Republic of the Congo,Mutshatsha,2021,8
+COD,Democratic Republic of the Congo,Sakania,2021,9
+ETH,Ethiopia,Agew Awi,2021,23
+ETH,Ethiopia,Debub Gondar,2021,9
+ETH,Ethiopia,Debub Mirab Shewa,2021,15
+ETH,Ethiopia,Debub Wollo,2021,16
+ETH,Ethiopia,Gurage,2021,13
+ETH,Ethiopia,Hadiya,2021,11
+ETH,Ethiopia,Horo Guduru,2021,11
+ETH,Ethiopia,Jimma,2021,9
+ETH,Ethiopia,Mirab Gojjam,2021,13
+ETH,Ethiopia,Mirab Shewa,2021,15
+ETH,Ethiopia,Misraq Gojjam,2021,16
+ETH,Ethiopia,Misraq Wellega,2021,11
+ETH,Ethiopia,North Shewa,2021,15
+ETH,Ethiopia,Semen Wello,2021,15
+ETH,Ethiopia,Wag Himra,2021,13
+GHA,Ghana,Adaklu,2021,20
+GHA,Ghana,Agotime Ziope,2021,12
+GHA,Ghana,Akatsi North,2021,14
+GHA,Ghana,Central Tongu,2021,15
+GHA,Ghana,Kintampo North,2021,12
+GHA,Ghana,Nkoranza North,2021,9
+GHA,Ghana,Nkwanta North,2021,16
+GHA,Ghana,Nkwanta South,2021,13
+GHA,Ghana,North Tongu,2021,13
+GHA,Ghana,Pru East,2021,7
+GHA,Ghana,Pru West,2021,9
+GHA,Ghana,Shai Osudoku,2021,15
+GIN,Guinea,Kindia,2021,12
+KEN,Kenya,Bahati,2021,22
+KEN,Kenya,Belgut,2021,7
+KEN,Kenya,Bobasi,2021,9
+KEN,Kenya,Bonchari,2021,12
+KEN,Kenya,Borabu,2021,13
+KEN,Kenya,Bumula,2021,14
+KEN,Kenya,Bureti,2021,9
+KEN,Kenya,Butere,2021,14
+KEN,Kenya,Butula,2021,21
+KEN,Kenya,Chesumei,2021,9
+KEN,Kenya,Funyula,2021,14
+KEN,Kenya,Gem,2021,19
+KEN,Kenya,Hamisi,2021,22
+KEN,Kenya,Ikolomani,2021,20
+KEN,Kenya,Kabuchai,2021,12
+KEN,Kenya,Kanduyi,2021,12
+KEN,Kenya,Kapseret,2021,12
+KEN,Kenya,Karachuonyo,2021,7
+KEN,Kenya,Kasipul,2021,7
+KEN,Kenya,Khwisero,2021,19
+KEN,Kenya,Kimilili,2021,9
+KEN,Kenya,Kitutu Chache North,2021,11
+KEN,Kenya,Kitutu Masaba,2021,15
+KEN,Kenya,Lugari,2021,7
+KEN,Kenya,Lurambi,2021,11
+KEN,Kenya,Matayos,2021,21
+KEN,Kenya,Matungu,2021,15
+KEN,Kenya,Mosop,2021,17
+KEN,Kenya,Mt. Elgon,2021,10
+KEN,Kenya,Muhoroni,2021,12
+KEN,Kenya,Mumias East,2021,11
+KEN,Kenya,Mumias West,2021,17
+KEN,Kenya,Mwea,2021,7
+KEN,Kenya,Nambale,2021,15
+KEN,Kenya,Navakholo,2021,8
+KEN,Kenya,North Mugirango,2021,10
+KEN,Kenya,Nyando,2021,12
+KEN,Kenya,Nyaribari Chache,2021,13
+KEN,Kenya,Nyaribari Masaba,2021,10
+KEN,Kenya,Rangwe,2021,7
+KEN,Kenya,Rongo,2021,7
+KEN,Kenya,Sabatia,2021,22
+KEN,Kenya,Seme,2021,22
+KEN,Kenya,Shinyalu,2021,10
+KEN,Kenya,Sirisia,2021,15
+KEN,Kenya,Teso North,2021,17
+KEN,Kenya,Teso South,2021,17
+KEN,Kenya,Tongaren,2021,7
+KEN,Kenya,Ugenya,2021,20
+KEN,Kenya,Ugunja,2021,19
+KEN,Kenya,Webute West,2021,9
+KEN,Kenya,Webuye East,2021,9
+KEN,Kenya,West Mugirango,2021,10
+MWI,Malawi,Lilongwe City,2021,9
+MWI,Malawi,Rumphi Boma,2021,15
+MWI,Malawi,SC Chikweo,2021,17
+MWI,Malawi,SC Chilooko,2021,12
+MWI,Malawi,SC Chiwalo,2021,17
+MWI,Malawi,SC Dambe,2021,12
+MWI,Malawi,SC Kawamba,2021,19
+MWI,Malawi,SC Lukwa,2021,15
+MWI,Malawi,SC M'nyanja,2021,10
+MWI,Malawi,SC Mavwere,2021,20
+MWI,Malawi,SC Mbwana Nyambi,2021,10
+MWI,Malawi,SC Mduwa,2021,24
+MWI,Malawi,SC Mwahenga,2021,7
+MWI,Malawi,SC Ngokwe,2021,21
+MWI,Malawi,SC Njewa,2021,10
+MWI,Malawi,SC Simlemba,2021,10
+MWI,Malawi,TA Chadza,2021,10
+MWI,Malawi,TA Chikulamayembe,2021,14
+MWI,Malawi,TA Chindi,2021,14
+MWI,Malawi,TA Chiseka,2021,10
+MWI,Malawi,TA Chulu,2021,17
+MWI,Malawi,TA Kalolo,2021,7
+MWI,Malawi,TA Kaluluma,2021,17
+MWI,Malawi,TA Kalumba,2021,9
+MWI,Malawi,TA Kaomba,2021,7
+MWI,Malawi,TA Katuli,2021,10
+MWI,Malawi,TA Kawinga,2021,12
+MWI,Malawi,TA Khongoni,2021,16
+MWI,Malawi,TA Liwonde,2021,13
+MWI,Malawi,TA M'Mbelwa,2021,18
+MWI,Malawi,TA Mabulabo,2021,12
+MWI,Malawi,TA Malili,2021,10
+MWI,Malawi,TA Mkanda,2021,24
+MWI,Malawi,TA Mlonyeni,2021,27
+MWI,Malawi,TA Mpherembe,2021,10
+MWI,Malawi,TA Mwase,2021,12
+MWI,Malawi,TA Mzukuzuku,2021,22
+MWI,Malawi,TA Nazombe,2021,7
+MWI,Malawi,TA Nyambi,2021,17
+MWI,Malawi,TA Santhe,2021,10
+MWI,Malawi,TA Zulu,2021,24
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2021,7
+MOZ,Mozambique,Gondola,2021,9
+MOZ,Mozambique,Gurue,2021,12
+MOZ,Mozambique,Lalaua,2021,8
+MOZ,Mozambique,Malema,2021,10
+MOZ,Mozambique,Mandimba,2021,17
+MOZ,Mozambique,Manica,2021,10
+MOZ,Mozambique,Marromeu,2021,11
+MOZ,Mozambique,Marrupa,2021,12
+MOZ,Mozambique,Maúa,2021,8
+MOZ,Mozambique,Metarica,2021,8
+MOZ,Mozambique,Mossurize,2021,11
+MOZ,Mozambique,Muembe,2021,10
+MOZ,Mozambique,N'gauma,2021,10
+MOZ,Mozambique,Nipepe,2021,8
+MOZ,Mozambique,Sussundenga,2021,13
+NGA,Nigeria,Ajaokuta,2021,23
+NGA,Nigeria,Oyo West,2021,9
+RWA,Rwanda,Bugesera,2021,18
+RWA,Rwanda,Burera,2021,39
+RWA,Rwanda,Gakenke,2021,31
+RWA,Rwanda,Gasabo,2021,10
+RWA,Rwanda,Gatsibo,2021,14
+RWA,Rwanda,Gicumbi,2021,29
+RWA,Rwanda,Kamonyi,2021,27
+RWA,Rwanda,Karongi,2021,16
+RWA,Rwanda,Kayonza,2021,15
+RWA,Rwanda,Kirehe,2021,27
+RWA,Rwanda,Muhanga,2021,19
+RWA,Rwanda,Musanze,2021,19
+RWA,Rwanda,Ngororero,2021,19
+RWA,Rwanda,Nyabihu,2021,17
+RWA,Rwanda,Nyagatare,2021,14
+RWA,Rwanda,Nyamagabe,2021,15
+RWA,Rwanda,Rubavu,2021,8
+RWA,Rwanda,Ruhango,2021,22
+RWA,Rwanda,Rulindo,2021,26
+RWA,Rwanda,Rutsiro,2021,19
+RWA,Rwanda,Rwamagana,2021,17
+SSD,South Sudan,Aliab,2021,15
+SSD,South Sudan,Gogrial,2021,22
+SSD,South Sudan,Shobet,2021,12
+SSD,South Sudan,Tonj,2021,11
+SSD,South Sudan,Warab,2021,15
+SSD,South Sudan,Yerol,2021,14
+TZA,Tanzania,Biharamulo,2021,17
+TZA,Tanzania,Chato,2021,7
+TZA,Tanzania,Kalambo,2021,15
+TZA,Tanzania,Karagwe,2021,17
+TZA,Tanzania,Kilombero,2021,19
+TZA,Tanzania,Kilwa,2021,7
+TZA,Tanzania,Mbarali,2021,19
+TZA,Tanzania,Mbeya Rural,2021,12
+TZA,Tanzania,Mbozi,2021,17
+TZA,Tanzania,Missenyi,2021,15
+TZA,Tanzania,Misungwi,2021,7
+TZA,Tanzania,Momba,2021,17
+TZA,Tanzania,Mpanda Urban,2021,26
+TZA,Tanzania,Songwe,2021,9
+TZA,Tanzania,Sumbawanga Urban,2021,26
+TZA,Tanzania,Wanging'ombe,2021,10
+TGO,Togo,Amou,2021,10
+TGO,Togo,Blitta,2021,8
+TGO,Togo,Est-Mono,2021,8
+TGO,Togo,Mô,2021,14
+TGO,Togo,Tchamba,2021,12
+UGA,Uganda,Bubulo,2021,16
+UGA,Uganda,Budaka,2021,7
+UGA,Uganda,Bugweri,2021,10
+UGA,Uganda,Bukooli,2021,9
+UGA,Uganda,Bungokho,2021,7
+UGA,Uganda,Bunyole,2021,12
+UGA,Uganda,Busiki,2021,11
+UGA,Uganda,Kagoma,2021,15
+UGA,Uganda,Kigulu,2021,12
+UGA,Uganda,Kisoko (West Budama),2021,12
+UGA,Uganda,Koboko,2021,17
+UGA,Uganda,Kongasis,2021,7
+UGA,Uganda,Samia-Bugwe,2021,14
+UGA,Uganda,Tororo,2021,14
+UGA,Uganda,Tororo (Municipality),2021,17
+ZMB,Zambia,Chibombo,2021,48
+ZMB,Zambia,Chisamba,2021,21
+ZMB,Zambia,Chitambo,2021,7
+ZMB,Zambia,Choma,2021,12
+ZMB,Zambia,Itezhi-tezhi,2021,7
+ZMB,Zambia,Kabwe,2021,41
+ZMB,Zambia,Kalomo,2021,21
+ZMB,Zambia,Kapiri Mposhi,2021,41
+ZMB,Zambia,Kasempa,2021,23
+ZMB,Zambia,Kazungula,2021,12
+ZMB,Zambia,Manyinga,2021,12
+ZMB,Zambia,Mazabuka,2021,47
+ZMB,Zambia,Mkushi,2021,19
+ZMB,Zambia,Monze,2021,22
+ZMB,Zambia,Mufumbwe,2021,34
+ZMB,Zambia,Mumbwa,2021,30
+ZMB,Zambia,Namwala,2021,16
+ZMB,Zambia,Pemba,2021,23
+ZMB,Zambia,Serenje,2021,7
+ZMB,Zambia,Shibuyunji,2021,52
+ZMB,Zambia,Solwezi,2021,12
+ZMB,Zambia,Zimba,2021,8
+ZWE,Zimbabwe,Chegutu,2021,23
+ZWE,Zimbabwe,Chikomba,2021,25
+ZWE,Zimbabwe,Chipinge,2021,11
+ZWE,Zimbabwe,Goromonzi,2021,26
+ZWE,Zimbabwe,Makonde,2021,19
+ZWE,Zimbabwe,Makoni,2021,12
+ZWE,Zimbabwe,Marondera,2021,8
+ZWE,Zimbabwe,Mhondoro-Ngezi,2021,21
+ZWE,Zimbabwe,Murehwa,2021,18
+ZWE,Zimbabwe,Nyanga,2021,11
+ZWE,Zimbabwe,Sanyati,2021,28
+ZWE,Zimbabwe,Seke,2021,16
+ZWE,Zimbabwe,Zvimba,2021,22
+AGO,Angola,Bailundo,2022,19
+AGO,Angola,Cassongue,2022,21
+AGO,Angola,Ebo,2022,21
+AGO,Angola,Ekunha,2022,25
+AGO,Angola,Londuimbale,2022,25
+AGO,Angola,Quibala,2022,34
+AGO,Angola,Ukuma,2022,21
+AGO,Angola,Waku Kungo,2022,16
+BEN,Benin,Bantè,2022,37
+BEN,Benin,Bassila,2022,39
+BEN,Benin,Bembèrèkè,2022,35
+BEN,Benin,Djougou Rural,2022,31
+BEN,Benin,Glazoué,2022,32
+BEN,Benin,Kalalé,2022,34
+BEN,Benin,N'Dali,2022,26
+BEN,Benin,Nikki,2022,36
+BEN,Benin,Ouaké,2022,7
+BEN,Benin,Ouèssè,2022,34
+BEN,Benin,Parakou,2022,26
+BEN,Benin,Pèrèrè,2022,28
+BEN,Benin,Savalou,2022,24
+BEN,Benin,Savè,2022,20
+BEN,Benin,Sinendé,2022,34
+BEN,Benin,Tchaourou,2022,35
+BDI,Burundi,Bugenyuzi,2022,17
+BDI,Burundi,Buhiga,2022,14
+BDI,Burundi,Bukirasazi,2022,12
+BDI,Burundi,Buraza,2022,7
+BDI,Burundi,Butaganzwa2,2022,13
+BDI,Burundi,Butihinda,2022,7
+BDI,Burundi,Bweru,2022,15
+BDI,Burundi,Cankuzo,2022,8
+BDI,Burundi,Gashikanwa,2022,15
+BDI,Burundi,Gashoho,2022,7
+BDI,Burundi,Gasorwe,2022,7
+BDI,Burundi,Gisagara,2022,7
+BDI,Burundi,Gisuru,2022,8
+BDI,Burundi,Gitaramuka,2022,13
+BDI,Burundi,Itaba,2022,10
+BDI,Burundi,Kabarore,2022,9
+BDI,Burundi,Kinyinya,2022,7
+BDI,Burundi,Kiremba,2022,13
+BDI,Burundi,Makebuko,2022,10
+BDI,Burundi,Mishiha,2022,7
+BDI,Burundi,Mugina,2022,7
+BDI,Burundi,Muyinga,2022,7
+BDI,Burundi,Ngozi,2022,10
+BDI,Burundi,Ntega,2022,8
+BDI,Burundi,Rugombo,2022,7
+BDI,Burundi,Ruhororo,2022,15
+BDI,Burundi,Ruyigi,2022,15
+BDI,Burundi,Tangara,2022,13
+BDI,Burundi,Vumbi,2022,8
+CMR,Cameroon,Faro et Déo,2022,12
+CMR,Cameroon,Noun,2022,9
+CAF,Central African Republic,Batangafo,2022,22
+CAF,Central African Republic,Birao,2022,63
+CAF,Central African Republic,Kabo,2022,23
+CAF,Central African Republic,Kaga-Bandoro,2022,24
+CAF,Central African Republic,Kembé,2022,7
+CAF,Central African Republic,Kouango,2022,26
+CAF,Central African Republic,Markounda,2022,33
+CAF,Central African Republic,Mobaye,2022,17
+CAF,Central African Republic,Ndélé,2022,49
+CAF,Central African Republic,Paoua,2022,33
+TCD,Chad,Kabbia,2022,7
+TCD,Chad,Loug Chari,2022,11
+TCD,Chad,Mayo-Dallah,2022,10
+TCD,Chad,Monts de Lam,2022,8
+ETH,Ethiopia,Agew Awi,2022,41
+ETH,Ethiopia,Debub Gondar,2022,20
+ETH,Ethiopia,Debub Mirab Shewa,2022,28
+ETH,Ethiopia,Debub Wollo,2022,19
+ETH,Ethiopia,Gurage,2022,17
+ETH,Ethiopia,Horo Guduru,2022,32
+ETH,Ethiopia,Ilubabor,2022,17
+ETH,Ethiopia,Jimma,2022,27
+ETH,Ethiopia,Mirab Gojjam,2022,39
+ETH,Ethiopia,Mirab Shewa,2022,25
+ETH,Ethiopia,Mirab Welega,2022,25
+ETH,Ethiopia,Misraq Gojjam,2022,33
+ETH,Ethiopia,Misraq Wellega,2022,37
+ETH,Ethiopia,North Shewa,2022,18
+ETH,Ethiopia,Wag Himra,2022,22
+GHA,Ghana,Adaklu,2022,31
+GHA,Ghana,Agotime Ziope,2022,25
+GHA,Ghana,Akatsi North,2022,21
+GHA,Ghana,Atebubu-Amantin,2022,16
+GHA,Ghana,Central Tongu,2022,44
+GHA,Ghana,Ga West,2022,10
+GHA,Ghana,Kintampo North,2022,22
+GHA,Ghana,Kpone-Katamanso,2022,24
+GHA,Ghana,Nkoranza North,2022,21
+GHA,Ghana,Nkoranza South,2022,17
+GHA,Ghana,Nkwanta South,2022,11
+GHA,Ghana,North Tongu,2022,36
+GHA,Ghana,Offinso North,2022,17
+GHA,Ghana,Pru West,2022,15
+GHA,Ghana,Shai Osudoku,2022,31
+GHA,Ghana,Wenchi,2022,21
+GNB,Guinea-Bissau,Bambadinca,2022,19
+GNB,Guinea-Bissau,Farim,2022,23
+GNB,Guinea-Bissau,Gabu,2022,14
+GNB,Guinea-Bissau,Galomaro,2022,20
+GNB,Guinea-Bissau,Mansoa,2022,25
+GNB,Guinea-Bissau,Nhacra,2022,12
+GNB,Guinea-Bissau,Piche,2022,20
+GNB,Guinea-Bissau,Pirada,2022,17
+GNB,Guinea-Bissau,Safim,2022,11
+GNB,Guinea-Bissau,Sonaco,2022,25
+KEN,Kenya,Awendo,2022,10
+KEN,Kenya,Butula,2022,10
+KEN,Kenya,Gem,2022,7
+KEN,Kenya,Hamisi,2022,8
+KEN,Kenya,Konoin,2022,7
+KEN,Kenya,Kuria East,2022,8
+KEN,Kenya,Kuria West,2022,15
+KEN,Kenya,Matayos,2022,10
+KEN,Kenya,Matungu,2022,7
+KEN,Kenya,Mt. Elgon,2022,15
+KEN,Kenya,Muhoroni,2022,9
+KEN,Kenya,Nambale,2022,7
+KEN,Kenya,Nyando,2022,12
+KEN,Kenya,Rongo,2022,7
+KEN,Kenya,Sabatia,2022,8
+KEN,Kenya,Seme,2022,7
+KEN,Kenya,South Mugirango,2022,7
+KEN,Kenya,Suna East,2022,13
+KEN,Kenya,Suna West,2022,10
+KEN,Kenya,Teso South,2022,7
+KEN,Kenya,Ugenya,2022,12
+KEN,Kenya,Ugunja,2022,10
+KEN,Kenya,Uriri,2022,13
+MDG,Madagascar,Bongolava,2022,7
+MWI,Malawi,Lilongwe City,2022,11
+MWI,Malawi,Ntchisi Boma,2022,12
+MWI,Malawi,Rumphi Boma,2022,20
+MWI,Malawi,SC Chakhaza,2022,12
+MWI,Malawi,SC Chilooko,2022,13
+MWI,Malawi,SC Chilowamatambe,2022,12
+MWI,Malawi,SC Dambe,2022,11
+MWI,Malawi,SC Kamenya Gwaza,2022,12
+MWI,Malawi,SC Kampingo Sibande,2022,17
+MWI,Malawi,SC Kawamba,2022,14
+MWI,Malawi,SC Kayembe,2022,13
+MWI,Malawi,SC Lukwa,2022,14
+MWI,Malawi,SC M'nyanja,2022,11
+MWI,Malawi,SC Mavwere,2022,11
+MWI,Malawi,SC Mduwa,2022,12
+MWI,Malawi,SC Mkukula,2022,12
+MWI,Malawi,SC Mponela,2022,12
+MWI,Malawi,SC Mtema,2022,11
+MWI,Malawi,SC Mwahenga,2022,33
+MWI,Malawi,SC Njewa,2022,11
+MWI,Malawi,SC Njombwa,2022,11
+MWI,Malawi,SC Simlemba,2022,11
+MWI,Malawi,TA Chadza,2022,7
+MWI,Malawi,TA Chikulamayembe,2022,22
+MWI,Malawi,TA Chimutu,2022,12
+MWI,Malawi,TA Chindi,2022,21
+MWI,Malawi,TA Chiseka,2022,7
+MWI,Malawi,TA Chitukula,2022,11
+MWI,Malawi,TA Chiwere,2022,9
+MWI,Malawi,TA Chulu,2022,11
+MWI,Malawi,TA Dzoole,2022,12
+MWI,Malawi,TA Kabudula,2022,11
+MWI,Malawi,TA Kalolo,2022,11
+MWI,Malawi,TA Kaluluma,2022,11
+MWI,Malawi,TA Kalumba,2022,12
+MWI,Malawi,TA Kalumbu,2022,7
+MWI,Malawi,TA Kalumo,2022,12
+MWI,Malawi,TA Kameme,2022,34
+MWI,Malawi,TA Kaomba,2022,13
+MWI,Malawi,TA Kapelula,2022,13
+MWI,Malawi,TA Kaphuka,2022,7
+MWI,Malawi,TA Kasumbu,2022,12
+MWI,Malawi,TA Khongoni,2022,11
+MWI,Malawi,TA Kilupula,2022,20
+MWI,Malawi,TA M'Mbelwa,2022,19
+MWI,Malawi,TA Mabulabo,2022,14
+MWI,Malawi,TA Malili,2022,11
+MWI,Malawi,TA Mazengera,2022,12
+MWI,Malawi,TA Mkanda,2022,17
+MWI,Malawi,TA Mlonyeni,2022,14
+MWI,Malawi,TA Mpando,2022,10
+MWI,Malawi,TA Mpherembe,2022,15
+MWI,Malawi,TA Msakambewa,2022,11
+MWI,Malawi,TA Mtwalo,2022,17
+MWI,Malawi,TA Mwabulambya,2022,25
+MWI,Malawi,TA Mwase,2022,13
+MWI,Malawi,TA Mzikubola,2022,15
+MWI,Malawi,TA Mzukuzuku,2022,17
+MWI,Malawi,TA Njolomole,2022,12
+MWI,Malawi,TA Nthalire,2022,34
+MWI,Malawi,TA Pemba,2022,7
+MWI,Malawi,TA Santhe,2022,13
+MWI,Malawi,TA Wimbe,2022,12
+MWI,Malawi,TA Zulu,2022,12
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2022,27
+MOZ,Mozambique,Marrupa,2022,14
+MOZ,Mozambique,Mopeia,2022,7
+MOZ,Mozambique,Muembe,2022,27
+MOZ,Mozambique,Sanga,2022,32
+NGA,Nigeria,Ajaokuta,2022,10
+NGA,Nigeria,Asa,2022,15
+NGA,Nigeria,Atiba,2022,36
+NGA,Nigeria,Baruten,2022,32
+NGA,Nigeria,Bukuru,2022,10
+NGA,Nigeria,Gboko,2022,11
+NGA,Nigeria,Guma,2022,7
+NGA,Nigeria,Ibarapa Central,2022,10
+NGA,Nigeria,Ibarapa East,2022,12
+NGA,Nigeria,Ibarapa North,2022,7
+NGA,Nigeria,Irepo,2022,13
+NGA,Nigeria,Iseyin,2022,11
+NGA,Nigeria,Kaiama,2022,11
+NGA,Nigeria,Katsina-Ala,2022,19
+NGA,Nigeria,Konshisha,2022,21
+NGA,Nigeria,Kwande,2022,12
+NGA,Nigeria,Logo,2022,21
+NGA,Nigeria,Obi,2022,16
+NGA,Nigeria,Ori-Ire,2022,24
+NGA,Nigeria,Oyo East,2022,10
+NGA,Nigeria,Saki East,2022,20
+NGA,Nigeria,Saki West,2022,25
+NGA,Nigeria,Tarka,2022,7
+NGA,Nigeria,Ukum,2022,35
+NGA,Nigeria,Ushongo,2022,14
+NGA,Nigeria,Vande Ikya,2022,36
+NGA,Nigeria,Yala,2022,16
+RWA,Rwanda,Bugesera,2022,11
+RWA,Rwanda,Gatsibo,2022,12
+RWA,Rwanda,Gisagara,2022,7
+RWA,Rwanda,Kayonza,2022,12
+RWA,Rwanda,Musanze,2022,12
+RWA,Rwanda,Nyagatare,2022,12
+RWA,Rwanda,Rubavu,2022,17
+RWA,Rwanda,Rwamagana,2022,12
+SSD,South Sudan,Aliab,2022,15
+SSD,South Sudan,Aryat,2022,35
+SSD,South Sudan,Aweil,2022,46
+SSD,South Sudan,Fashooda,2022,36
+SSD,South Sudan,Gogrial,2022,35
+SSD,South Sudan,Magwi,2022,10
+SSD,South Sudan,Raja,2022,52
+SSD,South Sudan,Rumbek,2022,25
+SSD,South Sudan,Shobet,2022,34
+SSD,South Sudan,Terkaka,2022,28
+SSD,South Sudan,Tonj,2022,42
+SSD,South Sudan,Wanjuk,2022,36
+SSD,South Sudan,Warab,2022,35
+SSD,South Sudan,Yerol,2022,21
+TZA,Tanzania,Busega,2022,15
+TZA,Tanzania,Chato,2022,7
+TZA,Tanzania,Chunya,2022,10
+TZA,Tanzania,Kwimba,2022,9
+TZA,Tanzania,Masasi Town,2022,18
+TZA,Tanzania,Mbarali,2022,11
+TZA,Tanzania,Mbeya Rural,2022,22
+TZA,Tanzania,Mbinga,2022,20
+TZA,Tanzania,Mbozi,2022,10
+TZA,Tanzania,Nachingwea,2022,14
+TZA,Tanzania,Namtumbo,2022,40
+TZA,Tanzania,Tarime,2022,12
+TZA,Tanzania,Tunduru,2022,40
+TZA,Tanzania,Wanging'ombe,2022,8
+TGO,Togo,Amou,2022,8
+TGO,Togo,Anié,2022,25
+TGO,Togo,Blitta,2022,23
+TGO,Togo,Est-Mono,2022,30
+TGO,Togo,Ogou,2022,20
+TGO,Togo,Tchamba,2022,26
+UGA,Uganda,Bugweri,2022,12
+UGA,Uganda,Buhweju,2022,21
+UGA,Uganda,Busongora,2022,15
+UGA,Uganda,Kabale,2022,12
+UGA,Uganda,Ndorwa,2022,10
+UGA,Uganda,Rubabo,2022,15
+UGA,Uganda,Rubanda,2022,10
+UGA,Uganda,Ruhaama,2022,11
+UGA,Uganda,Rukiga,2022,15
+UGA,Uganda,Rushenyi,2022,15
+UGA,Uganda,Rwampara,2022,12
+UGA,Uganda,Samia-Bugwe,2022,7
+ZMB,Zambia,Chitambo,2022,10
+ZMB,Zambia,Choma,2022,9
+ZMB,Zambia,Serenje,2022,10
+ZWE,Zimbabwe,Goromonzi,2022,8
+ZWE,Zimbabwe,Makonde,2022,9
+AGO,Angola,Cassongue,2023,9
+AGO,Angola,Catabola,2023,24
+AGO,Angola,Chinguar,2023,8
+AGO,Angola,Ekunha,2023,9
+AGO,Angola,Huambo,2023,10
+AGO,Angola,Kuito,2023,19
+AGO,Angola,Londuimbale,2023,7
+AGO,Angola,Mungo,2023,10
+BEN,Benin,Bantè,2023,25
+BEN,Benin,Bembèrèkè,2023,11
+BEN,Benin,Dassa-Zoumè,2023,8
+BEN,Benin,Djougou Rural,2023,10
+BEN,Benin,Glazoué,2023,26
+BEN,Benin,N'Dali,2023,16
+BEN,Benin,Nikki,2023,10
+BEN,Benin,Ouaké,2023,32
+BEN,Benin,Ouèssè,2023,29
+BEN,Benin,Parakou,2023,24
+BEN,Benin,Pèrèrè,2023,30
+BEN,Benin,Savalou,2023,29
+BEN,Benin,Savè,2023,27
+BEN,Benin,Tchaourou,2023,21
+BDI,Burundi,Bisoro,2023,34
+BDI,Burundi,Bubanza,2023,27
+BDI,Burundi,Buganda,2023,25
+BDI,Burundi,Bugarama,2023,27
+BDI,Burundi,Bugendana,2023,34
+BDI,Burundi,Bukeye,2023,34
+BDI,Burundi,Bukinanyana,2023,36
+BDI,Burundi,Bukirasazi,2023,20
+BDI,Burundi,Burambi,2023,30
+BDI,Burundi,Buraza,2023,18
+BDI,Burundi,Bururi,2023,20
+BDI,Burundi,Busiga,2023,12
+BDI,Burundi,Butaganzwa1,2023,34
+BDI,Burundi,Butihinda,2023,10
+BDI,Burundi,Buyengero,2023,29
+BDI,Burundi,Gahombo,2023,29
+BDI,Burundi,Gashoho,2023,9
+BDI,Burundi,Gasorwe,2023,9
+BDI,Burundi,Gatara,2023,29
+BDI,Burundi,Gihanga,2023,20
+BDI,Burundi,Giheta,2023,34
+BDI,Burundi,Gishubi,2023,20
+BDI,Burundi,Gisozi,2023,39
+BDI,Burundi,Gitega,2023,22
+BDI,Burundi,Gitobe,2023,7
+BDI,Burundi,Isale,2023,34
+BDI,Burundi,Itaba,2023,20
+BDI,Burundi,Kabarore,2023,27
+BDI,Burundi,Kayanza,2023,29
+BDI,Burundi,Kayogoro,2023,27
+BDI,Burundi,Kayokwe,2023,32
+BDI,Burundi,Kibago,2023,12
+BDI,Burundi,Kiganda,2023,32
+BDI,Burundi,Kiremba,2023,7
+BDI,Burundi,Mabayi,2023,27
+BDI,Burundi,Makamba,2023,15
+BDI,Burundi,Makebuko,2023,22
+BDI,Burundi,Matana,2023,32
+BDI,Burundi,Matongo,2023,36
+BDI,Burundi,Mbuye,2023,30
+BDI,Burundi,Mpanda,2023,24
+BDI,Burundi,Mugamba,2023,39
+BDI,Burundi,Mugina,2023,25
+BDI,Burundi,Mugongomanga,2023,37
+BDI,Burundi,Muhanga,2023,31
+BDI,Burundi,Muhuta,2023,41
+BDI,Burundi,Mukike,2023,34
+BDI,Burundi,Muramvya,2023,24
+BDI,Burundi,Muruta,2023,36
+BDI,Burundi,Murwi,2023,36
+BDI,Burundi,Mutambu,2023,41
+BDI,Burundi,Mutimbuzi,2023,16
+BDI,Burundi,Muyinga,2023,9
+BDI,Burundi,Ndava,2023,35
+BDI,Burundi,Nyabihanga,2023,33
+BDI,Burundi,Nyabiraba,2023,34
+BDI,Burundi,Nyanrusange,2023,29
+BDI,Burundi,Rango,2023,36
+BDI,Burundi,Rugombo,2023,34
+BDI,Burundi,Rusaka,2023,35
+BDI,Burundi,Rutegama,2023,30
+BDI,Burundi,Rutovu,2023,18
+BDI,Burundi,Ryansoro,2023,30
+BDI,Burundi,Songa,2023,20
+BDI,Burundi,Tangara,2023,7
+BDI,Burundi,Vyanda,2023,7
+CMR,Cameroon,Bamboutos,2023,58
+CMR,Cameroon,Faro et Déo,2023,42
+CMR,Cameroon,Noun,2023,46
+CMR,Cameroon,Vina,2023,49
+CAF,Central African Republic,Batangafo,2023,18
+CAF,Central African Republic,Bocaranga,2023,38
+CAF,Central African Republic,Bouar,2023,36
+CAF,Central African Republic,Bozoum,2023,39
+CAF,Central African Republic,Kabo,2023,19
+CAF,Central African Republic,Kaga-Bandoro,2023,7
+CAF,Central African Republic,Kembé,2023,36
+CAF,Central African Republic,Kouango,2023,42
+CAF,Central African Republic,Markounda,2023,30
+CAF,Central African Republic,Mobaye,2023,56
+CAF,Central African Republic,Ndélé,2023,22
+CAF,Central African Republic,Paoua,2023,30
+TCD,Chad,Mayo-Dallah,2023,21
+TCD,Chad,Monts de Lam,2023,22
+CIV,Côte d'Ivoire,Gbeke,2023,40
+CIV,Côte d'Ivoire,Hambol,2023,20
+COD,Democratic Republic of the Congo,Kabalo,2023,9
+COD,Democratic Republic of the Congo,Kambove,2023,17
+COD,Democratic Republic of the Congo,Lubudi,2023,19
+COD,Democratic Republic of the Congo,Lubumbashi,2023,30
+COD,Democratic Republic of the Congo,Sakania,2023,24
+ETH,Ethiopia,Ilubabor,2023,17
+ETH,Ethiopia,Kelem Wellega,2023,12
+ETH,Ethiopia,Mirab Welega,2023,20
+GHA,Ghana,Akatsi North,2023,7
+GHA,Ghana,Asante-Akim North,2023,24
+GHA,Ghana,Atebubu-Amantin,2023,17
+GHA,Ghana,Awutu Senya West,2023,14
+GHA,Ghana,Ejura-Sekyedumase,2023,7
+GHA,Ghana,Ga South,2023,62
+GHA,Ghana,Ga West,2023,61
+GHA,Ghana,Kintampo North,2023,22
+GHA,Ghana,Kpone-Katamanso,2023,32
+GHA,Ghana,Kwahu Afram Plains South,2023,15
+GHA,Ghana,Kwahu South,2023,18
+GHA,Ghana,Mampong,2023,18
+GHA,Ghana,Nkoranza North,2023,23
+GHA,Ghana,Nkoranza South,2023,19
+GHA,Ghana,Nkwanta South,2023,16
+GHA,Ghana,Offinso North,2023,19
+GHA,Ghana,Pru West,2023,26
+GHA,Ghana,Sekyere Afram Plains North,2023,22
+GHA,Ghana,Sekyere Central,2023,18
+GHA,Ghana,Sene West,2023,19
+GHA,Ghana,Shai Osudoku,2023,17
+GHA,Ghana,Wenchi,2023,27
+GNB,Guinea-Bissau,Gabu,2023,9
+KEN,Kenya,Awendo,2023,36
+KEN,Kenya,Bobasi,2023,33
+KEN,Kenya,Bomachoge Borabu,2023,25
+KEN,Kenya,Bomachoge Chache,2023,36
+KEN,Kenya,Bonchari,2023,30
+KEN,Kenya,Borabu,2023,24
+KEN,Kenya,Bumula,2023,7
+KEN,Kenya,Butere,2023,11
+KEN,Kenya,Butula,2023,16
+KEN,Kenya,Funyula,2023,19
+KEN,Kenya,Gatanga,2023,13
+KEN,Kenya,Gem,2023,18
+KEN,Kenya,Hamisi,2023,17
+KEN,Kenya,Ikolomani,2023,24
+KEN,Kenya,Kabondo Kasipul,2023,8
+KEN,Kenya,Kandara,2023,13
+KEN,Kenya,Kanduyi,2023,7
+KEN,Kenya,Karachuonyo,2023,12
+KEN,Kenya,Kasipul,2023,8
+KEN,Kenya,Khwisero,2023,22
+KEN,Kenya,Kigumo,2023,12
+KEN,Kenya,Kiharu,2023,13
+KEN,Kenya,Kipipiri,2023,7
+KEN,Kenya,Kitutu Chache North,2023,17
+KEN,Kenya,Kitutu Masaba,2023,34
+KEN,Kenya,Kuria East,2023,29
+KEN,Kenya,Kuria West,2023,31
+KEN,Kenya,Lugari,2023,7
+KEN,Kenya,Lurambi,2023,19
+KEN,Kenya,Machakos Town,2023,8
+KEN,Kenya,Malava,2023,8
+KEN,Kenya,Maragwa,2023,19
+KEN,Kenya,Matayos,2023,18
+KEN,Kenya,Matungu,2023,10
+KEN,Kenya,Matungulu,2023,14
+KEN,Kenya,Mavoko,2023,10
+KEN,Kenya,Mbooni,2023,9
+KEN,Kenya,Muhoroni,2023,14
+KEN,Kenya,Mumias East,2023,15
+KEN,Kenya,Mumias West,2023,12
+KEN,Kenya,Mwala,2023,8
+KEN,Kenya,Mwea,2023,17
+KEN,Kenya,Nambale,2023,9
+KEN,Kenya,Navakholo,2023,14
+KEN,Kenya,Ndhiwa,2023,20
+KEN,Kenya,North Mugirango,2023,14
+KEN,Kenya,Nyakach,2023,12
+KEN,Kenya,Nyando,2023,17
+KEN,Kenya,Nyaribari Chache,2023,34
+KEN,Kenya,Nyaribari Masaba,2023,19
+KEN,Kenya,Rangwe,2023,19
+KEN,Kenya,Rarieda,2023,7
+KEN,Kenya,Rongo,2023,34
+KEN,Kenya,Sabatia,2023,16
+KEN,Kenya,Seme,2023,20
+KEN,Kenya,Shinyalu,2023,15
+KEN,Kenya,South Mugirango,2023,37
+KEN,Kenya,Suna East,2023,31
+KEN,Kenya,Suna West,2023,28
+KEN,Kenya,Teso South,2023,14
+KEN,Kenya,Ugenya,2023,23
+KEN,Kenya,Ugunja,2023,20
+KEN,Kenya,Uriri,2023,34
+KEN,Kenya,Webute West,2023,7
+KEN,Kenya,Webuye East,2023,12
+KEN,Kenya,West Mugirango,2023,15
+MDG,Madagascar,Bongolava,2023,20
+MDG,Madagascar,Itasy,2023,16
+MDG,Madagascar,Vakinankaratra,2023,16
+MWI,Malawi,Blantyre City,2023,53
+MWI,Malawi,Lilongwe City,2023,44
+MWI,Malawi,Ntchisi Boma,2023,30
+MWI,Malawi,SC Chakhaza,2023,43
+MWI,Malawi,SC Chamba,2023,22
+MWI,Malawi,SC Chikweo,2023,11
+MWI,Malawi,SC Chilikumwendo,2023,35
+MWI,Malawi,SC Chilooko,2023,23
+MWI,Malawi,SC Chilowamatambe,2023,41
+MWI,Malawi,SC Chiwalo,2023,16
+MWI,Malawi,SC Chowe,2023,21
+MWI,Malawi,SC Dambe,2023,38
+MWI,Malawi,SC Goodson Ganya,2023,31
+MWI,Malawi,SC Juma,2023,40
+MWI,Malawi,SC Kamenya Gwaza,2023,32
+MWI,Malawi,SC Kawamba,2023,36
+MWI,Malawi,SC Kayembe,2023,42
+MWI,Malawi,SC Lukwa,2023,47
+MWI,Malawi,SC M'nyanja,2023,26
+MWI,Malawi,SC Makwangwala,2023,31
+MWI,Malawi,SC Mavwere,2023,24
+MWI,Malawi,SC Mbiza,2023,44
+MWI,Malawi,SC Mbwana Nyambi,2023,34
+MWI,Malawi,SC Mduwa,2023,29
+MWI,Malawi,SC Mkukula,2023,17
+MWI,Malawi,SC Mlomba,2023,26
+MWI,Malawi,SC Mponela,2023,36
+MWI,Malawi,SC Mposa,2023,42
+MWI,Malawi,SC Mtema,2023,36
+MWI,Malawi,SC Ngokwe,2023,33
+MWI,Malawi,SC Njewa,2023,32
+MWI,Malawi,SC Njombwa,2023,44
+MWI,Malawi,SC Simlemba,2023,27
+MWI,Malawi,SC Sitola,2023,23
+MWI,Malawi,TA Bvumbwe,2023,29
+MWI,Malawi,TA Chadza,2023,34
+MWI,Malawi,TA Chigaru,2023,7
+MWI,Malawi,TA Chikowi,2023,47
+MWI,Malawi,TA Chikumbu,2023,31
+MWI,Malawi,TA Chimaliro,2023,30
+MWI,Malawi,TA Chimutu,2023,26
+MWI,Malawi,TA Chimwala,2023,18
+MWI,Malawi,TA Chiseka,2023,26
+MWI,Malawi,TA Chitera,2023,45
+MWI,Malawi,TA Chitukula,2023,19
+MWI,Malawi,TA Chulu,2023,32
+MWI,Malawi,TA Dzoole,2023,36
+MWI,Malawi,TA Jalasi,2023,36
+MWI,Malawi,TA Kabudula,2023,29
+MWI,Malawi,TA Kadewere,2023,49
+MWI,Malawi,TA Kalembo,2023,28
+MWI,Malawi,TA Kalolo,2023,21
+MWI,Malawi,TA Kaluluma,2023,24
+MWI,Malawi,TA Kalumba,2023,46
+MWI,Malawi,TA Kalumbu,2023,31
+MWI,Malawi,TA Kalumo,2023,39
+MWI,Malawi,TA Kaomba,2023,49
+MWI,Malawi,TA Kapelula,2023,8
+MWI,Malawi,TA Kapeni,2023,24
+MWI,Malawi,TA Kaphuka,2023,31
+MWI,Malawi,TA Kasumbu,2023,27
+MWI,Malawi,TA Katuli,2023,12
+MWI,Malawi,TA Kawinga,2023,22
+MWI,Malawi,TA Khongoni,2023,36
+MWI,Malawi,TA Kilupula,2023,19
+MWI,Malawi,TA Kuntaja,2023,9
+MWI,Malawi,TA Kuntumanji,2023,57
+MWI,Malawi,TA Likoswe,2023,51
+MWI,Malawi,TA Liwonde,2023,16
+MWI,Malawi,TA Mabuka,2023,30
+MWI,Malawi,TA Mabulabo,2023,29
+MWI,Malawi,TA Machinjili,2023,55
+MWI,Malawi,TA Makata,2023,43
+MWI,Malawi,TA Malili,2023,32
+MWI,Malawi,TA Masasa,2023,29
+MWI,Malawi,TA Mazengera,2023,29
+MWI,Malawi,TA Mkanda,2023,37
+MWI,Malawi,TA Mkhumba,2023,45
+MWI,Malawi,TA Mlonyeni,2023,27
+MWI,Malawi,TA Mlumbe,2023,34
+MWI,Malawi,TA Mpama,2023,51
+MWI,Malawi,TA Mpando,2023,41
+MWI,Malawi,TA Msakambewa,2023,25
+MWI,Malawi,TA Mwambo,2023,55
+MWI,Malawi,TA Mwase,2023,48
+MWI,Malawi,TA Nazombe,2023,46
+MWI,Malawi,TA Nchema,2023,48
+MWI,Malawi,TA Njolomole,2023,34
+MWI,Malawi,TA Nkalo,2023,42
+MWI,Malawi,TA Nkanda,2023,40
+MWI,Malawi,TA Nsamala,2023,26
+MWI,Malawi,TA Nthiramanja,2023,31
+MWI,Malawi,TA Nyambi,2023,32
+MWI,Malawi,TA Pemba,2023,34
+MWI,Malawi,TA Phambala,2023,40
+MWI,Malawi,TA Santhe,2023,46
+MWI,Malawi,TA Wimbe,2023,35
+MWI,Malawi,TA Zulu,2023,25
+MOZ,Mozambique,Angónia,2023,39
+MOZ,Mozambique,Chifunde,2023,12
+MOZ,Mozambique,Cuamba,2023,25
+MOZ,Mozambique,Gurue,2023,12
+MOZ,Mozambique,Macanga,2023,37
+MOZ,Mozambique,Mandimba,2023,32
+MOZ,Mozambique,Mecanhelas,2023,39
+MOZ,Mozambique,N'gauma,2023,16
+MOZ,Mozambique,Sanga,2023,20
+MOZ,Mozambique,Tsangano,2023,40
+NGA,Nigeria,Abakaliki,2023,8
+NGA,Nigeria,Ado,2023,12
+NGA,Nigeria,Afijio,2023,13
+NGA,Nigeria,Ajaokuta,2023,8
+NGA,Nigeria,Asa,2023,11
+NGA,Nigeria,Atiba,2023,7
+NGA,Nigeria,Bukuru,2023,9
+NGA,Nigeria,Ebonyi,2023,12
+NGA,Nigeria,Ezza North,2023,28
+NGA,Nigeria,Ezza South,2023,21
+NGA,Nigeria,Gboko,2023,12
+NGA,Nigeria,Guma,2023,16
+NGA,Nigeria,Gwer East,2023,26
+NGA,Nigeria,Gwer West,2023,13
+NGA,Nigeria,Ibarapa Central,2023,14
+NGA,Nigeria,Ibarapa East,2023,13
+NGA,Nigeria,Ibarapa North,2023,17
+NGA,Nigeria,Ikwo,2023,10
+NGA,Nigeria,Iseyin,2023,14
+NGA,Nigeria,Ishielu,2023,25
+NGA,Nigeria,Izzi,2023,12
+NGA,Nigeria,Konshisha,2023,11
+NGA,Nigeria,Kwande,2023,19
+NGA,Nigeria,Makurdi,2023,33
+NGA,Nigeria,Nkanu East,2023,24
+NGA,Nigeria,Ohaukwu,2023,19
+NGA,Nigeria,Ori-Ire,2023,10
+NGA,Nigeria,Otukpo,2023,22
+NGA,Nigeria,Oyo East,2023,9
+NGA,Nigeria,Saki East,2023,15
+NGA,Nigeria,Saki West,2023,23
+NGA,Nigeria,Tarka,2023,22
+NGA,Nigeria,Ushongo,2023,13
+NGA,Nigeria,Yewa North,2023,23
+RWA,Rwanda,Bugesera,2023,24
+RWA,Rwanda,Gasabo,2023,22
+RWA,Rwanda,Gatsibo,2023,22
+RWA,Rwanda,Kayonza,2023,19
+RWA,Rwanda,Kirehe,2023,20
+RWA,Rwanda,Nyagatare,2023,22
+RWA,Rwanda,Nyaruguru,2023,14
+RWA,Rwanda,Rwamagana,2023,24
+SSD,South Sudan,Kajo Kaii,2023,29
+SSD,South Sudan,Magwi,2023,12
+SSD,South Sudan,Nahr Yei,2023,35
+TZA,Tanzania,Biharamulo,2023,26
+TZA,Tanzania,Bukombe,2023,20
+TZA,Tanzania,Busega,2023,7
+TZA,Tanzania,Chato,2023,39
+TZA,Tanzania,Geita,2023,34
+TZA,Tanzania,Ilemela,2023,16
+TZA,Tanzania,Kahama,2023,12
+TZA,Tanzania,Kahama Town,2023,12
+TZA,Tanzania,Karagwe,2023,14
+TZA,Tanzania,Kasulu,2023,7
+TZA,Tanzania,Kilombero,2023,13
+TZA,Tanzania,Kwimba,2023,12
+TZA,Tanzania,Magu,2023,29
+TZA,Tanzania,Masasi Town,2023,10
+TZA,Tanzania,Mbogwe,2023,29
+TZA,Tanzania,Misungwi,2023,33
+TZA,Tanzania,Mpanda Urban,2023,11
+TZA,Tanzania,Namtumbo,2023,22
+TZA,Tanzania,Nyang'hwale,2023,38
+TZA,Tanzania,Sengerema,2023,14
+TZA,Tanzania,Tarime,2023,27
+TZA,Tanzania,Ulanga,2023,12
+TGO,Togo,Amou,2023,45
+TGO,Togo,Anié,2023,38
+TGO,Togo,Blitta,2023,38
+TGO,Togo,Est-Mono,2023,39
+TGO,Togo,Haho,2023,31
+TGO,Togo,Mô,2023,51
+TGO,Togo,Ogou,2023,32
+TGO,Togo,Sotouboua,2023,59
+TGO,Togo,Tchamba,2023,23
+TGO,Togo,Tchaudjo,2023,49
+TGO,Togo,Zio,2023,46
+UGA,Uganda,Bamunanika,2023,32
+UGA,Uganda,Bubulo,2023,7
+UGA,Uganda,Bugweri,2023,24
+UGA,Uganda,Buhweju,2023,25
+UGA,Uganda,Bukanga,2023,16
+UGA,Uganda,Bukooli,2023,15
+UGA,Uganda,Bukoto,2023,10
+UGA,Uganda,Bunya,2023,15
+UGA,Uganda,Busiiro,2023,30
+UGA,Uganda,Busongora,2023,23
+UGA,Uganda,Buyaga,2023,13
+UGA,Uganda,Buzaaya,2023,21
+UGA,Uganda,Erute,2023,20
+UGA,Uganda,Gomba,2023,10
+UGA,Uganda,Ibanda,2023,18
+UGA,Uganda,Isingiro,2023,18
+UGA,Uganda,Jinja,2023,33
+UGA,Uganda,Kabale,2023,30
+UGA,Uganda,Kagoma,2023,36
+UGA,Uganda,Kassanda,2023,26
+UGA,Uganda,Katikamu,2023,31
+UGA,Uganda,Kibale,2023,24
+UGA,Uganda,Kibanda,2023,11
+UGA,Uganda,Kigulu,2023,24
+UGA,Uganda,Kinkiizi,2023,22
+UGA,Uganda,Kisoko (West Budama),2023,11
+UGA,Uganda,Kisoro,2023,33
+UGA,Uganda,Koboko,2023,26
+UGA,Uganda,Kole,2023,23
+UGA,Uganda,Kooki,2023,12
+UGA,Uganda,Lira,2023,23
+UGA,Uganda,Luuka,2023,23
+UGA,Uganda,Maracha,2023,18
+UGA,Uganda,Mawokota,2023,10
+UGA,Uganda,Mwenge,2023,31
+UGA,Uganda,Nakifuma,2023,36
+UGA,Uganda,Ndorwa,2023,27
+UGA,Uganda,Ntenjeru,2023,31
+UGA,Uganda,Oyam,2023,17
+UGA,Uganda,Rubabo,2023,25
+UGA,Uganda,Rubanda,2023,27
+UGA,Uganda,Ruhaama,2023,18
+UGA,Uganda,Rukiga,2023,30
+UGA,Uganda,Rushenyi,2023,25
+UGA,Uganda,Rwampara,2023,17
+UGA,Uganda,Samia-Bugwe,2023,19
+UGA,Uganda,Tororo,2023,10
+UGA,Uganda,Tororo (Municipality),2023,10
+ZMB,Zambia,Chibombo,2023,13
+ZMB,Zambia,Chisamba,2023,15
+ZMB,Zambia,Chitambo,2023,16
+ZMB,Zambia,Choma,2023,16
+ZMB,Zambia,Itezhi-tezhi,2023,10
+ZMB,Zambia,Kalomo,2023,12
+ZMB,Zambia,Manyinga,2023,22
+ZMB,Zambia,Mkushi,2023,32
+ZMB,Zambia,Mufumbwe,2023,12
+ZMB,Zambia,Mumbwa,2023,7
+ZMB,Zambia,Pemba,2023,16
+ZMB,Zambia,Serenje,2023,32
+ZWE,Zimbabwe,Goromonzi,2023,8
+AGO,Angola,Amboim,2024,32
+AGO,Angola,Bailundo,2024,31
+AGO,Angola,Bocoio,2024,27
+AGO,Angola,Camacupa,2024,33
+AGO,Angola,Cassongue,2024,44
+AGO,Angola,Catabola,2024,24
+AGO,Angola,Catchiungo,2024,25
+AGO,Angola,Chinguar,2024,41
+AGO,Angola,Cubal,2024,15
+AGO,Angola,Ebo,2024,45
+AGO,Angola,Ekunha,2024,31
+AGO,Angola,Ganda,2024,26
+AGO,Angola,Huambo,2024,26
+AGO,Angola,Kuito,2024,25
+AGO,Angola,Londuimbale,2024,38
+AGO,Angola,Longonjo,2024,22
+AGO,Angola,Mungo,2024,21
+AGO,Angola,Quibala,2024,40
+AGO,Angola,Quilenda,2024,21
+AGO,Angola,Seles,2024,26
+AGO,Angola,Tchicala-Tcholoanga,2024,22
+AGO,Angola,Ukuma,2024,33
+AGO,Angola,Waku Kungo,2024,30
+BEN,Benin,Bembèrèkè,2024,13
+BEN,Benin,Djougou Rural,2024,25
+BEN,Benin,Ouaké,2024,30
+BEN,Benin,Savalou,2024,10
+BEN,Benin,Savè,2024,8
+BEN,Benin,Sinendé,2024,16
+BDI,Burundi,Bisoro,2024,38
+BDI,Burundi,Bubanza,2024,28
+BDI,Burundi,Bugabira,2024,24
+BDI,Burundi,Buganda,2024,28
+BDI,Burundi,Bugarama,2024,38
+BDI,Burundi,Bugendana,2024,29
+BDI,Burundi,Bugenyuzi,2024,46
+BDI,Burundi,Buhiga,2024,46
+BDI,Burundi,Bukemba,2024,43
+BDI,Burundi,Bukeye,2024,25
+BDI,Burundi,Bukinanyana,2024,25
+BDI,Burundi,Bukirasazi,2024,25
+BDI,Burundi,Burambi,2024,39
+BDI,Burundi,Buraza,2024,34
+BDI,Burundi,Bururi,2024,35
+BDI,Burundi,Busiga,2024,45
+BDI,Burundi,Busoni,2024,16
+BDI,Burundi,Butaganzwa1,2024,23
+BDI,Burundi,Butaganzwa2,2024,48
+BDI,Burundi,Butihinda,2024,46
+BDI,Burundi,Buyengero,2024,35
+BDI,Burundi,Bweru,2024,46
+BDI,Burundi,Cankuzo,2024,43
+BDI,Burundi,Gahombo,2024,23
+BDI,Burundi,Gashikanwa,2024,42
+BDI,Burundi,Gashoho,2024,48
+BDI,Burundi,Gasorwe,2024,46
+BDI,Burundi,Gatara,2024,23
+BDI,Burundi,Gihanga,2024,28
+BDI,Burundi,Giharo,2024,44
+BDI,Burundi,Giheta,2024,29
+BDI,Burundi,Gisagara,2024,41
+BDI,Burundi,Gishubi,2024,38
+BDI,Burundi,Gisozi,2024,31
+BDI,Burundi,Gisuru,2024,43
+BDI,Burundi,Gitanga,2024,44
+BDI,Burundi,Gitaramuka,2024,46
+BDI,Burundi,Gitega,2024,31
+BDI,Burundi,Giteranyi,2024,24
+BDI,Burundi,Gitobe,2024,39
+BDI,Burundi,Isale,2024,36
+BDI,Burundi,Itaba,2024,25
+BDI,Burundi,Kabarore,2024,24
+BDI,Burundi,Kayanza,2024,24
+BDI,Burundi,Kayogoro,2024,35
+BDI,Burundi,Kayokwe,2024,31
+BDI,Burundi,Kibago,2024,28
+BDI,Burundi,Kiganda,2024,23
+BDI,Burundi,Kinyinya,2024,44
+BDI,Burundi,Kiremba,2024,41
+BDI,Burundi,Mabayi,2024,28
+BDI,Burundi,Makamba,2024,43
+BDI,Burundi,Makebuko,2024,28
+BDI,Burundi,Matana,2024,49
+BDI,Burundi,Matongo,2024,25
+BDI,Burundi,Mbuye,2024,23
+BDI,Burundi,Mishiha,2024,43
+BDI,Burundi,Mpanda,2024,25
+BDI,Burundi,Mpinga-Kayove,2024,47
+BDI,Burundi,Mugamba,2024,33
+BDI,Burundi,Mugina,2024,26
+BDI,Burundi,Mugongomanga,2024,33
+BDI,Burundi,Muhanga,2024,23
+BDI,Burundi,Muhuta,2024,37
+BDI,Burundi,Mukike,2024,33
+BDI,Burundi,Muramvya,2024,25
+BDI,Burundi,Muruta,2024,23
+BDI,Burundi,Murwi,2024,28
+BDI,Burundi,Musongati,2024,48
+BDI,Burundi,Mutambu,2024,36
+BDI,Burundi,Mutimbuzi,2024,28
+BDI,Burundi,Muyinga,2024,46
+BDI,Burundi,Mwumba,2024,38
+BDI,Burundi,Ndava,2024,31
+BDI,Burundi,Ngozi,2024,42
+BDI,Burundi,Ntega,2024,32
+BDI,Burundi,Nyabihanga,2024,31
+BDI,Burundi,Nyabiraba,2024,36
+BDI,Burundi,Nyanrusange,2024,31
+BDI,Burundi,Rango,2024,23
+BDI,Burundi,Rugombo,2024,27
+BDI,Burundi,Ruhororo,2024,48
+BDI,Burundi,Rusaka,2024,31
+BDI,Burundi,Rutana,2024,47
+BDI,Burundi,Rutegama,2024,23
+BDI,Burundi,Rutovu,2024,45
+BDI,Burundi,Ruyigi,2024,47
+BDI,Burundi,Ryansoro,2024,46
+BDI,Burundi,Songa,2024,46
+BDI,Burundi,Tangara,2024,47
+BDI,Burundi,Vumbi,2024,42
+BDI,Burundi,Vyanda,2024,11
+CMR,Cameroon,Bamboutos,2024,23
+CMR,Cameroon,Haute Sanaga,2024,12
+CMR,Cameroon,Vina,2024,13
+CAF,Central African Republic,Batangafo,2024,50
+CAF,Central African Republic,Birao,2024,62
+CAF,Central African Republic,Bocaranga,2024,56
+CAF,Central African Republic,Bouar,2024,40
+CAF,Central African Republic,Bozoum,2024,42
+CAF,Central African Republic,Kabo,2024,53
+CAF,Central African Republic,Kaga-Bandoro,2024,34
+CAF,Central African Republic,Kembé,2024,56
+CAF,Central African Republic,Kouango,2024,38
+CAF,Central African Republic,Markounda,2024,47
+CAF,Central African Republic,Mobaye,2024,56
+CAF,Central African Republic,Ndélé,2024,43
+CAF,Central African Republic,Paoua,2024,50
+CIV,Côte d'Ivoire,Gbeke,2024,19
+COD,Democratic Republic of the Congo,Bukama,2024,31
+COD,Democratic Republic of the Congo,Kabalo,2024,84
+COD,Democratic Republic of the Congo,Kongolo,2024,14
+COD,Democratic Republic of the Congo,Lubudi,2024,9
+COD,Democratic Republic of the Congo,Malemba-Nkulu,2024,37
+COD,Democratic Republic of the Congo,Manono,2024,78
+COD,Democratic Republic of the Congo,Mutshatsha,2024,41
+COD,Democratic Republic of the Congo,Pweto,2024,37
+ETH,Ethiopia,Alaba,2024,17
+ETH,Ethiopia,Bench Maji,2024,8
+ETH,Ethiopia,Gamo Gofa,2024,18
+ETH,Ethiopia,Gurage,2024,12
+ETH,Ethiopia,Hadiya,2024,24
+ETH,Ethiopia,Ilubabor,2024,20
+ETH,Ethiopia,Jimma,2024,21
+ETH,Ethiopia,Keffa,2024,24
+ETH,Ethiopia,Kelem Wellega,2024,36
+ETH,Ethiopia,Mirab Shewa,2024,8
+ETH,Ethiopia,Mirab Welega,2024,19
+ETH,Ethiopia,Sidama,2024,20
+ETH,Ethiopia,Silti,2024,19
+ETH,Ethiopia,Wag Himra,2024,15
+GHA,Ghana,Kintampo North,2024,10
+GHA,Ghana,Nkoranza North,2024,11
+GHA,Ghana,Nkwanta North,2024,22
+GHA,Ghana,Nkwanta South,2024,21
+GHA,Ghana,Pru West,2024,10
+GHA,Ghana,Wenchi,2024,27
+GIN,Guinea,Kindia,2024,40
+GNB,Guinea-Bissau,Bambadinca,2024,45
+GNB,Guinea-Bissau,Bissau,2024,47
+GNB,Guinea-Bissau,Bula,2024,65
+GNB,Guinea-Bissau,Contuboel,2024,36
+GNB,Guinea-Bissau,Farim,2024,35
+GNB,Guinea-Bissau,Gabu,2024,48
+GNB,Guinea-Bissau,Galomaro,2024,42
+GNB,Guinea-Bissau,Gamamundo,2024,40
+GNB,Guinea-Bissau,Mansoa,2024,50
+GNB,Guinea-Bissau,Nhacra,2024,62
+GNB,Guinea-Bissau,Piche,2024,45
+GNB,Guinea-Bissau,Pirada,2024,41
+GNB,Guinea-Bissau,Quinhamel,2024,15
+GNB,Guinea-Bissau,Safim,2024,75
+GNB,Guinea-Bissau,Sonaco,2024,43
+GNB,Guinea-Bissau,Tite,2024,37
+KEN,Kenya,Ainamoi,2024,19
+KEN,Kenya,Aldai,2024,50
+KEN,Kenya,Awendo,2024,38
+KEN,Kenya,Bahati,2024,14
+KEN,Kenya,Belgut,2024,56
+KEN,Kenya,Bobasi,2024,46
+KEN,Kenya,Bomachoge Borabu,2024,45
+KEN,Kenya,Bomachoge Chache,2024,41
+KEN,Kenya,Bomet Central,2024,54
+KEN,Kenya,Bomet East,2024,39
+KEN,Kenya,Bonchari,2024,37
+KEN,Kenya,Borabu,2024,61
+KEN,Kenya,Bumula,2024,46
+KEN,Kenya,Bureti,2024,60
+KEN,Kenya,Butere,2024,54
+KEN,Kenya,Butula,2024,39
+KEN,Kenya,Central Imenti,2024,11
+KEN,Kenya,Chepalungu,2024,39
+KEN,Kenya,Chesumei,2024,39
+KEN,Kenya,Emgwen,2024,36
+KEN,Kenya,Emurua Dikirr,2024,34
+KEN,Kenya,Funyula,2024,8
+KEN,Kenya,Gatanga,2024,39
+KEN,Kenya,Gem,2024,41
+KEN,Kenya,Gilgil,2024,15
+KEN,Kenya,Hamisi,2024,56
+KEN,Kenya,Ikolomani,2024,52
+KEN,Kenya,Kabondo Kasipul,2024,41
+KEN,Kenya,Kabuchai,2024,43
+KEN,Kenya,Kajiado Central,2024,9
+KEN,Kenya,Kajiado East,2024,10
+KEN,Kenya,Kajiado South,2024,14
+KEN,Kenya,Kandara,2024,39
+KEN,Kenya,Kanduyi,2024,45
+KEN,Kenya,Kapseret,2024,33
+KEN,Kenya,Karachuonyo,2024,41
+KEN,Kenya,Kasipul,2024,41
+KEN,Kenya,Kesses,2024,8
+KEN,Kenya,Khwisero,2024,57
+KEN,Kenya,Kieni,2024,20
+KEN,Kenya,Kigumo,2024,39
+KEN,Kenya,Kiharu,2024,34
+KEN,Kenya,Kilome,2024,29
+KEN,Kenya,Kimilili,2024,38
+KEN,Kenya,Kinangop,2024,39
+KEN,Kenya,Kipipiri,2024,30
+KEN,Kenya,Kipkelion East,2024,10
+KEN,Kenya,Kirinyaga Central,2024,27
+KEN,Kenya,Kitui Central,2024,13
+KEN,Kenya,Kitui Rural,2024,13
+KEN,Kenya,Kitui West,2024,13
+KEN,Kenya,Kitutu Chache North,2024,39
+KEN,Kenya,Kitutu Masaba,2024,45
+KEN,Kenya,Konoin,2024,63
+KEN,Kenya,Kuresoi North,2024,8
+KEN,Kenya,Kuria East,2024,42
+KEN,Kenya,Kuria West,2024,40
+KEN,Kenya,Laikipia East,2024,21
+KEN,Kenya,Lari,2024,45
+KEN,Kenya,Likuyani,2024,60
+KEN,Kenya,Limuru,2024,42
+KEN,Kenya,Lugari,2024,46
+KEN,Kenya,Lurambi,2024,52
+KEN,Kenya,Machakos Town,2024,34
+KEN,Kenya,Makueni,2024,15
+KEN,Kenya,Malava,2024,48
+KEN,Kenya,Maragwa,2024,36
+KEN,Kenya,Masinga,2024,13
+KEN,Kenya,Matayos,2024,41
+KEN,Kenya,Mathira,2024,29
+KEN,Kenya,Matungu,2024,47
+KEN,Kenya,Matungulu,2024,41
+KEN,Kenya,Mavoko,2024,42
+KEN,Kenya,Mbeere North,2024,15
+KEN,Kenya,Mbeere South,2024,14
+KEN,Kenya,Mbooni,2024,30
+KEN,Kenya,Mosop,2024,22
+KEN,Kenya,Mt. Elgon,2024,26
+KEN,Kenya,Muhoroni,2024,41
+KEN,Kenya,Mumias East,2024,48
+KEN,Kenya,Mumias West,2024,46
+KEN,Kenya,Mwala,2024,31
+KEN,Kenya,Mwea,2024,29
+KEN,Kenya,Mwingi West,2024,13
+KEN,Kenya,Naivasha,2024,14
+KEN,Kenya,Nambale,2024,45
+KEN,Kenya,Nandi Hills,2024,24
+KEN,Kenya,Narok East,2024,9
+KEN,Kenya,Narok South,2024,17
+KEN,Kenya,Narok West,2024,10
+KEN,Kenya,Navakholo,2024,45
+KEN,Kenya,Ndaragwa,2024,28
+KEN,Kenya,Ndhiwa,2024,7
+KEN,Kenya,Ndia,2024,29
+KEN,Kenya,North Mugirango,2024,41
+KEN,Kenya,Nyakach,2024,41
+KEN,Kenya,Nyando,2024,42
+KEN,Kenya,Nyaribari Chache,2024,41
+KEN,Kenya,Nyaribari Masaba,2024,52
+KEN,Kenya,Ol Jorok,2024,25
+KEN,Kenya,Ol Kalou,2024,24
+KEN,Kenya,Rangwe,2024,33
+KEN,Kenya,Rongo,2024,39
+KEN,Kenya,Sabatia,2024,56
+KEN,Kenya,Seme,2024,42
+KEN,Kenya,Shinyalu,2024,51
+KEN,Kenya,Sigowet/Soin,2024,25
+KEN,Kenya,Sirisia,2024,42
+KEN,Kenya,Sotik,2024,53
+KEN,Kenya,South Imenti,2024,15
+KEN,Kenya,South Mugirango,2024,42
+KEN,Kenya,Suna East,2024,40
+KEN,Kenya,Suna West,2024,16
+KEN,Kenya,Taveta,2024,47
+KEN,Kenya,Teso North,2024,45
+KEN,Kenya,Teso South,2024,37
+KEN,Kenya,Tigania West,2024,10
+KEN,Kenya,Tinderet,2024,22
+KEN,Kenya,Tongaren,2024,38
+KEN,Kenya,Ugenya,2024,29
+KEN,Kenya,Ugunja,2024,37
+KEN,Kenya,Uriri,2024,36
+KEN,Kenya,Voi,2024,30
+KEN,Kenya,Webute West,2024,43
+KEN,Kenya,Webuye East,2024,43
+KEN,Kenya,West Mugirango,2024,43
+KEN,Kenya,Yatta,2024,20
+MDG,Madagascar,Analamanga,2024,10
+MDG,Madagascar,Bongolava,2024,21
+MDG,Madagascar,Itasy,2024,34
+MDG,Madagascar,Vakinankaratra,2024,11
+MWI,Malawi,Blantyre City,2024,9
+MWI,Malawi,Rumphi Boma,2024,19
+MWI,Malawi,SC Chilooko,2024,7
+MWI,Malawi,SC Chilowamatambe,2024,7
+MWI,Malawi,SC Kampingo Sibande,2024,11
+MWI,Malawi,SC Lukwa,2024,10
+MWI,Malawi,SC M'nyanja,2024,10
+MWI,Malawi,SC Mwahenga,2024,28
+MWI,Malawi,SC Simlemba,2024,8
+MWI,Malawi,TA Bvumbwe,2024,12
+MWI,Malawi,TA Chikulamayembe,2024,21
+MWI,Malawi,TA Chimaliro,2024,11
+MWI,Malawi,TA Chindi,2024,21
+MWI,Malawi,TA Chulu,2024,10
+MWI,Malawi,TA Kameme,2024,35
+MWI,Malawi,TA Kaomba,2024,10
+MWI,Malawi,TA Kapelula,2024,8
+MWI,Malawi,TA Kilupula,2024,55
+MWI,Malawi,TA Likoswe,2024,8
+MWI,Malawi,TA M'Mbelwa,2024,10
+MWI,Malawi,TA Mabuka,2024,8
+MWI,Malawi,TA Machinjili,2024,9
+MWI,Malawi,TA Mpherembe,2024,18
+MWI,Malawi,TA Mtwalo,2024,13
+MWI,Malawi,TA Mwabulambya,2024,36
+MWI,Malawi,TA Mwase,2024,19
+MWI,Malawi,TA Mzikubola,2024,9
+MWI,Malawi,TA Mzukuzuku,2024,10
+MWI,Malawi,TA Nthalire,2024,45
+MWI,Malawi,TA Wimbe,2024,15
+MWI,Malawi,Vwaza Marsh Game Reserve - Rumph,2024,31
+MOZ,Mozambique,Marrupa,2024,22
+MOZ,Mozambique,Muembe,2024,10
+MOZ,Mozambique,Sanga,2024,7
+NGA,Nigeria,Abakaliki,2024,29
+NGA,Nigeria,Ado,2024,26
+NGA,Nigeria,Asa,2024,7
+NGA,Nigeria,Atiba,2024,7
+NGA,Nigeria,Bukuru,2024,20
+NGA,Nigeria,Ebonyi,2024,32
+NGA,Nigeria,Ezza North,2024,37
+NGA,Nigeria,Ezza South,2024,24
+NGA,Nigeria,Gboko,2024,23
+NGA,Nigeria,Gwer East,2024,21
+NGA,Nigeria,Ibarapa Central,2024,7
+NGA,Nigeria,Ibarapa North,2024,11
+NGA,Nigeria,Ikwo,2024,15
+NGA,Nigeria,Ishielu,2024,28
+NGA,Nigeria,Izzi,2024,7
+NGA,Nigeria,Katsina-Ala,2024,25
+NGA,Nigeria,Konshisha,2024,18
+NGA,Nigeria,Kwande,2024,30
+NGA,Nigeria,Logo,2024,18
+NGA,Nigeria,Nkanu East,2024,36
+NGA,Nigeria,Ohaukwu,2024,28
+NGA,Nigeria,Ori-Ire,2024,9
+NGA,Nigeria,Otukpo,2024,28
+NGA,Nigeria,Tarka,2024,8
+NGA,Nigeria,Ukum,2024,18
+NGA,Nigeria,Ushongo,2024,25
+NGA,Nigeria,Vande Ikya,2024,25
+NGA,Nigeria,Yala,2024,10
+RWA,Rwanda,Bugesera,2024,19
+RWA,Rwanda,Burera,2024,28
+RWA,Rwanda,Gakenke,2024,33
+RWA,Rwanda,Gasabo,2024,18
+RWA,Rwanda,Gatsibo,2024,24
+RWA,Rwanda,Gicumbi,2024,34
+RWA,Rwanda,Gisagara,2024,34
+RWA,Rwanda,Huye,2024,34
+RWA,Rwanda,Kamonyi,2024,40
+RWA,Rwanda,Karongi,2024,36
+RWA,Rwanda,Kayonza,2024,24
+RWA,Rwanda,Kirehe,2024,26
+RWA,Rwanda,Muhanga,2024,36
+RWA,Rwanda,Musanze,2024,27
+RWA,Rwanda,Ngororero,2024,36
+RWA,Rwanda,Nyabihu,2024,24
+RWA,Rwanda,Nyagatare,2024,19
+RWA,Rwanda,Nyamagabe,2024,36
+RWA,Rwanda,Nyanza,2024,33
+RWA,Rwanda,Nyaruguru,2024,38
+RWA,Rwanda,Rubavu,2024,7
+RWA,Rwanda,Ruhango,2024,34
+RWA,Rwanda,Rulindo,2024,37
+RWA,Rwanda,Rutsiro,2024,40
+RWA,Rwanda,Rwamagana,2024,22
+SSD,South Sudan,Al Renk,2024,17
+SSD,South Sudan,Aryat,2024,17
+SSD,South Sudan,Aweil,2024,34
+SSD,South Sudan,Bahr al Jabal,2024,17
+SSD,South Sudan,Gogrial,2024,30
+SSD,South Sudan,Kajo Kaii,2024,28
+SSD,South Sudan,Magwi,2024,34
+SSD,South Sudan,Nahr Yei,2024,35
+SSD,South Sudan,Raja,2024,39
+SSD,South Sudan,Rumbek,2024,25
+SSD,South Sudan,Tonj,2024,24
+SSD,South Sudan,Warab,2024,34
+SSD,South Sudan,Yerol,2024,29
+TZA,Tanzania,Bagamoyo,2024,33
+TZA,Tanzania,Bariadi,2024,10
+TZA,Tanzania,Biharamulo,2024,33
+TZA,Tanzania,Bukombe,2024,60
+TZA,Tanzania,Busega,2024,29
+TZA,Tanzania,Chato,2024,15
+TZA,Tanzania,Chunya,2024,65
+TZA,Tanzania,Geita,2024,24
+TZA,Tanzania,Handeni,2024,15
+TZA,Tanzania,Ilemela,2024,66
+TZA,Tanzania,Iringa Rural,2024,17
+TZA,Tanzania,Itilima,2024,21
+TZA,Tanzania,Kahama,2024,38
+TZA,Tanzania,Kahama Town,2024,27
+TZA,Tanzania,Kalambo,2024,64
+TZA,Tanzania,Karagwe,2024,39
+TZA,Tanzania,Kasulu,2024,103
+TZA,Tanzania,Kilolo,2024,45
+TZA,Tanzania,Kilombero,2024,29
+TZA,Tanzania,Kilwa,2024,38
+TZA,Tanzania,Kishapu,2024,38
+TZA,Tanzania,Korogwe,2024,8
+TZA,Tanzania,Kwimba,2024,28
+TZA,Tanzania,Magu,2024,46
+TZA,Tanzania,Masasi,2024,33
+TZA,Tanzania,Masasi Town,2024,53
+TZA,Tanzania,Maswa,2024,34
+TZA,Tanzania,Mbarali,2024,30
+TZA,Tanzania,Mbeya Rural,2024,56
+TZA,Tanzania,Mbinga,2024,32
+TZA,Tanzania,Mbogwe,2024,30
+TZA,Tanzania,Mbozi,2024,46
+TZA,Tanzania,Missenyi,2024,12
+TZA,Tanzania,Misungwi,2024,31
+TZA,Tanzania,Mlele,2024,70
+TZA,Tanzania,Moshi Rural,2024,41
+TZA,Tanzania,Mpanda Rural,2024,51
+TZA,Tanzania,Mpanda Urban,2024,67
+TZA,Tanzania,Nachingwea,2024,59
+TZA,Tanzania,Namtumbo,2024,53
+TZA,Tanzania,Nanyumbu,2024,12
+TZA,Tanzania,Newala,2024,23
+TZA,Tanzania,Nyang'hwale,2024,35
+TZA,Tanzania,Sengerema,2024,7
+TZA,Tanzania,Shinyanga Rural,2024,36
+TZA,Tanzania,Shinyanga Urban,2024,53
+TZA,Tanzania,Songwe,2024,24
+TZA,Tanzania,Sumbawanga Urban,2024,59
+TZA,Tanzania,Tarime,2024,34
+TZA,Tanzania,Tunduru,2024,53
+TZA,Tanzania,Ulanga,2024,77
+TZA,Tanzania,Wanging'ombe,2024,49
+TGO,Togo,Anié,2024,9
+TGO,Togo,Blitta,2024,13
+TGO,Togo,Mô,2024,18
+TGO,Togo,Ogou,2024,14
+TGO,Togo,Sotouboua,2024,30
+TGO,Togo,Tchaudjo,2024,25
+UGA,Uganda,Bamunanika,2024,9
+UGA,Uganda,Bubulo,2024,28
+UGA,Uganda,Budaka,2024,32
+UGA,Uganda,Bugweri,2024,10
+UGA,Uganda,Buhweju,2024,10
+UGA,Uganda,Bukedea,2024,7
+UGA,Uganda,Bukooli,2024,8
+UGA,Uganda,Bungokho,2024,36
+UGA,Uganda,Bunyole,2024,22
+UGA,Uganda,Busiiro,2024,16
+UGA,Uganda,Butebo,2024,16
+UGA,Uganda,Erute,2024,11
+UGA,Uganda,Jinja,2024,30
+UGA,Uganda,Kagoma,2024,10
+UGA,Uganda,Kigulu,2024,7
+UGA,Uganda,Kisoko (West Budama),2024,26
+UGA,Uganda,Kole,2024,11
+UGA,Uganda,Kongasis,2024,15
+UGA,Uganda,Kween,2024,19
+UGA,Uganda,Lira,2024,19
+UGA,Uganda,Nakifuma,2024,30
+UGA,Uganda,Ndorwa,2024,8
+UGA,Uganda,Ntenjeru,2024,26
+UGA,Uganda,Rubabo,2024,10
+UGA,Uganda,Rubanda,2024,8
+UGA,Uganda,Ruhaama,2024,7
+UGA,Uganda,Rushenyi,2024,10
+UGA,Uganda,Samia-Bugwe,2024,29
+UGA,Uganda,Tororo,2024,36
+UGA,Uganda,Tororo (Municipality),2024,36
+ZMB,Zambia,Serenje,2024,10
