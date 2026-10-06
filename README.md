@@ -1,7 +1,7 @@
 # Africa Parametric Flood Risk Study
 
 > **Module**: `Africa-Flood-Study`  
-> **Project**: ASR Multi-Peril Parametric Insurance Research Study  
+> **Project**: Multi-Peril Parametric Insurance Research Study  
 > **Target Region**: All 54 African Countries (1,671 Administrative Districts)  
 > **Primary Peril**: Dual-Regime Pluvial Flash Flood & Agricultural Waterlogging Saturation  
 > **Status**: Production & Handover Ready  
